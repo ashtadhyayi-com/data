@@ -1,0 +1,1167 @@
+{
+    "name": "krut_pratyayas",
+    "data":
+[
+{
+    "id": "1",
+    "pratyay": "अ ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "2",
+    "pratyay": "अङ् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ङ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "3",
+    "pratyay": "अच्",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "4",
+    "pratyay": "अण्",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "5",
+    "pratyay": "अतृन् ",
+    "drushyaroopam": "अत्",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "6",
+    "pratyay": "अथुच् ",
+    "drushyaroopam": "अथु",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "7",
+    "pratyay": "अध्यै",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "8",
+    "pratyay": "अध्यैन्",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "9",
+    "pratyay": "अनि ",
+    "drushyaroopam": "अनि",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "10",
+    "pratyay": "अनीयर्",
+    "drushyaroopam": "अनीय",
+    "dhatu_baseindex": "",
+    "it1": "र्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "11",
+    "pratyay": "अप् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "प्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "12",
+    "pratyay": "असे ",
+    "drushyaroopam": "असे",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "13",
+    "pratyay": "असेन्",
+    "drushyaroopam": "असे",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "14",
+    "pratyay": "आरु",
+    "drushyaroopam": "आरु",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "15",
+    "pratyay": "आलुच् ",
+    "drushyaroopam": "आलु",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "16",
+    "pratyay": "इञ्",
+    "drushyaroopam": "इ",
+    "dhatu_baseindex": "",
+    "it1": "ञ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "17",
+    "pratyay": "इत्र ",
+    "drushyaroopam": "इत्र",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "18",
+    "pratyay": "इनि ",
+    "drushyaroopam": "इन्",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "19",
+    "pratyay": "इनुण् ",
+    "drushyaroopam": "इन्",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "20",
+    "pratyay": "इन् ",
+    "drushyaroopam": "इ",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "21",
+    "pratyay": "इष्णुच् ",
+    "drushyaroopam": "इष्णु",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "22",
+    "pratyay": "उ ",
+    "drushyaroopam": "उ",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "23",
+    "pratyay": "उकञ् ",
+    "drushyaroopam": "उक",
+    "dhatu_baseindex": "",
+    "it1": "ञ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "24",
+    "pratyay": "ऊक ",
+    "drushyaroopam": "ऊक",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "25",
+    "pratyay": "एश्",
+    "drushyaroopam": "ए",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "26",
+    "pratyay": "क",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "27",
+    "pratyay": "कञ्",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "ञ्",
+    "it3": ""
+},
+{
+    "id": "28",
+    "pratyay": "कध्यै",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "29",
+    "pratyay": "कध्यैन्",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "30",
+    "pratyay": "कप् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "31",
+    "pratyay": "कमुल्",
+    "drushyaroopam": "अम्",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "ल्",
+    "it3": ""
+},
+{
+    "id": "32",
+    "pratyay": "कसुन्",
+    "drushyaroopam": "अस्",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "33",
+    "pratyay": "कसेन्",
+    "drushyaroopam": "असे",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "34",
+    "pratyay": "कानच् ",
+    "drushyaroopam": "आन",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "35",
+    "pratyay": "कि ",
+    "drushyaroopam": "इ",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "36",
+    "pratyay": "किन् ",
+    "drushyaroopam": "इ",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "37",
+    "pratyay": "कुरच् ",
+    "drushyaroopam": "उर",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "38",
+    "pratyay": "केन्",
+    "drushyaroopam": "ए",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "39",
+    "pratyay": "केन्य",
+    "drushyaroopam": "एन्य",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "40",
+    "pratyay": "केलिमर्",
+    "drushyaroopam": "एलिम",
+    "dhatu_baseindex": "01.1151,01.1146,07.0002,07.0003",
+    "it1": "क्",
+    "it2": "र्",
+    "it3": ""
+},
+{
+    "id": "41",
+    "pratyay": "क्त ",
+    "drushyaroopam": "त",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "42",
+    "pratyay": "क्तवतु",
+    "drushyaroopam": "तवत्",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "उ",
+    "it3": ""
+},
+{
+    "id": "43",
+    "pratyay": "क्तिच्",
+    "drushyaroopam": "ति",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "44",
+    "pratyay": "क्तिन् ",
+    "drushyaroopam": "ति",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "45",
+    "pratyay": "क्त्रि ",
+    "drushyaroopam": "त्रि",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "46",
+    "pratyay": "क्त्वा ",
+    "drushyaroopam": "त्वा",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "47",
+    "pratyay": "क्नु ",
+    "drushyaroopam": "नु",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "48",
+    "pratyay": "क्मरच् ",
+    "drushyaroopam": "मर",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "49",
+    "pratyay": "क्यप्",
+    "drushyaroopam": "य",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "50",
+    "pratyay": "क्रु",
+    "drushyaroopam": "रु",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "51",
+    "pratyay": "क्लुकन्",
+    "drushyaroopam": "लुक",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "52",
+    "pratyay": "क्वनिप्",
+    "drushyaroopam": "वन्",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "53",
+    "pratyay": "क्वरप् ",
+    "drushyaroopam": "वर",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "54",
+    "pratyay": "क्वसु ",
+    "drushyaroopam": "वस्",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "उ",
+    "it3": ""
+},
+{
+    "id": "55",
+    "pratyay": "क्विन्",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "56",
+    "pratyay": "क्विप् ",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "57",
+    "pratyay": "क्से",
+    "drushyaroopam": "से",
+    "dhatu_baseindex": "",
+    "it1": "क्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "58",
+    "pratyay": "खच् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "च्",
+    "it3": "ड्"
+},
+{
+    "id": "59",
+    "pratyay": "खमुञ् ",
+    "drushyaroopam": "अम्",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "ञ्",
+    "it3": ""
+},
+{
+    "id": "60",
+    "pratyay": "खल् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "ल्",
+    "it3": ""
+},
+{
+    "id": "61",
+    "pratyay": "खश् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "श्",
+    "it3": ""
+},
+{
+    "id": "62",
+    "pratyay": "खिष्णुच्",
+    "drushyaroopam": "इष्णु",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "63",
+    "pratyay": "खुकञ्",
+    "drushyaroopam": "उक",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "ञ्",
+    "it3": ""
+},
+{
+    "id": "64",
+    "pratyay": "ख्युन्",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "ख्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "65",
+    "pratyay": "ग्स्नु",
+    "drushyaroopam": "स्नु",
+    "dhatu_baseindex": "",
+    "it1": "ग्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "66",
+    "pratyay": "घ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "घ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "67",
+    "pratyay": "घञ् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "घ्",
+    "it2": "ञ्",
+    "it3": ""
+},
+{
+    "id": "68",
+    "pratyay": "घिनुण् ",
+    "drushyaroopam": "इन्",
+    "dhatu_baseindex": "",
+    "it1": "घ्",
+    "it2": "ण्",
+    "it3": ""
+},
+{
+    "id": "69",
+    "pratyay": "घुरच् ",
+    "drushyaroopam": "उर",
+    "dhatu_baseindex": "",
+    "it1": "घ्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "70",
+    "pratyay": "ङ्वनिप् ",
+    "drushyaroopam": "वन्",
+    "dhatu_baseindex": "",
+    "it1": "ङ्",
+    "it2": "प्",
+    "it3": ""
+},
+{
+    "id": "71",
+    "pratyay": "चानश् ",
+    "drushyaroopam": "आन",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "श्",
+    "it3": ""
+},
+{
+    "id": "72",
+    "pratyay": "ञ्युट् ",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "ञ्",
+    "it2": "ट्",
+    "it3": ""
+},
+{
+    "id": "73",
+    "pratyay": "ट ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ट्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "74",
+    "pratyay": "टक् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ट्",
+    "it2": "क्",
+    "it3": ""
+},
+{
+    "id": "75",
+    "pratyay": "ड ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ड्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "76",
+    "pratyay": "डु ",
+    "drushyaroopam": "उ",
+    "dhatu_baseindex": "",
+    "it1": "ड्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "77",
+    "pratyay": "ण",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "78",
+    "pratyay": "णच् ",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "79",
+    "pratyay": "णमुल् ",
+    "drushyaroopam": "अम्",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "ल्",
+    "it3": ""
+},
+{
+    "id": "80",
+    "pratyay": "णिनि",
+    "drushyaroopam": "इन्",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "81",
+    "pratyay": "ण्यत् ",
+    "drushyaroopam": "य",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "त्",
+    "it3": ""
+},
+{
+    "id": "82",
+    "pratyay": "ण्युट् ",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "ट्",
+    "it3": ""
+},
+{
+    "id": "83",
+    "pratyay": "ण्वि ",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "84",
+    "pratyay": "ण्विन् ",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "85",
+    "pratyay": "ण्वुच् ",
+    "drushyaroopam": "अक",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "86",
+    "pratyay": "ण्वुल् ",
+    "drushyaroopam": "अक",
+    "dhatu_baseindex": "",
+    "it1": "ण्",
+    "it2": "ल्",
+    "it3": ""
+},
+{
+    "id": "87",
+    "pratyay": "तवे",
+    "drushyaroopam": "तवे",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "88",
+    "pratyay": "तवेङ्",
+    "drushyaroopam": "तवे",
+    "dhatu_baseindex": "",
+    "it1": "ङ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "89",
+    "pratyay": "तवेन्",
+    "drushyaroopam": "तवे",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "90",
+    "pratyay": "तवै",
+    "drushyaroopam": "तवै",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "91",
+    "pratyay": "तव्य",
+    "drushyaroopam": "तव्य",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "92",
+    "pratyay": "तव्यत्",
+    "drushyaroopam": "तव्य",
+    "dhatu_baseindex": "",
+    "it1": "त्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "93",
+    "pratyay": "तुमुन् ",
+    "drushyaroopam": "तुम्",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "94",
+    "pratyay": "तृच्",
+    "drushyaroopam": "तृ",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "95",
+    "pratyay": "तृन् ",
+    "drushyaroopam": "तृ",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "96",
+    "pratyay": "तोसुन् ",
+    "drushyaroopam": "तोस्",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "97",
+    "pratyay": "त्वन्",
+    "drushyaroopam": "त्व",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "98",
+    "pratyay": "थकन् ",
+    "drushyaroopam": "थक",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "99",
+    "pratyay": "नङ् ",
+    "drushyaroopam": "न",
+    "dhatu_baseindex": "",
+    "it1": "ङ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "100",
+    "pratyay": "नजिङ् ",
+    "drushyaroopam": "नज्",
+    "dhatu_baseindex": "",
+    "it1": "ङ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "101",
+    "pratyay": "नन् ",
+    "drushyaroopam": "न",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "102",
+    "pratyay": "मनिन्",
+    "drushyaroopam": "मन्",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "103",
+    "pratyay": "यत् ",
+    "drushyaroopam": "य",
+    "dhatu_baseindex": "",
+    "it1": "त्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "104",
+    "pratyay": "युच् ",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "105",
+    "pratyay": "र ",
+    "drushyaroopam": "र",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "106",
+    "pratyay": "रु ",
+    "drushyaroopam": "रु",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "107",
+    "pratyay": "ल्यप्",
+    "drushyaroopam": "य",
+    "dhatu_baseindex": "",
+    "it1": "प्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "108",
+    "pratyay": "ल्यु",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "109",
+    "pratyay": "ल्युट् ",
+    "drushyaroopam": "अन",
+    "dhatu_baseindex": "",
+    "it1": "ट्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "110",
+    "pratyay": "वनिप्",
+    "drushyaroopam": "वन्",
+    "dhatu_baseindex": "",
+    "it1": "प्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "111",
+    "pratyay": "वरच् ",
+    "drushyaroopam": "वर",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "112",
+    "pratyay": "विच् ",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "च्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "113",
+    "pratyay": "विट् ",
+    "drushyaroopam": "०",
+    "dhatu_baseindex": "",
+    "it1": "ट्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "114",
+    "pratyay": "वुञ् ",
+    "drushyaroopam": "अक",
+    "dhatu_baseindex": "",
+    "it1": "ञ्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "115",
+    "pratyay": "वुन् ",
+    "drushyaroopam": "अक",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "116",
+    "pratyay": "श",
+    "drushyaroopam": "अ",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "117",
+    "pratyay": "शतृ ",
+    "drushyaroopam": "अत्",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "ऋ",
+    "it3": ""
+},
+{
+    "id": "118",
+    "pratyay": "शध्यै",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "119",
+    "pratyay": "शध्यैन्",
+    "drushyaroopam": "अध्यै",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "120",
+    "pratyay": "शानच्",
+    "drushyaroopam": "आन",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "च्",
+    "it3": ""
+},
+{
+    "id": "121",
+    "pratyay": "शानन् ",
+    "drushyaroopam": "आन",
+    "dhatu_baseindex": "",
+    "it1": "श्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "122",
+    "pratyay": "षाकन् ",
+    "drushyaroopam": "आक",
+    "dhatu_baseindex": "",
+    "it1": "ष्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "123",
+    "pratyay": "ष्ट्रन् ",
+    "drushyaroopam": "त्र",
+    "dhatu_baseindex": "",
+    "it1": "ष्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "124",
+    "pratyay": "ष्वुन् ",
+    "drushyaroopam": "अक",
+    "dhatu_baseindex": "",
+    "it1": "ष्",
+    "it2": "न्",
+    "it3": ""
+},
+{
+    "id": "125",
+    "pratyay": "से",
+    "drushyaroopam": "से",
+    "dhatu_baseindex": "",
+    "it1": "",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "126",
+    "pratyay": "सेन्",
+    "drushyaroopam": "से",
+    "dhatu_baseindex": "",
+    "it1": "न्",
+    "it2": "",
+    "it3": ""
+},
+{
+    "id": "127",
+    "pratyay": "डर",
+    "drushyaroopam": "अर",
+    "dhatu_baseindex": "",
+    "it1": "ड्",
+    "it2": null,
+    "it3": ""
+},
+{
+    "id": "128",
+    "pratyay": "इकवक",
+    "drushyaroopam": "इकवक",
+    "dhatu_baseindex": "",
+    "it1": null,
+    "it2": null,
+    "it3": ""
+},
+{
+    "id": "129",
+    "pratyay": "य",
+    "drushyaroopam": "य",
+    "dhatu_baseindex": "",
+    "it1": null,
+    "it2": null,
+    "it3": ""
+}
+]
+}
