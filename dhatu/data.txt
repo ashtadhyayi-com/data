@@ -1,6 +1,6 @@
 {
-  name: 'dhatu',
-  data: [
+  "name": "dhatu",
+  "data": [
     {
         "i": "1010001",
         "ind": "भू_1",
