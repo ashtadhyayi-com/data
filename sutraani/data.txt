@@ -1,5 +1,5 @@
 {
-    "name": "vakyapadeeyam",
+    "name": "sutraani",
     "data": [
     {
         "i": "11001",
