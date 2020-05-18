@@ -12366,7 +12366,7 @@
         "a": "3",
         "p": "2",
         "n": "56",
-        "s": "आढ्यसुभगस्थूलपलितनग्नान्धप्रियेषु च्व्य्र्थेष्वच्वौ कृञः करणे ख्युन् ",
+        "s": "आढ्यसुभगस्थूलपलितनग्नान्धप्रियेषु च्व्यर्थेष्वच्वौ कृञः करणे ख्युन् ",
         "e": "aadhyasubhagasthoolapalitanagnaandhapriyeshuchvyrtheshvachvaukrunyahakaranekhyun",
         "skn": "2973",
         "lskn": "0",
