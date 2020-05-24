@@ -5693,7 +5693,7 @@
         "settva": "S",
         "karma": "S",
         "artha": "गतौ",
-        "split_artha": "गतौ",tujati
+        "split_artha": "गतौ",
         "english": "vaj,vajan",
         "tags": "अदित्,वकारादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,अकारोपधः,एकाच्,उदात्तोपदेशः",
         "madhaveeya": "144",
@@ -11851,7 +11851,7 @@
         "pada": "P",
         "settva": "S",
         "karma": "S",
-        "artha": "रुजायां सङ्घाते च",
+        "artha": "रुजायां सङ्घाते सङ्कोषे च",
         "split_artha": "रुजायाम्,सङ्घाते",
         "split": "श्,ऊ,ल्",
         "english": "shool,shoolan",
