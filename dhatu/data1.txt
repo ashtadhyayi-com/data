@@ -411,7 +411,7 @@
         "pada": "A",
         "settva": "S",
         "karma": "A",
-        "artha": "माने क्रीडायाम् आस्वादने च",
+        "artha": "माने क्रीडायामास्वादने च",
         "artha_english": "to measure,to play,to taste,to grant,to be cheerful",
         "split_artha": "माने, क्रीडायाम्, आस्वादने",
         "split": "ऊ,र्,द्",
