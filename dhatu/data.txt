@@ -2279,7 +2279,7 @@
         "settva": "S",
         "karma": "S",
         "artha": "गतौ",
-        "artha_english": " ",
+        "artha_english": "to go",
         "split_artha": "गतौ",
         "split": "ट्,ई,क्",
         "english": "teek,teekrun",
