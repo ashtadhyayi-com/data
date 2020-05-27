@@ -40191,7 +40191,7 @@
         "pada": "U",
         "settva": "S",
         "karma": "S",
-        "artha": "भाषायाम् भासार्थे चकासृँ",
+        "artha": "भाषायाम् भासार्थे च",
         "split_artha": "भाषार्थे,भासार्थे",
         "split": "व्,ऋ,त्",
         "english": "vrut,vrutun",
