@@ -33422,7 +33422,7 @@
         "settva": "A",
         "karma": "S",
         "artha": "मोक्षणे",
-        "artha_english": "to free,to liberate,to release,to loosen,to abandon",
+        "artha_english": "to free,to liberate,to leave, to release,to loosen,to abandon",
         "split_artha": "मोक्षणे",
         "split": "म्,उ,च्",
         "english": "much,muchan",
