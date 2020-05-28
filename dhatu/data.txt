@@ -1,5 +1,5 @@
 {
-    "name" : "dhatu"
+    "name" : "dhatu",
     "data" :
   [
     {
