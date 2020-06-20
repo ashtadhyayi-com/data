@@ -1,0 +1,10 @@
+{
+    "baseindex": "14.005",
+    "forms": ";;;;;;;;;;;;;;;;;;;;;;;",
+    "vrutti": "",
+    "split": "",
+    "eng": "",
+    "similar": "",
+    "notes": "",
+    "prakriya_comments": ""
+}
