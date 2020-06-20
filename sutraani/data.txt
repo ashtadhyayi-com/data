@@ -14647,7 +14647,7 @@
         "p": "3",
         "n": "20",
         "s": "परिमाणाख्यायां सर्वेभ्यः ",
-        "e": "parimanaakhyaayaamsarvebhyah",
+        "e": "parimaanaakhyaayaamsarvebhyah",
         "skn": "3190",
         "lskn": "0",
         "mskn": "0",
