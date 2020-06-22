@@ -23,5 +23,31 @@
     "plung": "अवेदीत्;अवेदिष्टाम्;अवेदिषुः;अवेदीः;अवेदिष्टम्;अवेदिष्ट;अवेदिषम्;अवेदिष्व;अवेदिष्म",
     "alung": "",
     "plrung": "अवेदिष्यत्;अवेदिष्यताम्;अवेदिष्यन्;अवेदिष्यः;अवेदिष्यतम्;अवेदिष्यत;अवेदिष्यम्;अवेदिष्याव;अवेदिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_3_3_विद्मः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.6",
+                "text": "न चैतद्विद्मः कतरन्नो गरीयो",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=6"
+            }
+        ],
+        "plot_2_1_विद्धि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.17",
+                "text": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=17"
+            }
+        ],
+        "plat_1_1_वेत्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.19",
+                "text": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
+            }
+        ]
+    }
 }

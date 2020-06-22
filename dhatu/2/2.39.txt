@@ -23,5 +23,47 @@
     "plung": "अवोचत्;अवोचताम्;अवोचन्;अवोचः;अवोचतम्;अवोचत;अवोचम्;अवोचाव;अवोचाम",
     "alung": "अवोचत;अवोचेताम्;अवोचन्त;अवोचथाः;अवोचेथाम्;अवोचध्वम्;अवोचे;अवोचावहि;अवोचामहि",
     "plrung": "अवक्ष्यत्;अवक्ष्यताम्;अवक्ष्यन्;अवक्ष्यः;अवक्ष्यतम्;अवक्ष्यत;अवक्ष्यम्;अवक्ष्याव;अवक्ष्याम",
-    "alrung": "अवक्ष्यत;अवक्ष्येताम्;अवक्ष्यन्त;अवक्ष्यथाः;अवक्ष्येथाम्;अवक्ष्यध्वम्;अवक्ष्ये;अवक्ष्यावहि;अवक्ष्यामहि"
+    "alrung": "अवक्ष्यत;अवक्ष्येताम्;अवक्ष्यन्त;अवक्ष्यथाः;अवक्ष्येथाम्;अवक्ष्यध्वम्;अवक्ष्ये;अवक्ष्यावहि;अवक्ष्यामहि",
+    "examples": {
+        "plit_1_1_उवाच": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.1",
+                "text": "धृतराष्ट्र उवाच",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
+            }
+        ],
+        "plang_1_1_अब्रवीत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.2",
+                "text": "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=2"
+            }
+        ],
+        "plat_3_1_ब्रवीमि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.7",
+                "text": "नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=7"
+            }
+        ],
+        "plat_1_1_आह": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.21",
+                "text": "हृषीकेशं तदा वाक्यमिदमाह महीपते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=21"
+            }
+        ],
+        "plot_2_1_ब्रूहि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.7",
+                "text": "यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
+            }
+        ]
+    }
 }

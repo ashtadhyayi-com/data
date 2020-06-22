@@ -23,5 +23,15 @@
     "plung": "अवोचत्;अवोचताम्;अवोचन्;अवोचः;अवोचतम्;अवोचत;अवोचम्;अवोचाव;अवोचाम",
     "alung": "",
     "plrung": "अवक्ष्यत्;अवक्ष्यताम्;अवक्ष्यन्;अवक्ष्यः;अवक्ष्यतम्;अवक्ष्यत;अवक्ष्यम्;अवक्ष्याव;अवक्ष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plit_1_1_उवाच": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.1",
+                "text": "धृतराष्ट्र उवाच",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
+            }
+        ]
+    }
 }

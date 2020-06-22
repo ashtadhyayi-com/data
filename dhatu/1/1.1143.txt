@@ -23,5 +23,45 @@
     "plung": "अदर्शत्,अद्राक्षीत्;अदर्शताम्,अद्राष्टाम्;अदर्शन्,अद्राक्षुः;अदर्शः,अद्राक्षीः;अदर्शतम्,अद्राष्टम्;अदर्शत,अद्राष्ट;अदर्शम्,अद्राक्षम्;अदर्शाव,अद्राक्ष्व;अदर्शाम,अद्राक्ष्म",
     "alung": "",
     "plrung": "अद्रक्ष्यत्;अद्रक्ष्यताम्;अद्रक्ष्यन्;अद्रक्ष्यः;अद्रक्ष्यतम्;अद्रक्ष्यत;अद्रक्ष्यम्;अद्रक्ष्याव;अद्रक्ष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plot_2_1_पश्य": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.3",
+                "text": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=3"
+            }
+        ],
+        "plang_1_1_अपश्यत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.26",
+                "text": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=26"
+            }
+        ],
+        "plat_3_1_पश्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.31",
+                "text": "निमित्तानि च पश्यामि विपरीतानि केशव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=31"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.8",
+                "text": "न हि प्रपश्यामि ममापनुद्याद्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=8"
+            }
+        ],
+        "plat_1_3_पश्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.38",
+                "text": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=38"
+            }
+        ]
+    }
 }

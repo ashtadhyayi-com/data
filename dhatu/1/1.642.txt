@@ -23,5 +23,23 @@
     "plung": "अजैषीत्;अजैष्टाम्;अजैषुः;अजैषीः;अजैष्टम्;अजैष्ट;अजैषम्;अजैष्व;अजैष्म",
     "alung": "",
     "plrung": "अजेष्यत्;अजेष्यताम्;अजेष्यन्;अजेष्यः;अजेष्यतम्;अजेष्यत;अजेष्यम्;अजेष्याव;अजेष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "pvidhiling_3_3_जयेम": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.6",
+                "text": "यद्वा जयेम यदि वा नो जयेयुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=6"
+            }
+        ],
+        "pvidhiling_1_3_जयेयुः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.6",
+                "text": "यद्वा जयेम यदि वा नो जयेयुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=6"
+            }
+        ]
+    }
 }

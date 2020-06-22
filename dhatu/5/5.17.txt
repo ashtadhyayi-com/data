@@ -23,5 +23,15 @@
     "plung": "अशकत्;अशकताम्;अशकन्;अशकः;अशकतम्;अशकत;अशकम्;अशकाव;अशकाम",
     "alung": "",
     "plrung": "अशक्ष्यत्;अशक्ष्यताम्;अशक्ष्यन्;अशक्ष्यः;अशक्ष्यतम्;अशक्ष्यत;अशक्ष्यम्;अशक्ष्याव;अशक्ष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_3_1_शक्नोमि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.30",
+                "text": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=30"
+            }
+        ]
+    }
 }
