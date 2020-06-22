@@ -23,5 +23,31 @@
     "plung": "अध्मासीत्;अध्मासिष्टाम्;अध्मासिषुः;अध्मासीः;अध्मासिष्टम्;अध्मासिष्ट;अध्मासिषम्;अध्मासिष्व;अध्मासिष्म",
     "alung": "",
     "plrung": "अध्मास्यत्;अध्मास्यताम्;अध्मास्यन्;अध्मास्यः;अध्मास्यतम्;अध्मास्यत;अध्मास्यम्;अध्मास्याव;अध्मास्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plit_1_1_दध्मौ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.12",
+                "text": "सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=12"
+            }
+        ],
+        "plit_1_2_दध्मतुः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.14",
+                "text": "माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=14"
+            }
+        ],
+        "plit_1_3_दध्मुः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.18",
+                "text": "सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=18"
+            }
+        ]
+    }
 }

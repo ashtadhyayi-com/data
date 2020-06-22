@@ -23,5 +23,15 @@
     "plung": "अगमत्;अगमताम्;अगमन्;अगमः;अगमतम्;अगमत;अगमम्;अगमाव;अगमाम",
     "alung": "",
     "plrung": "अगमिष्यत्;अगमिष्यताम्;अगमिष्यन्;अगमिष्यः;अगमिष्यतम्;अगमिष्यत;अगमिष्यम्;अगमिष्याव;अगमिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plung_2_1_अगमः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.3",
+                "text": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=3"
+            }
+        ]
+    }
 }

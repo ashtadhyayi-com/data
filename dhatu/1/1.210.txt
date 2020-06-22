@@ -23,5 +23,23 @@
     "plung": "अशोचीत्;अशोचिष्टाम्;अशोचिषुः;अशोचीः;अशोचिष्टम्;अशोचिष्ट;अशोचिषम्;अशोचिष्व;अशोचिष्म",
     "alung": "",
     "plrung": "अशोचिष्यत्;अशोचिष्यताम्;अशोचिष्यन्;अशोचिष्यः;अशोचिष्यतम्;अशोचिष्यत;अशोचिष्यम्;अशोचिष्याव;अशोचिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plang_2_1_अशोचः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.11",
+                "text": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=11"
+            }
+        ],
+        "plat_1_3_शोचन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.11",
+                "text": "गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=11"
+            }
+        ]
+    }
 }

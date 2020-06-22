@@ -23,5 +23,21 @@
     "plung": "",
     "alung": "अजनिष्ट;अजनिषाताम्;अजनिषत;अजनिष्ठाः;अजनिषाथाम्;अजनिध्वम्;अजनिषि;अजनिष्वहि;अजनिष्महि",
     "plrung": "",
-    "alrung": "अजनिष्यत;अजनिष्येताम्;अजनिष्यन्त;अजनिष्यथाः;अजनिष्येथाम्;अजनिष्यध्वम्;अजनिष्ये;अजनिष्यावहि;अजनिष्यामहि"
+    "alrung": "अजनिष्यत;अजनिष्येताम्;अजनिष्यन्त;अजनिष्यथाः;अजनिष्येथाम्;अजनिष्यध्वम्;अजनिष्ये;अजनिष्यावहि;अजनिष्यामहि",
+    "examples": {
+        "alat_1_1_जायते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.29",
+                "text": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=29"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.20",
+                "text": "न जायते म्रियते वा कदाचित्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
+            }
+        ]
+    }
 }

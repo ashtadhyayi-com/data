@@ -23,5 +23,15 @@
     "plung": "ऐषीत्;ऐषिष्टाम्;ऐषिषुः;ऐषीः;ऐषिष्टम्;ऐषिष्ट;ऐषिषम्;ऐषिष्व;ऐषिष्म",
     "alung": "",
     "plrung": "ऐषिष्यत्;ऐषिष्यताम्;ऐषिष्यन्;ऐषिष्यः;ऐषिष्यतम्;ऐषिष्यत;ऐषिष्यम्;ऐषिष्याव;ऐषिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_3_1_इच्छामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.35",
+                "text": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=35"
+            }
+        ]
+    }
 }

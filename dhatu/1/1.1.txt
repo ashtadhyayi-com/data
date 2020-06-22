@@ -23,5 +23,61 @@
     "plung": "अभूत्;अभूताम्;अभूवन्;अभूः;अभूतम्;अभूत;अभूवम्;अभूव;अभूम",
     "alung": "",
     "plrung": "अभविष्यत्;अभविष्यताम्;अभविष्यन्;अभविष्यः;अभविष्यतम्;अभविष्यत;अभविष्यम्;अभविष्याव;अभविष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plang_1_1_अभवत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.13",
+                "text": "सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=13"
+            }
+        ],
+        "plat_1_1_भवति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.40",
+                "text": "धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=40"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "1.44",
+                "text": "नरकेऽनियतं वासो भवतीत्यनुशुश्रुम",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=44"
+            }
+        ],
+        "pvidhiling_1_1_भवेत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.46",
+                "text": "धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=46"
+            }
+        ],
+        "plit_1_1_बभूव": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.9",
+                "text": "न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=9"
+            }
+        ],
+        "plrut_3_3_भविष्यामः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.12",
+                "text": "न चैव न भविष्यामः सर्वे वयमतः परम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=12"
+            }
+        ],
+        "plut_1_1_भविता": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.20",
+                "text": "नायं भूत्वा भविता वा न भूयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
+            }
+        ]
+    }
 }

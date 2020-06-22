@@ -23,5 +23,15 @@
     "plung": "असदत्;असदताम्;असदन्;असदः;असदतम्;असदत;असदम्;असदाव;असदाम",
     "alung": "",
     "plrung": "असत्स्यत्;असत्स्यताम्;असत्स्यन्;असत्स्यः;असत्स्यतम्;असत्स्यत;असत्स्यम्;असत्स्याव;असत्स्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_3_सीदन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "1.29",
+                "text": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=29"
+            }
+        ]
+    }
 }
