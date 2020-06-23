@@ -78,6 +78,14 @@
                 "text": "नायं भूत्वा भविता वा न भूयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
             }
+        ],
+        "plat_2_1_असि": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "11",
+                "text": "त्वमेवासि दैवं परं मे यदेकम्",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            }
         ]
     }
 }

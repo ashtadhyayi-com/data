@@ -48,6 +48,14 @@
                 "text": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
             }
+        ],
+        "plat_1_1_वेद": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "18",
+                "text": "नरो वेद यो देवचूडामणिं त्वाम्",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            }
         ]
     }
 }

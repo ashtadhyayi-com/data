@@ -32,6 +32,14 @@
                 "text": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
             }
+        ],
+        "alat_3_1_मन्ये": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "7",
+                "text": "त्वदन्यं न मन्ये न मन्ये न मन्ये",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            }
         ]
     }
 }
