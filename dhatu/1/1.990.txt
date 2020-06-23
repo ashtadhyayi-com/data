@@ -32,6 +32,14 @@
                 "text": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=29"
             }
+        ],
+        "plot_2_1_सीद": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "9",
+                "text": "प्रसीद प्रसीद प्रभो रामचन्द्र",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            }
         ]
     }
 }

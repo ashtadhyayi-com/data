@@ -61,6 +61,12 @@
                 "num": "1.38",
                 "text": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=38"
+            },
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "17",
+                "text": "कृतान्तं न पश्यन्त्यतोऽन्ते",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
         ]
     }

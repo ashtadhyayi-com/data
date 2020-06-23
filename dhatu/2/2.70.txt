@@ -31,6 +31,12 @@
                 "num": "2.7",
                 "text": "शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
+            },
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "10",
+                "text": "प्रशाधि प्रशाधि प्रकाशं प्रभो माम्",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
         ]
     }

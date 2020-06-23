@@ -32,6 +32,14 @@
                 "text": "मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
             }
+        ],
+        "plat_2_1_करोषि": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "8",
+                "text": "त्दाविष्करोषि त्वदीयं स्वरूपम्",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            }
         ]
     }
 }
