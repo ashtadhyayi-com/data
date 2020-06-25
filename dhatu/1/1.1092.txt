@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=44"
             }
         ],
-        "शृणु": [
+        "plot_2_1_शृणु": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.13",
@@ -41,7 +41,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
             }
         ],
-        "श्रोष्यसि": [
+        "plrut_2_1_श्रोष्यसि": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.13",

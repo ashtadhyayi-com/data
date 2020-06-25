@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=3"
             }
         ],
-        "गन्तासि": [
+        "plut_2_1_गन्तासि": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.13",
@@ -41,7 +41,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
             }
         ],
-        "गच्छेः": [
+        "pvidhiling_2_1_गच्छेः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.20",

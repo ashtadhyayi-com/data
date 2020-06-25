@@ -33,7 +33,7 @@
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
         ],
-        "भजेथाः": [
+        "avidhiling_2_1_भजेथाः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.51",

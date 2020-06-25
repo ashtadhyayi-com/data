@@ -37,6 +37,12 @@
                 "num": "2.7",
                 "text": "यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
+            },
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.8",
+                "text": "न स्यादन्योऽप्यहमिव जनो यः पराधीनवृत्तिः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
             }
         ],
         "pvidhiling_3_3_स्याम": [
@@ -87,15 +93,7 @@
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
         ],
-        "स्यात्": [
-            {
-                "book": "मेघदूतम् (पूर्वमेघः)",
-                "num": "1.8",
-                "text": "न स्यादन्योऽप्यहमिव जनो यः पराधीनवृत्तिः",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
-            }
-        ],
-        "स्युः": [
+        "pvidhiling_1_3_स्युः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.57",
@@ -103,7 +101,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#57"
             }
         ],
-        "स्याः": [
+        "pvidhiling_2_1_स्याः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.61",
