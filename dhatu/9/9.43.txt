@@ -32,6 +32,22 @@
                 "text": "उभौ तौ न विजानीतो नायं हन्ति न हन्यते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
             }
+        ],
+        "जानामि": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.6",
+                "text": "जानामि त्वां प्रकृतिपुरुषं कामरूपं मघोनः ",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#6"
+            }
+        ],
+        "ज्ञास्यसे": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.66",
+                "text": "न त्वं दृष्ट्वा न पुनरलकां ज्ञास्यसे कामचारिन् ",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#66"
+            }
         ]
     }
 }

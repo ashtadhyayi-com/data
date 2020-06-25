@@ -32,6 +32,14 @@
                 "text": "न हि प्रपश्यामि ममापनुद्याद्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=8"
             }
+        ],
+        "नुदति": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.9",
+                "text": "मन्दं मन्दं नुदति पवनश्चानुकूलो यथा त्वां",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#9"
+            }
         ]
     }
 }

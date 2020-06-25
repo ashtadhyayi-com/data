@@ -32,6 +32,14 @@
                 "text": "सदा रामचन्द्रं भजेऽहं भजेऽहम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "भजेथाः": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.51",
+                "text": "क्षेत्रं क्षत्रप्रधनपिशुनं कौरवं तद् भजेथाः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#51"
+            }
         ]
     }
 }
