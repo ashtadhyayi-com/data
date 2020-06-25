@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=47"
             }
         ],
-        "विशेः": [
+        "pvidhiling_2_1_विशेः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.65",

@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=15"
             }
         ],
-        "कल्पिष्यन्ते": [
+        "alrut_1_3_कल्पिष्यन्ते": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.58",

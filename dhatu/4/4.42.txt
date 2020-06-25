@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=4"
             }
         ],
-        "स्येत्": [
+        "pvidhiling_1_1_स्येत्": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.23",

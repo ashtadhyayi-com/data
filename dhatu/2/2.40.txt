@@ -31,9 +31,7 @@
                 "num": "16",
                 "text": "सुचैतन्यमेतीति किं चित्रमत्र",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
-            }
-        ],
-        "एति": [
+            },
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.37",
@@ -41,7 +39,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#37"
             }
         ],
-        "इयाः": [
+        "pvidhiling_2_1_इयाः": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.58",
