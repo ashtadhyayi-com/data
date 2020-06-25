@@ -32,6 +32,22 @@
                 "text": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=3"
             }
+        ],
+        "गन्तासि": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.13",
+                "text": "खिन्नः खिन्नः शिखरिषु पदं न्यस्य गन्तासि यत्र",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
+            }
+        ],
+        "गच्छेः": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.20",
+                "text": "जम्बूकुञ्जप्रतिहतरयं तोयमादाय गच्छेः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
+            }
         ]
     }
 }

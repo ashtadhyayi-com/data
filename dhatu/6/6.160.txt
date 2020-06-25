@@ -32,6 +32,14 @@
                 "text": "एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=47"
             }
+        ],
+        "विशेः": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.65",
+                "text": "र्नानाचेष्टैर्जलदललितैर्निर्विशेस्तं नगेन्द्रम्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#65"
+            }
         ]
     }
 }

@@ -32,6 +32,14 @@
                 "text": "समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=15"
             }
+        ],
+        "कल्पिष्यन्ते": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.58",
+                "text": "कल्पिष्यन्ते स्थिरगणपदप्राप्तये श्रद्दधानाः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#58"
+            }
         ]
     }
 }

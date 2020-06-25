@@ -32,6 +32,14 @@
                 "text": "पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=42"
             }
+        ],
+        "पत": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.14",
+                "text": "स्थानादस्मात् सरसनिचुलादुत्पतोदङ्मुखः खं",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#14"
+            }
         ]
     }
 }

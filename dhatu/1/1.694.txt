@@ -32,6 +32,22 @@
                 "text": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=22"
             }
+        ],
+        "ईक्षिष्यन्ते": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.8",
+                "text": "प्रेक्षिष्यन्ते पथिकवनिताः प्रत्ययादाश्वसन्त्यः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
+            }
+        ],
+        "ईक्षेत": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.8",
+                "text": "कः सन्नद्धे विरहविधुरां त्वय्युपेक्षेत जायां",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
+            }
         ]
     }
 }

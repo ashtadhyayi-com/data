@@ -32,6 +32,14 @@
                 "text": "इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=4"
             }
+        ],
+        "स्येत्": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.23",
+                "text": "प्रत्युद्यातः कथमपि भवान् गन्तुमाशु व्यवस्येत्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#23"
+            }
         ]
     }
 }

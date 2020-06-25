@@ -32,6 +32,14 @@
                 "text": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=30"
             }
+        ],
+        "शक्ष्यति": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.20",
+                "text": "अन्तःसारं घन तुलयितुं नानिलः शक्ष्यति त्वां",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
+            }
         ]
     }
 }

@@ -32,6 +32,22 @@
                 "text": "नरकेऽनियतं वासो भवतीत्यनुशुश्रुम",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=44"
             }
+        ],
+        "शृणु": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.13",
+                "text": "मार्गं तावच्छृणु कथयतस्त्वत्प्रयाणानुरूपम्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
+            }
+        ],
+        "श्रोष्यसि": [
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.13",
+                "text": "सन्देशं मे तदनु जलद श्रोष्यसि श्रोत्रपेयम्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
+            }
         ]
     }
 }
