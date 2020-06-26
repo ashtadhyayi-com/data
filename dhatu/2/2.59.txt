@@ -39,6 +39,24 @@
                 "num": "2.17",
                 "text": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=17"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.34",
+                "text": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=34"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.2",
+                "text": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=2"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.15",
+                "text": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=15"
             }
         ],
         "plat_1_1_वेत्ति": [
@@ -47,6 +65,12 @@
                 "num": "2.19",
                 "text": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "13.24",
+                "text": "य एवं वेत्ति पुरुषं प्रकृतिं च गुणैःसह",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=13&field_nsutra_value=24"
             }
         ],
         "plat_1_1_वेद": [
@@ -55,6 +79,48 @@
                 "num": "18",
                 "text": "नरो वेद यो देवचूडामणिं त्वाम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.29",
+                "text": "श्रुत्वाप्येनं वेद न चैव कश्चित्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
+            }
+        ],
+        "pvidhiling_3_1_विद्याम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.17",
+                "text": "कथं विद्यामहं योगिंस्त्वाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=17"
+            }
+        ],
+        "plat_1_3_विदुः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.3",
+                "text": "न मे विदुः सुरगणाः प्रभवं न महर्षयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=3"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.2",
+                "text": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=2"
+            }
+        ],
+        "plat_2_1_वेत्थ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.5",
+                "text": "तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=5"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "10.15",
+                "text": "स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=15"
             }
         ]
     }

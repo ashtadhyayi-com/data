@@ -40,6 +40,20 @@
                 "text": "सेविष्यन्ते नयनसुभगं खे भवन्तं बलाकाः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#9"
             }
+        ],
+        "alat_1_1_सेवते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "15.9",
+                "text": "अधिष्ठाय मनश्चायं विषयानुपसेवते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=9"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "14.26",
+                "text": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=26"
+            }
         ]
     }
 }

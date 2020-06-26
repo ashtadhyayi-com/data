@@ -39,6 +39,12 @@
                 "num": "8",
                 "text": "तदाविष्करोषि त्वदीयं स्वरूपम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.27",
+                "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
             }
         ],
         "alit_1_1_चक्रे": [
@@ -63,6 +69,84 @@
                 "num": "1.53",
                 "text": "शम्भोः केशग्रहणमकरोदिन्दुलग्नोर्मिहस्ता",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#53"
+            }
+        ],
+        "plot_2_1_कुरु": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.48",
+                "text": "योगस्थः कुरु कर्माणि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=48"
+            }
+        ],
+        "plat_1_3_कुर्वन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.11",
+                "text": "योगिनः कर्म कुर्वन्ति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=11"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.25",
+                "text": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=25"
+            }
+        ],
+        "pvidhiling_1_1_कुर्यात्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.25",
+                "text": "कुर्याद्विद्वांस्तथासक्तः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=25"
+            }
+        ],
+        "alat_1_1_कुरुते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.21",
+                "text": "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=21"
+            }
+        ],
+        "alrut_3_1_करिष्ये": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.73",
+                "text": "स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=73"
+            }
+        ],
+        "alot_2_1_कुरुष्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.27",
+                "text": "यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
+            }
+        ],
+        "pvidhiling_3_1_कुर्याम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.24",
+                "text": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=24"
+            }
+        ],
+        "plat_1_1_करोति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.20",
+                "text": "कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=20"
+            }
+        ],
+        "plat_3_1_करोमि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.8",
+                "text": "नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=8"
             }
         ]
     }

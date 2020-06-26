@@ -39,6 +39,12 @@
                 "num": "1.14",
                 "text": "अद्रेः शृङ्गं हरति पवनः किंस्विदित्युन्मुखीभिः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#14"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.67",
+                "text": "तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=67"
             }
         ],
         "plit_1_1_जहार": [
@@ -61,6 +67,22 @@
                 "num": "1.39",
                 "text": "नृत्तारम्भे हर पशुपतेरार्द्रनागाजिनेच्छां",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#39"
+            }
+        ],
+        "alat_1_1_हरते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.58",
+                "text": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=58"
+            }
+        ],
+        "plat_1_3_हरन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.60",
+                "text": "इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=60"
             }
         ]
     }

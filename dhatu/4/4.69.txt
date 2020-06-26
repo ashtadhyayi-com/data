@@ -39,6 +39,18 @@
                 "num": "2.18",
                 "text": "अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=18"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.34",
+                "text": "युध्यस्व जेतासि रणे सपत्नान्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=34"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.30",
+                "text": "निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=30"
             }
         ]
     }

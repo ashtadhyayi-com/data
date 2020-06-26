@@ -40,6 +40,20 @@
                 "text": "र्नानाचेष्टैर्जलदललितैर्निर्विशेस्तं नगेन्द्रम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#65"
             }
+        ],
+        "plat_1_3_विशन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.11",
+                "text": "विशन्ति यद्यतयो वीतरागाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=11"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.21",
+                "text": "क्षीणे पुण्ये मर्त्यलोकं विशन्ति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=21"
+            }
         ]
     }
 }

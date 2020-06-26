@@ -31,6 +31,54 @@
                 "num": "1.35",
                 "text": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=35"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "13.1",
+                "text": "एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=13&field_nsutra_value=1"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.3",
+                "text": "द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=3"
+            }
+        ],
+        "plat_1_1_इच्छति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "7.21",
+                "text": "श्रद्धयार्चितुमिच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=21"
+            }
+        ],
+        "plat_2_1_इच्छसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.31",
+                "text": "विज्ञातुमिच्छामि भवन्तमाद्यम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.7",
+                "text": "मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=7"
+            }
+        ],
+        "plot_2_1_इच्छ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.49",
+                "text": "बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=49"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "12.9",
+                "text": "बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=9"
             }
         ]
     }

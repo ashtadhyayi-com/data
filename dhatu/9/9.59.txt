@@ -23,5 +23,31 @@
     "plung": "आशीत्;आशिष्टाम्;आशिषुः;आशीः;आशिष्टम्;आशिष्ट;आशिषम्;आशिष्व;आशिष्म",
     "alung": "",
     "plrung": "आशिष्यत्;आशिष्यताम्;आशिष्यन्;आशिष्यः;आशिष्यतम्;आशिष्यत;आशिष्यम्;आशिष्याव;आशिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_3_अश्नन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.20",
+                "text": "अश्नन्ति दिव्यान्दिवि देवभोगान्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=20"
+            }
+        ],
+        "plat_3_1_अश्नामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.26",
+                "text": "तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=26"
+            }
+        ],
+        "plat_2_1_अश्नासि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.27",
+                "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
+            }
+        ]
+    }
 }

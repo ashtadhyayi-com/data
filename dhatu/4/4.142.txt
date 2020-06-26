@@ -23,5 +23,37 @@
     "plung": "अहृषत्;अहृषताम्;अहृषन्;अहृषः;अहृषतम्;अहृषत;अहृषम्;अहृषाव;अहृषाम",
     "alung": "",
     "plrung": "अहर्षिष्यत्;अहर्षिष्यताम्;अहर्षिष्यन्;अहर्षिष्यः;अहर्षिष्यतम्;अहर्षिष्यत;अहर्षिष्यम्;अहर्षिष्याव;अहर्षिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_3_1_हृष्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.77",
+                "text": "हृष्यामि च पुनः पुनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=77"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.76",
+                "text": " हृष्यामि च मुहुर्मुहुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=76"
+            }
+        ],
+        "plat_1_1_हृष्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.36",
+                "text": "जगत् प्रहृष्यत्यनुरज्यते च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=36"
+            }
+        ],
+        "pvidhiling_1_1_हृष्येत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.20",
+                "text": "न प्रहृष्येत्प्रियं प्राप्य ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=20"
+            }
+        ]
+    }
 }

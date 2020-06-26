@@ -32,6 +32,20 @@
                 "text": "लोलापाङ्गैर्यदि न रमसे लोचनैर्वञ्चितोऽसि",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#28"
             }
+        ],
+        "alat_1_1_रमते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.22",
+                "text": "आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=22"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.36",
+                "text": "अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=36"
+            }
         ]
     }
 }

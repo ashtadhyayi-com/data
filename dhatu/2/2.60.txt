@@ -43,6 +43,18 @@
                 "num": "1.8",
                 "text": "न स्यादन्योऽप्यहमिव जनो यः पराधीनवृत्तिः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.12",
+                "text": "यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=12"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "15.20",
+                "text": "एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=20"
             }
         ],
         "pvidhiling_3_3_स्याम": [
@@ -83,6 +95,12 @@
                 "num": "2.20",
                 "text": "नायं भूत्वा भविता वा न भूयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.69",
+                "text": "भविता न च मे तस्मादन्यः प्रियतरो भुवि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=69"
             }
         ],
         "plat_2_1_असि": [
@@ -91,6 +109,12 @@
                 "num": "11",
                 "text": "त्वमेवासि दैवं परं मे यदेकम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.3",
+                "text": "भक्तोऽसि मे सखा चेति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=3"
             }
         ],
         "pvidhiling_1_3_स्युः": [
@@ -99,6 +123,12 @@
                 "num": "1.57",
                 "text": "के वा न स्युः परिभवपदं निष्फलारम्भयत्नाः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#57"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.32",
+                "text": "येऽपि स्युः पापयोनयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=32"
             }
         ],
         "pvidhiling_2_1_स्याः": [
@@ -107,6 +137,54 @@
                 "num": "1.61",
                 "text": "कैलासस्य त्रिदशवनितादर्पणस्यातिथिः स्याः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#61"
+            }
+        ],
+        "plot_1_1_अस्तु": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.31",
+                "text": "नमोऽस्तु ते देववर प्रसीद",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
+            }
+        ],
+        "plat_1_3_भविष्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.32",
+                "text": "ऋतेऽपि त्वां न भविष्यन्ति सर्वे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=32"
+            }
+        ],
+        "plrut_1_1_भविष्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.13",
+                "text": "इदमस्तीदमपि मे भविष्यति पुनर्धनम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=13"
+            }
+        ],
+        "plat_3_1_अस्मि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.21",
+                "text": "मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=21"
+            }
+        ],
+        "pvidhiling_3_1_स्याम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.70",
+                "text": "ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=70"
+            }
+        ],
+        "plat_1_1_अस्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.40",
+                "text": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=40"
             }
         ]
     }

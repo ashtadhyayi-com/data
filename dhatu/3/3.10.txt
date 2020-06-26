@@ -23,5 +23,53 @@
     "plung": "अदात्;अदाताम्;अदुः;अदाः;अदातम्;अदात;अदाम्;अदाव;अदाम",
     "alung": "अदित;अदिषाताम्;अदिषत;अदिथाः;अदिषाथाम्;अदिढ्वम्;अदिषि;अदिष्वहि;अदिष्महि",
     "plrung": "अदास्यत्;अदास्यताम्;अदास्यन्;अदास्यः;अदास्यतम्;अदास्यत;अदास्यम्;अदास्याव;अदास्याम",
-    "alrung": "अदास्यत;अदास्येताम्;अदास्यन्त;अदास्यथाः;अदास्येथाम्;अदास्यध्वम्;अदास्ये;अदास्यावहि;अदास्यामहि"
+    "alrung": "अदास्यत;अदास्येताम्;अदास्यन्त;अदास्यथाः;अदास्येथाम्;अदास्यध्वम्;अदास्ये;अदास्यावहि;अदास्यामहि",
+    "examples": {
+        "alrut_1_3_दास्यन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.12",
+                "text": "दास्यन्ते यज्ञभाविताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=12"
+            }
+        ],
+        "plrut_3_1_दास्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.15",
+                "text": "यक्ष्ये दास्यामि मोदिष्य",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=15"
+            }
+        ],
+        "plat_2_1_ददासि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.27",
+                "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
+            }
+        ],
+        "plat_3_1_ददामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.10",
+                "text": "ददामि बुद्धियोगं तं येन मामुपयान्ति ते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=10"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.8",
+                "text": "दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=8"
+            }
+        ],
+        "alat_1_1_दत्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.15",
+                "text": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=15"
+            }
+        ]
+    }
 }

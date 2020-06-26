@@ -32,6 +32,56 @@
                 "text": "आमन्द्राणां फलमविकलं लप्स्यसे गर्जितानाम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#37"
             }
+        ],
+        "alat_3_1_लभे": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.25",
+                "text": "दिशो न जाने न लभे च शर्म",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=25"
+            }
+        ],
+        "alot_2_1_लभस्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.33",
+                "text": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=33"
+            }
+        ],
+        "alat_1_1_लभते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.43",
+                "text": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=43"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.39",
+                "text": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=39"
+            }
+        ],
+        "alat_1_3_लभन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.25",
+                "text": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=25"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.32",
+                "text": "सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=32"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.21",
+                "text": "गतागतं कामकामा लभन्ते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=21"
+            }
         ]
     }
 }

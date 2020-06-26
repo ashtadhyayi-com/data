@@ -40,6 +40,22 @@
                 "text": "अन्तःसारं घन तुलयितुं नानिलः शक्ष्यति त्वां",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
             }
+        ],
+        "plat_2_1_शक्नोषि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "12.9",
+                "text": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=9"
+            }
+        ],
+        "plat_1_1_शक्नोति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.23",
+                "text": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=23"
+            }
         ]
     }
 }

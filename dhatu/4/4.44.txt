@@ -37,6 +37,38 @@
                 "num": "2.20",
                 "text": "न जायते म्रियते वा कदाचित्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "14.15",
+                "text": "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=15"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.62",
+                "text": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=62"
+            }
+        ],
+        "alat_1_3_जायन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "14.12",
+                "text": "रजस्येतानि जायन्ते विवृद्धे भरतर्षभ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=12"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "14.13",
+                "text": "तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=13"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "14.2",
+                "text": "सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=2"
             }
         ]
     }

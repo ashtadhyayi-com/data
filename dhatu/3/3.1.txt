@@ -23,5 +23,23 @@
     "plung": "अहौषीत्;अहौष्टाम्;अहौषुः;अहौषीः;अहौष्टम्;अहौष्ट;अहौषम्;अहौष्व;अहौष्म",
     "alung": "",
     "plrung": "अहोष्यत्;अहोष्यताम्;अहोष्यन्;अहोष्यः;अहोष्यतम्;अहोष्यत;अहोष्यम्;अहोष्याव;अहोष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "alat_1_3_जुह्वति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.26",
+                "text": "संयमाग्निषु जुह्वति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=26"
+            }
+        ],
+        "plat_2_1_जुहोषि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.27",
+                "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
+            }
+        ]
+    }
 }

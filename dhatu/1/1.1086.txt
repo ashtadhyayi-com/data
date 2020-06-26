@@ -23,5 +23,21 @@
     "plung": "आरत्;आरताम्;आरन्;आरः;आरतम्;आरत;आरम्;आराव;आराम",
     "alung": "",
     "plrung": "आरिष्यत्;आरिष्यताम्;आरिष्यन्;आरिष्यः;आरिष्यतम्;आरिष्यत;आरिष्यम्;आरिष्याव;आरिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_1_ऋच्छति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.72",
+                "text": "ब्रह्मनिर्वाणमृच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=72"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "5.29",
+                "text": "ज्ञात्वा मां शान्तिमृच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=29"
+            }
+        ]
+    }
 }

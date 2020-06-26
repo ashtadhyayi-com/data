@@ -32,6 +32,20 @@
                 "text": "धृतराष्ट्र उवाच",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
             }
+        ],
+        "plrut_3_1_वक्ष्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.16",
+                "text": "तत्ते कर्म प्रवक्ष्यामि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "7.2",
+                "text": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=2"
+            }
         ]
     }
 }

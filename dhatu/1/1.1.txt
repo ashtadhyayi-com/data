@@ -77,6 +77,12 @@
                 "num": "1.46",
                 "text": "धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=46"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.12",
+                "text": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=12"
             }
         ],
         "plit_1_1_बभूव": [
@@ -129,6 +135,66 @@
                 "num": "1.28",
                 "text": "सौधोत्सङ्गप्रणयविमुखो मा स्म भूरुज्जयिन्याः ।",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#28"
+            }
+        ],
+        "plat_1_2_भवतः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "14.17",
+                "text": "प्रमादमोहौ तमसो भवतोऽज्ञानमेव च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=17"
+            }
+        ],
+        "plat_1_3_भविष्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.32",
+                "text": "ऋतेऽपि त्वां न भविष्यन्ति सर्वे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=32"
+            }
+        ],
+        "plrut_1_1_भविष्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.13",
+                "text": "इदमस्तीदमपि मे भविष्यति पुनर्धनम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=13"
+            }
+        ],
+        "plat_3_1_भवामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "12.7",
+                "text": "भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=7"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.6",
+                "text": "प्रकृतिं स्वामधिष्ठाय संभवाम्यात्ममायया",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=6"
+            }
+        ],
+        "plat_1_3_भवन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.14",
+                "text": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=14"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.18",
+                "text": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=18"
+            }
+        ],
+        "plot_2_1_भव": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.45",
+                "text": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=45"
             }
         ]
     }

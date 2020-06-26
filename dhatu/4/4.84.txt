@@ -32,6 +32,30 @@
                 "text": "अन्तःसारं घन तुलयितुं नानिलः शक्ष्यति त्वां",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
             }
+        ],
+        "plat_3_1_शक्ये": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.48",
+                "text": "एवंरूपः शक्य अहं नृलोके",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=48"
+            }
+        ],
+        "alat_2_1_शक्यसे ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.8",
+                "text": "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=8"
+            }
+        ],
+        "plot_2_1_शक्य": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.53",
+                "text": "शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=53"
+            }
         ]
     }
 }

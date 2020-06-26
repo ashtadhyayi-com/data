@@ -39,6 +39,12 @@
                 "num": "1.13",
                 "text": "मार्गं तावच्छृणु कथयतस्त्वत्प्रयाणानुरूपम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.39",
+                "text": "बुद्धिर्योगे त्विमां शृणु",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=39"
             }
         ],
         "plrut_2_1_श्रोष्यसि": [
@@ -47,6 +53,36 @@
                 "num": "1.13",
                 "text": "सन्देशं मे तदनु जलद श्रोष्यसि श्रोत्रपेयम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#13"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.58",
+                "text": "अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=58"
+            }
+        ],
+        "plat_1_1_शृणोति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.29",
+                "text": "आश्चर्यवच्चैनमन्यः शृणोति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
+            }
+        ],
+        "plung_3_1_अश्रौषम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.74",
+                "text": "संवादमिममश्रौषमद्भुतं रोमहर्षणम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=74"
+            }
+        ],
+        "pvidhiling_1_1_शृणुयात्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.71",
+                "text": "श्रद्धावाननसूयश्च श्रृणुयादपि यो नरः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=71"
             }
         ]
     }

@@ -23,5 +23,15 @@
     "plung": "",
     "alung": "",
     "plrung": "अचलिष्यत्;अचलिष्यताम्;अचलिष्यन्;अचलिष्यः;अचलिष्यतम्;अचलिष्यत;अचलिष्यम्;अचलिष्याव;अचलिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_1_चलति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.21",
+                "text": "स्थितश्चलति तत्त्वतः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=21"
+            }
+        ]
+    }
 }

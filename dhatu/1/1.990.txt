@@ -39,6 +39,12 @@
                 "num": "9",
                 "text": "प्रसीद प्रसीद प्रभो रामचन्द्र",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.25",
+                "text": " प्रसीद देवेश जगन्निवास",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=25"
             }
         ]
     }

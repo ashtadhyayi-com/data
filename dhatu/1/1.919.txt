@@ -32,6 +32,30 @@
                 "text": "नरा ये स्मरन्त्यन्वहं रामचन्द्र",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "pvidhiling_1_1_स्मरेत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.9",
+                "text": "मणोरणीयांसमनुस्मरेद्यः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=9"
+            }
+        ],
+        "plat_1_1_स्मरति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.14",
+                "text": "अनन्यचेताः सततं यो मां स्मरति नित्यशः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=14"
+            }
+        ],
+        "plot_2_1_स्मर": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.7",
+                "text": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=7"
+            }
         ]
     }
 }

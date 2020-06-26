@@ -23,5 +23,57 @@
     "plung": "अवृतत्;अवृतताम्;अवृतन्;अवृतः;अवृततम्;अवृतत;अवृतम्;अवृताव;अवृताम",
     "alung": "अवर्तिष्ट;अवर्तिषाताम्;अवर्तिषत;अवर्तिष्ठाः;अवर्तिषाथाम्;अवर्तिध्वम्;अवर्तिषि;अवर्तिष्वहि;अवर्तिष्महि",
     "plrung": "अवर्त्स्यत्;अवर्त्स्यताम्;अवर्त्स्यन्;अवर्त्स्यः;अवर्त्स्यतम्;अवर्त्स्यत;अवर्त्स्यम्;अवर्त्स्याव;अवर्त्स्याम",
-    "alrung": "अवर्त्स्यत;अवर्त्स्येताम्;अवर्त्स्यन्त;अवर्त्स्यथाः;अवर्त्स्येथाम्;अवर्त्स्यध्वम्;अवर्त्स्ये;अवर्त्स्यावहि;अवर्त्स्यामहि"
+    "alrung": "अवर्त्स्यत;अवर्त्स्येताम्;अवर्त्स्यन्त;अवर्त्स्यथाः;अवर्त्स्येथाम्;अवर्त्स्यध्वम्;अवर्त्स्ये;अवर्त्स्यावहि;अवर्त्स्यामहि",
+    "examples": {
+        "alat_1_1_वर्तते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.14",
+                "text": "न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=14"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.59",
+                "text": "रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=59"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "5.26",
+                "text": "अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=26"
+            }
+        ],
+        "alat_3_1_वर्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.22",
+                "text": "नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=22"
+            }
+        ],
+        "alat_1_3_वर्तन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.59",
+                "text": "विषया विनिवर्तन्ते निराहारस्य देहिनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=59"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.21",
+                "text": "यं प्राप्य न निवर्तन्ते तद्धाम परमं मम",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=21"
+            }
+        ],
+        "avidhiling_1_1_वर्तेत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.6",
+                "text": "अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=6"
+            }
+        ]
+    }
 }

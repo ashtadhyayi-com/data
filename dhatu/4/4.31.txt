@@ -23,5 +23,21 @@
     "plung": "",
     "alung": "अधेष्ट;अधेषाताम्;अधेषत;अधेष्ठाः;अधेषाथाम्;अधेढ्वम्;अधेषि;अधेष्वहि;अधेष्महि",
     "plrung": "",
-    "alrung": "अधेष्यत;अधेष्येताम्;अधेष्यन्त;अधेष्यथाः;अधेष्येथाम्;अधेष्यध्वम्;अधेष्ये;अधेष्यावहि;अधेष्यामहि"
+    "alrung": "अधेष्यत;अधेष्येताम्;अधेष्यन्त;अधेष्यथाः;अधेष्येथाम्;अधेष्यध्वम्;अधेष्ये;अधेष्यावहि;अधेष्यामहि",
+    "examples": {
+        "alat_1_1_धीयते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "13.2",
+                "text": "इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=13&field_nsutra_value=2"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.44",
+                "text": "व्यवसायात्मिका बुद्धिः समाधौ न विधीयते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=44"
+            }
+        ]
+    }
 }

@@ -23,5 +23,47 @@
     "plung": "अवदीत्,अवादीत्;अवदिष्टाम्,अवादिष्टाम्;अवदिषुः,अवादिषुः;अवदीः,अवादीः;अवदिष्टम्,अवादिष्टम्;अवदिष्ट,अवादिष्ट;अवदिषम्,अवादिषम्;अवदिष्व,अवादिष्व;अवदिष्म,अवादिष्म",
     "alung": "",
     "plrung": "अवदिष्यत्;अवदिष्यताम्;अवदिष्यन्;अवदिष्यः;अवदिष्यतम्;अवदिष्यत;अवदिष्यम्;अवदिष्याव;अवदिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_1_वदति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.29",
+                "text": "आश्चर्यवद्वदति तथैव चान्यः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
+            }
+        ],
+        "plat_2_1_वदसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.14",
+                "text": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=14"
+            }
+        ],
+        "plrut_1_3_वदिष्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.36",
+                "text": "अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=36"
+            }
+        ],
+        "plot_2_1_वद": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.2",
+                "text": "तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=2"
+            }
+        ],
+        "plat_1_3_वदन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.42",
+                "text": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=42"
+            }
+        ]
+    }
 }

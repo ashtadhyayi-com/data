@@ -40,6 +40,14 @@
                 "text": "नेष्यन्ति त्वां सुरयुवतयो यन्त्रधारागृहत्वम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#64"
             }
+        ],
+        "pvidhiling_1_1_नयेत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.26",
+                "text": "ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=26"
+            }
         ]
     }
 }

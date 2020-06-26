@@ -32,6 +32,22 @@
                 "text": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=11"
             }
+        ],
+        "avidhiling_1_1_भाषेत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.54",
+                "text": "स्थितधीः किं प्रभाषेत ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
+            }
+        ],
+        "alang_1_1_अभाषत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.14",
+                "text": "प्रणम्य शिरसा देवं कृताञ्जलिरभाषत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=14"
+            }
         ]
     }
 }

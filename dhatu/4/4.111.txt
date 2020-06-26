@@ -23,5 +23,15 @@
     "plung": "अवसत्;अवसताम्;अवसन्;अवसः;अवसतम्;अवसत;अवसम्;अवसाव;अवसाम",
     "alung": "",
     "plrung": "अवसिष्यत्;अवसिष्यताम्;अवसिष्यन्;अवसिष्यः;अवसिष्यतम्;अवसिष्यत;अवसिष्यम्;अवसिष्याव;अवसिष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plrut_2_1_वसिष्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "12.8",
+                "text": "निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=8"
+            }
+        ]
+    }
 }
