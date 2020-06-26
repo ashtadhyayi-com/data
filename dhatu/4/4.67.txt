@@ -31,6 +31,30 @@
                 "num": "2.16",
                 "text": "नासतो विद्यते भावो नाभावो विद्यते सतः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.31",
+                "text": "क्षत्रियस्य न विद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=31"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.38",
+                "text": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=38"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "16.7",
+                "text": "न शौचं नापि चाचारो न सत्यं तेषु विद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=7"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.16",
+                "text": "मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=16"
             }
         ]
     }

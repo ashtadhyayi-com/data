@@ -32,6 +32,28 @@
                 "text": "आमोक्ष्यन्ते त्वयि मधुकरश्रेणिदीर्घान् कटाक्षान्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#38"
             }
+        ],
+        "alrut_2_1_मोक्ष्यसे": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.16",
+                "text": "यज्ज्ञात्वा मोक्ष्यसेऽशुभात्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.28",
+                "text": "शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=28"
+            }
+        ],
+        "plat_1_1_मुञ्चति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.35",
+                "text": "न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=35"
+            }
         ]
     }
 }

@@ -39,6 +39,12 @@
                 "num": "1.43",
                 "text": "तस्मादस्याः कुमुदविशदान्यर्हसि त्वं न धैर्यात्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#43"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.25",
+                "text": "नानुशोचितुमर्हसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=25"
             }
         ]
     }

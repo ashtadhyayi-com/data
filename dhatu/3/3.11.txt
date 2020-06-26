@@ -40,6 +40,36 @@
                 "text": "चैतन्यमाधत्त राम",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "alot_2_1_धत्स्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "12.8",
+                "text": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=8"
+            }
+        ],
+        "plrut_1_3_धास्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.68",
+                "text": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=68"
+            }
+        ],
+        "plat_3_1_दधामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "7.21",
+                "text": "तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=21"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "14.3",
+                "text": "मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=3"
+            }
         ]
     }
 }

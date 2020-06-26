@@ -23,5 +23,23 @@
     "plung": "अदात्;अदाताम्;अदुः;अदाः;अदातम्;अदात;अदाम्;अदाव;अदाम",
     "alung": "",
     "plrung": "अदास्यत्;अदास्यताम्;अदास्यन्;अदास्यः;अदास्यतम्;अदास्यत;अदास्यम्;अदास्याव;अदास्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plrut_3_1_दास्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.15",
+                "text": "यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=15"
+            }
+        ],
+        "plat_1_3_यच्छति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.26",
+                "text": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=26"
+            }
+        ]
+    }
 }

@@ -48,6 +48,14 @@
                 "text": "सुरो वाऽमरो वा जयेत् कस्त्रिलोक्याम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "plat_1_1_जयति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "14.9",
+                "text": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=9"
+            }
         ]
     }
 }

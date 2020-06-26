@@ -31,6 +31,20 @@
                 "num": "1.16",
                 "text": "किंचित्पश्चाद् व्रज लघुगतिर्भूय एवोत्तरेण",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.66",
+                "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=66"
+            }
+        ],
+        "pvidhiling_2_3_व्रजेत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.54",
+                "text": "किमासीत व्रजेत किम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
             }
         ]
     }

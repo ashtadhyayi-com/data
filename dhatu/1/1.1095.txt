@@ -23,5 +23,21 @@
     "plung": "अदुद्रुवत्;अदुद्रुवताम्;अदुद्रुवन्;अदुद्रुवः;अदुद्रुवतम्;अदुद्रुवत;अदुद्रुवम्;अदुद्रुवाव;अदुद्रुवाम",
     "alung": "",
     "plrung": "अद्रोष्यत्;अद्रोष्यताम्;अद्रोष्यन्;अद्रोष्यः;अद्रोष्यतम्;अद्रोष्यत;अद्रोष्यम्;अद्रोष्याव;अद्रोष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_3_द्रवन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.28",
+                "text": "समुद्रमेवाभिमुखाः द्रवन्ति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=28"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.36",
+                "text": "रक्षांसि भीतानि दिशो द्रवन्ति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=36"
+            }
+        ]
+    }
 }

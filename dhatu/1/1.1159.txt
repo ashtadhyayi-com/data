@@ -40,6 +40,14 @@
                 "text": "वक्ष्यत्यध्वश्रमपरिगतं सानुमानाम्रकूटः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#17"
             }
+        ],
+        "plat_3_1_वहामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.22",
+                "text": "तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=22"
+            }
         ]
     }
 }

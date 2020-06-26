@@ -23,5 +23,61 @@
     "plung": "",
     "alung": "आसिष्ट;आसिषाताम्;आसिषत;आसिष्ठाः;आसिषाथाम्;आसिध्वम्;आसिषि;आसिष्वहि;आसिष्महि",
     "plrung": "",
-    "alrung": "आसिष्यत;आसिष्येताम्;आसिष्यन्त;आसिष्यथाः;आसिष्येथाम्;आसिष्यध्वम्;आसिष्ये;आसिष्यावहि;आसिष्यामहि"
+    "alrung": "आसिष्यत;आसिष्येताम्;आसिष्यन्त;आसिष्यथाः;आसिष्येथाम्;आसिष्यध्वम्;आसिष्ये;आसिष्यावहि;आसिष्यामहि",
+    "examples": {
+        "alat_1_3_आसते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.22",
+                "text": "ये जनाः पर्युपासते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=22"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "12.1",
+                "text": "एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=1"
+            }
+        ],
+        "alat_1_1_आस्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.6",
+                "text": "य आस्ते मनसा स्मरन्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=6"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "12.2",
+                "text": "श्रद्धया परयोपेतास्ते मे युक्ततमा मताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=2"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "5.13",
+                "text": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=13"
+            }
+        ],
+        "avidhiling_1_1_आसीत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.54",
+                "text": "किमासीत व्रजेत किम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.61",
+                "text": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=61"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.14",
+                "text": "मनः संयम्य मच्चित्तो युक्त आसीत मत्परः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=14"
+            }
+        ]
+    }
 }

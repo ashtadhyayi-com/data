@@ -47,6 +47,58 @@
                 "num": "1.6",
                 "text": "जानामि त्वां प्रकृतिपुरुषं कामरूपं मघोनः ",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#6"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.31",
+                "text": "न हि प्रजानामि तव प्रवृत्तिम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
+            }
+        ],
+        "alat_3_1_जाने": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.25",
+                "text": "दिशो न जाने न लभे च शर्म",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=25"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.65",
+                "text": "मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=65"
+            }
+        ],
+        "plat_1_1_जानाति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "15.19",
+                "text": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=19"
+            }
+        ],
+        "pvidhiling_3_1_जानीयाम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.4",
+                "text": "कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=4"
+            }
+        ],
+        "plrut_2_1_ज्ञास्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "7.1",
+                "text": "असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=1"
+            }
+        ],
+        "plot_2_1_जानीहि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.31",
+                "text": "कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=31"
             }
         ]
     }

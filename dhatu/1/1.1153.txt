@@ -40,6 +40,72 @@
                 "text": "क्षेत्रं क्षत्रप्रधनपिशुनं कौरवं तद् भजेथाः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#51"
             }
+        ],
+        "plat_1_1_भजति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "15.19",
+                "text": "स सर्वविद्भजति मां सर्वभावेन भारत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=19"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.31",
+                "text": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=31"
+            }
+        ],
+        "alat_1_1_भजते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.30",
+                "text": "अपि चेत्सुदुराचारो भजते मामनन्यभाक्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=30"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.47",
+                "text": "श्रद्धावान्भजते यो मां स मे युक्ततमो मतः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=47"
+            }
+        ],
+        "alot_2_1_भजस्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.33",
+                "text": "अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=33"
+            }
+        ],
+        "plat_1_3_भजन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.13",
+                "text": "भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=13"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.29",
+                "text": "ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=29"
+            }
+        ],
+        "alat_1_3_भजन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "7.16",
+                "text": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=16"
+            }
+        ],
+        "plat_3_1_भजामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.11",
+                "text": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=11"
+            }
         ]
     }
 }

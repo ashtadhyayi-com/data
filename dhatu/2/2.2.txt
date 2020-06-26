@@ -40,6 +40,36 @@
                 "text": "उभौ तौ न विजानीतो नायं हन्ति न हन्यते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
             }
+        ],
+        "plat_1_3_हन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.21",
+                "text": "कं घातयति हन्ति कम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=21"
+            }
+        ],
+        "plot_2_1_जहि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.41",
+                "text": "पाप्मानं प्रजहि ह्येनम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=41"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.34",
+                "text": "मया हतांस्त्वं जहि मा व्यथिष्ठा",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=34"
+            }
+        ],
+        "pvidhiling_3_1_हन्याम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.24",
+                "text": "सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=24"
+            }
         ]
     }
 }

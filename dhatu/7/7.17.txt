@@ -32,6 +32,38 @@
                 "text": "भुञ्जीय भोगान् रुधिरप्रदिग्धान्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=5"
             }
+        ],
+        "alrut_2_1_भोक्ष्यसे": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.37",
+                "text": "जित्वा वा भोक्ष्यसे महीम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=37"
+            }
+        ],
+        "alot_2_1_भुङ्क्ष्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.33",
+                "text": "जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=33"
+            }
+        ],
+        "alat_1_3_भुञ्जते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.13",
+                "text": "भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=13"
+            }
+        ],
+        "alat_1_1_भुङ्क्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.12",
+                "text": "तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=12"
+            }
         ]
     }
 }

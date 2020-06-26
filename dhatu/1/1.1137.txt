@@ -48,6 +48,38 @@
                 "text": "जम्बूकुञ्जप्रतिहतरयं तोयमादाय गच्छेः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
             }
+        ],
+        "plat_1_3_गच्छन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.51",
+                "text": "पदं गच्छन्त्यनामयम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=51"
+            }
+        ],
+        "plot_2_1_गच्छ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.41",
+                "text": "मम तेजोंऽशसंभवम् अवगच्छ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=41"
+            }
+        ],
+        "pvidhiling_1_1_गच्छेत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.34",
+                "text": "तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=34"
+            }
+        ],
+        "plat_1_1_गच्छति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.37",
+                "text": "अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=37"
+            }
         ]
     }
 }

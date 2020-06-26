@@ -32,6 +32,34 @@
                 "text": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=40"
             }
+        ],
+        "plat_1_1_नश्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.63",
+                "text": "बुद्धिनाशात्प्रणश्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=63"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.40",
+                "text": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=40"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.38",
+                "text": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=38"
+            }
+        ],
+        "plrut_2_1_नङ्क्ष्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.58",
+                "text": "न श्रोष्यसि विनङ्क्ष्यसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=58"
+            }
         ]
     }
 }

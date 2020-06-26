@@ -37,6 +37,18 @@
                 "num": "1.37",
                 "text": "स्थातव्यं ते नयनविषयं यावदत्येति भानुः ।",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#37"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.9",
+                "text": "नैति मामेति सोऽर्जुन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=9"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.27",
+                "text": "उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=27"
             }
         ],
         "pvidhiling_2_1_इयाः": [
@@ -45,6 +57,28 @@
                 "num": "1.58",
                 "text": "शश्वत् सिद्धैरुपचितबलिं भक्तिनम्रः परीयाः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#58"
+            }
+        ],
+        "plrut_2_1_एष्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.28",
+                "text": "विमुक्तो मामुपैष्यसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=28"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.7",
+                "text": "मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=7"
+            }
+        ],
+        "plrut_1_1_एष्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.68",
+                "text": "भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=68"
             }
         ]
     }

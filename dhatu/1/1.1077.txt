@@ -31,6 +31,56 @@
                 "num": "2.3",
                 "text": "क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=3"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "4.42",
+                "text": "छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=42"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.37",
+                "text": "तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=37"
+            }
+        ],
+        "plat_1_3_तिष्ठन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "14.18",
+                "text": "मध्ये तिष्ठन्ति राजसाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=18"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.31",
+                "text": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=31"
+            }
+        ],
+        "plat_2_1_तिष्ठसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.16",
+                "text": "लोकानिमांस्त्वं व्याप्य तिष्ठसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=16"
+            }
+        ],
+        "plat_1_1_तिष्ठति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.5",
+                "text": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=5"
+            }
+        ],
+        "plrut_1_1_स्थास्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.53",
+                "text": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=53"
             }
         ]
     }

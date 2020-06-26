@@ -48,6 +48,28 @@
                 "text": "कः सन्नद्धे विरहविधुरां त्वय्युपेक्षेत जायां",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#8"
             }
+        ],
+        "alat_1_1_ईक्षते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.20",
+                "text": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=20"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.29",
+                "text": "ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=29"
+            }
+        ],
+        "alat_1_3_ईक्षन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.22",
+                "text": "वीक्षन्ते त्वां विस्मिताश्चैव सर्वे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=22"
+            }
         ]
     }
 }

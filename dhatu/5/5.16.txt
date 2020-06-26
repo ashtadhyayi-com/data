@@ -23,5 +23,67 @@
     "plung": "आपत्;आपताम्;आपन्;आपः;आपतम्;आपत;आपम्;आपाव;आपाम",
     "alung": "",
     "plrung": "आप्स्यत्;आप्स्यताम्;आप्स्यन्;आप्स्यः;आप्स्यतम्;आप्स्यत;आप्स्यम्;आप्स्याव;आप्स्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plrut_2_1_आप्स्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.33",
+                "text": "हित्वा पापमवाप्स्यसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=33"
+            }
+        ],
+        "plat_1_3_आप्नुवन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.15",
+                "text": "नाप्नुवन्ति महात्मानः ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=15"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "12.4",
+                "text": "ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=4"
+            }
+        ],
+        "plat_1_1_आप्नोति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.21",
+                "text": "कुर्वन्नाप्नोति किल्बिषम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=21"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.70",
+                "text": "स शान्तिमाप्नोति न कामकामी",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=70"
+            }
+        ],
+        "pvidhiling_1_1_आप्नुयात्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.71",
+                "text": "प्राप्नुयात्पुण्यकर्मणाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=71"
+            }
+        ],
+        "plat_2_1_आप्नोषि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.40",
+                "text": "सर्वं समाप्नोषि ततोऽसि सर्वः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=40"
+            }
+        ],
+        "plrut_2_3_आप्स्यथ": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.11",
+                "text": "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=11"
+            }
+        ]
+    }
 }

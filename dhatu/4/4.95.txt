@@ -32,6 +32,28 @@
                 "text": "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=13"
             }
+        ],
+        "plat_1_1_मुह्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.72",
+                "text": "नैनां प्राप्य विमुह्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=72"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.27",
+                "text": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=27"
+            }
+        ],
+        "plat_1_3_मुह्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.15",
+                "text": "अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=15"
+            }
         ]
     }
 }

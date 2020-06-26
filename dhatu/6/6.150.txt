@@ -23,5 +23,23 @@
     "plung": "अस्राक्षीत्;अस्राष्टाम्;अस्राक्षुः;अस्राक्षीः;अस्राष्टम्;अस्राष्ट;अस्राक्षम्;अस्राक्ष्व;अस्राक्ष्म",
     "alung": "",
     "plrung": "अस्रक्ष्यत्;अस्रक्ष्यताम्;अस्रक्ष्यन्;अस्रक्ष्यः;अस्रक्ष्यतम्;अस्रक्ष्यत;अस्रक्ष्यम्;अस्रक्ष्याव;अस्रक्ष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_3_1_सृजामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.7",
+                "text": "अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=7"
+            }
+        ],
+        "plat_1_1_सृजति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.14",
+                "text": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=14"
+            }
+        ]
+    }
 }

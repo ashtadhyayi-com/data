@@ -23,5 +23,23 @@
     "plung": "अतुषत्;अतुषताम्;अतुषन्;अतुषः;अतुषतम्;अतुषत;अतुषम्;अतुषाव;अतुषाम",
     "alung": "",
     "plrung": "अतोक्ष्यत्;अतोक्ष्यताम्;अतोक्ष्यन्;अतोक्ष्यः;अतोक्ष्यतम्;अतोक्ष्यत;अतोक्ष्यम्;अतोक्ष्याव;अतोक्ष्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_3_तुष्यन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.9",
+                "text": "कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=9"
+            }
+        ],
+        "plat_1_1_तुष्यति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "6.20",
+                "text": "यत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=20"
+            }
+        ]
+    }
 }

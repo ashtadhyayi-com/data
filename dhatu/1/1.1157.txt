@@ -23,5 +23,37 @@
     "plung": "अयाक्षीत्;अयाक्ताम्;अयाक्षुः;अयाक्षीः;अयाक्तम्;अयाक्त;अयाक्षम्;अयाक्ष्व;अयाक्ष्म",
     "alung": "अयष्ट;अयक्षाताम्;अयक्षत;अयष्ठाः;अयक्षाथाम्;अयड्ढ्वम्;अयक्षि;अयक्ष्वहि;अयक्ष्महि",
     "plrung": "अयक्ष्यत्;अयक्ष्यताम्;अयक्ष्यन्;अयक्ष्यः;अयक्ष्यतम्;अयक्ष्यत;अयक्ष्यम्;अयक्ष्याव;अयक्ष्याम",
-    "alrung": "अयक्ष्यत;अयक्ष्येताम्;अयक्ष्यन्त;अयक्ष्यथाः;अयक्ष्येथाम्;अयक्ष्यध्वम्;अयक्ष्ये;अयक्ष्यावहि;अयक्ष्यामहि"
+    "alrung": "अयक्ष्यत;अयक्ष्येताम्;अयक्ष्यन्त;अयक्ष्यथाः;अयक्ष्येथाम्;अयक्ष्यध्वम्;अयक्ष्ये;अयक्ष्यावहि;अयक्ष्यामहि",
+    "examples": {
+        "plat_1_3_यजन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.23",
+                "text": "तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=23"
+            }
+        ],
+        "alat_1_3_यजन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.17",
+                "text": "यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=17"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "9.23",
+                "text": "येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=23"
+            }
+        ],
+        "alrut_3_1_यक्ष्ये": [
+            {
+                "book": "भगवद्गीता",
+                "num": "16.15",
+                "text": "यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=15"
+            }
+        ]
+    }
 }

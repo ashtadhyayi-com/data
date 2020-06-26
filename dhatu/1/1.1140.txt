@@ -23,5 +23,23 @@
     "plung": "अताप्सीत्;अताप्ताम्;अताप्सुः;अताप्सीः;अताप्तम्;अताप्त;अताप्सम्;अताप्स्व;अताप्स्म",
     "alung": "",
     "plrung": "अतप्स्यत्;अतप्स्यताम्;अतप्स्यन्;अतप्स्यः;अतप्स्यतम्;अतप्स्यत;अतप्स्यम्;अतप्स्याव;अतप्स्याम",
-    "alrung": ""
+    "alrung": "",
+    "examples": {
+        "plat_1_3_तपन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "11.30",
+                "text": "भासस्तवोग्राः प्रतपन्ति विष्णो",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=30"
+            }
+        ],
+        "plat_3_1_तपामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "9.19",
+                "text": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=19"
+            }
+        ]
+    }
 }

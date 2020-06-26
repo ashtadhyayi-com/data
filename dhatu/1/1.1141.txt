@@ -31,6 +31,12 @@
                 "num": "1.30",
                 "text": "कार्श्यं येन त्यजति विधिना स त्वयैवोपपाद्यः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#30"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.6",
+                "text": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=6"
             }
         ],
         "plot_2_1_त्यज": [
@@ -39,6 +45,20 @@
                 "num": "1.42",
                 "text": "शान्तिं नेयं प्रणयिभिरतो वर्त्म भानोस्त्यजाशु",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#42"
+            }
+        ],
+        "pvidhiling_1_1_त्यजेत्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "18.48",
+                "text": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=48"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "16.21",
+                "text": "कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=21"
             }
         ]
     }

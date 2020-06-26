@@ -31,6 +31,12 @@
                 "num": "1.42",
                 "text": "पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=42"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "16.16",
+                "text": "प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=16"
             }
         ],
         "plrut_2_1_पत": [

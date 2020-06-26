@@ -40,6 +40,54 @@
                 "text": "पुण्यं यायास्त्रिभुवनगुरोर्धाम चण्डीश्वरस्य",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#36"
             }
+        ],
+        "plat_1_1_याति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.22",
+                "text": "अन्यानि संयाति नवानि देही",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=22"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.45",
+                "text": "अनेकजन्मसंसिद्धस्ततो याति परां गतिम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=45"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "16.22",
+                "text": "आचरत्यात्मनः श्रेयस्ततो याति परां गतिम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=22"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.5",
+                "text": "यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=5"
+            }
+        ],
+        "plrut_2_1_यास्यसि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.35",
+                "text": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=35"
+            }
+        ],
+        "plat_1_3_यान्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "7.23",
+                "text": "देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=23"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.33",
+                "text": "प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=33"
+            }
         ]
     }
 }

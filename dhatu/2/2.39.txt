@@ -55,6 +55,12 @@
                 "num": "1.21",
                 "text": "हृषीकेशं तदा वाक्यमिदमाह महीपते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=21"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.35",
+                "text": "नमस्कृत्वा भूय एवाह कृष्णम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=35"
             }
         ],
         "plot_2_1_ब्रूहि": [
@@ -63,6 +69,52 @@
                 "num": "2.7",
                 "text": "यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
+            }
+        ],
+        "plat_1_3_आहुः": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.42",
+                "text": "इन्द्रियाणि पराण्याहुः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=42"
+            }
+        ],
+        "plrut_3_1_वक्ष्यामि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.16",
+                "text": "तत्ते कर्म प्रवक्ष्यामि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "7.2",
+                "text": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=2"
+            }
+        ],
+        "alrut_3_1_वक्ष्ये": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.11",
+                "text": "तत्ते पदं संग्रहेण प्रवक्ष्ये",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=11"
+            }
+        ],
+        "plat_2_1_ब्रवीषि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.13",
+                "text": "असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=13"
+            }
+        ],
+        "plot_1_1_ब्रूहि": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.1",
+                "text": "यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=1"
             }
         ]
     }

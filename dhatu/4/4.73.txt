@@ -31,6 +31,18 @@
                 "num": "2.19",
                 "text": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "3.27",
+                "text": "अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=27"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.22",
+                "text": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=22"
             }
         ],
         "alat_3_1_मन्ये": [
@@ -39,6 +51,54 @@
                 "num": "7",
                 "text": "त्वदन्यं न मन्ये न मन्ये न मन्ये",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "10.14",
+                "text": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=14"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "6.34",
+                "text": "तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=34"
+            }
+        ],
+        "alat_2_1_मन्यसे": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.26",
+                "text": "नित्यं वा मन्यसे मृतम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=26"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.59",
+                "text": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=59"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "11.4",
+                "text": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=4"
+            }
+        ],
+        "alrut_1_3_मंस्यन्ते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.35",
+                "text": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=35"
+            }
+        ],
+        "avidhiling_1_1_मन्येत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "5.6",
+                "text": "नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=6"
             }
         ]
     }

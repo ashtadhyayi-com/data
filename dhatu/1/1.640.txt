@@ -32,6 +32,30 @@
                 "text": "क्रीडाशैले यदि च विचरेत्पादचारेण गौरी",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#63"
             }
+        ],
+        "plat_1_3_चरन्ति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "8.11",
+                "text": "यदिच्छन्तो ब्रह्मचर्यं चरन्ति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=11"
+            }
+        ],
+        "plat_1_1_चरति": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.21",
+                "text": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=21"
+            }
+        ],
+        "plot_2_1_चर": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.9",
+                "text": "तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=9"
+            }
         ]
     }
 }

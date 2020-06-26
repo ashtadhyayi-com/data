@@ -23,5 +23,35 @@
     "plung": "",
     "alung": "अयुक्त;अयुक्षाताम्;अयुक्षत;अयुक्थाः;अयुक्षाथाम्;अयुग्ध्वम्;अयुक्षि;अयुक्ष्वहि;अयुक्ष्महि",
     "plrung": "",
-    "alrung": "अयोक्ष्यत;अयोक्ष्येताम्;अयोक्ष्यन्त;अयोक्ष्यथाः;अयोक्ष्येथाम्;अयोक्ष्यध्वम्;अयोक्ष्ये;अयोक्ष्यावहि;अयोक्ष्यामहि"
+    "alrung": "अयोक्ष्यत;अयोक्ष्येताम्;अयोक्ष्यन्त;अयोक्ष्यथाः;अयोक्ष्येथाम्;अयोक्ष्यध्वम्;अयोक्ष्ये;अयोक्ष्यावहि;अयोक्ष्यामहि",
+    "examples": {
+        "alat_1_1_युज्यते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "10.7",
+                "text": "सोऽविकम्पेन योगेन युज्यते नात्र संशयः",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=7"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "17.26",
+                "text": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=17&field_nsutra_value=26"
+            }
+        ],
+        "alot_2_1_युज्यस्व": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.38",
+                "text": "ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=38"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.50",
+                "text": "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=50"
+            }
+        ]
+    }
 }

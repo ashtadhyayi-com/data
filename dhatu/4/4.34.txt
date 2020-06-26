@@ -23,5 +23,21 @@
     "plung": "",
     "alung": "अलेष्ट;अलेषाताम्;अलेषत;अलेष्ठाः;अलेषाथाम्;अलेढ्वम्;अलेषि,अलासि;अलेष्वहि;अलेष्महि",
     "plrung": "",
-    "alrung": "अलेष्यत;अलेष्येताम्;अलेष्यन्त;अलेष्यथाः;अलेष्येथाम्;अलेष्यध्वम्;अलेष्ये;अलेष्यावहि;अलेष्यामहि"
+    "alrung": "अलेष्यत;अलेष्येताम्;अलेष्यन्त;अलेष्यथाः;अलेष्येथाम्;अलेष्यध्वम्;अलेष्ये;अलेष्यावहि;अलेष्यामहि",
+    "examples": {
+        "alat_1_1_लीयते": [
+            {
+                "book": "भगवद्गीता",
+                "num": "4.23",
+                "text": "यज्ञायाचरतः कर्म समग्रं प्रविलीयते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=23"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "8.19",
+                "text": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=19"
+            }
+        ]
+    }
 }
