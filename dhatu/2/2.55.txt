@@ -29,7 +29,7 @@
             {
                 "book": "भगवद्गीता",
                 "num": "11.31",
-                "text": "आख्याहि मे को भवानुग्ररूपो",
+                "text": "आख्याहि मे को भवानुग्ररूपः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
             }
         ]
