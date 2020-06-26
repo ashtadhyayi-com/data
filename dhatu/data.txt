@@ -19143,7 +19143,7 @@
         "gana": "1",
         "pada": "P",
         "settva": "S",
-        "karma": "S",
+        "karma": "A",
         "artha": "कम्पने",
         "artha_english": "to move, to shake, to walk",
         "split_artha": "कल्पने,कम्पने",
