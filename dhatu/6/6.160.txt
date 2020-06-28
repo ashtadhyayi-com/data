@@ -54,6 +54,22 @@
                 "text": "क्षीणे पुण्ये मर्त्यलोकं विशन्ति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=21"
             }
+        ],
+        "plat_1_1_विशति": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.42",
+                "text": "संकल्पैस्तैर्विशति विधिना वैरिणा रुद्धमार्गः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#42"
+            }
+        ],
+        "plrut_3_2_वेक्ष्यावः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.50",
+                "text": "निर्वेक्ष्यावः परिणतशरच्चन्द्रिकासु क्षपासु",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#50"
+            }
         ]
     }
 }

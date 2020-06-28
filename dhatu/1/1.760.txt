@@ -31,6 +31,12 @@
                 "num": "12.17",
                 "text": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=17"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.18",
+                "text": "काङ्क्षत्यन्यो वदनमदिरां दोहदच्छद्मनास्याः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#18"
             }
         ]
     }

@@ -32,6 +32,14 @@
                 "text": "उपदेक्ष्यन्ति ते ज्ञानम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=34"
             }
+        ],
+        "plat_2_1_दिशसि": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.54",
+                "text": "निःशब्दोऽपि प्रदिशसि जलं याचितश्चातकेभ्यः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#54"
+            }
         ]
     }
 }

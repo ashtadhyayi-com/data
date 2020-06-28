@@ -79,6 +79,12 @@
                 "num": "6.37",
                 "text": "अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=37"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.49",
+                "text": "नीचैर्गच्छत्युपरि च दशा चक्रनेमिक्रमेण",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#49"
             }
         ]
     }

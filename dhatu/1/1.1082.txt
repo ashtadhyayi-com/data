@@ -56,6 +56,22 @@
                 "text": "कविं पुराणमनुशासितार मणोरणीयांसमनुस्मरेद्यः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=9"
             }
+        ],
+        "plat_2_1_स्मरसि": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.25",
+                "text": "कच्चिद् भर्तुः स्मरसि रसिके त्वं हि तस्य प्रियेति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#25"
+            }
+        ],
+        "plat_3_1_स्मरामि": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.17",
+                "text": "प्रेक्ष्योपान्तस्फुरिततडितं त्वां तमेव स्मरामि",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#17"
+            }
         ]
     }
 }

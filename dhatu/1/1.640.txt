@@ -55,6 +55,12 @@
                 "num": "3.9",
                 "text": "तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=9"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.55",
+                "text": "इष्टान्देशाञ्जलद विचर प्रावृषा संभृतश्रीः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#55"
             }
         ]
     }

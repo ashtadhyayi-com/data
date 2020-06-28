@@ -31,6 +31,12 @@
                 "num": "15.17",
                 "text": "यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=17"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.24",
+                "text": "इन्दोर्दैन्यं त्वदनुसरणक्लिष्टकान्तेर्बिभर्ति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#24"
             }
         ]
     }

@@ -32,6 +32,14 @@
                 "text": "पृच्छामि त्वां धर्मसंमूढचेताः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
             }
+        ],
+        "plat_1_1_पृच्छति": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.41",
+                "text": "अव्यापन्नः कुशलमबले पृच्छति त्वां वियुक्तः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#41"
+            }
         ]
     }
 }
