@@ -57,6 +57,12 @@
                 "num": "5.13",
                 "text": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=13"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.19",
+                "text": "यामध्यास्ते दिवसविगमे नीलकण्ठः सुहृद्वः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#19"
             }
         ],
         "avidhiling_1_1_आसीत": [

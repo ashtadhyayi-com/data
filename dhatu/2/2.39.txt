@@ -61,6 +61,12 @@
                 "num": "11.35",
                 "text": "नमस्कृत्वा भूय एवाह कृष्णम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=35"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.43",
+                "text": "त्वामुत्कण्ठाविरचितपदं मन्मुखेनेदमाह",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#43"
             }
         ],
         "plot_2_1_ब्रूहि": [
@@ -115,6 +121,14 @@
                 "num": "5.1",
                 "text": "यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=1"
+            }
+        ],
+        "pvidhiling_2_1_ब्रूयाः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.41",
+                "text": "ब्रूया एवं तव सहचरो रामगिर्याश्रमस्थः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#41"
             }
         ]
     }

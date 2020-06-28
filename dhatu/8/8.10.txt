@@ -139,6 +139,12 @@
                 "num": "4.20",
                 "text": "कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=20"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.34",
+                "text": "वाचालं मां न खलु सुभगंमन्यभावः करोति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#34"
             }
         ],
         "plat_3_1_करोमि": [

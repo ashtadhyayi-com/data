@@ -83,6 +83,12 @@
                 "num": "11.12",
                 "text": "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=12"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.47",
+                "text": "पूर्वं स्पृष्टं यदि किल भवेदङ्गमेभिस्तवेति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#47"
             }
         ],
         "plit_1_1_बभूव": [
@@ -127,6 +133,12 @@
                 "num": "1.34",
                 "text": "हैमं तालद्रुमवनमभूदत्र तस्यैव राज्ञः ।",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#34"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.55",
+                "text": "र्मा भूदेवं क्षणमपि च ते विद्युता विप्रयोगः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#55"
             }
         ],
         "plung_2_1_अभूः": [
@@ -195,6 +207,14 @@
                 "num": "2.45",
                 "text": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=45"
+            }
+        ],
+        "plung_2_1_अगमः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.49",
+                "text": "तत्कल्याणि त्वमपि नितरां मा गमः कातरत्वम्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#49"
             }
         ]
     }

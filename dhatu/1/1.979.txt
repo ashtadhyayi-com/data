@@ -37,6 +37,18 @@
                 "num": "16.16",
                 "text": "प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=16"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.8",
+                "text": "धूमोद्गारानुकृतिनिपुणा जर्जरा निष्पतन्ति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#8"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.46",
+                "text": "मुक्तास्थूलास्तरुकिसलयेष्वश्रुलेशाः पतन्ति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#46"
             }
         ],
         "plrut_2_1_पत": [

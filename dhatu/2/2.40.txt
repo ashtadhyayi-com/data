@@ -79,6 +79,12 @@
                 "num": "18.68",
                 "text": "भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=68"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.35",
+                "text": "मीनक्षोभाचलकुवलयश्रीतुलामेष्यतीति",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#35"
             }
         ]
     }

@@ -122,6 +122,14 @@
                 "text": "स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=15"
             }
+        ],
+        "alot_2_1_विद्धि": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.39",
+                "text": "भर्तुर्मित्रं प्रियमविधवे विद्धि मामम्बुवाहं",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#39"
+            }
         ]
     }
 }

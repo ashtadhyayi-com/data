@@ -54,6 +54,14 @@
                 "text": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=26"
             }
+        ],
+        "alat_1_3_सेवन्ते": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.5",
+                "text": "आसेवन्ते मधु रतिफलं कल्पवृक्षप्रसूतं",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#5"
+            }
         ]
     }
 }

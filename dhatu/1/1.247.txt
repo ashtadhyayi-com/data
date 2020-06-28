@@ -46,6 +46,14 @@
                 "text": "किमासीत व्रजेत किम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
             }
+        ],
+        "pvidhiling_1_3_व्रजेयुः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.45a",
+                "text": "घर्मान्तेऽस्मिन् विगणय कथं वासराणि व्रजेयुः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#45a"
+            }
         ]
     }
 }

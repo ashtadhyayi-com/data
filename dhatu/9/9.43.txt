@@ -67,6 +67,12 @@
                 "num": "18.65",
                 "text": "मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=65"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.34",
+                "text": "जाने सख्यास्तव मयि मनः संभृतस्नेहमस्माद्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#34"
             }
         ],
         "plat_1_1_जानाति": [
@@ -99,6 +105,14 @@
                 "num": "9.31",
                 "text": "कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=31"
+            }
+        ],
+        "avidhiling_2_1_जानीथाः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.23",
+                "text": "तां जानीथाः परिमितकथां जीवितं मे द्वितीयं",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#23"
             }
         ]
     }
