@@ -47,6 +47,12 @@
                 "num": "8.14",
                 "text": "अनन्यचेताः सततं यो मां स्मरति नित्यशः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=14"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.68",
+                "text": "स्मरत्यदो दाशरथिर्भवन्‌ भवानमुम्‌\r\n",
+                "external": ""
             }
         ],
         "plot_2_1_स्मर": [

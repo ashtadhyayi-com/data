@@ -31,6 +31,12 @@
                 "num": "1.13",
                 "text": "सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=13"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.24",
+                "text": "स पुण्डरीकाक्ष इति स्फुटोऽभवत्‌\r\n",
+                "external": ""
             }
         ],
         "plat_1_1_भवति": [
@@ -97,6 +103,12 @@
                 "num": "2.9",
                 "text": "न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=9"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.48",
+                "text": "बभूव रक्षः क्षतरक्षणं दिवः\r\n",
+                "external": ""
             }
         ],
         "plrut_3_3_भविष्यामः": [
@@ -139,6 +151,12 @@
                 "num": "2.55",
                 "text": "र्मा भूदेवं क्षणमपि च ते विद्युता विप्रयोगः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#55"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.42",
+                "text": "अभूदभूमिः प्रतिपक्षजन्मनां\r\n",
+                "external": ""
             }
         ],
         "plung_2_1_अभूः": [
@@ -199,6 +217,12 @@
                 "num": "8.18",
                 "text": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=18"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.14",
+                "text": "भवन्ति नापुण्यकृतां मनीषिणः\r\n",
+                "external": ""
             }
         ],
         "plot_2_1_भव": [
@@ -215,6 +239,14 @@
                 "num": "2.49",
                 "text": "तत्कल्याणि त्वमपि नितरां मा गमः कातरत्वम्",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#49"
+            }
+        ],
+        "plit_1_2_बभूवतुः": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.22",
+                "text": "तदैकवर्णाविव तौ बभूवतुः\r\n",
+                "external": ""
             }
         ]
     }

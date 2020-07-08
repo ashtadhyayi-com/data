@@ -70,6 +70,22 @@
                 "text": "मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=3"
             }
+        ],
+        "plot_1_1_दधातु ": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.74",
+                "text": "दधातु पुनः पुरन्दरस्य\r\n",
+                "external": ""
+            }
+        ],
+        "plot_1_1_धेहि": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.73",
+                "text": "विधेहि कीनाशनिवेशनातिथिम्‌\r\n",
+                "external": ""
+            }
         ]
     }
 }

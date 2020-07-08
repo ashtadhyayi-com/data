@@ -46,6 +46,22 @@
                 "text": "प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=33"
             }
+        ],
+        "plit_1_1_चकार": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.5",
+                "text": "वरप्रदानस्य चकार शूलिनः\r\n",
+                "external": ""
+            }
+        ],
+        "alit_1_1_चक्रे": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.51",
+                "text": "विगृह्य चक्रे नमुचिद्‍विषा वशी\r\n",
+                "external": ""
+            }
         ]
     }
 }

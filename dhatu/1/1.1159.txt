@@ -54,6 +54,14 @@
                 "text": "तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=22"
             }
+        ],
+        "plit_1_1_उवाह": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.57",
+                "text": "उवाह दुःखेन भृशानतं शिरः\r\n",
+                "external": ""
+            }
         ]
     }
 }

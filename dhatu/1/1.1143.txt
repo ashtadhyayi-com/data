@@ -57,6 +57,12 @@
                 "num": "11.13",
                 "text": "अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=13"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.15",
+                "text": "न यावदेतावुदपश्यदुत्थितौ\r\n",
+                "external": ""
             }
         ],
         "plat_3_1_पश्यामि": [
@@ -129,6 +135,12 @@
                 "num": "1.2",
                 "text": "वप्रक्रीडापरिणतगजप्रेक्षणीयं ददर्श",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#2"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.1",
+                "text": "ददर्शावतरन्तमम्बराद्\r\n",
+                "external": ""
             }
         ],
         "plrut_2_1_द्रक्ष्यसि": [

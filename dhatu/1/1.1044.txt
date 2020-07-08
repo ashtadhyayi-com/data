@@ -32,6 +32,14 @@
                 "text": "पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=36"
             }
+        ],
+        "plung_1_1_अशिश्रियत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.46",
+                "text": "यदृच्छयाशिश्रियदाश्रयः श्रियः\r\n",
+                "external": ""
+            }
         ]
     }
 }

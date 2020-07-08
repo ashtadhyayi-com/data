@@ -84,6 +84,14 @@
                 "text": "मनः संयम्य मच्चित्तो युक्त आसीत मत्परः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=14"
             }
+        ],
+        "alang_1_3_आसत": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.23",
+                "text": "जगन्ति यस्यां सविकासमासत\r\n",
+                "external": ""
+            }
         ]
     }
 }

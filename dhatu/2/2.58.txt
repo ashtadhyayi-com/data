@@ -46,6 +46,14 @@
                 "text": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=2"
             }
+        ],
+        "plung_1_1_अवोचत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.25",
+                "text": "शुचिस्मितां वाचमवोचदच्युतः\r\n",
+                "external": ""
+            }
         ]
     }
 }
