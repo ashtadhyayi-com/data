@@ -48,6 +48,14 @@
                 "text": "ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=26"
             }
+        ],
+        "plit_1_1_निनाय": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.53",
+                "text": "निनाय बिभ्यद्‌ दिवसानि कौशिकः\r\n",
+                "external": ""
+            }
         ]
     }
 }

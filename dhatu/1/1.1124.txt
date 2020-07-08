@@ -54,6 +54,14 @@
                 "text": "मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=14"
             }
+        ],
+        "plang_2_1_अतरः": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.36",
+                "text": "अमूं किल त्वं त्रिदिवादवातरः\r\n",
+                "external": ""
+            }
         ]
     }
 }

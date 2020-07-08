@@ -46,6 +46,14 @@
                 "text": " प्रसीद देवेश जगन्निवास",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=25"
             }
+        ],
+        "plung_1_1_असदत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.11",
+                "text": "समासदत्‌ सादितदैत्यसम्पदः\r\n",
+                "external": ""
+            }
         ]
     }
 }

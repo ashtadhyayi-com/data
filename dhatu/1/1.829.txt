@@ -32,6 +32,14 @@
                 "text": "संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=1"
             }
+        ],
+        "plit_1_1_शशंस": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.52",
+                "text": " बलस्य शत्रुः प्रशशंस शीघ्रताम्‌\r\n",
+                "external": ""
+            }
         ]
     }
 }

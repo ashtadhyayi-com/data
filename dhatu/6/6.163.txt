@@ -32,6 +32,14 @@
                 "text": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=29"
             }
+        ],
+        "plung_1_1_असदत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.11",
+                "text": "समासदत्‌ सादितदैत्यसम्पदः\r\n",
+                "external": ""
+            }
         ]
     }
 }

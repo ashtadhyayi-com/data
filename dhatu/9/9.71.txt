@@ -40,6 +40,14 @@
                 "text": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=19"
             }
+        ],
+        "plung_1_1_अग्रहीत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.18",
+                "text": "पटीयसीर्नतेन मूर्ध्ना हरिरग्रहीदपः\r\n",
+                "external": ""
+            }
         ]
     }
 }

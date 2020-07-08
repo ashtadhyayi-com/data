@@ -100,6 +100,14 @@
                 "text": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=11"
             }
+        ],
+        "alit_1_3_पेदिरे": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.56",
+                "text": "जवेन कण्ठं सभयं प्रप्रेदिर\r\n",
+                "external": ""
+            }
         ]
     }
 }

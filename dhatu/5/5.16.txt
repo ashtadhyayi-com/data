@@ -84,6 +84,14 @@
                 "text": "परस्परं भावयन्तः श्रेयः परमवाप्स्यथ",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=11"
             }
+        ],
+        "plit_1_3_आपुः ": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.44",
+                "text": "अवापुरारभ्य ततश्चला इति\r\n",
+                "external": ""
+            }
         ]
     }
 }

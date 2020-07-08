@@ -55,6 +55,12 @@
                 "num": "3.2",
                 "text": "तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=2"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.3",
+                "text": "वदेति वक्तुं व्यवसीयते यया\r\n",
+                "external": ""
             }
         ],
         "plat_1_3_वदन्ति": [

@@ -54,6 +54,14 @@
                 "text": "न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=35"
             }
+        ],
+        "plit_1_1_मुमोच": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.67",
+                "text": "मुमोच जानन्नपि जानकीं न यः\r\n",
+                "external": ""
+            }
         ]
     }
 }

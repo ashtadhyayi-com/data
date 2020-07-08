@@ -38,6 +38,14 @@
                 "text": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=19"
             }
+        ],
+        "alang_1_1_अलीयत": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.12",
+                "text": "पुरोऽस्य यावन्न भुवि व्यलीयत\r\n",
+                "external": ""
+            }
         ]
     }
 }

@@ -70,6 +70,14 @@
                 "text": "सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=24"
             }
+        ],
+        "plrut_1_1_हनिष्यति": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.68",
+                "text": "विलङ्घ्य लङ्कां निकषा हनिष्यति\r\n",
+                "external": ""
+            }
         ]
     }
 }

@@ -82,6 +82,14 @@
                 "text": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=53"
             }
+        ],
+        "plang_1_1_अतिष्ठत्": [
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.12",
+                "text": "जवेन पीठादुदतिष्ठदच्युतः\r\n",
+                "external": ""
+            }
         ]
     }
 }

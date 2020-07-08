@@ -49,6 +49,12 @@
                 "num": "6.27",
                 "text": "उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=27"
+            },
+            {
+                "book": "शिशुपालवधः ",
+                "num": "1.72",
+                "text": "पुमांसमभ्येति भवान्तरेष्वपि\r\n",
+                "external": ""
             }
         ],
         "pvidhiling_2_1_इयाः": [
