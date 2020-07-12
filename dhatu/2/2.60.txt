@@ -117,7 +117,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=3"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.4",
                 "text": "क्रमेण पेष्टुं भुवनद्विषामसि\r\n",
                 "external": ""
@@ -177,7 +177,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=21"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.29",
                 "text": "कृताथोऽस्मि निबृंहितांहसा\r\n",
                 "external": ""
@@ -199,7 +199,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=40"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.31",
                 "text": "किमस्ति कार्य्यं गुरु योगिनामपि\r\n",
                 "external": ""
@@ -207,7 +207,7 @@
         ],
         "plang_1_1_आसीत्": [
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.7",
                 "text": "स बालः आसीद्वपुषा चतुर्भुजः\r\n",
                 "external": ""
@@ -215,7 +215,7 @@
         ],
         "plung_1_1_अभूत्": [
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.42",
                 "text": "अभूदभूमिः प्रतिपक्षजन्मनां\r\n",
                 "external": ""

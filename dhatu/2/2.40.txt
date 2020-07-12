@@ -51,7 +51,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=27"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.72",
                 "text": "पुमांसमभ्येति भवान्तरेष्वपि\r\n",
                 "external": ""

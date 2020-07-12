@@ -59,7 +59,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=13"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.15",
                 "text": "न यावदेतावुदपश्यदुत्थितौ\r\n",
                 "external": ""
@@ -137,7 +137,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#2"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.1",
                 "text": "ददर्शावतरन्तमम्बराद्\r\n",
                 "external": ""
