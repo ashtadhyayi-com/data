@@ -47,7 +47,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=67"
             },
             {
-                "book": "शिशुपालवधः ",
+                "book": "शिशुपालवधम् ",
                 "num": "1.26",
                 "text": "हरत्ययं सम्प्रति हेतुरेष्यतः\r\n",
                 "external": ""

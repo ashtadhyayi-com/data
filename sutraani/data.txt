@@ -4192,7 +4192,7 @@
         "p": "4",
         "n": "39",
         "s": "राधीक्ष्योर्यस्य विप्रश्नः ",
-        "e": "raadheekshyoryasyaviprashnah",
+        "e": "raadhikshyoryasyaviprashnah",
         "skn": "577",
         "lskn": "0",
         "mskn": "0",
