@@ -40,6 +40,14 @@
                 "text": "यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=3"
             }
+        ],
+        "avidhiling_1_1_यतेत": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.76",
+                "text": "यतेताधातुमात्मनि\r\n",
+                "external": ""
+            }
         ]
     }
 }

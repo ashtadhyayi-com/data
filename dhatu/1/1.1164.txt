@@ -57,7 +57,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=2"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.3",
                 "text": "वदेति वक्तुं व्यवसीयते यया\r\n",
                 "external": ""
@@ -69,6 +69,14 @@
                 "num": "2.42",
                 "text": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=42"
+            }
+        ],
+        "plang_1_3_अवदन्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.67",
+                "text": "भयादन्ववदन्निव\r\n",
+                "external": ""
             }
         ]
     }

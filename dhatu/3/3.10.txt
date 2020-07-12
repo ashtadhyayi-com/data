@@ -69,6 +69,12 @@
                 "num": "5.15",
                 "text": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=15"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.85",
+                "text": "प्रदीपः स्नेहमादत्ते\r\n",
+                "external": ""
             }
         ]
     }

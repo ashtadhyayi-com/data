@@ -61,6 +61,12 @@
                 "num": "6.29",
                 "text": "ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=29"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.86",
+                "text": "द्वयं विद्वानपेक्षते\r\n",
+                "external": ""
             }
         ],
         "alat_1_3_ईक्षन्ते": [

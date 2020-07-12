@@ -40,6 +40,14 @@
                 "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
             }
+        ],
+        "plat_1_3_जुह्वति": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.107",
+                "text": "मन्त्रजिह्वेषु जुह्वति\r\n",
+                "external": ""
+            }
         ]
     }
 }

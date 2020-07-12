@@ -47,7 +47,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=67"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.26",
                 "text": "हरत्ययं सम्प्रति हेतुरेष्यतः\r\n",
                 "external": ""
@@ -89,6 +89,14 @@
                 "num": "2.60",
                 "text": "इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=60"
+            }
+        ],
+        "plang_1_1_अहरत्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.4",
+                "text": "यत्‌ स दारानपाहरत्‌\r\n",
+                "external": ""
             }
         ]
     }

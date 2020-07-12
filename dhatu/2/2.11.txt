@@ -37,6 +37,12 @@
                 "num": "12.1",
                 "text": "एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=1"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.42",
+                "text": "नरोऽरौ य उदासते\r\n",
+                "external": ""
             }
         ],
         "alat_1_1_आस्ते": [
@@ -87,9 +93,17 @@
         ],
         "alang_1_3_आसत": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.23",
                 "text": "जगन्ति यस्यां सविकासमासत\r\n",
+                "external": ""
+            }
+        ],
+        "alit_1_3_आसामासुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.5",
+                "text": "अध्यासामासुरुत्तुङ्गहेमपीठानि\r\n",
                 "external": ""
             }
         ]

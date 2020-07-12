@@ -106,6 +106,14 @@
                 "text": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=11"
             }
+        ],
+        "alit_1_1_भेजे": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.3",
+                "text": "भेजे भितः पातुकसिद्धसिन्धोः\r\n",
+                "external": ""
+            }
         ]
     }
 }

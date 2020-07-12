@@ -65,6 +65,12 @@
                 "num": "8.21",
                 "text": "यं प्राप्य न निवर्तन्ते तद्धाम परमं मम",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=21"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.87",
+                "text": "स्थायिनोऽर्थे प्रवर्तन्ते\r\n",
+                "external": ""
             }
         ],
         "avidhiling_1_1_वर्तेत": [

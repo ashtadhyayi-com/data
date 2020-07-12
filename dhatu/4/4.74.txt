@@ -52,6 +52,14 @@
                 "text": "तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=50"
             }
+        ],
+        "alang_1_1_अयुज्यत ": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.2",
+                "text": "स्प्रष्टुं जगत्पूज्यमयुज्यतार्कः\r\n",
+                "external": ""
+            }
         ]
     }
 }

@@ -38,6 +38,14 @@
                 "text": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=7"
             }
+        ],
+        "alat_1_3_रभन्ते": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.79",
+                "text": "आरभन्तेऽल्पमेवाज्ञाः\r\n",
+                "external": ""
+            }
         ]
     }
 }

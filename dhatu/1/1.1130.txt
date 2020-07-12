@@ -82,6 +82,14 @@
                 "text": "गतागतं कामकामा लभन्ते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=21"
             }
+        ],
+        "alot_1_1_लभताम्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.117",
+                "text": "शलभतां लभतामसुहृद्गणः\r\n",
+                "external": ""
+            }
         ]
     }
 }

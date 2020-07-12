@@ -52,6 +52,14 @@
                 "text": "न च मां तानि कर्माणि निबध्नन्ति धनञ्जय",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=9"
             }
+        ],
+        "plit_1_1_बबन्ध": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.36",
+                "text": "रत्नावलीरम्बुधिराबबन्ध\r\n",
+                "external": ""
+            }
         ]
     }
 }

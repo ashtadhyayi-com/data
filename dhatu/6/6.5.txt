@@ -32,6 +32,22 @@
                 "text": "क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=19"
             }
+        ],
+        "alit_1_3_चिक्षिपिरे": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.77",
+                "text": "ध्वजानिवोच्चिक्षिपिरे फणीन्द्राः\r\n",
+                "external": ""
+            }
+        ],
+        "plit_1_3_चिक्षिपुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.29",
+                "text": "मुहुर्यदु्च्चिक्षिपुरग्रपादौ\r\n",
+                "external": ""
+            }
         ]
     }
 }

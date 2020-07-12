@@ -117,7 +117,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=3"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.4",
                 "text": "क्रमेण पेष्टुं भुवनद्विषामसि\r\n",
                 "external": ""
@@ -135,6 +135,12 @@
                 "num": "9.32",
                 "text": "येऽपि स्युः पापयोनयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=32"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.116",
+                "text": "भूभुजः स्युः\r\n",
+                "external": ""
             }
         ],
         "pvidhiling_2_1_स्याः": [
@@ -151,6 +157,12 @@
                 "num": "11.31",
                 "text": "नमोऽस्तु ते देववर प्रसीद",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.45",
+                "text": "तस्याजननिरेवास्तु\r\n",
+                "external": ""
             }
         ],
         "plat_1_3_भविष्यन्ति": [
@@ -177,7 +189,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=21"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.29",
                 "text": "कृताथोऽस्मि निबृंहितांहसा\r\n",
                 "external": ""
@@ -199,15 +211,21 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=40"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.31",
                 "text": "किमस्ति कार्य्यं गुरु योगिनामपि\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.28",
+                "text": "नास्ति मन्त्रो महीभृताम्\r\n",
                 "external": ""
             }
         ],
         "plang_1_1_आसीत्": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.7",
                 "text": "स बालः आसीद्वपुषा चतुर्भुजः\r\n",
                 "external": ""
@@ -215,9 +233,25 @@
         ],
         "plung_1_1_अभूत्": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.42",
                 "text": "अभूदभूमिः प्रतिपक्षजन्मनां\r\n",
+                "external": ""
+            }
+        ],
+        "plang_1_1_आसीत्‌": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.69",
+                "text": "नेष्टं पुरो द्वारवतीत्वमासीत्‌\r\n",
+                "external": ""
+            }
+        ],
+        "pvidhiling_1_2_स्याताम्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.36",
+                "text": "स्याताममित्रौ मित्रे च\r\n",
                 "external": ""
             }
         ]

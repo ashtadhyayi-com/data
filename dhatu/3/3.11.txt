@@ -33,7 +33,7 @@
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.73",
                 "text": "विधेहि कीनाशनिवेशनातिथिम्‌\r\n",
                 "external": ""
@@ -79,9 +79,17 @@
         ],
         "plot_1_1_दधातु ": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.74",
                 "text": "दधातु पुनः पुरन्दरस्य\r\n",
+                "external": ""
+            }
+        ],
+        "plit_1_3_दधुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.56",
+                "text": "आकाशसाम्यं दधुरम्बराणि\r\n",
                 "external": ""
             }
         ]
