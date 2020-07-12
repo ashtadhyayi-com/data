@@ -39,6 +39,12 @@
                 "num": "6.10",
                 "text": "योगी युञ्जीत सततमात्मानं रहसि स्थितः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=10"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.93",
+                "text": "षाड्गुण्यमुपयुञ्जीत\r\n",
+                "external": ""
             }
         ],
         "pvidhiling_1_1_युञ्ज्यात्": [

@@ -38,6 +38,14 @@
                 "text": "अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=17&field_nsutra_value=17"
             }
+        ],
+        "alit_1_1_ चचक्षे": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.6",
+                "text": "तमाचचक्षे विचक्षणः\r\n",
+                "external": ""
+            }
         ]
     }
 }

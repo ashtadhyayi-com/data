@@ -57,6 +57,12 @@
                 "num": "3.31",
                 "text": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=31"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.79",
+                "text": "तिष्ठन्ति च निराकुलाः\r\n",
+                "external": ""
             }
         ],
         "plat_2_1_तिष्ठसि": [
@@ -85,9 +91,17 @@
         ],
         "plang_1_1_अतिष्ठत्": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.12",
                 "text": "जवेन पीठादुदतिष्ठदच्युतः\r\n",
+                "external": ""
+            }
+        ],
+        "plung_1_1_अस्थात्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.118",
+                "text": "जनितमुदस्थादुच्चकैः\r\n",
                 "external": ""
             }
         ]

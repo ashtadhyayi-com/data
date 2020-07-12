@@ -59,9 +59,15 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=13"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.15",
                 "text": "न यावदेतावुदपश्यदुत्थितौ\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.7",
+                "text": "पारेजलं नीरनिधेरपश्यत्‌\r\n",
                 "external": ""
             }
         ],
@@ -137,9 +143,15 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#2"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.1",
                 "text": "ददर्शावतरन्तमम्बराद्\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.74",
+                "text": "सोऽम्भांसि मेधान्‌ पिबतो ददर्श\r\n",
                 "external": ""
             }
         ],
@@ -169,6 +181,12 @@
                 "num": "5.5",
                 "text": "एकं सांख्यं च योगं च यः पश्यति स पश्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=5"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.71",
+                "text": "बहुकृतान्‌ स्वानिव पश्यति स्म\r\n",
+                "external": ""
             }
         ],
         "pvidhiling_1_1_पश्येत्": [

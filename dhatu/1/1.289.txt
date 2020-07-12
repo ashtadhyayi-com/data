@@ -32,6 +32,14 @@
                 "text": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=33"
             }
+        ],
+        "alang_1_1_अचेष्टत": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.28",
+                "text": "अचेष्टताष्टापदभूमिरेणुः\r\n",
+                "external": ""
+            }
         ]
     }
 }

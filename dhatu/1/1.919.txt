@@ -49,7 +49,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=14"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.68",
                 "text": "स्मरत्यदो दाशरथिर्भवन्‌ भवानमुम्‌\r\n",
                 "external": ""

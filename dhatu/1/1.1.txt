@@ -33,9 +33,15 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=13"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.24",
                 "text": "स पुण्डरीकाक्ष इति स्फुटोऽभवत्‌\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.82",
+                "text": "तदाभवदन्तरं महत्\r\n",
                 "external": ""
             }
         ],
@@ -105,9 +111,21 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=9"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.48",
                 "text": "बभूव रक्षः क्षतरक्षणं दिवः\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.13",
+                "text": "बभूव सर्वाङ्गसङ्गिन्यपरैव लक्ष्मीः\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.16",
+                "text": "सा सा ह्रिया नम्रमुखी बभूव\r\n",
                 "external": ""
             }
         ],
@@ -153,9 +171,21 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#55"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.42",
                 "text": "अभूदभूमिः प्रतिपक्षजन्मनां\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.12",
+                "text": "प्रसाधितस्याथ मुरद्विषोऽभूत्‌\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.19",
+                "text": "तस्यैव स नन्दकोऽभूत्\r\n",
                 "external": ""
             }
         ],
@@ -219,9 +249,21 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=18"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.14",
                 "text": "भवन्ति नापुण्यकृतां मनीषिणः\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.79",
+                "text": "कामं व्यग्रा भवन्ति च\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.93",
+                "text": "भवन्त्यस्यैवमङ्गानि\r\n",
                 "external": ""
             }
         ],
@@ -243,9 +285,33 @@
         ],
         "plit_1_2_बभूवतुः": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.22",
                 "text": "तदैकवर्णाविव तौ बभूवतुः\r\n",
+                "external": ""
+            }
+        ],
+        "plang_1_1_अभवत्‌": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.7",
+                "text": "स्नपितेवाभवत्‌ तस्य\r\n",
+                "external": ""
+            }
+        ],
+        "plang_1_1_अभवत्‌ ": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.2",
+                "text": "विधेयमस्याभवदन्तिकस्थम्‌\r\n",
+                "external": ""
+            }
+        ],
+        "plat_1_3_भवन्तु": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.24",
+                "text": " भाष्यभूता भवन्तु मे\r\n",
                 "external": ""
             }
         ]

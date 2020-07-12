@@ -33,7 +33,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.31",
                 "text": "इति ब्रुवन्तं तमुवाच स व्रती\r\n",
                 "external": ""
@@ -139,9 +139,17 @@
         ],
         "plung_1_1_अवोचत्": [
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.25",
                 "text": "शुचिस्मितां वाचमवोचदच्युतः\r\n",
+                "external": ""
+            }
+        ],
+        "plat_1_3_आहुः ": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.57",
+                "text": "यात्रामाहुरुदासीनम्‌\r\n",
                 "external": ""
             }
         ]

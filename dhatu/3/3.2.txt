@@ -32,6 +32,14 @@
                 "text": "नन्वहं नैव मृत्योर्बिभेमि",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "plit_1_3_बिभ्युः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.45",
+                "text": "बिभ्युर्बिडालेक्षणभीषणाभ्यः\r\n",
+                "external": ""
+            }
         ]
     }
 }

@@ -31,6 +31,12 @@
                 "num": "3.16",
                 "text": "अघायुरिन्द्रियारामो मोघं पार्थ स जीवति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=16"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.45",
+                "text": "दुःखदग्धोऽपि जीवति\r\n",
+                "external": ""
             }
         ]
     }

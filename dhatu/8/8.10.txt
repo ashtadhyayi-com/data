@@ -55,9 +55,15 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#1"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.51",
                 "text": "विगृह्य चक्रे नमुचिद्‍विषा वशी\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.42",
+                "text": "चक्रे प्रजाः स्वाः सनिमेषचिह्नाः\r\n",
                 "external": ""
             }
         ],
@@ -113,6 +119,12 @@
                 "num": "3.21",
                 "text": "स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=21"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.84",
+                "text": "असाध्यः कुरूते कोपम्‌\r\n",
+                "external": ""
             }
         ],
         "alrut_3_1_करिष्ये": [
@@ -153,9 +165,15 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#34"
             },
             {
-                "book": "शिशुपालवधम् ",
+                "book": "शिशुपालवधम्",
                 "num": "1.39",
                 "text": "करोति कंसादिमहीभृतां\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.31",
+                "text": "नवं नवं प्रीतिरहो करोति\r\n",
                 "external": ""
             }
         ],
@@ -165,6 +183,36 @@
                 "num": "5.8",
                 "text": "नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=8"
+            }
+        ],
+        "alat_1_3_कुर्वते": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.25",
+                "text": "वागीशानपि कुर्वते\r\n",
+                "external": ""
+            }
+        ],
+        "plit_1_3_चक्रुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.46",
+                "text": "चक्रुर्युवानः प्रतिबिम्बिताङ्गाः\r\n",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.48",
+                "text": "यस्यामलिन्देषु न चक्रुरेव\r\n",
+                "external": ""
+            }
+        ],
+        "plot_1_3_कुर्वन्तु": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.111",
+                "text": "विदांकुवन्तु महतस्तलम्‌\r\n",
+                "external": ""
             }
         ]
     }

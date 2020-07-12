@@ -54,6 +54,14 @@
                 "text": "यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=15"
             }
+        ],
+        "alot_1_1_यजताम्": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.65",
+                "text": "यजतां पाण्डवः स्वर्गम्‌\r\n",
+                "external": ""
+            }
         ]
     }
 }

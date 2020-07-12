@@ -83,6 +83,12 @@
                 "num": "11.4",
                 "text": "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=4"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.106",
+                "text": "मन्यसेऽरिवधः श्रेयान्\r\n",
+                "external": ""
             }
         ],
         "alrut_1_3_मंस्यन्ते": [

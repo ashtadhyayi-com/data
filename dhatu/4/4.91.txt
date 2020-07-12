@@ -31,6 +31,12 @@
                 "num": "1.40",
                 "text": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=40"
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.8",
+                "text": "नश्यन्त्यर्थाः प्रमाद्यतः\r\n",
+                "external": ""
             }
         ],
         "plat_1_1_नश्यति": [

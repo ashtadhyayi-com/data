@@ -80,6 +80,22 @@
                 "text": "बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=9"
             }
+        ],
+        "plit_1_1_इयेष": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.6",
+                "text": "यां रेवतीजानिरियेष हातुम्‌\r\n",
+                "external": ""
+            }
+        ],
+        "plit_1_3_ईषुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.29",
+                "text": "उल्लङ्घ्य गन्तुं तुरगास्तदीषुः\r\n",
+                "external": ""
+            }
         ]
     }
 }
