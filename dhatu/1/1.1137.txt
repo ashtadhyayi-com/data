@@ -31,6 +31,12 @@
                 "num": "2.3",
                 "text": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=3"
+            },
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.49",
+                "text": "तत्कल्याणि त्वमपि नितरां मा गमः कातरत्वम्",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#49"
             }
         ],
         "plut_2_1_गन्तासि": [
