@@ -156,12 +156,6 @@
                 "text": "नायं भूत्वा भविता वा न भूयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=20"
             },
-            {
-                "book": "मेघदूतम् (पूर्वमेघः)",
-                "num": "1.52",
-                "text": "अन्तःशुद्धस्त्वमपि भविता वर्णमात्रेण कृष्णः",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#52"
-            }
         ],
         "plung_1_1_अभूत्": [
             {
