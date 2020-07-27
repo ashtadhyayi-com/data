@@ -144,6 +144,14 @@
                 "text": "पुरान्निरीयुर्मुरजिद्ध्वजिन्यः",
                 "external": ""
             }
+        ],
+        "plung_2_1_अगाः": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "3",
+                "text": "दृष्ट्वा मा गा मोहावेशम् ",
+                "external": "https://nivedita2015.wordpress.com/2015/09/28/grammatical-aspects-in-bhaja-govindam-verse-3-naristanabhara/"
+            }
         ]
     }
 }

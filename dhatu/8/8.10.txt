@@ -89,6 +89,24 @@
                 "num": "2.48",
                 "text": "योगस्थः कुरु कर्माणि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=48"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "2",
+                "text": "कुरु सद्बुद्धिं मनसि वितृष्णाम्",
+                "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "25",
+                "text": "मा कुरु यत्नं विग्रहसन्धौ",
+                "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "30",
+                "text": "कुर्ववधानं महदवधानम्",
+                "external": "https://nivedita2015.wordpress.com/2015/12/06/grammatical-aspects-in-bhaja-govindam-verse-30-praanaayaamam-pratyaahaaram/"
             }
         ],
         "plat_1_3_कुर्वन्ति": [
@@ -125,6 +143,12 @@
                 "num": "2.84",
                 "text": "असाध्यः कुरूते कोपम्‌",
                 "external": ""
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "17",
+                "text": "कुरुते गङ्गासागरगमनम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/17/grammatical-aspects-in-bhaja-govindam-verse-17-kurute-gangaasaagaragamanam/"
             }
         ],
         "alrut_3_1_करिष्ये": [
@@ -175,6 +199,12 @@
                 "num": "3.31",
                 "text": "नवं नवं प्रीतिरहो करोति",
                 "external": ""
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "18",
+                "text": "कस्य सुखं न करोति विरागः",
+                "external": "https://nivedita2015.wordpress.com/2015/11/18/grammatical-aspects-in-bhaja-govindam-verse-18-suramandiratarumulanivaasah/"
             }
         ],
         "plat_3_1_करोमि": [
@@ -213,6 +243,14 @@
                 "num": "2.111",
                 "text": "विदांकुवन्तु महतस्तलम्‌",
                 "external": ""
+            }
+        ],
+        "plot_2_1_कुरु ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "11",
+                "text": "मा कुरु धनजनयौवनगर्वम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
             }
         ]
     }

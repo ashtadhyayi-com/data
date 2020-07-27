@@ -38,6 +38,14 @@
                 "text": "दुःखदग्धोऽपि जीवति",
                 "external": ""
             }
+        ],
+        "plat_1_1_जीवति ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "5",
+                "text": "पश्चाज्जीवति जर्जरदेहे",
+                "external": "https://nivedita2015.wordpress.com/2015/10/01/grammatical-aspects-in-bhaja-govindam-verse-5-yaavad-vittopaarjana-saktah/"
+            }
         ]
     }
 }

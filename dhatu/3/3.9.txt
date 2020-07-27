@@ -40,6 +40,14 @@
                 "text": "बुद्ध्यायुक्तो यया पार्थ कर्मबन्धं प्रहास्यसि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=39"
             }
+        ],
+        "plot_2_1_जहीहि ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "2",
+                "text": "मूढ जहीहि धनागमतृष्णाम्",
+                "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
+            }
         ]
     }
 }

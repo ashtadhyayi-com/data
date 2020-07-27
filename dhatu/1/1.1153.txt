@@ -53,6 +53,12 @@
                 "num": "6.31",
                 "text": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=31"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "17",
+                "text": "मुक्तिं न भजति जन्मशतेन",
+                "external": "https://nivedita2015.wordpress.com/2015/11/17/grammatical-aspects-in-bhaja-govindam-verse-17-kurute-gangaasaagaragamanam/"
             }
         ],
         "alat_1_1_भजते": [
@@ -113,6 +119,14 @@
                 "num": "3.3",
                 "text": "भेजे भितः पातुकसिद्धसिन्धोः",
                 "external": ""
+            }
+        ],
+        "plot_2_1_भज ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "1",
+                "text": "भज गोविन्दं भज गोविन्दम्",
+                "external": "https://nivedita2015.wordpress.com/2015/09/25/grammatical-aspects-in-bhaja-govindam-verse-1/"
             }
         ]
     }

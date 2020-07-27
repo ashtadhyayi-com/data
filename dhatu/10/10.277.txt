@@ -40,6 +40,20 @@
                 "text": "देवान्भावयतानेन ते देवा भावयन्तु वः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=11"
             }
+        ],
+        "plot_2_1_भावय": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "23",
+                "text": "इति परिभावय सर्वमसारम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/27/grammatical-aspects-in-bhaja-govindam-verse-23-kastvam-koham/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "29",
+                "text": "अर्थमनर्थं भावय नित्यम्",
+                "external": "https://nivedita2015.wordpress.com/2015/12/05/grammatical-aspects-in-bhaja-govindam-verse-29-arthamanartham-bhaavaya-nityam/"
+            }
         ]
     }
 }

@@ -32,6 +32,14 @@
                 "text": "भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=11"
             }
+        ],
+        "plat_1_1_रक्षति ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "1",
+                "text": "नहि नहि रक्षति डुकृञ्करणे ",
+                "external": "https://nivedita2015.wordpress.com/2015/09/25/grammatical-aspects-in-bhaja-govindam-verse-1/"
+            }
         ]
     }
 }

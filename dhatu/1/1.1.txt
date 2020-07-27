@@ -93,6 +93,12 @@
                 "num": "1.20",
                 "text": "रिक्तः सर्वो भवति हि लघुः पूर्णता गौरवाय",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "13",
+                "text": "भवति भवार्णवतरणे नौका",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-13-kaa-te-kaantaa-dhanagatachintaa/"
             }
         ],
         "pvidhiling_1_1_भवेत्": [
@@ -279,6 +285,18 @@
                 "num": "2.45",
                 "text": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=45"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "24",
+                "text": "भव समचित्तः सर्वत्र त्वम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/28/grammatical-aspects-in-bhaja-govindam-verse-24-tvayi-mayi-chaanyatra/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "31",
+                "text": "सम्सारादचिराद्भव मुक्तः ",
+                "external": "https://nivedita2015.wordpress.com/2015/12/07/grammatical-aspects-in-bhaja-govindam-verse-31-gurucharanaambuja-nirbharabhaktah/"
             }
         ],
         "plit_1_2_बभूवतुः": [

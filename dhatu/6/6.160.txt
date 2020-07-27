@@ -78,6 +78,14 @@
                 "text": "नवाम्बुदश्यामवपुर्न्यविक्षत",
                 "external": ""
             }
+        ],
+        "plot_2_1_विश": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "11",
+                "text": "ब्रह्मपदं त्वं प्रविश विदित्वा ",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
+            }
         ]
     }
 }

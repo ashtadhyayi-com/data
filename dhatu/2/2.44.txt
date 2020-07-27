@@ -71,6 +71,12 @@
                 "num": "8.5",
                 "text": "यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=5"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "15",
+                "text": "वृद्धो याति गृहीत्वा दण्डम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/11/grammatical-aspects-in-bhaja-govindam-verse-15-angam-galitam-palitam-mundam/"
             }
         ],
         "plrut_2_1_यास्यसि": [
@@ -115,6 +121,14 @@
                 "num": "3.26",
                 "text": "सैन्यानि सोमान्वयमन्वयुस्तम्‌",
                 "external": ""
+            }
+        ],
+        "plat_1_2_यातः": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "12",
+                "text": "शिशिरवसन्तौ पुनरायातः",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
             }
         ]
     }

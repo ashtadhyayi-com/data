@@ -32,6 +32,20 @@
                 "text": "आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=25"
             }
+        ],
+        "plot_2_1_चिन्तय": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "3",
+                "text": "मनसि विचिन्तय वारं वारम् ",
+                "external": "https://nivedita2015.wordpress.com/2015/09/28/grammatical-aspects-in-bhaja-govindam-verse-3-naristanabhara/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "8",
+                "text": "स्तत्त्वं चिन्तय तदिह भ्रातः ",
+                "external": "https://nivedita2015.wordpress.com/2015/10/12/grammatical-aspects-in-bhaja-govindam-verse-8-kaa-te-kaantaa/"
+            }
         ]
     }
 }

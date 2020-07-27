@@ -40,6 +40,14 @@
                 "text": "बिभ्युर्बिडालेक्षणभीषणाभ्यः",
                 "external": ""
             }
+        ],
+        "plat_1_3_बिभ्यति": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "6",
+                "text": "भार्या बिभ्यति तस्मिन्काये ",
+                "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
+            }
         ]
     }
 }
