@@ -57,6 +57,12 @@
                 "num": "3.15",
                 "text": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=15"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "4",
+                "text": "विद्धि व्याध्यभिमानग्रस्तम्",
+                "external": "https://nivedita2015.wordpress.com/2015/09/29/grammatical-aspects-in-bhaja-govindam-verse-4-nalinidalagatajalamtitaralam/"
             }
         ],
         "plat_1_1_वेत्ति": [

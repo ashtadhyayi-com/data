@@ -53,6 +53,24 @@
                 "num": "18.35",
                 "text": "न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=35"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "15",
+                "text": "तदपि न मुञ्चत्याशापिण्डम् ",
+                "external": "https://nivedita2015.wordpress.com/2015/11/11/grammatical-aspects-in-bhaja-govindam-verse-15-angam-galitam-palitam-mundam/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "16",
+                "text": "तदपि न मुञ्चत्याशापाशः",
+                "external": "https://nivedita2015.wordpress.com/2015/11/13/grammatical-aspects-in-bhaja-govindam-verse-16-agre-vanhihi-prushte-bhaanuhu/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "28",
+                "text": "तदपि न मुञ्चति पापाचरणम्",
+                "external": "https://nivedita2015.wordpress.com/2015/12/03/grammatical-aspects-in-bhaja-govindam-verse-28-sukhatah-kriyate-raamaabhogah/"
             }
         ],
         "plit_1_1_मुमोच": [
@@ -61,6 +79,14 @@
                 "num": "1.67",
                 "text": "मुमोच जानन्नपि जानकीं न यः",
                 "external": ""
+            }
+        ],
+        "plat_1_1_मुञ्चति ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "12",
+                "text": "तदपि न मुञ्चत्याशावायुः",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
             }
         ]
     }

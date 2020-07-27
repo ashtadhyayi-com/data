@@ -51,6 +51,12 @@
                 "num": "1.26",
                 "text": "हरत्ययं सम्प्रति हेतुरेष्यतः",
                 "external": ""
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "11",
+                "text": "हरति निमेषात्कालस्सर्वम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
             }
         ],
         "plit_1_1_जहार": [

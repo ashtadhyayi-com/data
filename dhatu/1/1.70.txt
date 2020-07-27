@@ -31,6 +31,12 @@
                 "num": "2.57",
                 "text": "नाभिनन्दति न द्वेष्टि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=57"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "19",
+                "text": "नन्दति नन्दति नन्दत्येव ",
+                "external": "https://nivedita2015.wordpress.com/grammatical-aspects-in-bhaja-govindam-verse-19-yogarato-vaa-bhoogarato-vaa/"
             }
         ],
         "plang_1_1_अनन्दत्": [

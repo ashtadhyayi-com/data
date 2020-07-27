@@ -45,6 +45,20 @@
                 "num": "18.36",
                 "text": "अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=36"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "22",
+                "text": "रमते बालोन्मत्तवदेव ",
+                "external": "https://nivedita2015.wordpress.com/2015/11/26/grammatical-aspects-in-bhaja-govindam-verse-22-ratyaacharpatavirachitakanthah/"
+            }
+        ],
+        "alat_1_1_रमते ": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "19",
+                "text": "यस्य ब्रह्मणि रमते चित्तम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/24/grammatical-aspects-in-bhaja-govindam-verse-19-yogarato-vaa-bhoogarato-vaa/"
             }
         ]
     }

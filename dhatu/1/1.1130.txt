@@ -90,6 +90,14 @@
                 "text": "शलभतां लभतामसुहृद्गणः",
                 "external": ""
             }
+        ],
+        "alat_2_1_लभसे": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "2",
+                "text": "यल्लभसे निजकर्मोपात्तम्",
+                "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
+            }
         ]
     }
 }

@@ -32,6 +32,14 @@
                 "text": "नीचैराख्यं गिरिमधिवसेस्तत्र विश्रामहेतोः",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#26"
             }
+        ],
+        "plat_1_1_वसति": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "6",
+                "text": "यावत्पवनो निवसति देहे",
+                "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
+            }
         ]
     }
 }

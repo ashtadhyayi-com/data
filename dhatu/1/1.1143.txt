@@ -43,6 +43,12 @@
                 "num": "9.5",
                 "text": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=5"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "25",
+                "text": "सर्वस्मिन्नपि पश्यात्मानम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
             }
         ],
         "plang_1_1_अपश्यत्": [
@@ -167,6 +173,12 @@
                 "num": "1.19",
                 "text": "रेवां द्रक्ष्यस्युपलविषमे विन्ध्यपादे विशीर्णां",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#19"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "31",
+                "text": "द्रक्ष्यसि निजहृदयस्थं देवम् ",
+                "external": "https://nivedita2015.wordpress.com/2015/12/07/grammatical-aspects-in-bhaja-govindam-verse-31-gurucharanaambuja-nirbharabhaktah/"
             }
         ],
         "plat_1_1_पश्यति": [
@@ -187,6 +199,18 @@
                 "num": "3.71",
                 "text": "बहुकृतान्‌ स्वानिव पश्यति स्म",
                 "external": ""
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "14",
+                "text": "पश्यन्नपि च न पश्यति मूढो",
+                "external": "https://nivedita2015.wordpress.com/2015/11/11/grammatical-aspects-in-bhaja-govindam-verse-14-jatilo-mundee-lunchitakeshah/"
+            },
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "26",
+                "text": "त्यक्त्वाऽत्मानं पश्यति सोऽहम् ",
+                "external": "https://nivedita2015.wordpress.com/2015/12/01/grammatical-aspects-in-bhaja-govindam-verse-26-kaamam-krodham-lobham-moham/"
             }
         ],
         "pvidhiling_1_1_पश्येत्": [
