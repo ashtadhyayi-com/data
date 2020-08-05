@@ -1782,20 +1782,20 @@
         "linga": "S"
     },
     {
-        "ind": "121006",
-        "baseindex": "21.006",
+        "ind": "122001",
+        "baseindex": "22.001",
         "word": "गो",
-        "grp": "21",
-        "index_in_grp": "6",
-        "end": "ऋकारान्तः",
+        "grp": "22",
+        "index_in_grp": "1",
+        "end": "ओकारान्तः",
         "linga": "S"
     },
     {
-        "ind": "122001",
-        "baseindex": "22.001",
+        "ind": "122002",
+        "baseindex": "22.002",
         "word": "द्यो",
         "grp": "22",
-        "index_in_grp": "1",
+        "index_in_grp": "2",
         "end": "ओकारान्तः",
         "linga": "S"
     },
