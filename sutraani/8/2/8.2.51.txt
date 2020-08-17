@@ -8,7 +8,7 @@
     "skn": "3030",
     "mskn": "1174",
     "sskn": "0",
-    "lskn": "817",
+    "lskn": "816",
     "plskn": "0",
     "lpn": "1028",
     "sk": " निष्ठात इत्येव । शुष्कः ॥ ",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "33"
 }

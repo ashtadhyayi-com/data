@@ -21,5 +21,6 @@
     "sae": "A ङित्-प्रत्यय that comes after a नदीसंज्ञक अङ्ग get an आट् आगम.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

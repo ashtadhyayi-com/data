@@ -8,7 +8,7 @@
     "skn": "2196",
     "mskn": "440",
     "sskn": "381",
-    "lskn": "409",
+    "lskn": "408",
     "plskn": "308",
     "lpn": "489",
     "sk": " लोट इकारस्य उः स्यात् । भवतु ॥",
@@ -21,5 +21,6 @@
     "sae": "The इकार present in the  प्रत्ययाs of लोट्लकार is converted to उकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

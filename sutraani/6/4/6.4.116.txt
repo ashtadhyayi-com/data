@@ -8,7 +8,7 @@
     "skn": "2498",
     "mskn": "715",
     "sskn": "0",
-    "lskn": "616",
+    "lskn": "615",
     "plskn": "0",
     "lpn": "563",
     "sk": " इत्स्याद्वा हलादौ क्ङिति सार्वधातुके । पक्षे ईत्वम् । जहितः । जहीतः । जहति । जहौ ॥",
@@ -21,5 +21,6 @@
     "sae": "The verb root 'हा' is converted to ह्रस्व-इकार when followed by हलादि-सार्वधातुक कित्/ङित्-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "14"
 }

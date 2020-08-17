@@ -8,7 +8,7 @@
     "skn": "2282",
     "mskn": "490",
     "sskn": "415",
-    "lskn": "453",
+    "lskn": "452",
     "plskn": "337",
     "lpn": "745",
     "sk": " उपधाया अतो वृद्धिः स्यात् ञिति णिति च प्रत्यये परे । चखाद । ",
@@ -21,5 +21,6 @@
     "sae": "The उपधा-अकार of an अङ्ग undergoes a वृद्धिः when followed by a णित् or a ञित् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

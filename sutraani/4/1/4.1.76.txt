@@ -8,7 +8,7 @@
     "skn": "530",
     "mskn": "1405",
     "sskn": "607",
-    "lskn": "911",
+    "lskn": "910",
     "plskn": "0",
     "lpn": "1373",
     "sk": " आपञ्चमसमाप्तेरधिकारोऽयम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The प्रत्ययाः that are being told from now onwards upto end of the fifth chapter are called तद्धितप्रत्ययाः.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "38"
 }

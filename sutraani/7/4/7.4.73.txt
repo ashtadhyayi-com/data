@@ -8,7 +8,7 @@
     "skn": "2181",
     "mskn": "427",
     "sskn": "367",
-    "lskn": "396",
+    "lskn": "395",
     "plskn": "295",
     "lpn": "628",
     "sk": " भवतेरभ्यसोकारस्य अः स्यात् लिटि ॥",
@@ -21,5 +21,6 @@
     "sae": "When followed by लिट्-लकार, the अभ्यास of the verb root भू is converted to अकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

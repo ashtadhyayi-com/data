@@ -8,7 +8,7 @@
     "skn": "2245",
     "mskn": "489",
     "sskn": "414",
-    "lskn": "452",
+    "lskn": "451",
     "plskn": "336",
     "lpn": "620",
     "sk": " अभ्यासकवर्गहकारयोश्चवर्गादेशः स्यात् । एधांचक्रे । एधांचक्राते । एधांचक्रिरे ॥",
@@ -21,5 +21,6 @@
     "sae": "The कवर्गीय letter and the हकार of an अभ्यास are converted to an appropriate चवर्गीय letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

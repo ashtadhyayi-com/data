@@ -8,7 +8,7 @@
     "skn": "1553",
     "mskn": "1916",
     "sskn": "0",
-    "lskn": "1114",
+    "lskn": "1113",
     "plskn": "0",
     "lpn": "0",
     "sk": " उडुपेन तरति औडुपिकः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "48"
 }

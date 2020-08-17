@@ -8,7 +8,7 @@
     "skn": "303",
     "mskn": "250",
     "sskn": "213",
-    "lskn": "228",
+    "lskn": "227",
     "plskn": "0",
     "lpn": "195",
     "sk": " इयङुवङोः स्थितिर्ययोस्तावीदूतौ नदीसंज्ञौ न स्तो नतु स्त्री । हे श्रीः । श्रिये । श्रियै । श्रियाः । श्रियः ॥",
@@ -21,5 +21,6 @@
     "sae": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश is not referred as नदी.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "6"
 }

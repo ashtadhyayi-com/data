@@ -8,7 +8,7 @@
     "skn": "31",
     "mskn": "56",
     "sskn": "420",
-    "lskn": "446",
+    "lskn": "445",
     "plskn": "0",
     "lpn": "121",
     "sk": " ",
@@ -21,5 +21,6 @@
     "sae": "A ह्रस्व स्वर gets the term लघु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

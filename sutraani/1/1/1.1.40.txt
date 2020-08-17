@@ -8,7 +8,7 @@
     "skn": "450",
     "mskn": "398",
     "sskn": "0",
-    "lskn": "368",
+    "lskn": "367",
     "plskn": "0",
     "lpn": "1073",
     "sk": " एतदन्तमव्ययं स्यात् । कृत्वा । उदेतोः । विसृपः ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The words ending in क्त्वा, तोसुन् and कसुन् प्रत्यय are called अव्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "11"
 }

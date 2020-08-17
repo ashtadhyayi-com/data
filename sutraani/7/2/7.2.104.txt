@@ -8,7 +8,7 @@
     "skn": "1954",
     "mskn": "2081",
     "sskn": "0",
-    "lskn": "1194",
+    "lskn": "1193",
     "plskn": "236",
     "lpn": "1502",
     "sk": " किमः कुः स्यात्तादौ हादौ च विभक्तौ परतः । कुतः । कस्मात् । यतः । ततः । अतः । इतः । अमुतः । बहुतः । द्व्यादेस्तु । द्वाभ्याम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The word किम् is converted to कु when followed by a विभक्तिप्रत्यय that begins with a शब्दस्य तकार or a हकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "55"
 }

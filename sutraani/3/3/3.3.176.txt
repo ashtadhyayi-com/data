@@ -8,7 +8,7 @@
     "skn": "2220",
     "mskn": "464",
     "sskn": "0",
-    "lskn": "434",
+    "lskn": "433",
     "plskn": "0",
     "lpn": "1216",
     "sk": " स्मोत्तरे माङि लङ् स्याच्चाल्लुङ् ॥",
@@ -21,5 +21,6 @@
     "sae": "When माङ् is followed by स्म, the verb लुङ्लकार or लङ्लकार is used. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

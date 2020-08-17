@@ -8,7 +8,7 @@
     "skn": "1456",
     "mskn": "1872",
     "sskn": "0",
-    "lskn": "1095",
+    "lskn": "1094",
     "plskn": "0",
     "lpn": "0",
     "sk": " औपाध्यायकः । पैतामहकः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "46"
 }

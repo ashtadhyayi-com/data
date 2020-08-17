@@ -8,7 +8,7 @@
     "skn": "1453",
     "mskn": "1870",
     "sskn": "0",
-    "lskn": "1093",
+    "lskn": "1092",
     "plskn": "0",
     "lpn": "1421",
     "sk": " स्रुघ्नादागतः स्रौघ्नः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "46"
 }

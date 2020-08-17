@@ -8,7 +8,7 @@
     "skn": "2199",
     "mskn": "443",
     "sskn": "384",
-    "lskn": "412",
+    "lskn": "411",
     "plskn": "311",
     "lpn": "498",
     "sk": " ङितश्चतुर्णां तामादयः क्रमात्स्युः ॥",
@@ -21,5 +21,6 @@
     "sae": "In case of ङित्-लकारs, तस्, थस्, थ and मिप् are converted respectively to  ताम्, तम्, त and अम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

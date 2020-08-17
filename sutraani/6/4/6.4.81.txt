@@ -8,7 +8,7 @@
     "skn": "2455",
     "mskn": "658",
     "sskn": "0",
-    "lskn": "577",
+    "lskn": "576",
     "plskn": "0",
     "lpn": "600",
     "sk": " अजादौ प्रत्यये परे । इयङोऽपवादः । यन्ति । इयाय ॥",
@@ -21,5 +21,6 @@
     "sae": "The verb root इण् gets a यणादेश when followed by an अच् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "13"
 }

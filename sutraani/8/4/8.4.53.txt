@@ -21,5 +21,6 @@
     "sae": "A झल्-letter is converted to a corresponding जश्-letter when followed by a झश् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "2"
 }

@@ -8,7 +8,7 @@
     "skn": "341",
     "mskn": "290",
     "sskn": "253",
-    "lskn": "269",
+    "lskn": "268",
     "plskn": "0",
     "lpn": "893",
     "sk": " धातोर्मस्य नः स्यात्पदान्ते । नत्वस्यासिद्धत्वान्नलोपो न । प्रशाम्यतीति प्रशान् । प्रशामौ । प्रशामः । प्रशान्भ्यामित्यादि ॥",
@@ -21,5 +21,6 @@
     "sae": "A मकार occurring at end of a धातु which in turn occurs at end of a पद is converted to नकार.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }

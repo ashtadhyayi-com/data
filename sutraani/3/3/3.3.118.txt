@@ -8,7 +8,7 @@
     "skn": "3296",
     "mskn": "1282",
     "sskn": "0",
-    "lskn": "868",
+    "lskn": "867",
     "plskn": "0",
     "lpn": "1176",
     "sk": " ",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "35"
 }

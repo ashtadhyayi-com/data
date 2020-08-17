@@ -8,7 +8,7 @@
     "skn": "2206",
     "mskn": "452",
     "sskn": "391",
-    "lskn": "421",
+    "lskn": "420",
     "plskn": "318",
     "lpn": "479",
     "sk": " एषु परेष्वङ्गस्याडागमः स्यात्स चोदात्तः ॥",
@@ -21,5 +21,6 @@
     "sae": "In case of the लुङ्लकार, लङ्लकार and लृङ्लकार, the अङ्ग gets an 'अट्' आगम,  which is also उदात्त.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

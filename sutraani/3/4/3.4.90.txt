@@ -8,7 +8,7 @@
     "skn": "2251",
     "mskn": "580",
     "sskn": "455",
-    "lskn": "515",
+    "lskn": "514",
     "plskn": "353",
     "lpn": "492",
     "sk": " लोट एकारस्याम् स्यात् । एधताम् । एधेताम् । एधन्ताम् ॥",
@@ -21,5 +21,6 @@
     "sae": "An एकार present in the प्रत्ययाः of लोट्-लकार is converted to आम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

@@ -21,5 +21,6 @@
     "sae": "An अदन्त अङ्ग gets a एकारादेश in presence of the ओस्-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

@@ -8,7 +8,7 @@
     "skn": "1551",
     "mskn": "1915",
     "sskn": "0",
-    "lskn": "1113",
+    "lskn": "1112",
     "plskn": "0",
     "lpn": "0",
     "sk": " दध्ना संस्कृतं दाधिकम् । मारीचिकम् ॥",
@@ -21,5 +21,6 @@
     "sae": "To express an entity that has been cultured / processed, an appropriate तद्धितप्रत्यय gets attached to the तृतीयासमर्थ word indicating the substance used for culturing / processing.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "48"
 }

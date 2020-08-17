@@ -21,5 +21,6 @@
     "sae": "The सकार at end of a पद, and the षकार at end of the सजुष् पद get a रुँ-आदेश । ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "4"
 }

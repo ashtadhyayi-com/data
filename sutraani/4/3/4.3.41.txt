@@ -8,7 +8,7 @@
     "skn": "1416",
     "mskn": "1857",
     "sskn": "0",
-    "lskn": "1085",
+    "lskn": "1084",
     "plskn": "0",
     "lpn": "0",
     "sk": " स्रुघ्ने संभवति स्रौघ्नः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "46"
 }

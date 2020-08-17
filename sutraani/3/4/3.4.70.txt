@@ -8,7 +8,7 @@
     "skn": "2833",
     "mskn": "1001",
     "sskn": "545",
-    "lskn": "766",
+    "lskn": "765",
     "plskn": "448",
     "lpn": "996",
     "sk": " एतेन भावकर्मणोरेव स्युः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "32"
 }

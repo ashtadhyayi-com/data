@@ -21,5 +21,6 @@
     "sae": "An अनुस्वार is converted to a परसवर्ण in presence of a  यय् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "3"
 }

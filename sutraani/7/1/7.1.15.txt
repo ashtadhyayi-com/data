@@ -21,5 +21,6 @@
     "sae": "The ङसिँ and ङस् प्रत्ययs attached to an अदन्त सर्वनाम are converted respectively to स्मात् and स्मिन्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

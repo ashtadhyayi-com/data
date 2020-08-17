@@ -8,7 +8,7 @@
     "skn": "1442",
     "mskn": "1869",
     "sskn": "0",
-    "lskn": "1092",
+    "lskn": "1091",
     "plskn": "0",
     "lpn": "0",
     "sk": "  कवर्गीयम् ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "46"
 }

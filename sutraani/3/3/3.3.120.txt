@@ -8,7 +8,7 @@
     "skn": "3299",
     "mskn": "1284",
     "sskn": "0",
-    "lskn": "870",
+    "lskn": "869",
     "plskn": "0",
     "lpn": "0",
     "sk": " अवतारः कूपादेः । अवस्तारो जवनिका ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "35"
 }

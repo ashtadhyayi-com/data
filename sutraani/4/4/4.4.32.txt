@@ -8,7 +8,7 @@
     "skn": "1582",
     "mskn": "1931",
     "sskn": "0",
-    "lskn": "1117",
+    "lskn": "1116",
     "plskn": "0",
     "lpn": "0",
     "sk": " बदराण्युञ्छति बादरिकः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "48"
 }

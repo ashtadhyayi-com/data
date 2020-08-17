@@ -8,11 +8,11 @@
     "skn": "32",
     "mskn": "57",
     "sskn": "421",
-    "lskn": "447",
+    "lskn": "446",
     "plskn": "0",
     "lpn": "122",
     "sk": " संयोगे परे ह्रस्वं गुरुसंज्ञं स्यात् ॥",
-    "lsk": "",
+    "lsk": "संयोगे परे ह्रस्वं गुरु स्यात् ॥",
     "balamanorama": "<<संयोगे गुरु>> - संयोगे गुरु ।ह्यस्व॑मित्यनुवर्तते । तदाह — संयोगे पर इत्यादिना । ",
     "tattvabodhini": "",
     "padamanjari": "",
@@ -21,5 +21,6 @@
     "sae": "A ह्रस्व स्वर which is followed by a संयोग gets the term गुरु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

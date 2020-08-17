@@ -21,5 +21,6 @@
     "sae": "The letters अ, ए and ओ are called गुण.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "2"
 }

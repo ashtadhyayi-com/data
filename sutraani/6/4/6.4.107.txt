@@ -8,7 +8,7 @@
     "skn": "2333",
     "mskn": "555",
     "sskn": "490",
-    "lskn": "500",
+    "lskn": "499",
     "plskn": "0",
     "lpn": "554",
     "sk": " असंयोगपूर्वो यः प्रत्ययोकारस्तदन्तस्याङ्गस्य लोपो वा स्यात् म्वोः परयोः । धिन्वः धिनुवः । धिन्मः । धिनुमः । मिपि तु पत्वाद्गुणः । धिनोमि ॥",
@@ -21,5 +21,6 @@
     "sae": "The उकार which occurs at end of a प्रत्यय is optionally deleted when followed by a मकार / वकार , provided that a संयोग is not present immediately before this उकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

@@ -8,7 +8,7 @@
     "skn": "474",
     "mskn": "1060",
     "sskn": "655",
-    "lskn": "835",
+    "lskn": "834",
     "plskn": "0",
     "lpn": "14",
     "sk": " प्रत्ययस्यादिः ष इत्स्यात् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The letter ष् at the beginning of the औपदेशिक form of a प्रत्यय is called 'इत्' ।",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "33"
 }

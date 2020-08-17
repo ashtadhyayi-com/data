@@ -8,7 +8,7 @@
     "skn": "416",
     "mskn": "363",
     "sskn": "314",
-    "lskn": "334",
+    "lskn": "333",
     "plskn": "0",
     "lpn": "313",
     "sk": " लुप्तनकारस्याञ्चतेर्भस्याकारस्य लोपः स्यात् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The अकार of the word अच् that occurs at end of a भसंज्ञक अङ्ग is omitted if this 'अच्' happens to be derived from the धातु अञ्च् (गतौ).\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }

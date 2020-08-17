@@ -8,7 +8,7 @@
     "skn": "1233",
     "mskn": "1771",
     "sskn": "0",
-    "lskn": "1039",
+    "lskn": "1038",
     "plskn": "0",
     "lpn": "0",
     "sk": " वायव्यम् । ऋतव्यम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The words 'वायु', 'ऋतु', 'पितृ' and 'उषस्' get the प्रत्यय यत् in the meaning of  'सा अस्य देवता'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "45"
 }

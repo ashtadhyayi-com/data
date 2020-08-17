@@ -8,7 +8,7 @@
     "skn": "1215",
     "mskn": "1762",
     "sskn": "0",
-    "lskn": "1034",
+    "lskn": "1033",
     "plskn": "0",
     "lpn": "0",
     "sk": " शराव उद्धृतः शाराव ओदनः । उद्धरतिरिहोद्धरणपूर्वके निधाने वर्तते । तेन सप्तमी । उद्धृत्य निहित इत्यर्थः ॥",
@@ -21,5 +21,6 @@
     "sae": "When a food item is taken out in certain vessel, the food item can be represented by attaching an appropriate तद्धितप्रत्यय to the name of the vessel occurring in the सप्तमी विभक्ति.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "45"
 }

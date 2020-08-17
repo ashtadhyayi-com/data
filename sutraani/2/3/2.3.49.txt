@@ -21,5 +21,6 @@
     "sae": "The प्रथमा-एकवचन when used in the context of  सम्बोधन gets the term  'सम्बुद्धि'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

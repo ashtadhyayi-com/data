@@ -21,5 +21,6 @@
     "sae": "The last letter of an अदन्त अङ्ग  becomes दीर्घ when followed by a यञादि सुप्-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

@@ -8,7 +8,7 @@
     "skn": "346",
     "mskn": "296",
     "sskn": "259",
-    "lskn": "275",
+    "lskn": "274",
     "plskn": "142",
     "lpn": "335",
     "sk": " अककारस्येदम इदोऽन् स्यादापि विभक्तौ । आबिति टा इत्यारभ्य सुपः पकारेण प्रत्याहारः । अनेन ॥",
@@ -21,5 +21,6 @@
     "sae": "The 'इद्' part of the word  'इदम्' is converted to अन् when followed by a विभक्तिप्रत्यय of तृतीया to सप्तमी.  But this conversion does not happen if the word इदम् has a ककार in it.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }

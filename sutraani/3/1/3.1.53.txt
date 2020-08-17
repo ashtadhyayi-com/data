@@ -8,7 +8,7 @@
     "skn": "2418",
     "mskn": "628",
     "sskn": "0",
-    "lskn": "654",
+    "lskn": "653",
     "plskn": "0",
     "lpn": "471",
     "sk": " एभ्यश्च्लेरङ् स्यात् ॥",
@@ -21,5 +21,6 @@
     "sae": "For the verb roots लिप् , सिच् and ह्वे , the च्लि-प्रत्यय is converted to अङ्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "17"
 }

@@ -8,7 +8,7 @@
     "skn": "301",
     "mskn": "248",
     "sskn": "211",
-    "lskn": "226",
+    "lskn": "225",
     "plskn": "123",
     "lpn": "376",
     "sk": " स्त्रीशब्दस्येयङ् स्यादजादौ प्रत्यये परे । स्त्रियौ । स्त्रियः ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The word 'स्त्री' gets an इयङ्-आदेश when followed by an अजादि प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "6"
 }

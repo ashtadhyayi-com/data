@@ -21,5 +21,6 @@
     "sae": "If the रुँ letter generated in this रूत्वप्रकर does not cause the previous letter to get an अनुनासिक, then it will generate an अनुस्वार just after that previous letter. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "3"
 }

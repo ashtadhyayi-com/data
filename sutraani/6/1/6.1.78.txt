@@ -21,5 +21,6 @@
     "sae": "When followed by a स्वर, the letters of the एच् प्रत्याहार are respectively converted to अय्, अव्, आय् and आव्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "2"
 }

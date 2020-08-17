@@ -8,11 +8,11 @@
     "skn": "2194",
     "mskn": "438",
     "sskn": "379",
-    "lskn": "407",
+    "lskn": "406",
     "plskn": "306",
     "lpn": "445",
     "sk": " विध्यादिष्वर्थेषु धातोर्लोट् स्यात् ॥ ",
-    "lsk": "भविष्यदर्थाद्धातोरॢट् क्रियार्थायां क्रियायां सत्यामसत्यां वा। स् य इट्। भविष्यति। भविष्यतः। भविष्यन्ति। भविष्यसि। भविष्यथः। भविष्यथ। भविष्यामि। भविष्यावः। भविष्यामः।लोट् च॥ विध्याद्यर्थेषु धातोर्लोट्॥",
+    "lsk": "विध्याद्यर्थेषु धातोर्लोट् ॥",
     "balamanorama": "",
     "tattvabodhini": "`विधिनिमन्त्रणे`त्याद्यनुवर्तते। तदाह -  विध्यादिष्विति॥  ",
     "padamanjari": " योगविभाग उतरार्थ इति । उतरत्र लोट एवानुवृत्तिर्यथा स्याल्लिङे मा भूदिति । अध्ययै इति । इट्, उतमैकवचनम्, टेरेत्वम्, ठेत ऐऽ, ठाहुतमस्य पिच्चऽ इत्याडागमः, ठाटश्चऽ इति वृद्धिः, प्रकृतेर्गुणायादेशौ ॥",
@@ -21,5 +21,6 @@
     "sae": "लोट्लकार can be used to indicate विधि (= order) , निमन्त्रण ( = an invitation that cannot be rejected), आमन्त्रण (= an invitation that can be rejected), अधीष्ट (= Ask something with respect, often in exchange of money or something else), सम्प्रश्न (= A question about doing or not doing something) and प्रार्थना (= request).",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

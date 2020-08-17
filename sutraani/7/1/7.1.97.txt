@@ -8,7 +8,7 @@
     "skn": "278",
     "mskn": "228",
     "sskn": "183",
-    "lskn": "206",
+    "lskn": "205",
     "plskn": "0",
     "lpn": "299",
     "sk": " अजादिषु तृतीयादिषु क्रोष्टुर्वा तृज्वत् । क्रोष्ट्रा । क्रोष्ट्रे ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The word क्रोष्टु optionally behaves like a तृच्-प्रत्ययान्त word when followed by an अजादि विभक्ति of तृतीया onwards.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

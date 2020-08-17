@@ -8,7 +8,7 @@
     "skn": "1280",
     "mskn": "1800",
     "sskn": "0",
-    "lskn": "1052",
+    "lskn": "1051",
     "plskn": "0",
     "lpn": "0",
     "sk": " कुशाम्बेन निर्वृत्ता कौशाम्बी नगरी ॥",
@@ -21,5 +21,6 @@
     "sae": "To indicate the name of a country by referring to its creator, an appropriate तद्धित प्रत्यय gets attached to the word in तृतीयाविभक्ति representing the name of the creator.",
     "mahabhashyam": " तेन निर्वृत्तम् (9489) ",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "45"
 }
