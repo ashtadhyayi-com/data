@@ -15,6 +15,5 @@
     "sae": "A रेफ is deleted when followed by another रेफ.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "4"
+    "video": ""
 }

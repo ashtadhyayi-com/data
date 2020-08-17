@@ -15,6 +15,5 @@
     "sae": "The word 'रै' gets an आकारादेश when followed by  हलादि विभक्तिप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

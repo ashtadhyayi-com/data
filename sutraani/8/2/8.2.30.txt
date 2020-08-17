@@ -15,6 +15,5 @@
     "sae": "A चवर्गीय letter is converted to the corresponding कवर्गीय letter at पदान्त or when followed by a  झल् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

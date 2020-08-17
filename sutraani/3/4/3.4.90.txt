@@ -15,6 +15,5 @@
     "sae": "An एकार present in the प्रत्ययाः of लोट्-लकार is converted to आम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

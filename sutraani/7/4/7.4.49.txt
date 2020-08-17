@@ -15,6 +15,5 @@
     "sae": "A  सकारान्त अङ्ग gets a तकारादेश When followed by a सकारादि-आर्धधातुक प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "23"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "A झल्  letter is converted to a चर्  letter optionally when it is followed by an अवसान.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "For the इरित्-verbs, the च्लि प्रत्यय is optionally converted to अङ्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "अभ्यास is converted to ह्रस्व.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

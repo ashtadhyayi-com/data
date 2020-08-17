@@ -15,6 +15,5 @@
     "sae": "A सार्वधातुक-अपृक्त-प्रत्यय that follows the verb  अद् gets an  अट् आगम.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

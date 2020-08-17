@@ -15,6 +15,5 @@
     "sae": "A letter of तवर्ग is converted to a परसवर्ण when followed by a लकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

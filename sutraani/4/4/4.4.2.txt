@@ -15,6 +15,5 @@
     "sae": "The ठक् प्रत्यय is attached to a तृतीयासमर्थ instrument to indicate  (1) a person who gambles, (2) A person who digs, (3) A person who wins, (4) An entity that is won.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "48"
+    "video": ""
 }

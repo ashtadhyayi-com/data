@@ -15,6 +15,5 @@
     "sae": "The तङ्, शानच् and कानच् आदेशाः that occur in place of a लकार are known as आत्मनेपद.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

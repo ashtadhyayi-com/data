@@ -15,6 +15,5 @@
     "sae": "In case of टित्-लकारs, the आत्मनेपद प्रत्यय थास् is converted to 'से'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

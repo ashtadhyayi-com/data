@@ -15,6 +15,5 @@
     "sae": "If a पदान्त ए / ओ letter is followed by a ह्रस्व अकार, then the पूर्व and पर letter are combined to form a पूर्वरूप एकादेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

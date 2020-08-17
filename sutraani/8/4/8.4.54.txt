@@ -15,6 +15,5 @@
     "sae": "A झल् letter present in an  अभ्यास is converted either to a  जश् letter or a चर् letter as appropriate.",
     "mahabhashyam": " अभ्यासे चर्च प्रकृतिचरां प्रकृतिचरो भवन्ति। चिचीषति। प्रकृतिजशां प्रकृतिजशश्च भवन्ति। जिजनिषति। बुबुधे। ददौ॥ (अभ्यासे चर्च)॥ ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

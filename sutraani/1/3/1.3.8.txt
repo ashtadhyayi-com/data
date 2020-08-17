@@ -15,6 +15,5 @@
     "sae": "The letters ल्, श्, क्, ख्, ग्, घ्, ङ्  at the beginning of the औपदेशिक form of a non-तद्धित प्रत्यय are called इत् ।",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

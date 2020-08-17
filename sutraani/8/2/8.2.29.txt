@@ -15,6 +15,5 @@
     "sae": "If there is a संयोगः at end of a पद, or if there is a संयोगः which is followed by a झल्-वर्ण,  and if the first letter of that संयोगः is either स् or क् , then this letter is omitted. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

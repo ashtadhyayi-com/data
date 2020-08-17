@@ -15,6 +15,5 @@
     "sae": "When a word gets replicated in the 'सर्वस्य द्वे' अधिकार, the second occurrence is known as आम्रेडित.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

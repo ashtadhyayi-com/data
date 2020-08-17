@@ -15,6 +15,5 @@
     "sae": "The अकार of the 'श्नम्' विकरण and of  the verb root 'अस्' is removed when followed by a सार्वधातुक किति / ङित् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

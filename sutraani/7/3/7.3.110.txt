@@ -15,6 +15,5 @@
     "sae": "The last letter of a ऋदन्त word is replaced by अर् in presence of  - (a) ङि-प्रत्यय and (b) a प्रत्यय that is also a सर्वनामस्थान. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

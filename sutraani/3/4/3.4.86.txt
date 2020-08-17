@@ -15,6 +15,5 @@
     "sae": "The इकार present in the  प्रत्ययाs of लोट्लकार is converted to उकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

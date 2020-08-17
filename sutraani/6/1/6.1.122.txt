@@ -15,6 +15,5 @@
     "sae": "An एकार/ओकार occurring at the end of the पदसंज्ञक गो शब्द exhibits optional प्रकृतिभाव when followed by a ह्रस्व अकार.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

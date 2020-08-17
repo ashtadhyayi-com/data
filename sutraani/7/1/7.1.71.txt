@@ -15,6 +15,5 @@
     "sae": "The word युज् gets नुमागम in presence of a सर्वनामस्थान. However, if this word is in a समस्तपद, then the नुमागम does not happen. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

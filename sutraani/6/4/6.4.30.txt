@@ -15,6 +15,5 @@
     "sae": "When used in the meaning of 'to pray', the नकार of the verb root  अञ्च् is not removed.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

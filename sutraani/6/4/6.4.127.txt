@@ -15,6 +15,5 @@
     "sae": "",
     "mahabhashyam": " अर्वणस्त्रसावनञ्ञः (3125) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

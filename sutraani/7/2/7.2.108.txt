@@ -15,6 +15,5 @@
     "sae": "The word इदम् gets a मकारादेश when followed by the सुँ-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

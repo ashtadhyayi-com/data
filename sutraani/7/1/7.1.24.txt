@@ -15,6 +15,5 @@
     "sae": "The सुँ and अम् attached to an अकारान्त नपुँसक अङ्ग are converted to अम्. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "7"
+    "video": ""
 }

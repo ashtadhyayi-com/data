@@ -15,6 +15,5 @@
     "sae": "Except for the word सखि, all ह्रस्व-इकारान्त and ह्रस्व-उकारान्त words get the term घि whenever they do not get the term नदी.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

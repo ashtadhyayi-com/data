@@ -15,6 +15,5 @@
     "sae": "To indicate the meaning of 'collection / group', a षष्ठीसमर्थ word gets an appropriate तद्धितप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "When followed by लिट्-लकार, the अभ्यास of the verb root भू is converted to अकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

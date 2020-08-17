@@ -15,6 +15,5 @@
     "sae": "The औ and औट्-प्रत्ययs following a नपुँसक अङ्ग get the आदेश 'शी'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "7"
+    "video": ""
 }

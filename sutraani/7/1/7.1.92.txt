@@ -15,6 +15,5 @@
     "sae": "The  सर्वनामस्थानप्रत्यय not belonging to सम्बोधन-एकवचन when attached to the word सखि becomes णित्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

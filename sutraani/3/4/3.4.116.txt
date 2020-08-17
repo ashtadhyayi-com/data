@@ -15,6 +15,5 @@
     "sae": "The प्रत्ययs of आशीर्लिङ्-लकार are termed आर्धधातुक.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

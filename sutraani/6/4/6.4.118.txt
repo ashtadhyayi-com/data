@@ -15,6 +15,5 @@
     "sae": "The last letter of हा is removed when followed by a यकारादि प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

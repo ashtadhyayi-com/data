@@ -15,6 +15,5 @@
     "sae": "For the words that represent non-living entities, and also for the words हस्तिन् and धेनु, the प्रत्यय ठक् is used to indicate the meaning of 'तस्य समूहः'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

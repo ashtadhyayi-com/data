@@ -15,6 +15,5 @@
     "sae": "The सिप्-प्रत्यय of the लोट्-लकार is converted to 'हि'.",
     "mahabhashyam": " सेर्ह्यपिच्च (1238) (611 आदेशविधिसूत्रम्॥ 3 । 4 । 1 आदृ 23) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

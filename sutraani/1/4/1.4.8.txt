@@ -15,6 +15,5 @@
     "sae": "The word पति gets the term घि only when used in a समास.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

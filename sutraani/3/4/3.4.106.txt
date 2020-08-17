@@ -15,6 +15,5 @@
     "sae": "The इट्-प्रत्यय of लिङ्लकार is converted to 'अ'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The यत् प्रत्यय is used as a default for the प्राक्-हितीय meanings.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "49"
+    "video": ""
 }

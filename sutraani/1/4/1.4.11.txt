@@ -15,6 +15,5 @@
     "sae": "A ह्रस्व स्वर which is followed by a संयोग gets the term गुरु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The words - प्रथम, चरम, अल्प, अर्ध, कतिपय, and नेम ; and also the words ending in the 'तयप्' प्रत्यय are optionally called सर्वनाम when followed by the जस् प्रत्यय. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "For a संयोग occurring at end of a पद which contains रेफ as the first letter, the last letter is deleted only if it is a सकार and not otherwise.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

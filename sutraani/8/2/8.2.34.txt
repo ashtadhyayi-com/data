@@ -15,6 +15,5 @@
     "sae": "The हकार for the verb नह् is converted to धकार at पदान्त or when followed by a झल् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "9"
+    "video": ""
 }

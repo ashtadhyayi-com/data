@@ -15,6 +15,5 @@
     "sae": "In case of आत्मनेपद of लिट्-लकार, the त-प्रत्यय is converted to एश् and  झ प्रत्यय is converted to इरेच्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

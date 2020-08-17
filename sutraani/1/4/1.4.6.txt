@@ -15,6 +15,5 @@
     "sae": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश, and any ह्रस्व-इकारान्त/हस्व-उकारान्त word optionally gets the term नदी in presence of a ङित् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

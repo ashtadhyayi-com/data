@@ -15,6 +15,5 @@
     "sae": "In case of ङित् लकारs, the ending सकार of the प्रत्ययाः of उत्तमपुरुष is removed. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

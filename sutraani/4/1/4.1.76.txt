@@ -15,6 +15,5 @@
     "sae": "The प्रत्ययाः that are being told from now onwards upto end of the fifth chapter are called तद्धितप्रत्ययाः.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "38"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "A तवर्गीय letter following a शकार does not undergo श्चुत्वम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

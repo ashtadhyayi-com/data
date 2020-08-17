@@ -15,6 +15,5 @@
     "sae": "A मकार and a नकार which do not occur at the end of a पद are converted to  अनुस्वार when followed by a झल् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

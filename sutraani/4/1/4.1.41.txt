@@ -15,6 +15,5 @@
     "sae": "उपसर्जनभिन्नेभ्यः षित्-प्रत्ययान्तशब्देभ्यः तथा गौरादिगणस्य शब्देभ्यः स्त्रीत्वं द्योतयितयम् ङीष्-प्रत्ययः भवति । \n\nTo indicate the feminine property, the, words which are not उपसर्जनसंज्ञक and which \n(a) belonging to the गौरादिगण, or\n(b) end in a  षित् प्रत्यय \nget the स्त्रीप्रत्यय ङीष्. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "57"
+    "video": ""
 }

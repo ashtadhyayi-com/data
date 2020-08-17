@@ -15,6 +15,5 @@
     "sae": "The  उपधा letter of a नकारान्त अङ्ग becomes दीर्घ when followed by a प्रत्यय which is a सर्वनामस्थान other than सम्बोधन-एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

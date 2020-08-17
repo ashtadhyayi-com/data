@@ -15,6 +15,5 @@
     "sae": "In पुँल्लिङ्ग, the 'इद्' part of the word 'इदम्' is converted to  'अय्' when followed by the  सुँ-प्रत्यय.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

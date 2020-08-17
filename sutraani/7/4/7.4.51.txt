@@ -15,6 +15,5 @@
     "sae": "The last letter (सकार) of the तास्-प्रत्यय is removed when followed by a रेफ.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

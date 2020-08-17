@@ -15,6 +15,5 @@
     "sae": "The word नश् undergoes an optional कुत्वम् at पदान्त.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The ङि-प्रत्यय gets आमादेश when it comes after a ह्रस्व-इकारान्त or ह्रस्व-उकारान्त नदीसंज्ञक word.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

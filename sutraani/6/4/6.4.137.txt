@@ -15,6 +15,5 @@
     "sae": "For a भसंज्ञक अङ्ग which ends in an 'अन्', and also contains a  मकारान्त / वकारान्त संयोगवर्ण before this अन्, the 'अ' of अन् does not get omitted.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

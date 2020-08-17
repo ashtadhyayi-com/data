@@ -15,6 +15,5 @@
     "sae": "In case of लिङ्लकार, the तकार and थकार present in the प्रत्ययाः get the 'सुट्' आगम.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

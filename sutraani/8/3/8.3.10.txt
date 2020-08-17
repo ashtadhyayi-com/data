@@ -15,6 +15,5 @@
     "sae": "The ending नकार of the word नॄन् , when followed by पकार is optionally converted to रुँ.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

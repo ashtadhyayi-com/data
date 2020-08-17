@@ -15,6 +15,5 @@
     "sae": "The words तिसृ and चतसृ do not become दीर्घ in presence of the  नाम् प्रत्यय. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

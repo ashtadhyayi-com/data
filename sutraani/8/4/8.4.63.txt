@@ -15,6 +15,5 @@
     "sae": "A  शकार sandwiched between a  पदान्त झय् letter on the left and an अट् letter on the right is optionally converted to a छकार.",
     "mahabhashyam": " शश्छोऽटि ॥ छत्वममि(तच्छ्लोकेन तच्छमश्रुणेति प्रयोजनम्)॥ छत्वममीति वक्तव्यम्॥ किं प्रयोजनम्?॥ तच्छ्लोकेन तच्छ्मश्रुणेति॥ ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

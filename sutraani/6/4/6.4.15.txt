@@ -15,6 +15,5 @@
     "sae": "If an अङ्ग ends in an अनुनासिक, the उपधा letter of that अङ्ग  becomes दीर्घ in presence of a क्विप्-प्रत्यय, झलादि-कित्-प्रत्यय or a  झलादि-ङित्-प्रत्यय. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "26"
+    "video": ""
 }

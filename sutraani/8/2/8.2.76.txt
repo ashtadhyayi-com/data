@@ -15,6 +15,5 @@
     "sae": "The उपधा letter of a रेफान्त or a वकारान्त पद which also has a धातुसंज्ञा becomes दीर्घ if that letter belongs to the इक् प्रत्याहार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

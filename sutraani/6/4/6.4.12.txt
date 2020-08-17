@@ -15,6 +15,5 @@
     "sae": "For the words हन्, पूषन् and अर्यमन्, and for also the words that end in 'इन्', the उपधादीर्घ happens only in case of the 'शि' प्रत्यय, and not in case of other सर्वनामस्थानप्रत्ययाः. ",
     "mahabhashyam": " इन्हन्पूषार्यम्णां शौ (3010) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

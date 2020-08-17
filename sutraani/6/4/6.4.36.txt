@@ -15,6 +15,5 @@
     "sae": "The 'हन्' धातु gets the 'ज' आदेश when followed by the हि-प्रत्यय of लोट्लकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

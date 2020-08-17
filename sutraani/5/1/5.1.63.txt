@@ -15,6 +15,5 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "51"
+    "video": ""
 }

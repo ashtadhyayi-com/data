@@ -15,6 +15,5 @@
     "sae": "The तिङ् प्रत्ययs and the शित् प्रत्ययs are called 'सार्वधातुक'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

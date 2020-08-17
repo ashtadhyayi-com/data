@@ -15,6 +15,5 @@
     "sae": "In presence of the सुप् प्रत्यय of सप्तमी-बहुवचन, a पदान्त र्-वर्ण is converted to a विसर्ग only if that र् is generated from रुँ, and not otherwise. ",
     "mahabhashyam": " रोः सुपि किमर्थमिदमुच्यते न खरवसानयोर्विसर्जनीय इत्येव सिद्धम्?॥ नियमार्थोऽयमारम्भः(1)॥ नियमार्थोऽयमारम्भः(1) ठरोरेव सुपि नान्यस्य सुपि॥ क्व मा भूत्?॥ गीर्षु धूर्षु॥ रोः सुपि। ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

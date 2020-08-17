@@ -15,6 +15,5 @@
     "sae": "An आबन्त अङ्ग gets an एकारादेश in presence of the  सुँ-प्रत्यय of  सम्बोधन-एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

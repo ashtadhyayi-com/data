@@ -15,6 +15,5 @@
     "sae": "The 'इद्' part of the word  'इदम्' is converted to अन् when followed by a विभक्तिप्रत्यय of तृतीया to सप्तमी.  But this conversion does not happen if the word इदम् has a ककार in it.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The word 'स्त्री' gets an इयङ्-आदेश when followed by an अजादि प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The last letter of the अङ्ग of verb root 'भी' is optionally converted to ह्रस्व-इकार when followed by हलादि-सार्वधातुक कित्/ङित्-प्रत्यय.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

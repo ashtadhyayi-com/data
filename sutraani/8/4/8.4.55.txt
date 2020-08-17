@@ -15,6 +15,5 @@
     "sae": "A झल्  letter is converted to a चर्  letter when followed by a खर्  letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

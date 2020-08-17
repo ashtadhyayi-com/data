@@ -15,6 +15,5 @@
     "sae": "The उत्तमपुरुष प्रत्ययाः of लोट्-लकार get the आट्-आगम, and this आगम is considered पित्. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

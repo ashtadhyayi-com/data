@@ -15,6 +15,5 @@
     "sae": "When followed by a कित् तद्धित-प्रत्यय, the आदि-स्वर of the अङ्ग undergoes a वृद्धि.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "43"
+    "video": ""
 }

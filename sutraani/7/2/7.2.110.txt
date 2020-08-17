@@ -15,6 +15,5 @@
     "sae": "The दकार of the word  इदम् is converted to यकार when followed by the  सुँ-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "9"
+    "video": ""
 }

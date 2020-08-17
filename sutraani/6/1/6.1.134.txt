@@ -15,6 +15,5 @@
     "sae": "The सुँ-प्रत्यय of सः can be removed when followed by an अच्, provided that by doing so, the rules of a पाद of some छन्द can be satisfied in a poetry.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "4"
+    "video": ""
 }

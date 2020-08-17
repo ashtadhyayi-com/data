@@ -15,6 +15,5 @@
     "sae": "A verb belonging to the तुदादिगण gets the विकरणप्रत्यय 'श' in presence of a सार्वधातुक प्रत्यय in कर्तरि प्रयोग.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "17"
+    "video": ""
 }

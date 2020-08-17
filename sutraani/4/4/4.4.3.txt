@@ -15,6 +15,5 @@
     "sae": "To express an entity that has been cultured / processed, an appropriate तद्धितप्रत्यय gets attached to the तृतीयासमर्थ word indicating the substance used for culturing / processing.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "48"
+    "video": ""
 }

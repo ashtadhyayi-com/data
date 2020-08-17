@@ -15,6 +15,5 @@
     "sae": "For the verb विद्, the प्रत्ययाः of लिट्लकार are optionally converted (respectively) to णल्,अतुस्, उस्, थल्, अथुस्, अ, णल्, व, म.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

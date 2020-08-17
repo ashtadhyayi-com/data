@@ -15,6 +15,5 @@
     "sae": "For the nine words - पूर्व, पर, अवर, दक्षिण, उत्तर, अपर, अधर, स्व, अन्तर - when they are used as a सर्वनाम, the  ङसिँ and ङस्- प्रत्ययs after them are optionally converted to  स्मात् and स्मिन् respectively. \n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

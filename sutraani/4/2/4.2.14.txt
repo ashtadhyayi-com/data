@@ -15,6 +15,5 @@
     "sae": "When a food item is taken out in certain vessel, the food item can be represented by attaching an appropriate तद्धितप्रत्यय to the name of the vessel occurring in the सप्तमी विभक्ति.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

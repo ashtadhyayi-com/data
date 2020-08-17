@@ -15,6 +15,5 @@
     "sae": "The words त्रि gets an आकारादेश in presence of a  सङ्ख्याशब्द, provided that there is no बहुव्रीहि समास and the word अशीति is not present.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "39"
+    "video": ""
 }

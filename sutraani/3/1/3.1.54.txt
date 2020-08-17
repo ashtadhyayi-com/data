@@ -15,6 +15,5 @@
     "sae": "For the verb roots लिप् , सिच् and ह्वे , the च्लि-प्रत्यय is optionally converted to अङ् when followed by a प्रत्यय of आत्मनेपद.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "17"
+    "video": ""
 }

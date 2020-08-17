@@ -15,6 +15,5 @@
     "sae": "A प्रत्यय that gets an इडागम is considered ङित् when attached to the dhatu 'विज्'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "17"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The words ending in क्त्वा, तोसुन् and कसुन् प्रत्यय are called अव्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "11"
+    "video": ""
 }

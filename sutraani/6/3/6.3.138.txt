@@ -15,6 +15,5 @@
     "sae": "When the अञ्च् word is in a state where its अकार and नकार have been removed, it causes the दीर्घ of the previous अण् letter. ",
     "mahabhashyam": " चौ (2997) (ज्ञापकत्वसंपादकभाष्यम्) इहान्ये आचार्याः  -  चौ प्रत्यङ्गस्य प्रतिषेधमाहुः, तदिहापि साध्यम् । नैष दोषः । एतदेव ज्ञापयत्याचार्यः  -  न चौ प्रत्यङ्गं भवतीति, यदयं चौ दीर्घत्वं शास्ति ॥ ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

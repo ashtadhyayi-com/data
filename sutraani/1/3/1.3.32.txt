@@ -15,6 +15,5 @@
     "sae": "The verb कृ gets the प्रत्ययाः of आत्मनेपद, when used in the meanings of  - \n(1) गन्धनम् - To backbite, \n(2) अवक्षेपणम् - To defame, \n(3) सेवन् -  To serve or help out \n(4) साहसिक्यम् - To force someone to do something against their wish, To rape\n(5) प्रतियत्न -To make someone change their character, \n(6) प्रकथनम् - To narrate, \nand\n(7) उपयोग - To bring in practice, to use. \n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "28"
+    "video": ""
 }

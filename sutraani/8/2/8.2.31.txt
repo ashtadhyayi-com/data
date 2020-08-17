@@ -15,6 +15,5 @@
     "sae": "A  हकार is converted to a ढकार at पदान्त or when followed by a झल् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

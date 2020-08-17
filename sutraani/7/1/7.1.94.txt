@@ -15,6 +15,5 @@
     "sae": "The ऋकारान्त  words, and the words उशनस्/पुरुदंसस्/अनेहस् get अनङ् आदेश when followed by a  सुँ-प्रत्यय not belonging to \nसम्बोधन एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

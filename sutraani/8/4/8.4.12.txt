@@ -15,6 +15,5 @@
     "sae": "For a समस्तपद,  a रेफ or a षकार present in the पूर्वपद  causes the णत्व of the नकार present in the  एकाच् उत्तरपद whenever the नकार is (1) at end of a प्रातिपदिक, or (2) created due to a  नुमागम, or (3) part of a विभक्ति.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

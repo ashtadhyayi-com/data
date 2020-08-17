@@ -15,6 +15,5 @@
     "sae": "A लकार is initially converted to one of these 18 आदेशाः - तिप्, तस्, झि, सिप्, थस्, थ, मिप्, वस्, मस्, त, आताम्, झ, थास्, आथाम्, ध्वम्, इड्, वहि, महिङ्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The कवर्गीय letter and the हकार of an अभ्यास are converted to an appropriate चवर्गीय letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

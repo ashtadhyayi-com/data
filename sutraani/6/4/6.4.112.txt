@@ -15,6 +15,5 @@
     "sae": "The आकार of the विकरण श्ना and also of an अभ्यस्त is removed when followed by a सार्वधातुक कित् and ङित् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "An उवर्णान्त भसंज्ञक undergoes a गुणादेश when followed by a तद्धितप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "44"
+    "video": ""
 }

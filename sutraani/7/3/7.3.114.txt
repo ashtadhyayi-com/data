@@ -15,6 +15,5 @@
     "sae": "A ङित्-प्रत्यय that comes after an सर्वनामसंज्ञक आबन्त word get a स्याट् आगम, and the आबन्त अङ्ग gets a ह्रस्वादेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

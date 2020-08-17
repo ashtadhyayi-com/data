@@ -15,6 +15,5 @@
     "sae": "An उवर्ण occurring at end of an a असंयोगपूर्व धातु which in turn occurs at end of an अनेकाच् अङ्ग is converted to यण् letter when followed by a सुप् अजादिप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

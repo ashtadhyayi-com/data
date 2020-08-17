@@ -15,6 +15,5 @@
     "sae": "The word सखि gets an अनङ्-आदेश when it is followed by सुँ-प्रत्यय of  प्रथमा-एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

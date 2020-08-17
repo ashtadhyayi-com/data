@@ -15,6 +15,5 @@
     "sae": "The उपधा letter of the verb roots गम्, हन्, जन्, खन्, घस् is removed when followed by a कित् / ङित् प्रत्यय, except for the अङ् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

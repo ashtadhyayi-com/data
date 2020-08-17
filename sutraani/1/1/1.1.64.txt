@@ -15,6 +15,5 @@
     "sae": "The fragment of a word from its last अच् letter till the end is called टि.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

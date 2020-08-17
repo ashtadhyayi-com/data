@@ -15,6 +15,5 @@
     "sae": "The word शुक्र gets the घन् प्रत्यय in the meaning of 'सा अस्य देवता'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

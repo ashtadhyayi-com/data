@@ -15,6 +15,5 @@
     "sae": "To indicate the feminine property, the, word युवन् which is not an gets उपसर्जनसंज्ञक the तद्धितप्रत्यय 'ति'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "57"
+    "video": ""
 }

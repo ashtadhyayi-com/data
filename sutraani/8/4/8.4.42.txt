@@ -15,6 +15,5 @@
     "sae": "Except when followed by the word नाम्, a पदान्तटवर्ग letter does not cause the ष्टुत्वम् of  सकार or a तवर्ग letter that follows it.\n",
     "mahabhashyam": " न पदान्ताट्टोरनामनामिति किमर्थम्(2)?॥ षण्णां भवति काश्यपः॥ अत्यल्पमिदमुच्यते -अनामिति॥ अनाम्नवतिनगरीणां चेति वक्तव्यम्॥ षण्णाम्। षण्णवतिः। षण्णगर्यः(3)॥ (न पदान्ताट्टोरनाम्।) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

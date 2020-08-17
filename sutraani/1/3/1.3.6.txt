@@ -15,6 +15,5 @@
     "sae": "The letter ष् at the beginning of the औपदेशिक form of a प्रत्यय is called 'इत्' ।",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "33"
+    "video": ""
 }

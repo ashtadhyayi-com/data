@@ -15,6 +15,5 @@
     "sae": "When the लोट्-लकार is used to express the 'desire of unattainable', the  तु and हि प्रत्यय are optionally converted to तातङ्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

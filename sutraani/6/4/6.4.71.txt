@@ -15,6 +15,5 @@
     "sae": "In case of the लुङ्लकार, लङ्लकार and लृङ्लकार, the अङ्ग gets an 'अट्' आगम,  which is also उदात्त.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

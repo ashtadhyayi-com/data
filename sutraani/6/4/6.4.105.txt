@@ -15,6 +15,5 @@
     "sae": "The 'हि' प्रत्यय that follows an अदन्त अङ्ग is removed.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

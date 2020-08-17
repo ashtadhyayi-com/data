@@ -15,6 +15,5 @@
     "sae": "When a संहिता is desired, then मकार at the end of a पद gets converted to अनुस्वार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

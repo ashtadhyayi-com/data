@@ -15,6 +15,5 @@
     "sae": "When a विसर्ग is followed by a letter from the शर् प्रत्याहार, the विसर्ग optionally remains as विसर्ग.",
     "mahabhashyam": " वा शरि ॥ वा(2) शर्प्रकरणे खर्परेलोपः॥ वा शर्प्रकरणे खर्परे लोपो वक्तव्यः। वृक्षा स्थातारः। वृक्षाः स्थातारः॥ वा शरि। ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "4"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "लोट्लकार can be used to indicate विधि (= order) , निमन्त्रण ( = an invitation that cannot be rejected), आमन्त्रण (= an invitation that can be rejected), अधीष्ट (= Ask something with respect, often in exchange of money or something else), सम्प्रश्न (= A question about doing or not doing something) and प्रार्थना (= request).",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

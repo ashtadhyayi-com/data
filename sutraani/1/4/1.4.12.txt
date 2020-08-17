@@ -15,6 +15,5 @@
     "sae": "A दीर्घ स्वर gets the  term गुरु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

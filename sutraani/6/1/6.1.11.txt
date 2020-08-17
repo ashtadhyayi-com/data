@@ -15,6 +15,5 @@
     "sae": "When followed by the चङ्-प्रत्यय, a verb root that have not yet undergone द्वित्वम् undergoes द्वित्वम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "For the verb roots लिप् , सिच् and ह्वे , the च्लि-प्रत्यय is converted to अङ्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "17"
+    "video": ""
 }

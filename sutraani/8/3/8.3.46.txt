@@ -15,6 +15,5 @@
     "sae": "While doing a समास, if all the following conditions are met - \n1. the पूर्वपद ends in a विसर्ग that follows an अकार, \n2. the उत्तरपद is either a form of the verb 'कृ', or a form of the verb 'कमि' or is one of these words - कंस/कुम्भ/पात्र/कुशा/कर्णी\n3. पू्र्वपद is not an अव्यय\n4.  पू्र्वपद is not a समास\n- then the विसर्ग of the पूर्वपद is converted to सकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "33"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The उपधा letter of a रेफान्त or a वकारान्त धातु becomes दीर्घ if that letter belongs to the इक् प्रत्याहार and if the धातु is followed by a हल् letter. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The words पथिन्, मथिन् and ऋभुक्षिन् get an 'आ' आदेश in presence of  the सुँ-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

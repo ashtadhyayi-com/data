@@ -15,6 +15,5 @@
     "sae": "For सार्वधातुक-लिङ्लकार, the सकार which is present in the प्रत्यय but which is not present at the end of the प्रत्यय is removed.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }
