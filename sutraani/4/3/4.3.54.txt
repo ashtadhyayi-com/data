@@ -8,7 +8,7 @@
     "skn": "1429",
     "mskn": "1860",
     "sskn": "699",
-    "lskn": "1088",
+    "lskn": "1087",
     "plskn": "0",
     "lpn": "1419",
     "sk": " दिश्यम् । वर्ग्यम् ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "46"
 }

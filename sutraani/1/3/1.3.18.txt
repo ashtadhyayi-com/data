@@ -8,7 +8,7 @@
     "skn": "2684",
     "mskn": "903",
     "sskn": "0",
-    "lskn": "730",
+    "lskn": "729",
     "plskn": "0",
     "lpn": "917",
     "sk": " अकर्त्रभिप्रायार्थमिदम् । परिक्रीणीते - विक्रीणीते - अवक्रीणीते । ",
@@ -21,5 +21,6 @@
     "sae": "When any of the उपसर्गs - परि, वि, अव - is attached to the verb 'क्री', it gets the प्रत्ययाः of आत्मनेपद.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "28"
 }

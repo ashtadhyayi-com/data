@@ -21,5 +21,6 @@
     "sae": "A ह्रस्व स्वर gets a तुक्-आगमः when followed by a छकार when संहिता is present.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "3"
 }

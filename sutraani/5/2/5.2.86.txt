@@ -8,7 +8,7 @@
     "skn": "1886",
     "mskn": "2037",
     "sskn": "0",
-    "lskn": "1176",
+    "lskn": "1175",
     "plskn": "0",
     "lpn": "0",
     "sk": " पूर्वं कृतमनेन पूर्वी ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "53"
 }

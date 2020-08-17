@@ -21,5 +21,6 @@
     "sae": "When a letter from the अक् प्रत्याहार is followed by the अच् letter of the अम्-प्रत्यय, the पूर्व and पर are combined together to form a पूर्वरूप-एकादेश.",
     "mahabhashyam": " अमि पूर्वः (2544) (पूर्वरूपाधिकरणम्) (छन्दसि विकल्पबोधकं भाष्यम्) वा च्छन्दसीत्येव । यमीं च यम्यं च, शमीं च शम्यं च, गौरीं च गौर्यं च, किशोरीं च किशोर्यं च ॥ ",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

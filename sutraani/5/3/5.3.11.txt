@@ -8,7 +8,7 @@
     "skn": "1958",
     "mskn": "2086",
     "sskn": "0",
-    "lskn": "1199",
+    "lskn": "1198",
     "plskn": "241",
     "lpn": "1506",
     "sk": " त्रलोऽपवादः इशादेशः । इह ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "55"
 }

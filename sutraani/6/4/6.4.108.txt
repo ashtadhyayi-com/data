@@ -8,7 +8,7 @@
     "skn": "2548",
     "mskn": "782",
     "sskn": "505",
-    "lskn": "676",
+    "lskn": "675",
     "plskn": "0",
     "lpn": "555",
     "sk": " करोतेः प्रत्ययोकारस्य नित्यं लोपः स्यान्म्वोः परयोः । कुर्वः । कुर्मः । चकर्थ । चकृव । चकृषे । कर्ता । करिष्यति ॥",
@@ -21,5 +21,6 @@
     "sae": "The उकार occurring at end of a प्रत्यय that is attached to the verb root  कृ is removed when followed by a मकार or a वकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "19"
 }

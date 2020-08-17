@@ -8,7 +8,7 @@
     "skn": "234",
     "mskn": "269",
     "sskn": "231",
-    "lskn": "246",
+    "lskn": "245",
     "plskn": "0",
     "lpn": "310",
     "sk": "अङ्गावयवोऽसर्वनामस्थानयजादिस्वादिपरो योऽन् तस्याऽकारस्य लोपः स्यात् ॥",
@@ -21,5 +21,6 @@
     "sae": "If a भसंज्ञक अङ्ग ends in the word 'अन्' then the 'अ' of this 'अन्' is omitted.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "7"
 }

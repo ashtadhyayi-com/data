@@ -8,7 +8,7 @@
     "skn": "2026",
     "mskn": "2145",
     "sskn": "713",
-    "lskn": "1227",
+    "lskn": "1225",
     "plskn": "0",
     "lpn": "1540",
     "sk": " तिङश्च <{SK2002}> इत्यनुवर्तते ॥",
@@ -21,5 +21,6 @@
     "sae": "For an अव्यय, a सर्वनामशब्द and  a तिङ्गन्त word the प्रत्यय 'अकच्' comes just before the 'टि'संज्ञक component of that word under  all the प्राग्-इवीय meanings.\n\n",
     "mahabhashyam": " अव्ययसर्वनाम्नामकच्प्राक् टेः (2229) ",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "55"
 }

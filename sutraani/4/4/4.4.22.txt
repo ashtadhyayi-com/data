@@ -8,7 +8,7 @@
     "skn": "1572",
     "mskn": "1928",
     "sskn": "0",
-    "lskn": "1116",
+    "lskn": "1115",
     "plskn": "0",
     "lpn": "0",
     "sk": " दध्ना संसृष्टं दाधिकम् ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "48"
 }

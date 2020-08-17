@@ -21,5 +21,6 @@
     "sae": "A रुँ letter that follows an अप्लुत-ह्रस्व-अकार and is also followed by a हश् letter is converted to an उकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "4"
 }

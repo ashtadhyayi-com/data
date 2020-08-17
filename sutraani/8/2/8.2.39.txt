@@ -21,5 +21,6 @@
     "sae": "A झल् letter occurring at end of a पद is converted to the corresponding जश् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "3"
 }

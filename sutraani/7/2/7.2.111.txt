@@ -8,7 +8,7 @@
     "skn": "344",
     "mskn": "293",
     "sskn": "256",
-    "lskn": "272",
+    "lskn": "271",
     "plskn": "139",
     "lpn": "334",
     "sk": " इदम इदोऽय् स्यात्सौ पुंसि । सोर्लोपः । अयम् । त्यदाद्यत्वं पररूपत्वं च ॥ ",
@@ -21,5 +21,6 @@
     "sae": "In पुँल्लिङ्ग, the 'इद्' part of the word 'इदम्' is converted to  'अय्' when followed by the  सुँ-प्रत्यय.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }

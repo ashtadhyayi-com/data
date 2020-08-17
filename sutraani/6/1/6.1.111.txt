@@ -8,7 +8,7 @@
     "skn": "279",
     "mskn": "229",
     "sskn": "184",
-    "lskn": "207",
+    "lskn": "206",
     "plskn": "106",
     "lpn": "212",
     "sk": " ऋदन्तान्ङसिङसोरति परे उकार एकादेशः स्यात् । रपरत्वम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "If an ऋकार / ऌकार is followed by the ङसिँ or ङस् प्रत्यय, the पूर्व and पर are combined to form an उकार. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "5"
 }

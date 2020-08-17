@@ -8,7 +8,7 @@
     "skn": "1256",
     "mskn": "1786",
     "sskn": "0",
-    "lskn": "1046",
+    "lskn": "1045",
     "plskn": "0",
     "lpn": "1396",
     "sk": " साक्तुकम् । हास्तिकम् । धैनुकम् ॥",
@@ -21,5 +21,6 @@
     "sae": "For the words that represent non-living entities, and also for the words हस्तिन् and धेनु, the प्रत्यय ठक् is used to indicate the meaning of 'तस्य समूहः'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "45"
 }

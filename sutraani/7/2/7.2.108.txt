@@ -8,7 +8,7 @@
     "skn": "343",
     "mskn": "292",
     "sskn": "255",
-    "lskn": "271",
+    "lskn": "270",
     "plskn": "138",
     "lpn": "331",
     "sk": " इदमो मस्य मः स्यात्सौ परे । त्यदाद्यत्वापवादः ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The word इदम् gets a मकारादेश when followed by the सुँ-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }

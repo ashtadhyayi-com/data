@@ -8,7 +8,7 @@
     "skn": "1855",
     "mskn": "2030",
     "sskn": "0",
-    "lskn": "1174",
+    "lskn": "1173",
     "plskn": "233",
     "lpn": "1480",
     "sk": " तृतीयः ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "53"
 }

@@ -8,7 +8,7 @@
     "skn": "310",
     "mskn": "256",
     "sskn": "219",
-    "lskn": "234",
+    "lskn": "233",
     "plskn": "126",
     "lpn": "224",
     "sk": "क्लीबात्परस्यौङः शी स्यात् । भसंज्ञायाम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The औ and औट्-प्रत्ययs following a नपुँसक अङ्ग get the आदेश 'शी'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "7"
 }

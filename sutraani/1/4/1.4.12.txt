@@ -8,7 +8,7 @@
     "skn": "33",
     "mskn": "58",
     "sskn": "422",
-    "lskn": "448",
+    "lskn": "447",
     "plskn": "0",
     "lpn": "123",
     "sk": " दीर्घं च गुरुसंज्ञं स्यात् ॥। इति संज्ञाप्रकरणम्‌ ।",
@@ -21,5 +21,6 @@
     "sae": "A दीर्घ स्वर gets the  term गुरु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

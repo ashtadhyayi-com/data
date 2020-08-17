@@ -8,7 +8,7 @@
     "skn": "2450",
     "mskn": "695",
     "sskn": "0",
-    "lskn": "592",
+    "lskn": "591",
     "plskn": "0",
     "lpn": "487",
     "sk": " ब्रुवो लटः परस्मैपदानामादितः पञ्चानां णलादयः पञ्च वा स्युर्ब्रुवश्चाहादेशः । आकार उच्चारणार्थः । आह । आहतुः । आहुः ॥",
@@ -21,5 +21,6 @@
     "sae": "In case of the verb ब्रू, the first five परस्मैपद-प्रत्ययाः of लट्लकार are converted optionally to (respectively) णल्, अतुस्, उस्, थल्, and अथुस्. Also, when this happens, the verb 'ब्रू' is converted to 'आह्'. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "13"
 }

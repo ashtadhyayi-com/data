@@ -21,5 +21,6 @@
     "sae": "According to all the experts, the normal यकार as well as the लघु-उच्चारण-यकार appearing at पदान्त after an अवर्ण are deleted when followed by a हल् letter.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "4"
 }

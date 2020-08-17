@@ -8,7 +8,7 @@
     "skn": "2451",
     "mskn": "696",
     "sskn": "0",
-    "lskn": "593",
+    "lskn": "592",
     "plskn": "0",
     "lpn": "583",
     "sk": " झलि परे । चर्त्वम् । आत्थ । आहथुः ॥",
@@ -21,5 +21,6 @@
     "sae": "The हकार of 'आह्' is converted to थकार when followed by a झल् letter. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "13"
 }

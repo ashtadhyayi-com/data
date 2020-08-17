@@ -8,7 +8,7 @@
     "skn": "2747",
     "mskn": "943",
     "sskn": "0",
-    "lskn": "743",
+    "lskn": "742",
     "plskn": "0",
     "lpn": "977",
     "sk": " प्रवहति ॥",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "29"
 }

@@ -8,7 +8,7 @@
     "skn": "3076",
     "mskn": "1204",
     "sskn": "0",
-    "lskn": "822",
+    "lskn": "821",
     "plskn": "0",
     "lpn": "1020",
     "sk": " तादौ किति । अभिहितम् । निहितम् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "33"
 }

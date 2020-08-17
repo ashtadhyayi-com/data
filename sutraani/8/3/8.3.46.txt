@@ -8,7 +8,7 @@
     "skn": "160",
     "mskn": "1083",
     "sskn": "0",
-    "lskn": "791",
+    "lskn": "790",
     "plskn": "0",
     "lpn": "100",
     "sk": " अकारादुत्तरस्यानव्ययस्य विसर्गस्य समासे नित्यं सकारादेशः स्यात्करोत्यादिषु परेषु न तूत्तरपदस्थस्य । अयस्कारः । अयस्कामः । अयस्कंसः । अयस्कुम्भः । अयस्पात्रम् । अयःसहिता कुशा अयस्कुशा । अयस्कर्णी । अतः किम् । गीःकारः । अनव्ययस्य किम् । स्वःकामः । समासे किम् । यशःकरोति । अनुत्तरपदस्थस्य किम् । परमयशःकारः ॥",
@@ -21,5 +21,6 @@
     "sae": "While doing a समास, if all the following conditions are met - \n1. the पूर्वपद ends in a विसर्ग that follows an अकार, \n2. the उत्तरपद is either a form of the verb 'कृ', or a form of the verb 'कमि' or is one of these words - कंस/कुम्भ/पात्र/कुशा/कर्णी\n3. पू्र्वपद is not an अव्यय\n4.  पू्र्वपद is not a समास\n- then the विसर्ग of the पूर्वपद is converted to सकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "33"
 }

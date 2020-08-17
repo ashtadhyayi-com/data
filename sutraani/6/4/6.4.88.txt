@@ -8,7 +8,7 @@
     "skn": "2174",
     "mskn": "422",
     "sskn": "362",
-    "lskn": "391",
+    "lskn": "390",
     "plskn": "290",
     "lpn": "721",
     "sk": " भुवो वुगागमः स्यात् लुङ्लिटोरचि । नित्यत्वाद्वुग्गुणवृद्धी बाधते ॥",
@@ -21,5 +21,6 @@
     "sae": "The verb root 'भू' gets a वुक् आगम when followed by an अजादि-प्रत्यय of लुङ्लकार or लिट्लकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "12"
 }

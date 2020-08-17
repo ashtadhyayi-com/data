@@ -21,5 +21,6 @@
     "sae": "Except for the नञ् समास, when a form of एतद्/तद् word which does not contain a ककार is followed by a  सुँ-प्रत्यय which in turn is followed by a व्यञ्जन,  the सुँ-प्रत्यय gets removed. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "4"
 }

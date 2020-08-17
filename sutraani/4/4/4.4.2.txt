@@ -8,7 +8,7 @@
     "skn": "1550",
     "mskn": "1914",
     "sskn": "0",
-    "lskn": "1112",
+    "lskn": "1111",
     "plskn": "0",
     "lpn": "1431",
     "sk": " अक्षैर्दीव्यति आक्षिकः । अभ्र्या खनति आभ्रिकः । अक्षैर्जयति आक्षिकः । अक्षैर्जितमाक्षिकम् ॥",
@@ -21,5 +21,6 @@
     "sae": "The ठक् प्रत्यय is attached to a तृतीयासमर्थ instrument to indicate  (1) a person who gambles, (2) A person who digs, (3) A person who wins, (4) An entity that is won.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "48"
 }

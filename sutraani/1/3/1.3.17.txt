@@ -8,7 +8,7 @@
     "skn": "2683",
     "mskn": "902",
     "sskn": "0",
-    "lskn": "729",
+    "lskn": "728",
     "plskn": "0",
     "lpn": "916",
     "sk": " निविशते । ",
@@ -21,5 +21,6 @@
     "sae": "When the उपसर्ग 'नि' is attached to the verb 'विश्', it gets the प्रत्ययाः of आत्मनेपद.  ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "28"
 }

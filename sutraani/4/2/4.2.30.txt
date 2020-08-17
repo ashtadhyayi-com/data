@@ -8,7 +8,7 @@
     "skn": "1232",
     "mskn": "1770",
     "sskn": "0",
-    "lskn": "1038",
+    "lskn": "1037",
     "plskn": "0",
     "lpn": "0",
     "sk": " सौम्यम् । टित्वान्ङीप् । सौमी ऋक् ॥",
@@ -21,5 +21,6 @@
     "sae": "The word सोम gets the प्रत्यय 'ट्यण्' in the meaning of 'सा अस्य देवता'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "45"
 }

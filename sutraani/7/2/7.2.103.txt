@@ -8,7 +8,7 @@
     "skn": "342",
     "mskn": "291",
     "sskn": "254",
-    "lskn": "270",
+    "lskn": "269",
     "plskn": "137",
     "lpn": "325",
     "sk": " किमः कः स्याद्विभक्तौ । अकच्सहितस्याप्ययमादेशः । कः । कौ । के । कम् । कौ । कान् । इत्यादि सर्ववत् ॥ ",
@@ -21,5 +21,6 @@
     "sae": "The word किम् is converted to 'क' in presence of a विभक्ति प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": ""
+    "video": "",
+    "lsk_chapter": "8"
 }
