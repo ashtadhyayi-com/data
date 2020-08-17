@@ -15,6 +15,5 @@
     "sae": "The words भू and सुधी do not undergo यणादेश when followed by अजादि सुप् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

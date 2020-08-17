@@ -15,6 +15,5 @@
     "sae": "In presence of a सार्वधातुक प्रत्यय in the कर्तरि प्रयोग, the verbs भ्राश् , भ्लाश्, भ्रम्, क्रम्, क्लम्, त्रस्, त्रुट्, लष्  get the  श्यन् विकरण optionally.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

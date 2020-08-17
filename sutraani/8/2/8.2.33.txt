@@ -15,6 +15,5 @@
     "sae": "A हकार occurring at end of verbs द्रुहँ, मुहँ, ष्णुहँ and ष्णिहँ   at पदान्त or when followed by a झल् letter is converted optionally to a घकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The उपधा-अकार of an अङ्ग undergoes a वृद्धिः when followed by a णित् or a ञित् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

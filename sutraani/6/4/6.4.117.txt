@@ -15,6 +15,5 @@
     "sae": "The verb root 'हा' gets an optional इकारादेश or an आकारादेश when followed by the प्रत्यय 'हि'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

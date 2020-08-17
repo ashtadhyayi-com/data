@@ -15,6 +15,5 @@
     "sae": "The घु-संज्ञक verb roots and the verb root अस् get an एकार as आदेश when followed by the 'हि' प्रत्यय. Also, अभ्यास, if present, is removed.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

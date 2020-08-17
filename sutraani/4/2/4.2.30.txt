@@ -15,6 +15,5 @@
     "sae": "The word सोम gets the प्रत्यय 'ट्यण्' in the meaning of 'सा अस्य देवता'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

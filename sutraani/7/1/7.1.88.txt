@@ -15,6 +15,5 @@
     "sae": "The टि of the भसंज्ञक अङ्ग of पथिन्, मथिन् and ऋभुक्षिन् is removed.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

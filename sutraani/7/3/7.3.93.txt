@@ -15,6 +15,5 @@
     "sae": "A सार्वधातुक पित् प्रत्यय which begins with a हल्-letter gets  ईट्  आगम when attached to the verb ब्रू.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

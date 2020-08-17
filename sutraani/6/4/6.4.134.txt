@@ -15,6 +15,5 @@
     "sae": "If a भसंज्ञक अङ्ग ends in the word 'अन्' then the 'अ' of this 'अन्' is omitted.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "7"
+    "video": ""
 }

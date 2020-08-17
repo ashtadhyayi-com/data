@@ -15,6 +15,5 @@
     "sae": "A भसंज्ञक अङ्ग ending in a वसुँ प्रत्यय undergoes सम्प्रसारणम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

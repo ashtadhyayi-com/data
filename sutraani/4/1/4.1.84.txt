@@ -15,6 +15,5 @@
     "sae": "The words of the अश्वपत्यादि गण get the अण् प्रत्यय in the प्राग्दीव्यतीय meaning.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "43"
+    "video": ""
 }

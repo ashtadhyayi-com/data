@@ -15,6 +15,5 @@
     "sae": "In presence of the अव्यय माङ्, लुङ्लकारः is used. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

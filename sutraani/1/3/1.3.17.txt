@@ -15,6 +15,5 @@
     "sae": "When the उपसर्ग 'नि' is attached to the verb 'विश्', it gets the प्रत्ययाः of आत्मनेपद.  ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "28"
+    "video": ""
 }

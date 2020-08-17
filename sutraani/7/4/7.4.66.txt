@@ -15,6 +15,5 @@
     "sae": "A ऋ  letter present in an अभ्यास is converted to  अकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

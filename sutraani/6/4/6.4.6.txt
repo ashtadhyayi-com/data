@@ -15,6 +15,5 @@
     "sae": "In presence of the नाम् प्रत्यय, the last letter of the word नृ becomes दीर्घ optionally.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

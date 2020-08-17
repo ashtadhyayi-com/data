@@ -15,6 +15,5 @@
     "sae": "The उपधा letter of the words अप्, स्वसृ, नप्तृ, नेष्टृ, त्वष्टृ, क्षत्तृ, होतृ, पोतृ, and प्रशातृ, and also of the words ending in a तृन् or तृच् प्रत्यय becomes दीर्घ in presence of a प्रत्यय that is also a सर्वनामस्थान, other than सम्बोधन-एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

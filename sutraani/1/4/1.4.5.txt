@@ -15,6 +15,5 @@
     "sae": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश optionally gets the term नदी in presence of the आम् प्रत्यय of षष्ठी बहुवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

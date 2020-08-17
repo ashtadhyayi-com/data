@@ -15,6 +15,5 @@
     "sae": "The word 'स्व', when used in a meaning different than 'relatives' and 'money'  is optionally called सर्वनाम when followed by the जस् प्रत्यय.",
     "mahabhashyam": " स्वमज्ञातिधनाख्यायामाख्याग्रहणं किमर्थम् ? ज्ञातिधनपर्यायवाची यः स्वशब्दस्तस्य यथा स्यात्। इह मा भूत्। स्वे पुत्राः। स्वाः पुत्राः। स्वे गावः। स्वाः गावः। ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

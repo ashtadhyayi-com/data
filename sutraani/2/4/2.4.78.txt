@@ -15,6 +15,5 @@
     "sae": "For the verbs घ्रा, धेट्, शो, छो and सो, the सिच्-प्रत्यय is removed optionally when followed by a प्रत्यय of परस्मैपद.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "15"
+    "video": ""
 }

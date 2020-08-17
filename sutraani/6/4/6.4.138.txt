@@ -15,6 +15,5 @@
     "sae": "The अकार of the word अच् that occurs at end of a भसंज्ञक अङ्ग is omitted if this 'अच्' happens to be derived from the धातु अञ्च् (गतौ).\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

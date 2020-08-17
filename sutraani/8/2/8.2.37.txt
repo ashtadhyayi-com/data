@@ -15,6 +15,5 @@
     "sae": "A बश्-वर्ण of an एकाच् and झषन्त part of a verb is converted to a भष् वर्ण - (1) in presence of a सकार, (2) in presence of a  the word ध्व, or (3) at end of a पद",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

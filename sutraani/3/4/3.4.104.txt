@@ -15,6 +15,5 @@
     "sae": "The परस्मैपदस्य प्रत्ययाः of आशीर्लिङ्लकार get a 'यासुट्' आगम which is both - उदात्त and कित्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

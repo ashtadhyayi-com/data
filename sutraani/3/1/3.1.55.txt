@@ -15,6 +15,5 @@
     "sae": "For the verbs of पुषादिगण and द्युतादिगण, as well as for the ऌदित verbs, च्लि is converted to अङ् when followed by a प्रत्यय of परस्मैपद.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

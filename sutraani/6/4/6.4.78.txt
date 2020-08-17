@@ -15,6 +15,5 @@
     "sae": "An  इवर्ण and an उवर्ण occurring at end of an अभ्यास respectively get इयङ् and उवङ् आदेश when followed by an असवर्ण  letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

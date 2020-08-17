@@ -15,6 +15,5 @@
     "sae": "if a यर् letter is present after a र् or a ह् , which in turn is present after an अच् letter , then that यर्  letter gets द्वित्व optionally.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

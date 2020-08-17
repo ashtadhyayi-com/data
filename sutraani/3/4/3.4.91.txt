@@ -15,6 +15,5 @@
     "sae": "An एकार coming after a  सकार  or a  वकार of प्रत्यय of लोट्लकार is respectively converted to व and अम्. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

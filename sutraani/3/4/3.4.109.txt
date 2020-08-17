@@ -15,6 +15,5 @@
     "sae": "The झि-प्रत्यय of a ङित्-लकार that follows सिच्, अभ्यस्त or the verb root विद् is converted  to जुस्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

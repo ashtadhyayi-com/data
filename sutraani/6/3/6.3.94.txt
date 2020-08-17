@@ -15,6 +15,5 @@
     "sae": "If the word 'तिरस्' is followed by a  लुप्तप्रत्ययान्त-अञ्च् word from which an अकार has not been removed, then the word 'तिरस्' is converted to 'तिरि'. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

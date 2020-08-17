@@ -15,6 +15,5 @@
     "sae": "",
     "mahabhashyam": " सोऽस्य निवासः (1659) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "46"
+    "video": ""
 }

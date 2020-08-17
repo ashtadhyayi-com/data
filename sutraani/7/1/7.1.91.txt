@@ -15,6 +15,5 @@
     "sae": "The णल्-प्रत्यय of लिट्लकार-परस्मैपद-उत्तमपुरुषैकवचन is only optionally णित्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

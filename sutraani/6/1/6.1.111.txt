@@ -15,6 +15,5 @@
     "sae": "If an ऋकार / ऌकार is followed by the ङसिँ or ङस् प्रत्यय, the पूर्व and पर are combined to form an उकार. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

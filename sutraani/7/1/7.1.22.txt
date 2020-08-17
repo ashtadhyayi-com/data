@@ -15,6 +15,5 @@
     "sae": "The जस्/शस्-प्रत्यय following a षट्-संज्ञक अङ्ग are removed.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "To indicate the feminine property, the ऋकारान्त and the नकारान्त words get the ङीप्-प्रत्यय.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "For the लुङ्लकार, लङ्लकार and लृङ्लकार, an अजादि अङ्ग gets an आट्-आगम, which is also उदात्त.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

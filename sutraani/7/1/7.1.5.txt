@@ -15,6 +15,5 @@
     "sae": "The झकार of the आत्मनेपदी प्रत्यय that follows an अनदन्त अङ्ग gets the 'अत्' आदेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

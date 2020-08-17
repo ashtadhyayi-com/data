@@ -15,6 +15,5 @@
     "sae": "1) For the verb roots that end in an अनुनासिक letter and have an अनुदात्त स्वर in the उपदेश,\n2) For the verb root वन्, and\n3) For the verb roots that end in an अनुनासिक letter and belong to the तनोत्यादिगण, \n\nThe अनुनासिक is removed when the verb is followed by a झलादि कित् /ङित् प्रत्यय. ",
     "mahabhashyam": " अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति (3035) (6540 उपसंख्यानवार्तिकम् ॥ 1 ॥) - अनुदात्तोपदेशेऽनुनासिकलोपो ल्यपि च - अनुदात्तोपदेशेऽनुनासिकलोपो ल्यपि चेति वक्तव्यम् । प्रमत्य । प्रतत्य ॥ (6541 उपसंख्यानवार्तिकम् ॥ 2 ॥) - वाऽमः - वाऽम इति वक्तव्यम् । प्रयत्य, प्रयम्य । प्ररत्य, प्ररम्य । प्रणत्य, प्रणम्य ॥ ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "A शर्-letter does not undergo द्वित्वम् when followed by an अच् letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The तिङ्-प्रत्ययs of the लिट्-लकार get the term आर्धधातुक.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

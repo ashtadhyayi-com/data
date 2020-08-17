@@ -15,6 +15,5 @@
     "sae": "The laster letter of the word व्रश्च्, भ्रस्ज्, सृज्, मृज्, यज्, राज्, भ्राज् and  शकारान्त /  च्छकारान्त words gets षकारादेश at पदान्त, or when झल् letter is in front.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

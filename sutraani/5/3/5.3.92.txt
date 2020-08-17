@@ -15,6 +15,5 @@
     "sae": "",
     "mahabhashyam": " किंयत्तदो निर्धारणे द्वयोरेकस्य डतरच् (2250) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "55"
+    "video": ""
 }

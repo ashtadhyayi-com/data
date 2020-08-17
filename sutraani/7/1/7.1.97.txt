@@ -15,6 +15,5 @@
     "sae": "The word क्रोष्टु optionally behaves like a तृच्-प्रत्ययान्त word when followed by an अजादि विभक्ति of तृतीया onwards.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

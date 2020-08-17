@@ -15,6 +15,5 @@
     "sae": "The सकार of the verb roots शास्/वस्/घस् is converted to षकार when it follows a letter from the इण्-प्रत्याहार or the कवर्ग.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

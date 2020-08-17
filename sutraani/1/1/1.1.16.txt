@@ -15,6 +15,5 @@
     "sae": "According to Shakalya, the ओकार at end of the सम्बोधन-एकवचन form, when followed by the word 'इति' in a non vedic context, gets the term प्रगृह्य.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

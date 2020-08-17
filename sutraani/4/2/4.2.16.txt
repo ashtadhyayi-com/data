@@ -15,6 +15,5 @@
     "sae": "To indicate a food item using the vessel or the medium used for its processing / culturing / preparation, an appropriate तद्धितप्रत्यय can be used with the word in the सप्तमी विभक्ति indicating the name of the vessel or the medium.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

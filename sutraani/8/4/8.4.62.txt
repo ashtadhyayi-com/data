@@ -15,6 +15,5 @@
     "sae": "A हकार following a झय् letter is optionally converted to the पूर्वसवर्ण वर्गचतुर्थ.  ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

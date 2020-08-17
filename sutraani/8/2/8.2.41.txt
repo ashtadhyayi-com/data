@@ -15,6 +15,5 @@
     "sae": "षकार and  ढकार not occurring at end of a पद are converted to  ककार when followed by सकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

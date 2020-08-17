@@ -15,6 +15,5 @@
     "sae": "The उपधा of the नकारान्त words becomes दीर्घ when the नकारान्त word is followed by the नाम्-प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

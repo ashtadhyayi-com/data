@@ -15,6 +15,5 @@
     "sae": "When an अवर्ण is followed by an एच् letter, both of them are replaced by a वृद्धि letter.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The तिङ्-प्रत्ययाः are sequentially referred as एकवचन, द्विवचन and बहुवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

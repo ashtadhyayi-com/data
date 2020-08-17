@@ -15,6 +15,5 @@
     "sae": "The उकार which occurs at end of a प्रत्यय is optionally deleted when followed by a मकार / वकार , provided that a संयोग is not present immediately before this उकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The verb root 'भू' gets a वुक् आगम when followed by an अजादि-प्रत्यय of लुङ्लकार or लिट्लकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

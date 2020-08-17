@@ -15,6 +15,5 @@
     "sae": "In case of ङित्-लकारs, तस्, थस्, थ and मिप् are converted respectively to  ताम्, तम्, त and अम्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

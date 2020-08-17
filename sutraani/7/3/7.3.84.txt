@@ -15,6 +15,5 @@
     "sae": "When followed by an सार्वधातुक or an आर्धधातुक प्रत्यय, an इगन्त अङ्ग gets a गुणादेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

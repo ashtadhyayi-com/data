@@ -15,6 +15,5 @@
     "sae": "In case of the verb ब्रू, the first five परस्मैपद-प्रत्ययाः of लट्लकार are converted optionally to (respectively) णल्, अतुस्, उस्, थल्, and अथुस्. Also, when this happens, the verb 'ब्रू' is converted to 'आह्'. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "13"
+    "video": ""
 }

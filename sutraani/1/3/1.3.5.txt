@@ -15,6 +15,5 @@
     "sae": "The groups ञि, टु and डु occurring at the beginning of an उपदेश are called 'इत्'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

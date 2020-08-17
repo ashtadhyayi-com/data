@@ -15,6 +15,5 @@
     "sae": "A ह्रस्व स्वर gets the term लघु.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

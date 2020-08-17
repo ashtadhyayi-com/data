@@ -15,6 +15,5 @@
     "sae": "When followed by the घञ्-प्रत्यय in the meaning of  भाव or करण the उपधा-नकार of the verb root रञ्ज् is removed.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "35"
+    "video": ""
 }

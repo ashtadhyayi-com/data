@@ -15,6 +15,5 @@
     "sae": "If an एकार or ओकार is followed by the ङसिँ or ङस् प्रत्यय, the पूर्व and पर are combined to form a पूर्वरूप-एकादेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

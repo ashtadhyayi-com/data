@@ -15,6 +15,5 @@
     "sae": "When any of the उपसर्गs - परि, वि, अव - is attached to the verb 'क्री', it gets the प्रत्ययाः of आत्मनेपद.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "28"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "In presence of a सार्वधातुक प्रत्यय in the कर्तरि प्रयोग, the verbs  स्तम्भ्, स्तुम्भ्, स्कम्भ्, स्कुम्भ्, स्कुञ् gets the श्ना or the श्नु विकरणप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "20"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "A ऋकारान्त-धातु get a रिङ्-आदेश in presence of  'श' प्रत्यय,  यक्-प्रत्यय and आशीर्लिङ् लकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

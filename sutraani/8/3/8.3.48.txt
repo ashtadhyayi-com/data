@@ -15,6 +15,5 @@
     "sae": "For the words in the कस्कादिगण, the विसर्ग is to be converted to षकार / सकार as shown for each word. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "40"
+    "video": ""
 }

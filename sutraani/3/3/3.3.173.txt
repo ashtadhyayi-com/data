@@ -15,6 +15,5 @@
     "sae": "लिङ्लकार and लोट्लकार are used to express the desire of something that cannot be easily attained.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "",
     "mahabhashyam": " पञ्ञ्चम्यास्तसिल् (2165) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "55"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश is not referred as नदी.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "6"
+    "video": ""
 }

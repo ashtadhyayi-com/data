@@ -15,6 +15,5 @@
     "sae": "The  आम्-प्रत्यय present after a षट्-संज्ञक word or after the word चतुर् gets a नुट्-आगम.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

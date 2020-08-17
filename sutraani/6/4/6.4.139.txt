@@ -15,6 +15,5 @@
     "sae": "If the word अच् -\n(1) happens to be derived from the धातु अञ्च् (गतौ) ,\n(2) follows the word उद्,  and\n(3) gets the भसंज्ञा, \n then the अकार of अच् is converted to ईकार.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

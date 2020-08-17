@@ -15,6 +15,5 @@
     "sae": "An वकार/यकार which comes after and अकार and which is present at end of a  पद is removed when followed by a letter from अश् प्रत्याहार.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "2"
+    "video": ""
 }

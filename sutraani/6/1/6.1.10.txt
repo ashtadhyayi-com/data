@@ -15,6 +15,5 @@
     "sae": "When a प्रत्यय is removed using the word श्लु, अङ्ग which is not yet duplicated is duplicated. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

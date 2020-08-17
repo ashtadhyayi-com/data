@@ -15,6 +15,5 @@
     "sae": "When a पदान्त नकार is followed by a letter from छव् प्रत्याहार, which in turn is followed by a letter from अम् प्रत्याहार, then the नकार is converted to रुँ. But this conversion does not happen for the word 'प्रशान्'. \n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "The word किम् is converted to 'क' in presence of a विभक्ति प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

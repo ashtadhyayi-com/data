@@ -15,6 +15,5 @@
     "sae": "In presence of a सार्वधातुक प्रत्यय in the कर्तरि प्रयोग, the verb श्रु is converted to शृ and it gets the श्नु विकरणप्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

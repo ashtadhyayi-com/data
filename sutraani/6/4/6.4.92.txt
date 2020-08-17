@@ -15,6 +15,5 @@
     "sae": "The उपधा letter of a मित्संज्ञक अङ्ग becomes ह्रस्व when followed by the णिच् प्रत्यय.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "22"
+    "video": ""
 }

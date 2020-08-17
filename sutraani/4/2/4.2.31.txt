@@ -15,6 +15,5 @@
     "sae": "The words 'वायु', 'ऋतु', 'पितृ' and 'उषस्' get the प्रत्यय यत् in the meaning of  'सा अस्य देवता'.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

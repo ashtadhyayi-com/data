@@ -15,6 +15,5 @@
     "sae": "For the रुँ generated using the rules from this रूत्वप्रकरण, the letter before  this रुँ is optionally converted to an अनुनासिक.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "3"
+    "video": ""
 }

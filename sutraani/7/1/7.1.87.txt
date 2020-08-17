@@ -15,6 +15,5 @@
     "sae": "The थकार of the words पथिन् तथा मथिन् get the 'न्थ्' आदेश in presence of a सर्वनामस्थान. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

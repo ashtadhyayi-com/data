@@ -15,6 +15,5 @@
     "sae": "The words चतुर् and अनडुह् get an अमागम when followed by  सुँ प्रत्यय of सम्बोधन-एकवचन.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

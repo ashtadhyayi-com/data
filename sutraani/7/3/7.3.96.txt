@@ -15,6 +15,5 @@
     "sae": "A सार्वधातुक प्रत्यय which contains only one हल् letter (and no अच् letter) gets an  'ईट्' आगम when it follows either the अस् धातु or the  सिच्-प्रत्यय.\n",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

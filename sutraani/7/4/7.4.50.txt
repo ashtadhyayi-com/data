@@ -15,6 +15,5 @@
     "sae": "The सकार of तास् प्रत्यय and the verb root  अस् is removed when followed by सकार.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "When अकार / आकार is followed by a प्रत्यय of प्रथमा or द्वितीया विभक्ति that begins with a letter of इच्-प्रत्याहार, then the पूर्वसवर्णदीर्घ mandated by 'प्रथमयोः पूर्वसवर्णः' does not happen.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

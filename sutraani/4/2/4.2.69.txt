@@ -15,6 +15,5 @@
     "sae": "To indicate the name of a country by referring to its residents, an appropriate तद्धित प्रत्यय gets attached to the word in षष्ठीविभक्ति representing the name of the residents.",
     "mahabhashyam": " तस्य निवासः (1490) ",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "45"
+    "video": ""
 }

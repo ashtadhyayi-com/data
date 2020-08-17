@@ -15,6 +15,5 @@
     "sae": "When an अपदान्त अकार is followed by a गुण letter, the  पूर्व and पर undergo a पररूप-एकादेश.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "8"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "A हलादि-पित्-सार्वधातुकप्रत्यय attached to a यङ्-प्रत्ययान्त-अङ्ग gets ईडागम optionally.  ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "25"
+    "video": ""
 }

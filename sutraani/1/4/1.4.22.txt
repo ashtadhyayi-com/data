@@ -15,6 +15,5 @@
     "sae": "For referring to two, the द्विवचन forms are used, where as for referring to one, the एकवचन forms are used.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "5"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "झकार of the प्रत्यय that follows an अभ्यस्त is converted to अत्.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "14"
+    "video": ""
 }

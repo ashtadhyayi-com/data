@@ -15,6 +15,5 @@
     "sae": "The ठञ् प्रत्यय is used as a default for the प्राग्वतीय meanings.",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "51"
+    "video": ""
 }

@@ -15,6 +15,5 @@
     "sae": "When माङ् is followed by स्म, the verb लुङ्लकार or लङ्लकार is used. ",
     "mahabhashyam": "",
     "pradeep": "",
-    "video": "",
-    "lsk_chapter": "12"
+    "video": ""
 }
