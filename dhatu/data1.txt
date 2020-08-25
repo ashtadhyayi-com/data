@@ -45056,7 +45056,7 @@
         "settva": "S",
         "karma": "S",
         "artha": "संसर्गे",
-        "artha_english": "to come in contact, to embrace, ti hug, to join, to lock in",
+        "artha_english": "to come in contact, to embrace, to hug, to join, to lock in",
         "split_artha": "संसर्गे",
         "split": "प्,उ,ट्,अ",
         "english": "puta,puta",
