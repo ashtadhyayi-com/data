@@ -80,6 +80,28 @@
                 "text": "अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=6"
             }
+        ],
+        "alit_1_3_ववृतिरे": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.56",
+                "text": "परा ववृतिरे क्रियाः।",
+                "external": ""
+            }
+        ],
+        "alit_1_1_ववृते": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.72",
+                "text": "रणः प्रववृते तत्र।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.82",
+                "text": "धेनुराववृते वनात्।",
+                "external": ""
+            }
         ]
     }
 }

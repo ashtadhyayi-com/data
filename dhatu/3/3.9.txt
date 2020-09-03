@@ -31,6 +31,12 @@
                 "num": "2.55",
                 "text": "प्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=55"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.67",
+                "text": "सोऽपि त्वदाननरुचिं विजहाति चन्द्रः।",
+                "external": ""
             }
         ],
         "plrut_2_1_हास्यसि": [
@@ -47,6 +53,28 @@
                 "num": "2",
                 "text": "मूढ जहीहि धनागमतृष्णाम्",
                 "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
+            }
+        ],
+        "plat_1_1_जहति": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.72",
+                "text": "शय्यां जहत्युभयपक्षविनीतनिद्राः।",
+                "external": ""
+            }
+        ],
+        "plit_1_1_जहौ": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.24",
+                "text": "चित्रकूटस्थलीं जहौ।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.75",
+                "text": "इति सा विजहौ शुचम्।",
+                "external": ""
             }
         ]
     }

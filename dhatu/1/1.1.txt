@@ -55,6 +55,12 @@
                 "num": "3.2",
                 "text": "विधेयमस्याभवदन्तिकस्थम्‌",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.51",
+                "text": "दुष्प्रवृत्तिहराभवत्।",
+                "external": ""
             }
         ],
         "plat_1_1_भवति": [
@@ -99,6 +105,12 @@
                 "num": "13",
                 "text": "भवति भवार्णवतरणे नौका",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-13-kaa-te-kaantaa-dhanagatachintaa/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.74",
+                "text": "भवति विरलभक्तिर्म्लानपुष्पोपहारः।",
+                "external": ""
             }
         ],
         "pvidhiling_1_1_भवेत्": [
@@ -144,6 +156,18 @@
                 "book": "शिशुपालवधम्",
                 "num": "3.16",
                 "text": "सा सा ह्रिया नम्रमुखी बभूव",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.64",
+                "text": "निद्रा चिरेण नयनाभिमुखी बभूव।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.16",
+                "text": "स बभूवोपजीविनाम्।",
                 "external": ""
             }
         ],
@@ -199,6 +223,12 @@
                 "num": "3.19",
                 "text": "तस्यैव स नन्दकोऽभूत्",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.20",
+                "text": "विज्ञापितोऽभूद्गुरुदक्षिणायै।",
+                "external": ""
             }
         ],
         "plung_2_1_अभूः": [
@@ -207,6 +237,12 @@
                 "num": "1.28",
                 "text": "सौधोत्सङ्गप्रणयविमुखो मा स्म भूरुज्जयिन्याः ।",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#28"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.58",
+                "text": "दयापरोऽभूः प्रहरन्नपि त्वम्।",
+                "external": ""
             }
         ],
         "plat_1_2_भवतः": [
@@ -231,6 +267,12 @@
                 "num": "16.13",
                 "text": "इदमस्तीदमपि मे भविष्यति पुनर्धनम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=13"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.77",
+                "text": "अतस्ते न भविष्यति।",
+                "external": ""
             }
         ],
         "plat_3_1_भवामि": [
@@ -297,6 +339,12 @@
                 "num": "31",
                 "text": "सम्सारादचिराद्भव मुक्तः ",
                 "external": "https://nivedita2015.wordpress.com/2015/12/07/grammatical-aspects-in-bhaja-govindam-verse-31-gurucharanaambuja-nirbharabhaktah/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.91",
+                "text": "परिचर्यापरो भव।",
+                "external": ""
             }
         ],
         "plit_1_2_बभूवतुः": [
@@ -312,6 +360,28 @@
                 "book": "शिशुपालवधम्",
                 "num": "2.24",
                 "text": " भाष्यभूता भवन्तु मे",
+                "external": ""
+            }
+        ],
+        "plung_1_2_अभूताम्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.31",
+                "text": "द्वावप्याभूतामभिनन्द्यसत्त्वौ।",
+                "external": ""
+            }
+        ],
+        "plit_1_3_बभूवुः": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.41",
+                "text": "बभूवुरुद्यानविहारकल्पा।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.48",
+                "text": "सेना गजेन्द्रा विमुखा बभूवुः।",
                 "external": ""
             }
         ]

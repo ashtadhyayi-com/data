@@ -54,6 +54,22 @@
                 "text": "उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=12"
             }
+        ],
+        "alang_1_1_अयुङ्क्त": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.18",
+                "text": "त्वया कियद्वेति तमन्वयुङ्क्त।",
+                "external": ""
+            }
+        ],
+        "alrut_2_1_योक्ष्यसे": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.55",
+                "text": "संयोक्ष्यसे स्वेन वपुर्महिम्ना।",
+                "external": ""
+            }
         ]
     }
 }

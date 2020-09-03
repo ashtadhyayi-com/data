@@ -32,6 +32,14 @@
                 "text": "सर्वत्रोत्सृज भेदाज्ञानम् ",
                 "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
             }
+        ],
+        "alat_1_1_सृज्यते": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.69",
+                "text": "संसृज्यते सरसिजैररुणांशुभिन्नैः।",
+                "external": ""
+            }
         ]
     }
 }

@@ -40,6 +40,14 @@
                 "text": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=14"
             }
+        ],
+        "plit_1_1_ससर्ज": [
+            {
+                "book": "रघुवंशम्",
+                "num": "1.93",
+                "text": "विससर्जोर्जितश्रियम्।",
+                "external": ""
+            }
         ]
     }
 }

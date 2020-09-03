@@ -54,6 +54,14 @@
                 "text": "तावत्पृच्छति कुशलं गेहे",
                 "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
             }
+        ],
+        "plit_1_1_पप्रच्छ": [
+            {
+                "book": "रघुवंशम्",
+                "num": "1.58",
+                "text": "पप्रच्छ कुशलं राज्ये।",
+                "external": ""
+            }
         ]
     }
 }

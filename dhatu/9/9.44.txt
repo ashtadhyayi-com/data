@@ -37,6 +37,12 @@
                 "num": "14.7",
                 "text": "तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=7"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.79",
+                "text": "प्रतिबध्नाति हि श्रेयः।",
+                "external": ""
             }
         ],
         "plat_1_3_बध्नन्ति": [

@@ -32,6 +32,14 @@
                 "text": "विनाशमव्ययस्यास्य न कश्चित् कर्तुमर्हति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=17"
             }
+        ],
+        "plat_1_3_अर्हन्ति": [
+            {
+                "book": "रघुवंशम्",
+                "num": "1.10",
+                "text": "तं सन्तः श्रोतुमहर्न्ति।",
+                "external": ""
+            }
         ]
     }
 }

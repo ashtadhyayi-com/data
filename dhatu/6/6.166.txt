@@ -79,6 +79,12 @@
                 "num": "1.67",
                 "text": "मुमोच जानन्नपि जानकीं न यः",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.86",
+                "text": "आमुमोच तनुच्छदम्।",
+                "external": ""
             }
         ],
         "plat_1_1_मुञ्चति ": [
@@ -87,6 +93,22 @@
                 "num": "12",
                 "text": "तदपि न मुञ्चत्याशावायुः",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
+            }
+        ],
+        "plot_2_1_मुञ्च": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.66",
+                "text": "मतिमतां वर मुञ्च शय्याम्।",
+                "external": ""
+            }
+        ],
+        "alit_1_1_मुमुचे": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.23",
+                "text": "आत्मानं मुमुचे तस्मात्।",
+                "external": ""
             }
         ]
     }

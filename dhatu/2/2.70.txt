@@ -38,6 +38,20 @@
                 "text": "प्रशाधि प्रशाधि प्रकाशं प्रभो माम्",
                 "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
             }
+        ],
+        "plit_1_1_शशास": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.34",
+                "text": "वृषस्कन्धः शशास तां।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.30",
+                "text": "शशासैकपुरीमिव।",
+                "external": ""
+            }
         ]
     }
 }

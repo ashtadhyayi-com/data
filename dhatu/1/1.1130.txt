@@ -47,6 +47,12 @@
                 "num": "11.33",
                 "text": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=33"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.34",
+                "text": "पुत्रं लभस्वात्मगुणानुरूपम्।",
+                "external": ""
             }
         ],
         "alat_1_1_लभते": [
@@ -97,6 +103,14 @@
                 "num": "2",
                 "text": "यल्लभसे निजकर्मोपात्तम्",
                 "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
+            }
+        ],
+        "alit_1_1_लेभे": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.35",
+                "text": "राजापि लेभे सुतमाशु तस्मात्।",
+                "external": ""
             }
         ]
     }

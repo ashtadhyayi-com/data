@@ -32,6 +32,22 @@
                 "text": "नैनं छिन्दन्ति शस्त्राणि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=23"
             }
+        ],
+        "plit_1_1_चिच्छेद": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.96",
+                "text": "चिच्छेद कदलीसुखम्।",
+                "external": ""
+            }
+        ],
+        "plat_1_1_छिनत्ति": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.71",
+                "text": "रिपूंस्तव गुरुःस्वरमुच्छिनत्ति।",
+                "external": ""
+            }
         ]
     }
 }

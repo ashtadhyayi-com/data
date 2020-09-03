@@ -32,6 +32,14 @@
                 "text": "तत्किं कर्मणि घोरे मां नियोजयसि केशव",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=1"
             }
+        ],
+        "plang_1_1_अयोजयत्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.40",
+                "text": "भीषणां तामयोजयत्।",
+                "external": ""
+            }
         ]
     }
 }

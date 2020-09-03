@@ -81,6 +81,12 @@
                 "num": "9.33",
                 "text": "अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=33"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.34",
+                "text": "कनीयांसं भजस्व मे।",
+                "external": ""
             }
         ],
         "plat_1_3_भजन्ति": [
@@ -118,6 +124,12 @@
                 "book": "शिशुपालवधम्",
                 "num": "3.3",
                 "text": "भेजे भितः पातुकसिद्धसिन्धोः",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.21",
+                "text": "भेजे धर्ममनातुरः।",
                 "external": ""
             }
         ],

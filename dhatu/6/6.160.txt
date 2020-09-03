@@ -31,6 +31,12 @@
                 "num": "1.47",
                 "text": "एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=47"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.18",
+                "text": "भ्रात्रा नैवाविशत्पुरीम्।",
+                "external": ""
             }
         ],
         "pvidhiling_2_1_विशेः": [
@@ -85,6 +91,20 @@
                 "num": "11",
                 "text": "ब्रह्मपदं त्वं प्रविश विदित्वा ",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
+            }
+        ],
+        "plit_1_1_विवेश": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.9",
+                "text": "विवेश दण्डकारण्यम्।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.91",
+                "text": "विवेश भुवमाख्यातुम्।",
+                "external": ""
             }
         ]
     }

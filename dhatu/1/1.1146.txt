@@ -32,6 +32,14 @@
                 "text": "नैनं दहति पावकः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=23"
             }
+        ],
+        "plit_1_1_ददाह": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.63",
+                "text": "स ददाह पुरीं लङ्काम्।",
+                "external": ""
+            }
         ]
     }
 }

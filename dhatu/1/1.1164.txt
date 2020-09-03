@@ -31,6 +31,12 @@
                 "num": "2.29",
                 "text": "आश्चर्यवद्वदति तथैव चान्यः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.74",
+                "text": "अनुवदति शुकस्ते मञ्जुवाक्पञ्जरस्थः।",
+                "external": ""
             }
         ],
         "plat_2_1_वदसि": [
