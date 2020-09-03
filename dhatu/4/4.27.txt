@@ -32,6 +32,14 @@
                 "text": "मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=10"
             }
+        ],
+        "alit_1_1_सुषुवे": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.36",
+                "text": "कुमारकल्पं सुषुवे कुमारम्।",
+                "external": ""
+            }
         ]
     }
 }

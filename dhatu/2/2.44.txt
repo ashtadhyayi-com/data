@@ -113,6 +113,18 @@
                 "num": "1.66",
                 "text": "पुरेऽस्य वास्तव्यदुटुम्बितां ययुः",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.47",
+                "text": "चापात्सममिवोद्ययुः।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.27",
+                "text": "न किलानुययुस्तस्य।",
+                "external": ""
             }
         ],
         "plang_1_3_अयुः": [
@@ -129,6 +141,14 @@
                 "num": "12",
                 "text": "शिशिरवसन्तौ पुनरायातः",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
+            }
+        ],
+        "plit_1_1_ययौ": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.60",
+                "text": "एको ययौ चैत्ररथप्रदेशान्।",
+                "external": ""
             }
         ]
     }

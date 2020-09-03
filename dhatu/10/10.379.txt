@@ -56,6 +56,14 @@
                 "text": "अवाच्यवादांश्च बहून् वदिष्यन्ति तवाहिताः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=36"
             }
+        ],
+        "plat_1_1_वदति": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.74",
+                "text": "अनुवदति शुकस्ते मञ्जुवाक्पञ्जरस्थः।",
+                "external": ""
+            }
         ]
     }
 }

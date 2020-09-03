@@ -40,6 +40,14 @@
                 "text": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=26"
             }
+        ],
+        "plit_1_1_ददौ": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.62",
+                "text": "अङ्गुलीयं ददौ कपिः।",
+                "external": ""
+            }
         ]
     }
 }

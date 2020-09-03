@@ -64,6 +64,14 @@
                 "text": "तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=12"
             }
+        ],
+        "plang_1_1_अभुनक्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.18",
+                "text": "राज्यं न्यासमिवाभुनक्।",
+                "external": ""
+            }
         ]
     }
 }

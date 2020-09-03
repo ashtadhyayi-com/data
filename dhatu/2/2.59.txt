@@ -63,6 +63,12 @@
                 "num": "4",
                 "text": "विद्धि व्याध्यभिमानग्रस्तम्",
                 "external": "https://nivedita2015.wordpress.com/2015/09/29/grammatical-aspects-in-bhaja-govindam-verse-4-nalinidalagatajalamtitaralam/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.79",
+                "text": "विद्धि सार्गलमात्मनः।",
+                "external": ""
             }
         ],
         "plat_1_1_वेत्ति": [

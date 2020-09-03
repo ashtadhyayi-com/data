@@ -106,6 +106,34 @@
                 "text": "नैव किंचित्करोमीति युक्तो मन्येत तत्त्ववित्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=6"
             }
+        ],
+        "alang_1_1_अमन्यत": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.10",
+                "text": "शुद्धिलाभममन्यत।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.89",
+                "text": "अरातिं बह्वमन्यत।",
+                "external": ""
+            }
+        ],
+        "alit_1_1_मेने": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.62",
+                "text": "मेने यथा तत्र जनः समेतः।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.16",
+                "text": "मेने स्वीकरणाद्भुवः।",
+                "external": ""
+            }
         ]
     }
 }

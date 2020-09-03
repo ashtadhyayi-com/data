@@ -40,6 +40,14 @@
                 "text": "यावत्पवनो निवसति देहे",
                 "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
             }
+        ],
+        "plit_1_1_उवास": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.63",
+                "text": "बाल्यात्परामिव दशां मदनोऽध्युवास।",
+                "external": ""
+            }
         ]
     }
 }

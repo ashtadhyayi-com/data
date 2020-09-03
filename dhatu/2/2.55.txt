@@ -32,6 +32,14 @@
                 "text": "आख्याहि मे को भवानुग्ररूपः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
             }
+        ],
+        "plit_1_1_चख्यौ": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.42",
+                "text": "रामोपक्रममाचख्यौ।",
+                "external": ""
+            }
         ]
     }
 }

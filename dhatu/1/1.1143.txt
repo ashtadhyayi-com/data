@@ -49,6 +49,12 @@
                 "num": "25",
                 "text": "सर्वस्मिन्नपि पश्यात्मानम्",
                 "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.37",
+                "text": "सद्यः प्राप्स्यसि पश्य माम्।",
+                "external": ""
             }
         ],
         "plang_1_1_अपश्यत्": [
@@ -74,6 +80,12 @@
                 "book": "शिशुपालवधम्",
                 "num": "3.7",
                 "text": "पारेजलं नीरनिधेरपश्यत्‌",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.74",
+                "text": "सोऽपश्यत्प्रणीधानेन।",
                 "external": ""
             }
         ],
@@ -159,6 +171,12 @@
                 "num": "3.74",
                 "text": "सोऽम्भांसि मेधान्‌ पिबतो ददर्श",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.56",
+                "text": "स ददर्श तपोनिधिम्।",
+                "external": ""
             }
         ],
         "plrut_2_1_द्रक्ष्यसि": [
@@ -219,6 +237,22 @@
                 "num": "4.18",
                 "text": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=18"
+            }
+        ],
+        "plang_1_2_अपश्यताम्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.54",
+                "text": "लूनपक्षमपश्यताम्।",
+                "external": ""
+            }
+        ],
+        "plit_1_3_ददृशुः": [
+            {
+                "book": "रघुवंशम्",
+                "num": "12.8",
+                "text": "ददृशुर्विस्मितास्तस्य।",
+                "external": ""
             }
         ]
     }

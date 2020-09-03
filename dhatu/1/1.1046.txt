@@ -57,6 +57,12 @@
                 "num": "11",
                 "text": "हरति निमेषात्कालस्सर्वम्",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.69",
+                "text": "वृन्ताच्छ्लथं हरति पुष्पमनोकहानाम्।",
+                "external": ""
             }
         ],
         "plit_1_1_जहार": [
@@ -65,6 +71,12 @@
                 "num": "1.4",
                 "text": "प्रीतः प्रीतिप्रमुखवचनं स्वागतं व्याजहार",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#4"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.29",
+                "text": "स जहार तयोर्मध्ये।",
+                "external": ""
             }
         ],
         "plot_2_1_हर": [

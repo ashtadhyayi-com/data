@@ -37,6 +37,12 @@
                 "num": "1.31",
                 "text": "इति ब्रुवन्तं तमुवाच स व्रती",
                 "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.3",
+                "text": "कृताञ्जलिः कृत्यविदित्युवाच।",
+                "external": ""
             }
         ],
         "plang_1_1_अब्रवीत्": [
@@ -45,6 +51,12 @@
                 "num": "1.2",
                 "text": "आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=2"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.86",
+                "text": "आशंसिताबन्ध्यप्रार्थनं पुनरब्रवीत्।",
+                "external": ""
             }
         ],
         "plat_3_1_ब्रवीमि": [
@@ -73,6 +85,12 @@
                 "num": "2.43",
                 "text": "त्वामुत्कण्ठाविरचितपदं मन्मुखेनेदमाह",
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#43"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "12.2",
+                "text": "कैकेयीशङ्कयेवाह।",
+                "external": ""
             }
         ],
         "plot_2_1_ब्रूहि": [
@@ -111,6 +129,12 @@
                 "num": "8.11",
                 "text": "तत्ते पदं संग्रहेण प्रवक्ष्ये",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=8&field_nsutra_value=11"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.9",
+                "text": "रघूणामन्वयं वक्ष्ये।",
+                "external": ""
             }
         ],
         "plat_2_1_ब्रवीषि": [
@@ -142,6 +166,12 @@
                 "book": "शिशुपालवधम्",
                 "num": "1.25",
                 "text": "शुचिस्मितां वाचमवोचदच्युतः",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.12",
+                "text": "तमित्यवोचद्वरतन्तुशिष्यः।",
                 "external": ""
             }
         ],

@@ -45,6 +45,12 @@
                 "num": "11.25",
                 "text": " प्रसीद देवेश जगन्निवास",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=25"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "1.89",
+                "text": "निषण्णायां निषीदास्यां।",
+                "external": ""
             }
         ],
         "plung_1_1_असदत्": [

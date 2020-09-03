@@ -45,6 +45,20 @@
                 "num": "2.25",
                 "text": "नानुशोचितुमर्हसि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=25"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "5.25",
+                "text": "द्वित्राण्यहान्यर्हसि सोढुमर्हन्।",
+                "external": ""
+            }
+        ],
+        "plat_1_3_अर्हन्ति": [
+            {
+                "book": "रघुवंशम्",
+                "num": "1.10",
+                "text": "तं सन्तः श्रोतुमहर्न्ति।",
+                "external": ""
             }
         ]
     }
