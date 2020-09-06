@@ -23962,7 +23962,15 @@
         "madhaveeya": "674",
         "ksheeratarangini": "698",
         "dhatupradeep": "712"
-    },1010931
+    },
+    {
+        "i": "1020016",
+        "ind": "कश्_1",
+        "baseindex": "02.0016",
+        "dhatu": "कश्",
+        "aupadeshik": "कशँ",
+        "swara": "कशँ॒",
+        "gana": "2",
         "pada": "A",
         "settva": "S",
         "karma": "S",
@@ -25215,7 +25223,7 @@
         "ksheeratarangini": "751",
         "dhatupradeep": "768"
     },
-     {
+    {
         "i": "1020076",
         "ind": "चर्करितं_च_1",
         "baseindex": "02.0076",
@@ -25232,6 +25240,9 @@
         "split": "",
         "english": "",
         "tags": "",
+        "madhaveeya": "",
+        "ksheeratarangini": "",
+        "dhatupradeep": ""
     },
     {
         "i": "1020077",
