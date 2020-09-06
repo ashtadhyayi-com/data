@@ -31,6 +31,12 @@
                 "num": "1.1",
                 "text": "धृतराष्ट्र उवाच",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=1"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.27",
+                "text": "तपःसमाधौ मुनिरित्युवाच",
+                "external": ""
             }
         ],
         "plrut_3_1_वक्ष्यामि": [
@@ -52,6 +58,12 @@
                 "book": "शिशुपालवधम्",
                 "num": "1.25",
                 "text": "शुचिस्मितां वाचमवोचदच्युतः",
+                "external": ""
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.2",
+                "text": "यदवोचदवीक्ष्य मानिनी",
                 "external": ""
             }
         ]

@@ -31,6 +31,12 @@
                 "num": "15.7",
                 "text": "प्रकृतिस्थानि कर्षति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=15&field_nsutra_value=7"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.7",
+                "text": "श्रियं विकर्षत्यपहन्त्यघानि",
+                "external": ""
             }
         ]
     }

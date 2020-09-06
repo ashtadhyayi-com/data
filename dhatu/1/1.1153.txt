@@ -109,6 +109,12 @@
                 "num": "7.16",
                 "text": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=7&field_nsutra_value=16"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.49",
+                "text": " सरूपतां पार्थ गुणा भजन्ते",
+                "external": ""
             }
         ],
         "plat_3_1_भजामि": [

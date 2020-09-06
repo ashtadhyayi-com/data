@@ -46,6 +46,14 @@
                 "text": "स्तत्त्वं चिन्तय तदिह भ्रातः ",
                 "external": "https://nivedita2015.wordpress.com/2015/10/12/grammatical-aspects-in-bhaja-govindam-verse-8-kaa-te-kaantaa/"
             }
+        ],
+        "plat_1_1_चिन्तयति": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.23",
+                "text": "स चिन्तयत्येव भियस्त्वदेष्यतीः",
+                "external": ""
+            }
         ]
     }
 }

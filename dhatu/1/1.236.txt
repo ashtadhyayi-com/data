@@ -32,6 +32,14 @@
                 "text": "वाञ्छस्यचिराद्यदि विष्णुत्वम्",
                 "external": "https://nivedita2015.wordpress.com/2015/11/28/grammatical-aspects-in-bhaja-govindam-verse-24-tvayi-mayi-chaanyatra/"
             }
+        ],
+        "plat_1_3_वाञ्छन्ति": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.19",
+                "text": "प्रियाणि वाञ्छन्त्यसुभिः समीहितुम्",
+                "external": ""
+            }
         ]
     }
 }
