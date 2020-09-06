@@ -141,6 +141,12 @@
                 "num": "3.25",
                 "text": "कुर्याद्विद्वांस्तथासक्तः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=25"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.19",
+                "text": "धुन्वन्धनुः कस्य रणे न कुर्यात्‌",
+                "external": ""
             }
         ],
         "alat_1_1_कुरुते": [
@@ -161,6 +167,12 @@
                 "num": "17",
                 "text": "कुरुते गङ्गासागरगमनम्",
                 "external": "https://nivedita2015.wordpress.com/2015/11/17/grammatical-aspects-in-bhaja-govindam-verse-17-kurute-gangaasaagaragamanam/"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.9",
+                "text": "कुरुते तत्प्रतिकारमन्यथा",
+                "external": ""
             }
         ],
         "alrut_3_1_करिष्ये": [
@@ -177,6 +189,12 @@
                 "num": "9.27",
                 "text": "यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=27"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.54",
+                "text": "मनोरथान्नः सफलीकुरुष्व",
+                "external": ""
             }
         ],
         "pvidhiling_3_1_कुर्याम्": [
@@ -223,6 +241,12 @@
                 "num": "18",
                 "text": "कस्य सुखं न करोति विरागः",
                 "external": "https://nivedita2015.wordpress.com/2015/11/18/grammatical-aspects-in-bhaja-govindam-verse-18-suramandiratarumulanivaasah/"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.35",
+                "text": "करोति मन्युं न कथं धनंजयः",
+                "external": ""
             }
         ],
         "plat_3_1_करोमि": [
@@ -238,6 +262,18 @@
                 "book": "शिशुपालवधम्",
                 "num": "2.25",
                 "text": "वागीशानपि कुर्वते",
+                "external": ""
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.5",
+                "text": "सदानुकूलेषु हि कुर्वते रतिम्‌",
+                "external": ""
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.43",
+                "text": "भवादृशाश्चेदधिकुर्वते परान्‌",
                 "external": ""
             }
         ],
@@ -275,6 +311,30 @@
                 "num": "11",
                 "text": "मा कुरु धनजनयौवनगर्वम्",
                 "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
+            }
+        ],
+        "alrut_2_1_करिष्यसे": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.29",
+                "text": "करिष्यसे यत्र सुदुश्चराणि",
+                "external": ""
+            }
+        ],
+        "plat_2_1_कुरु": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.22",
+                "text": "कुरु तन्मतिं एव विक्रमे",
+                "external": ""
+            }
+        ],
+        "plit_1_1_चकार": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.58",
+                "text": "तदनुमतमलंचकार पश्चात्‌",
+                "external": ""
             }
         ]
     }

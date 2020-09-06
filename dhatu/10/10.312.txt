@@ -40,6 +40,14 @@
                 "text": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=16"
             }
+        ],
+        "alat_1_1_वर्तयते": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.18",
+                "text": "करिभिर्वर्तयति स्वयं हतैः",
+                "external": ""
+            }
         ]
     }
 }

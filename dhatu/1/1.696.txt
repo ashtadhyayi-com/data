@@ -48,6 +48,14 @@
                 "text": "प्रणम्य शिरसा देवं कृताञ्जलिरभाषत",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=14"
             }
+        ],
+        "alit_1_1_बभाषे": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.4",
+                "text": "सुखोपविष्टं मुनिमाबभाषे",
+                "external": ""
+            }
         ]
     }
 }

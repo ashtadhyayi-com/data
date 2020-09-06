@@ -31,6 +31,12 @@
                 "num": "2.17",
                 "text": "विनाशमव्ययस्यास्य न कश्चित् कर्तुमर्हति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=17"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.42",
+                "text": "नयसिद्धेरपनेतुमर्हति",
+                "external": ""
             }
         ],
         "plat_2_1_अर्हसि": [

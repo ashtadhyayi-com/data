@@ -75,6 +75,12 @@
                 "num": "2.42",
                 "text": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=42"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.14",
+                "text": "कृतज्ञतामस्य वदन्ति सम्पदः",
+                "external": ""
             }
         ],
         "plang_1_3_अवदन्": [

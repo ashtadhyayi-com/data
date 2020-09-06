@@ -43,6 +43,12 @@
                 "num": "5.26",
                 "text": "अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=26"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.12",
+                "text": "प्रवर्तते तस्य विशेषशालिनी",
+                "external": ""
             }
         ],
         "alat_3_1_वर्ते": [

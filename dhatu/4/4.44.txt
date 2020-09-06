@@ -70,6 +70,14 @@
                 "text": "सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=2"
             }
+        ],
+        "avidhiling_1_1_जायेत": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.21",
+                "text": "जायेत मृत्योरपि पक्षपातः",
+                "external": ""
+            }
         ]
     }
 }

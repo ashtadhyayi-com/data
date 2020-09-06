@@ -32,6 +32,14 @@
                 "text": "यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=9&field_nsutra_value=20"
             }
+        ],
+        "alat_1_1_अर्थयते": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.21",
+                "text": "ध्वनतः प्रार्थयते मृगाधिपः",
+                "external": ""
+            }
         ]
     }
 }
