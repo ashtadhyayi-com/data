@@ -15790,7 +15790,7 @@
             "artha_english": "to endeavour, to try",
             "split_artha": "प्रयत्ने",
             "split": "व्,ए,ह्",
-            "english": "beh,behrun",
+            "english": "veh,vehru",
             "tags": "ऋदित्,उगित्,वकारादिः,हलादिः,हकारान्तः,झलन्तः,हलन्तः,एकारोपधः,एकाच्,उदात्तोपदेशः",
             "madhaveeya": "391",
             "ksheeratarangini": "408",
