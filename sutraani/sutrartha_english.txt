@@ -3128,7 +3128,7 @@
     "64126": "",
     "64127": "",
     "64128": "",
-    "64129": "All the rules starting from this sutra, till the end of the seventh chapter are being told for a भसंज्ञक.",
+    "64129": "All the rules starting from this sutra, till the end of the sixth chapter are being told for a भसंज्ञक.",
     "64130": "The भसंज्ञक अङ्ग of the word पाद् gets पद् as आदेश.",
     "64131": "A भसंज्ञक अङ्ग ending in a वसुँ प्रत्यय undergoes सम्प्रसारणम्.",
     "64132": "भसंज्ञक वाह् is converted to 'ऊठ्' by सम्प्रसारणम्.",
