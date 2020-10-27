@@ -49,4 +49,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: processed_data
         directory: $GITHUB_WORKSPACE/processed_data
-        force: true
+#        force: true
