@@ -37,7 +37,7 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        echo "Do something here"
+        echo "Do something here" >> ouptupt.log
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
