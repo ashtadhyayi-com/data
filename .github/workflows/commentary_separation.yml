@@ -37,8 +37,8 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        rm -rf ${{GITHUB_WORKSPACE}}/processed_data
-        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"${{GITHUB_WORKSPACE}}/processed_data/sUtra-commentaries/\", dry_run=False)"
+        rm -rf `pwd`/processed_data
+        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/processed_data/sUtra-commentaries/\", dry_run=False)"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
@@ -50,5 +50,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: processed_data
-        directory: ${{GITHUB_WORKSPACE}}/processed_data
+        directory: processed_data
 #        force: true
