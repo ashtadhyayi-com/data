@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  transform:
 
     runs-on: ubuntu-latest
     strategy:
@@ -18,10 +18,12 @@ jobs:
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
-    - name: Checkout submodules
-      uses: srt32/git-actions@v0.0.3
+    - name: Checkout Processed files
+      uses: actions/checkout@master
       with:
-        args: git submodule update --init --recursive
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        path: processed_data
+        fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -33,7 +35,8 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/processed_data/sUtra-commentaries/\", dry_run=False)"
+        rm -rf $GITHUB_WORKSPACE/processed_data
+        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"$GITHUB_WORKSPACE/processed_data/sUtra-commentaries/\", dry_run=False)"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
@@ -45,4 +48,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: processed_data
+        directory: $GITHUB_WORKSPACE/processed_data
         force: true
