@@ -41,10 +41,12 @@ jobs:
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/processed_data/sUtra-commentaries/\", dry_run=False)"
     - name: Commit files
       run: |
+        cd processed_data
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
         git commit -m "Add changes" -a
+        cd ..
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
