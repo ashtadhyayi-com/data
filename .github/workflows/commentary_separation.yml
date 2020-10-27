@@ -1,12 +1,10 @@
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Transform data
+name: Commentary sepration
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
 jobs:
@@ -37,7 +35,7 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        echo "Do something here" >> ouptupt.log
+        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/sUtra-commentaries/\", dry_run=False)"
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
@@ -49,3 +47,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: processed_data
+        force: true
