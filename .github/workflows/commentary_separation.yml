@@ -21,8 +21,7 @@ jobs:
     - name: Checkout Processed files
       uses: actions/checkout@master
       with:
-        repository: ${{ github.repository }}
-        ref: processed_data
+        repository: sanskrit/ashtadhyayi_com_transforms
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         path: processed_data
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
@@ -45,14 +44,15 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
-# Saving the below so that this trigger is passed on downstream even in case of no files being changed in processed_data.
         echo "https://github.com/ashtadhyayi-com/data/runs/$GITHUB_RUN_ID" > current_run.txt
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         cd ..
+      # We want to ensure that there is some change in processed_data for every change in ashtadhyayi data - so that downstream listeners can hark to the corresponding trigger.
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.VISH_TOKEN }}
+        repository: sanskrit/ashtadhyayi_com_transforms
         branch: processed_data
         directory: processed_data
 #        force: true
