@@ -40,14 +40,15 @@ jobs:
     - name: Create local changes
       run: |
         rm -rf `pwd`/processed_data/*/
-        cp files*.json `pwd`/processed_data/ -f
+        mkdir `pwd`/processed_data/change_details
+        cp ${HOME}/files*.json `pwd`/processed_data/change_details -f
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
     - name: Commit files
       run: |
         cd processed_data
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        echo "https://github.com/ashtadhyayi-com/data/actions/runs/$GITHUB_RUN_ID" > current_run.md
+        echo "https://github.com/ashtadhyayi-com/data/actions/runs/$GITHUB_RUN_ID" > change_details/current_run.md
         git add --all
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         cd ..
