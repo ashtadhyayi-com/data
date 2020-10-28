@@ -25,6 +25,9 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         path: processed_data
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
+    - uses: lots0logs/gh-action-get-changed-files@2.1.4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v1
       with:
@@ -37,6 +40,7 @@ jobs:
     - name: Create local changes
       run: |
         rm -rf `pwd`/processed_data/*/
+        cp files*.json `pwd`/processed_data/ -f
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
     - name: Commit files
       run: |
