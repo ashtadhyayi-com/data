@@ -40,8 +40,7 @@ jobs:
     - name: Create local changes
       run: |
         echo Not running: rm -rf `pwd`/processed_data/*/
-        mkdir `pwd`/processed_data/change_details
-        cp ${HOME}/files*.json `pwd`/processed_data/change_details -f
+        cp ${HOME}/files*.json `pwd`/processed_data/change_details -nf
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
     - name: Commit files
       run: |
