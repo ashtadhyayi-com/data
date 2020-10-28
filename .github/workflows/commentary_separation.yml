@@ -39,7 +39,7 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        rm -rf `pwd`/processed_data/*/
+        echo Not running: rm -rf `pwd`/processed_data/*/
         mkdir `pwd`/processed_data/change_details
         cp ${HOME}/files*.json `pwd`/processed_data/change_details -f
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
