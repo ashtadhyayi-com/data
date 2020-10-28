@@ -36,14 +36,14 @@ jobs:
         python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        rm -rf `pwd`/processed_data/*
+        rm -rf `pwd`/processed_data/*/
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/processed_data/sUtra-commentaries/\", dry_run=False)"
     - name: Commit files
       run: |
         cd processed_data
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        echo "https://github.com/ashtadhyayi-com/data/runs/$GITHUB_RUN_ID" > current_run.txt
+        echo "https://github.com/ashtadhyayi-com/data/actions/runs/$GITHUB_RUN_ID" > current_run.md
         git add --all
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         cd ..
