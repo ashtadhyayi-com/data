@@ -43,8 +43,8 @@ jobs:
         cd processed_data
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add --all
         echo "https://github.com/ashtadhyayi-com/data/runs/$GITHUB_RUN_ID" > current_run.txt
+        git add --all
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         cd ..
       # We want to ensure that there is some change in processed_data for every change in ashtadhyayi data - so that downstream listeners can hark to the corresponding trigger.
