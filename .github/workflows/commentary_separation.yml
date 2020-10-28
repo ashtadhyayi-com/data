@@ -53,6 +53,5 @@ jobs:
       with:
         github_token: ${{ secrets.VISH_TOKEN }}
         repository: sanskrit/ashtadhyayi_com_transforms
-        branch: processed_data
         directory: processed_data
 #        force: true
