@@ -45,12 +45,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add --all
-        git commit -m "Add changes" -a
+# Saving the below so that this trigger is passed on downstream even in case of no files being changed in processed_data.
+        echo "https://github.com/ashtadhyayi-com/data/runs/$GITHUB_RUN_ID" > current_run.txt
+        git diff-index --quiet HEAD || git commit -m "Add changes" -a
         cd ..
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.VISH_TOKEN }}
         branch: processed_data
         directory: processed_data
 #        force: true
