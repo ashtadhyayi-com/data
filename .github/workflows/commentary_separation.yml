@@ -37,7 +37,7 @@ jobs:
     - name: Create local changes
       run: |
         rm -rf `pwd`/processed_data/*/
-        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.separate_commentaries(indir=\"`pwd`/sutraani\", outdir=\"`pwd`/processed_data/sUtra-commentaries/\", dry_run=False)"
+        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
     - name: Commit files
       run: |
         cd processed_data
