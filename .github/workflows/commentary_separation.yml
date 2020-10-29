@@ -50,8 +50,8 @@ jobs:
       run: |
         printf "https://github.com/ashtadhyayi-com/data/actions/runs/$GITHUB_RUN_ID\nlast_commit_log: $(git log -1 --pretty=format:"%s")" > processed_data/change_details/current_run.md
         cd processed_data
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --global --local user.email "action@github.com"
+        git config --global --local user.name "GitHub Action"
         git add --all
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         remote_repo="https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/sanskrit/ashtadhyayi_com_transforms.git"
