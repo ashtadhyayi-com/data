@@ -20030,7 +20030,7 @@
             "swara": "ज्ञा",
             "gana": "1",
             "pada": "P",
-            "settva": "S",
+            "settva": "A",
             "karma": "S",
             "artha": "मारणतोषणनिषामनेषु",
             "artha_english": "to kill, to hurt, to please, to satisfy, to perceive, to understand",
