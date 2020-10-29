@@ -25,6 +25,7 @@ jobs:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         path: processed_data
         fetch-depth: 1 # Because of this, you will fail to push refs to dest repo
+        ref: trigger_branch
     - uses: lots0logs/gh-action-get-changed-files@2.1.4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
@@ -41,8 +42,7 @@ jobs:
       run: |
         echo Not running: rm -rf `pwd`/processed_data/*/
         cp ${HOME}/files*.json `pwd`/processed_data/change_details -nf
-        printf We don't run this to avoid exposing emails: cp ${GITHUB_EVENT_PATH} `pwd`/processed_data/change_details -nf
-        python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
+        printf "We don't run this to avoid exposing emails: cp ${GITHUB_EVENT_PATH} `pwd`/processed_data/change_details -nf"
     - name: Commit changes
       env:
         TRANSFORM_REPO_TOKEN: ${{ secrets.VISH_TOKEN }}
@@ -55,7 +55,7 @@ jobs:
         git add --all
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         remote_repo="https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/sanskrit/ashtadhyayi_com_transforms.git"
-        git push "${remote_repo}"|| (cd .. && git pull --rebase && git commit --allow-empty -m "Dummy commit to trigger workflow rerun upon 'push race condition'." && git push "https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/${GITHUB_REPOSITORY}.git")
+        git push "${remote_repo}" HEAD:trigger_branch|| (cd .. && git pull --rebase && git commit --allow-empty -m "Dummy commit to trigger workflow rerun upon 'push race condition'." && git push "https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/${GITHUB_REPOSITORY}.git")
       # We want to ensure that there is some change in processed_data for every change in ashtadhyayi data - so that downstream listeners can hark to the corresponding trigger.
-      # Race conditions (A push after the initial checkout above, triggered by successive pushes to this repo) happen. Ideally, we should be able to restart the workflow, but that is not possible currently as per https://github.community/t/is-it-possible-to-manually-force-an-action-workflow-to-be-re-run/2127/23 . Instead, we do a dummy commit. 
+      # Race conditions (A push after the initial checkout above, triggered by successive pushes to this repo) happen. Ideally, we should be able to restart the workflow, but that is not possible currently as per https://github.community/t/is-it-possible-to-manually-force-an-action-workflow-to-be-re-run/2127/23 . Instead, we eliminate time consuming tasks (to reduce probability of race conditions here) and do a dummy commit to trigger a new run. 
       # Regarding the dummy commit: If an action pushes code using the repository’s GITHUB_TOKEN, a new workflow will not run even when the repository contains a workflow configured to run when push events occur. So, we use the separate token.
