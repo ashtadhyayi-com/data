@@ -56,7 +56,6 @@ jobs:
         git diff-index --quiet HEAD || git commit -m "Add changes" -a
         remote_repo="https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/sanskrit/ashtadhyayi_com_transforms.git"
         git push "${remote_repo}"|| (cd .. && git pull --rebase && git commit --allow-empty -m "Dummy commit to trigger workflow rerun upon 'push race condition'." && git push "https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/${GITHUB_REPOSITORY}.git")
-        (cd .. && git pull --rebase && git commit --allow-empty -m "Dummy commit to trigger workflow rerun upon 'push race condition'." && git push "https://${GITHUB_ACTOR}:${TRANSFORM_REPO_TOKEN}@github.com/${GITHUB_REPOSITORY}.git")
       # We want to ensure that there is some change in processed_data for every change in ashtadhyayi data - so that downstream listeners can hark to the corresponding trigger.
       # Race conditions (A push after the initial checkout above, triggered by successive pushes to this repo) happen. Ideally, we should be able to restart the workflow, but that is not possible currently as per https://github.community/t/is-it-possible-to-manually-force-an-action-workflow-to-be-re-run/2127/23 . Instead, we do a dummy commit. 
       # Regarding the dummy commit: If an action pushes code using the repository’s GITHUB_TOKEN, a new workflow will not run even when the repository contains a workflow configured to run when push events occur. So, we use the separate token.
