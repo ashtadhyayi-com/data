@@ -3817,7 +3817,7 @@
     "83020": "A पदान्त यकार present after an ओकार is deleted when followed by a letter from अश् प्रत्याहार.",
     "83021": "A पदान्तयकार and a पदान्तवकार coming after an अकार is deleted when followed by the पद उञ्.",
     "83022": "According to all the experts, the normal यकार as well as the लघु-उच्चारण-यकार appearing at पदान्त after an अवर्ण are deleted when followed by a हल् letter.\n",
-    "83023": "When a संहिता is desired, then मकार at the end of a पद gets converted to अनुस्वार.",
+    "83023": "When a संहिता is desired, then मकार at the end of a पद gets converted to अनुस्वार if the मकार is followed by a हल्.",
     "83024": "A मकार and a नकार which do not occur at the end of a पद are converted to  अनुस्वार when followed by a झल् letter.",
     "83025": "",
     "83026": "",
