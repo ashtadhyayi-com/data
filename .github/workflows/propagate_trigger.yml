@@ -33,16 +33,10 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        python -m pip install git+https://github.com/sanskrit-coders/doc_curation/@master -U
-        python -m pip install git+https://github.com/ashtadhyayi/data_curation@master -U
     - name: Create local changes
       run: |
-        echo Not running: rm -rf `pwd`/processed_data/*/
         cp ${HOME}/files*.json `pwd`/processed_data/change_details -nf
-        printf "We don't run this to avoid exposing emails: cp ${GITHUB_EVENT_PATH} `pwd`/processed_data/change_details -nf"
+      # "We don't run this to avoid exposing emails: cp ${GITHUB_EVENT_PATH} `pwd`/processed_data/change_details -nf"
     - name: Commit changes
       env:
         TRANSFORM_REPO_TOKEN: ${{ secrets.VISH_TOKEN }}
