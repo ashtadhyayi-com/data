@@ -41,6 +41,7 @@ jobs:
       run: |
         echo Not running: rm -rf `pwd`/processed_data/*/
         cp ${HOME}/files*.json `pwd`/processed_data/change_details -nf
+        cp ${GITHUB_EVENT_PATH} `pwd`/processed_data/change_details -nf
         python -c "from ashtadhyayi_data.reader.ashtadhyayi_com import transformer; transformer.transform(indir=\"`pwd`\", outdir=\"`pwd`/processed_data/\", dry_run=False)"
     - name: Commit changes
       env:
