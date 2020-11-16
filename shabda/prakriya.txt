@@ -35485,7 +35485,7 @@
     {
         "form": "द्वे",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -35524,7 +35524,7 @@
     {
         "form": "द्वे",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -35563,7 +35563,7 @@
     {
         "form": "द्वाभ्याम्",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -35584,7 +35584,7 @@
     {
         "form": "द्वाभ्याम्",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -35605,7 +35605,7 @@
     {
         "form": "द्वाभ्याम्",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -35626,7 +35626,7 @@
     {
         "form": "द्वयोः",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -35671,7 +35671,7 @@
     {
         "form": "द्वयोः",
         "baseindex": "15.004",
-        "word": "द्वि (स्त्री)",
+        "word": "द्वि ",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -35716,7 +35716,7 @@
     {
         "form": "तिस्रः",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -35749,7 +35749,7 @@
     {
         "form": "तिस्रः",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -35782,7 +35782,7 @@
     {
         "form": "तिसृभिः",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -35809,7 +35809,7 @@
     {
         "form": "तिसृभ्यः",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -35836,7 +35836,7 @@
     {
         "form": "तिसृभ्यः",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -35863,7 +35863,7 @@
     {
         "form": "तिसृणाम्",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -35891,7 +35891,7 @@
     {
         "form": "तिसृषु",
         "baseindex": "15.005",
-        "word": "त्रि (स्त्री)",
+        "word": "त्रि ",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -43854,7 +43854,7 @@
     {
         "form": "सर्वम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -43875,7 +43875,7 @@
     {
         "form": "सर्वे",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -43896,7 +43896,7 @@
     {
         "form": "सर्वाणि",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -43929,7 +43929,7 @@
     {
         "form": "सर्वम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -43950,7 +43950,7 @@
     {
         "form": "सर्वे",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -43971,7 +43971,7 @@
     {
         "form": "सर्वाणि",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -44004,7 +44004,7 @@
     {
         "form": "सर्वेण",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -44031,7 +44031,7 @@
     {
         "form": "सर्वाभ्याम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -44046,7 +44046,7 @@
     {
         "form": "सर्वैः",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -44079,7 +44079,7 @@
     {
         "form": "सर्वस्मै",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -44098,7 +44098,7 @@
     {
         "form": "सर्वाभ्याम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -44113,7 +44113,7 @@
     {
         "form": "सर्वेभ्यः",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -44147,7 +44147,7 @@
     {
         "form": "सर्वस्मात्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -44174,7 +44174,7 @@
     {
         "form": "सर्वस्माद्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -44195,7 +44195,7 @@
     {
         "form": "सर्वाभ्याम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -44210,7 +44210,7 @@
     {
         "form": "सर्वेभ्यः",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -44244,7 +44244,7 @@
     {
         "form": "सर्वस्य",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -44259,7 +44259,7 @@
     {
         "form": "सर्वयोः",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -44292,7 +44292,7 @@
     {
         "form": "सर्वेषाम्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -44323,7 +44323,7 @@
     {
         "form": "सर्वस्मिन्",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -44342,7 +44342,7 @@
     {
         "form": "सर्वयोः",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -44375,7 +44375,7 @@
     {
         "form": "सर्वेषु",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -44396,7 +44396,7 @@
     {
         "form": "सर्व",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -44423,7 +44423,7 @@
     {
         "form": "सर्वे",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "8",
         "vachan": "2",
         "steps": [
@@ -44444,7 +44444,7 @@
     {
         "form": "सर्वाणि",
         "baseindex": "25.003",
-        "word": "सर्व (नपु)",
+        "word": "सर्व",
         "vibhakti": "8",
         "vachan": "3",
         "steps": [
@@ -44477,7 +44477,7 @@
     {
         "form": "कतरद्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -44502,7 +44502,7 @@
     {
         "form": "कतरत्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -44529,7 +44529,7 @@
     {
         "form": "कतरे",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -44550,7 +44550,7 @@
     {
         "form": "कतराणि",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -44583,7 +44583,7 @@
     {
         "form": "कतरद्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -44608,7 +44608,7 @@
     {
         "form": "कतरत्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -44635,7 +44635,7 @@
     {
         "form": "कतरे",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -44656,7 +44656,7 @@
     {
         "form": "कतराणि",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -44689,7 +44689,7 @@
     {
         "form": "कतरेण",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -44716,7 +44716,7 @@
     {
         "form": "कतराभ्याम्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -44731,7 +44731,7 @@
     {
         "form": "कतरैः",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -44764,7 +44764,7 @@
     {
         "form": "कतरस्मै",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -44783,7 +44783,7 @@
     {
         "form": "कतराभ्याम्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -44798,7 +44798,7 @@
     {
         "form": "कतरेभ्यः",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -44832,7 +44832,7 @@
     {
         "form": "कतरस्मात्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -44859,7 +44859,7 @@
     {
         "form": "कतरस्माद्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -44880,7 +44880,7 @@
     {
         "form": "कतराभ्याम्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -44895,7 +44895,7 @@
     {
         "form": "कतरेभ्यः",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -44929,7 +44929,7 @@
     {
         "form": "कतरस्य",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -44944,7 +44944,7 @@
     {
         "form": "कतरयोः",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -44977,7 +44977,7 @@
     {
         "form": "कतरेषाम्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -45008,7 +45008,7 @@
     {
         "form": "कतरस्मिन्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -45027,7 +45027,7 @@
     {
         "form": "कतरयोः",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -45060,7 +45060,7 @@
     {
         "form": "कतरेषु",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -45081,7 +45081,7 @@
     {
         "form": "कतरद्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -45106,7 +45106,7 @@
     {
         "form": "कतरत्",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -45133,7 +45133,7 @@
     {
         "form": "कतरे",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "8",
         "vachan": "2",
         "steps": [
@@ -45154,7 +45154,7 @@
     {
         "form": "कतराणि",
         "baseindex": "25.006",
-        "word": "कतर(नपु)",
+        "word": "कतर",
         "vibhakti": "8",
         "vachan": "3",
         "steps": [
@@ -46404,7 +46404,7 @@
     {
         "form": "सुधि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -46419,7 +46419,7 @@
     {
         "form": "सुधिनी",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -46444,7 +46444,7 @@
     {
         "form": "सुधीनि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -46471,7 +46471,7 @@
     {
         "form": "सुधि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -46486,7 +46486,7 @@
     {
         "form": "सुधिनी",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -46511,7 +46511,7 @@
     {
         "form": "सुधीनि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -46538,7 +46538,7 @@
     {
         "form": "सुधिना",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -46553,7 +46553,7 @@
     {
         "form": "सुधिया",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -46575,7 +46575,7 @@
     {
         "form": "सुधिभ्याम्",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -46588,7 +46588,7 @@
     {
         "form": "सुधिभिः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -46613,7 +46613,7 @@
     {
         "form": "सुधिने",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -46628,7 +46628,7 @@
     {
         "form": "सुधिये",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -46650,7 +46650,7 @@
     {
         "form": "सुधिभ्याम्",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -46663,7 +46663,7 @@
     {
         "form": "सुधिभ्यः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -46688,7 +46688,7 @@
     {
         "form": "सुधिनः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -46719,7 +46719,7 @@
     {
         "form": "सुधियः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -46753,7 +46753,7 @@
     {
         "form": "सुधिभ्याम्",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -46766,7 +46766,7 @@
     {
         "form": "सुधिभ्यः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -46791,7 +46791,7 @@
     {
         "form": "सुधिनः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -46822,7 +46822,7 @@
     {
         "form": "सुधियः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -46856,7 +46856,7 @@
     {
         "form": "सुधिनोः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -46887,7 +46887,7 @@
     {
         "form": "सुधियोः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -46921,7 +46921,7 @@
     {
         "form": "सुधीनाम्",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -46942,7 +46942,7 @@
     {
         "form": "सुधियाम्",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -46964,7 +46964,7 @@
     {
         "form": "सुधिनि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -46983,7 +46983,7 @@
     {
         "form": "सुधियि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -47005,7 +47005,7 @@
     {
         "form": "सुधिनोः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -47036,7 +47036,7 @@
     {
         "form": "सुधियोः",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -47070,7 +47070,7 @@
     {
         "form": "सुधिषु",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -47085,7 +47085,7 @@
     {
         "form": "सुधि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -47100,7 +47100,7 @@
     {
         "form": "सुधे",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -47121,7 +47121,7 @@
     {
         "form": "सुधिनी",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "8",
         "vachan": "2",
         "steps": [
@@ -47146,7 +47146,7 @@
     {
         "form": "सुधीनि",
         "baseindex": "30.001",
-        "word": "सुधी (नपु)",
+        "word": "सुधी",
         "vibhakti": "8",
         "vachan": "3",
         "steps": [
@@ -47722,7 +47722,7 @@
     {
         "form": "सुलु",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -47737,7 +47737,7 @@
     {
         "form": "सुलुनी",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -47762,7 +47762,7 @@
     {
         "form": "सुलूनि",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -47789,7 +47789,7 @@
     {
         "form": "सुलु",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -47804,7 +47804,7 @@
     {
         "form": "सुलुनी",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -47829,7 +47829,7 @@
     {
         "form": "सुलूनि",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -47856,7 +47856,7 @@
     {
         "form": "सुल्वा",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -47872,7 +47872,7 @@
     {
         "form": "सुलुना",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -47887,7 +47887,7 @@
     {
         "form": "सुलुभ्याम्",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -47900,7 +47900,7 @@
     {
         "form": "सुलुभिः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -47925,7 +47925,7 @@
     {
         "form": "सुल्वे",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -47941,7 +47941,7 @@
     {
         "form": "सुलुने",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -47956,7 +47956,7 @@
     {
         "form": "सुलुभ्याम्",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -47969,7 +47969,7 @@
     {
         "form": "सुलुभ्यः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -47994,7 +47994,7 @@
     {
         "form": "सुल्वः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -48022,7 +48022,7 @@
     {
         "form": "सुलुनः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -48049,7 +48049,7 @@
     {
         "form": "सुलुभ्याम्",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -48062,7 +48062,7 @@
     {
         "form": "सुलुभ्यः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -48087,7 +48087,7 @@
     {
         "form": "सुल्वः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -48115,7 +48115,7 @@
     {
         "form": "सुलुनः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -48142,7 +48142,7 @@
     {
         "form": "सुल्वोः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -48170,7 +48170,7 @@
     {
         "form": "सुलुनोः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -48197,7 +48197,7 @@
     {
         "form": "सुल्वाम्",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -48213,7 +48213,7 @@
     {
         "form": "सुलूनाम्",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -48234,7 +48234,7 @@
     {
         "form": "सुल्वि",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -48250,7 +48250,7 @@
     {
         "form": "सुलुनि",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -48265,7 +48265,7 @@
     {
         "form": "सुल्वोः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -48293,7 +48293,7 @@
     {
         "form": "सुलुनोः",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -48320,7 +48320,7 @@
     {
         "form": "सुलुषु",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -48335,7 +48335,7 @@
     {
         "form": "सुलु",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -48350,7 +48350,7 @@
     {
         "form": "सुलो",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -48371,7 +48371,7 @@
     {
         "form": "सुलुनी",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "8",
         "vachan": "2",
         "steps": [
@@ -48396,7 +48396,7 @@
     {
         "form": "सुलूनि",
         "baseindex": "32.001",
-        "word": "सुलू (नपु)",
+        "word": "सुलू",
         "vibhakti": "8",
         "vachan": "3",
         "steps": [
@@ -48423,7 +48423,7 @@
     {
         "form": "धातृ",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "1",
         "vachan": "1",
         "steps": [
@@ -48438,7 +48438,7 @@
     {
         "form": "धातृणी",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "1",
         "vachan": "2",
         "steps": [
@@ -48465,7 +48465,7 @@
     {
         "form": "धातॄणि",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "1",
         "vachan": "3",
         "steps": [
@@ -48498,7 +48498,7 @@
     {
         "form": "धातृ",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "2",
         "vachan": "1",
         "steps": [
@@ -48513,7 +48513,7 @@
     {
         "form": "धातृणी",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "2",
         "vachan": "2",
         "steps": [
@@ -48540,7 +48540,7 @@
     {
         "form": "धातॄणि",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "2",
         "vachan": "3",
         "steps": [
@@ -48573,7 +48573,7 @@
     {
         "form": "धात्रा",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -48589,7 +48589,7 @@
     {
         "form": "धातृणा",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "3",
         "vachan": "1",
         "steps": [
@@ -48610,7 +48610,7 @@
     {
         "form": "धातृभ्याम्",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "3",
         "vachan": "2",
         "steps": [
@@ -48623,7 +48623,7 @@
     {
         "form": "धातृभिः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "3",
         "vachan": "3",
         "steps": [
@@ -48648,7 +48648,7 @@
     {
         "form": "धात्रे",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -48664,7 +48664,7 @@
     {
         "form": "धातृणे",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "4",
         "vachan": "1",
         "steps": [
@@ -48685,7 +48685,7 @@
     {
         "form": "धातृभ्याम्",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "4",
         "vachan": "2",
         "steps": [
@@ -48698,7 +48698,7 @@
     {
         "form": "धातृभ्यः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "4",
         "vachan": "3",
         "steps": [
@@ -48723,7 +48723,7 @@
     {
         "form": "धातुः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -48757,7 +48757,7 @@
     {
         "form": "धातृणः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "5",
         "vachan": "1",
         "steps": [
@@ -48790,7 +48790,7 @@
     {
         "form": "धातृभ्याम्",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "5",
         "vachan": "2",
         "steps": [
@@ -48803,7 +48803,7 @@
     {
         "form": "धातृभ्यः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "5",
         "vachan": "3",
         "steps": [
@@ -48828,7 +48828,7 @@
     {
         "form": "धातुः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -48862,7 +48862,7 @@
     {
         "form": "धातृणः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "6",
         "vachan": "1",
         "steps": [
@@ -48895,7 +48895,7 @@
     {
         "form": "धात्रोः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -48923,7 +48923,7 @@
     {
         "form": "धातृणोः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "6",
         "vachan": "2",
         "steps": [
@@ -48956,7 +48956,7 @@
     {
         "form": "धातॄणाम्",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "6",
         "vachan": "3",
         "steps": [
@@ -48989,7 +48989,7 @@
     {
         "form": "धातरि",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -49014,7 +49014,7 @@
     {
         "form": "धातृणि",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "7",
         "vachan": "1",
         "steps": [
@@ -49035,7 +49035,7 @@
     {
         "form": "धात्रोः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -49063,7 +49063,7 @@
     {
         "form": "धातृणोः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "7",
         "vachan": "2",
         "steps": [
@@ -49096,7 +49096,7 @@
     {
         "form": "धातृषु",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "7",
         "vachan": "3",
         "steps": [
@@ -49111,7 +49111,7 @@
     {
         "form": "धातृ",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -49126,7 +49126,7 @@
     {
         "form": "धातः",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
@@ -49153,7 +49153,7 @@
     {
         "form": "धातृणी",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "8",
         "vachan": "2",
         "steps": [
@@ -49180,7 +49180,7 @@
     {
         "form": "धातॄणि",
         "baseindex": "33.001",
-        "word": "धातृ(नपु)",
+        "word": "धातृ",
         "vibhakti": "8",
         "vachan": "3",
         "steps": [
