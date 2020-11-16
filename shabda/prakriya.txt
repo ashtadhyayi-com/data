@@ -50855,7 +50855,7 @@
         "vibhakti": "8",
         "vachan": "1",
         "steps": [
-            {the colons by the actual visarga sign
+            {
                 "step": "सुनु",
                 "sutras": [
                     "7.1.23"
