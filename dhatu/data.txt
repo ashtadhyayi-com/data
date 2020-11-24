@@ -15982,7 +15982,7 @@
             "swara": "घु॒ङ्",
             "gana": "1",
             "pada": "A",
-            "settva": "S",
+            "settva": "A",
             "karma": "A",
             "artha": "शब्दे",
             "artha_english": "to sound",
