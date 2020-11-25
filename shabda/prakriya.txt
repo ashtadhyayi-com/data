@@ -53392,7 +53392,7 @@
     },
     {
         "form": "तुराषाड्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "1",
         "vachan": "1",
@@ -53425,7 +53425,7 @@
     },
     {
         "form": "तुराषाट्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "1",
         "vachan": "1",
@@ -53464,7 +53464,7 @@
     },
     {
         "form": "तुरासाहौ",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "1",
         "vachan": "2",
@@ -53477,7 +53477,7 @@
     },
     {
         "form": "तुरासाहः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "1",
         "vachan": "3",
@@ -53502,7 +53502,7 @@
     },
     {
         "form": "तुरासाहम्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "2",
         "vachan": "1",
@@ -53515,7 +53515,7 @@
     },
     {
         "form": "तुरासाहौ",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "2",
         "vachan": "2",
@@ -53528,7 +53528,7 @@
     },
     {
         "form": "तुरासाहः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "2",
         "vachan": "3",
@@ -53553,7 +53553,7 @@
     },
     {
         "form": "तुरासाहा",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "3",
         "vachan": "1",
@@ -53566,7 +53566,7 @@
     },
     {
         "form": "तुराषाड्भ्याम्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "3",
         "vachan": "2",
@@ -53593,7 +53593,7 @@
     },
     {
         "form": "तुराषाड्भिः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "3",
         "vachan": "3",
@@ -53632,7 +53632,7 @@
     },
     {
         "form": "तुरासाहे",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "4",
         "vachan": "1",
@@ -53645,7 +53645,7 @@
     },
     {
         "form": "तुराषाड्भ्याम्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "4",
         "vachan": "2",
@@ -53672,7 +53672,7 @@
     },
     {
         "form": "तुराषाड्भ्यः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "4",
         "vachan": "3",
@@ -53711,7 +53711,7 @@
     },
     {
         "form": "तुरासाहः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "5",
         "vachan": "1",
@@ -53736,7 +53736,7 @@
     },
     {
         "form": "तुराषाड्भ्याम्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "5",
         "vachan": "2",
@@ -53763,7 +53763,7 @@
     },
     {
         "form": "तुराषाड्भ्यः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "5",
         "vachan": "3",
@@ -53802,7 +53802,7 @@
     },
     {
         "form": "तुरासाहः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "6",
         "vachan": "1",
@@ -53827,7 +53827,7 @@
     },
     {
         "form": "तुरासाहोः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "6",
         "vachan": "2",
@@ -53852,7 +53852,7 @@
     },
     {
         "form": "तुरासाहाम्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "6",
         "vachan": "3",
@@ -53865,7 +53865,7 @@
     },
     {
         "form": "तुरासाहि",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "7",
         "vachan": "1",
@@ -53878,7 +53878,7 @@
     },
     {
         "form": "तुरासाहोः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "7",
         "vachan": "2",
@@ -53903,7 +53903,7 @@
     },
     {
         "form": "तुराषाट्सु",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "7",
         "vachan": "3",
@@ -53936,7 +53936,7 @@
     },
     {
         "form": "तुराषाट्त्सु",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "7",
         "vachan": "3",
@@ -53981,7 +53981,7 @@
     },
     {
         "form": "हे तुराषाड्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "8",
         "vachan": "1",
@@ -54014,7 +54014,7 @@
     },
     {
         "form": "हे तुराषाट्",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "8",
         "vachan": "1",
@@ -54053,7 +54053,7 @@
     },
     {
         "form": "हे तुरासाहौ",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "8",
         "vachan": "2",
@@ -54066,7 +54066,7 @@
     },
     {
         "form": "हे तुरासाहः",
-        "baseindex": "39.01",
+        "baseindex": "39.010",
         "word": "तुरासाह्",
         "vibhakti": "8",
         "vachan": "3",
