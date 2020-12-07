@@ -3725,7 +3725,7 @@
     "82037": "A बश्-वर्ण of an एकाच् and झषन्त part of a verb is converted to a भष् वर्ण - (1) in presence of a सकार, (2) in presence of a  the word ध्व, or (3) at end of a पद",
     "82038": "The बश्-letter of the the झषन्त-एकाच्-अवयव present in the 'दध्' form of the verb root 'धा' is converted to a corresponding भष् letter when followed by  तकार, थकार, सकार, or the word ध्व.\n",
     "82039": "A झल् letter occurring at end of a पद is converted to the corresponding जश् letter.",
-    "82040": "The तकार and थकार that follows a झष् letter is converted to  धकार. But this conversion does not happen for the vern  root 'धा'.",
+    "82040": "The तकार and थकार that follows a झष् letter is converted to  धकार. But this conversion does not happen for the verb  root 'धा'.",
     "82041": "षकार and  ढकार not occurring at end of a पद are converted to  ककार when followed by सकार.",
     "82042": "",
     "82043": "",
