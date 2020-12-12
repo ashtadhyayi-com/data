@@ -21,7 +21,7 @@
     "11020": "Except for the verbs दाप् and दैप्, all other verbs that are referred to as 'दारूपाः' or 'धारूपाः' are known as 'घु'. ",
     "11021": "If a word has a single letter, it acts as the first letter, and it also acts as the last letter. ",
     "11022": "The तरप् प्रत्यय and the तमप् प्रत्यय are known as 'घ'",
-    "11023": "The words बहु and गण, and the words ending in the वतु and डति प्रत्यय are known as 'संख्या'.",
+    "11023": "The words बहु and गण, and the words ending in the वतुँप् and डति प्रत्यय are known as 'संख्या'.",
     "11024": "The षकारान्त and the नकारान्त words which are referred to as 'संख्या' are also called 'षट्'.",
     "11025": "Word ending in the डति प्रत्यय which are referred to as 'संख्या' are also called 'षट्'.",
     "11026": "The 'क्त' and 'क्तवतु' प्रत्यय are called 'निष्ठा'.",
