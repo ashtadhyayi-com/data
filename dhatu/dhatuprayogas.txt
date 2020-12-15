@@ -348,7 +348,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=17"
             }
         ],
-        "plat_1_3_भविष्यन्ति": [
+        "plrut_1_3_भविष्यन्ति": [
             {
                 "book": "भगवद्गीता",
                 "num": "11.32",
@@ -456,7 +456,7 @@
                 "external": ""
             }
         ],
-        "plat_1_3_भवन्तु": [
+        "plot_1_3_भवन्तु": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "2.24",
@@ -519,7 +519,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#56"
             }
         ],
-        "alat_1_1_बाधते ": [
+        "alat_1_1_बाधते": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "1.11",
@@ -923,22 +923,7 @@
     "01.0203": {},
     "01.0204": {},
     "01.0205": {},
-    "01.0206": {
-        "alit_1_1_रेजे": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.17",
-                "text": "चक्रेण रेजे यमुनाजलौघः",
-                "external": ""
-            },
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.5",
-                "text": "रेजे विचित्रैरपि या सचित्रैः",
-                "external": ""
-            }
-        ]
-    },
+    "01.0206": {},
     "01.0207": {},
     "01.0208": {},
     "01.0209": {},
@@ -1073,11 +1058,11 @@
     "01.0238": {},
     "01.0239": {},
     "01.0240": {
-        "plit_1_1_मुमूर्च्छ": [
+        "plit_1_1_मुमूर्छ": [
             {
                 "book": "रघुवंशम्",
                 "num": "12.57",
-                "text": "मुमूर्च्छ सख्यं रामस्य।",
+                "text": "मुमूर्छ सख्यं रामस्य।",
                 "external": ""
             }
         ],
@@ -1098,6 +1083,12 @@
     "01.0246": {},
     "01.0247": {
         "plot_2_1_व्रज": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.24",
+                "text": "इत्युक्तवन्तं व्रज साधयेति",
+                "external": ""
+            },
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.16",
@@ -1154,18 +1145,8 @@
                 "text": "सायं प्रतुद्व्रजेदपि।",
                 "external": ""
             }
-        ],
-        "plot_2_1_व्रज ": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "3.24",
-                "text": "इत्युक्तवन्तं व्रज साधयेति",
-                "external": ""
-            }
         ]
     },
-    "01.0248": {},
-    "01.0249": {},
     "01.0250": {},
     "01.0251": {},
     "01.0252": {},
@@ -1591,7 +1572,7 @@
                 "external": ""
             }
         ],
-        "avidhiling_1_1_क्रामेत ": [
+        "avidhiling_1_1_क्रामेत": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "2.28",
@@ -1627,7 +1608,7 @@
     "01.0550": {},
     "01.0551": {},
     "01.0552": {
-        "plat_1_3_नयन्ते": [
+        "alat_1_3_नयन्ते": [
             {
                 "book": "रघुवंशम्",
                 "num": "4.65",
@@ -1943,6 +1924,12 @@
     },
     "01.0643": {
         "plat_1_1_जीवति": [
+              {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "5",
+                "text": "पश्चाज्जीवति जर्जरदेहे",
+                "external": "https://nivedita2015.wordpress.com/2015/10/01/grammatical-aspects-in-bhaja-govindam-verse-5-yaavad-vittopaarjana-saktah/"
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "3.16",
@@ -1960,14 +1947,6 @@
                 "num": "12.75",
                 "text": "कामं जीवति मे नाथः।",
                 "external": ""
-            }
-        ],
-        "plat_1_1_जीवति ": [
-            {
-                "book": "मोहमुद्गरः (भजगोविन्दम्)",
-                "num": "5",
-                "text": "पश्चाज्जीवति जर्जरदेहे",
-                "external": "https://nivedita2015.wordpress.com/2015/10/01/grammatical-aspects-in-bhaja-govindam-verse-5-yaavad-vittopaarjana-saktah/"
             }
         ]
     },
@@ -2021,7 +2000,7 @@
     "01.0682": {},
     "01.0683": {},
     "01.0684": {
-        "plot_1_1_अवतु ": [
+        "plot_1_1_अवतु": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "2.65",
@@ -2288,7 +2267,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=1&field_nsutra_value=11"
             }
         ],
-        "plat_1_1_रक्षति ": [
+        "plat_1_1_रक्षति": [
             {
                 "book": "मोहमुद्गरः (भजगोविन्दम्)",
                 "num": "1",
@@ -2478,7 +2457,7 @@
     "01.0827": {},
     "01.0828": {},
     "01.0829": {
-        "plat_1_1_शंससि": [
+        "plat_2_1_शंससि": [
             {
                 "book": "भगवद्गीता",
                 "num": "5.1",
@@ -2643,7 +2622,7 @@
     "01.0852": {},
     "01.0853": {},
     "01.0854": {
-        "plit_1_1_चुक्षुभे": [
+        "alit_1_1_चुक्षुभे": [
             {
                 "book": "रघुवंशम्",
                 "num": "4.21",
@@ -3015,7 +2994,21 @@
     "01.0936": {},
     "01.0955": {},
     "01.0956": {
-        "alit_1_3_रेजिरे ": [
+        "alit_1_1_रेजे": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.17",
+                "text": "चक्रेण रेजे यमुनाजलौघः",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "3.5",
+                "text": "रेजे विचित्रैरपि या सचित्रैः",
+                "external": ""
+            }
+        ],
+        "alit_1_3_रेजिरे": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "1.21",
@@ -3145,7 +3138,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#46"
             }
         ],
-        "plrut_2_1_पत": [
+        "plot_2_1_पत": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.14",
@@ -3250,7 +3243,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#37"
             }
         ],
-        "alrut_1_1_सहिष्ये": [
+        "alrut_3_1_सहिष्ये": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "2.108",
@@ -3334,6 +3327,12 @@
         ],
         "alat_1_1_रमते": [
             {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "19",
+                "text": "यस्य ब्रह्मणि रमते चित्तम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/24/grammatical-aspects-in-bhaja-govindam-verse-19-yogarato-vaa-bhoogarato-vaa/"
+            },
+            {
                 "book": "भगवद्गीता",
                 "num": "5.22",
                 "text": "आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः",
@@ -3351,14 +3350,6 @@
                 "text": "रमते बालोन्मत्तवदेव ",
                 "external": "https://nivedita2015.wordpress.com/2015/11/26/grammatical-aspects-in-bhaja-govindam-verse-22-ratyaacharpatavirachitakanthah/"
             }
-        ],
-        "alat_1_1_रमते ": [
-            {
-                "book": "मोहमुद्गरः (भजगोविन्दम्)",
-                "num": "19",
-                "text": "यस्य ब्रह्मणि रमते चित्तम्",
-                "external": "https://nivedita2015.wordpress.com/2015/11/24/grammatical-aspects-in-bhaja-govindam-verse-19-yogarato-vaa-bhoogarato-vaa/"
-            }
         ]
     },
     "01.0990": {
@@ -3371,6 +3362,12 @@
             }
         ],
         "plot_2_1_सीद": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.42",
+                "text": "प्रसीद संधेहि वधाय विद्विषाम्‌",
+                "external": ""
+            },
             {
                 "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
                 "num": "9",
@@ -3435,14 +3432,6 @@
                 "book": "रघुवंशम्",
                 "num": "4.21",
                 "text": "प्रससादोदयादम्भः।",
-                "external": ""
-            }
-        ],
-        "plot_2_1_सीद ": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "1.42",
-                "text": "प्रसीद संधेहि वधाय विद्विषाम्‌",
                 "external": ""
             }
         ],
@@ -3664,30 +3653,7 @@
     "01.1040": {},
     "01.1041": {},
     "01.1042": {},
-    "01.1043": {
-        "plit_1_1_जहार": [
-            {
-                "book": "रघुवंशम्",
-                "num": "12.53",
-                "text": "जहार सीतां।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "4.43",
-                "text": "जहार न तु मेदिनीम्।",
-                "external": ""
-            }
-        ],
-        "plot_2_1_हर": [
-            {
-                "book": "रघुवंशम्",
-                "num": "5.21",
-                "text": "कोटीश्चतस्रो दश चाहरेति।",
-                "external": ""
-            }
-        ]
-    },
+    "01.1043": {},
     "01.1044": {
         "pvidhiling_1_1_श्रयेत्": [
             {
@@ -3702,14 +3668,6 @@
                 "book": "शिशुपालवधम्",
                 "num": "1.46",
                 "text": "यदृच्छयाशिश्रियदाश्रयः श्रियः",
-                "external": ""
-            }
-        ],
-        "plit_1_1_जहार": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.16",
-                "text": "वार्षिकं सञ्जहारेन्द्रः।",
                 "external": ""
             }
         ],
@@ -3728,14 +3686,6 @@
                 "book": "किरातार्जुनीयम्",
                 "num": "3.56",
                 "text": "बभार रम्योऽपि वपुः स भीषणम्‌",
-                "external": ""
-            }
-        ],
-        "plit_1_3_जगुः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.20",
-                "text": "शालिगोप्यो जगुर्यशः।",
                 "external": ""
             }
         ]
@@ -3794,6 +3744,24 @@
             }
         ],
         "plit_1_1_जहार": [
+             {
+                "book": "रघुवंशम्",
+                "num": "12.53",
+                "text": "जहार सीतां।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "4.43",
+                "text": "जहार न तु मेदिनीम्।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "4.16",
+                "text": "वार्षिकं सञ्जहारेन्द्रः।",
+                "external": ""
+            },
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.4",
@@ -3826,6 +3794,12 @@
             }
         ],
         "plot_2_1_हर": [
+            {
+                "book": "रघुवंशम्",
+                "num": "5.21",
+                "text": "कोटीश्चतस्रो दश चाहरेति।",
+                "external": ""
+            },
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.7",
@@ -4058,14 +4032,6 @@
                 "external": ""
             }
         ],
-        "alat_1_3_नयन्ते": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "2.40",
-                "text": "विनयन्ते स्म न शरीरजन्मनः",
-                "external": ""
-            }
-        ],
         "plrut_1_1_नेष्यति": [
             {
                 "book": "किरातार्जुनीयम्",
@@ -4074,8 +4040,13 @@
                 "external": ""
             }
         ],
-        "plat_1_3_नयन्ते": [
-            {
+        "alat_1_3_नयन्ते": [
+              {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.40",
+                "text": "विनयन्ते स्म न शरीरजन्मनः",
+                "external": ""
+            },{
                 "book": "रघुवंशम्",
                 "num": "4.65",
                 "text": "विनयन्ते स्म तद्योधाः।",
@@ -4126,6 +4097,12 @@
     "01.1065": {
         "plit_1_3_जगुः": [
             {
+                "book": "रघुवंशम्",
+                "num": "4.20",
+                "text": "शालिगोप्यो जगुर्यशः।",
+                "external": ""
+            },
+            {
                 "book": "किरातार्जुनीयम्",
                 "num": "3.60",
                 "text": "अनुजगुरथ दिव्यं दुन्दुभिध्वानम्‌",
@@ -4158,7 +4135,7 @@
                 "external": ""
             }
         ],
-        "plit_1_1_पपुः": [
+        "plit_1_3_पपुः": [
             {
                 "book": "रघुवंशम्",
                 "num": "4.42",
@@ -4364,14 +4341,6 @@
                 "text": "स्थेयाः पितेव धुरि पुत्रिणाम्।",
                 "external": ""
             }
-        ],
-        "plat_1_1_तिष्ठते": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "3.14",
-                "text": "संशय्य कर्णादिषु तिष्ठते यः",
-                "external": ""
-            }
         ]
     },
     "01.1078": {},
@@ -4384,7 +4353,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=16&field_nsutra_value=15"
             }
         ],
-        "plat_1_3_यच्छति": [
+        "plat_1_1_यच्छति": [
             {
                 "book": "भगवद्गीता",
                 "num": "9.26",
@@ -4432,14 +4401,6 @@
     "01.1080": {},
     "01.1081": {},
     "01.1082": {
-        "alat_1_3_लभन्ते": [
-            {
-                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
-                "num": "17",
-                "text": "भवन्तं भवान्तं भरन्तं भजन्तो लभन्ते ",
-                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
-            }
-        ],
         "plat_1_1_स्मरति": [
             {
                 "book": "भगवद्गीता",
@@ -4830,6 +4791,12 @@
             }
         ],
         "alat_1_3_लभन्ते": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "17",
+                "text": "भवन्तं भवान्तं भरन्तं भजन्तो लभन्ते ",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "5.25",
@@ -5644,7 +5611,7 @@
                 "external": ""
             }
         ],
-        "plot_2_1_भज ": [
+        "plot_2_1_भज": [
             {
                 "book": "मोहमुद्गरः (भजगोविन्दम्)",
                 "num": "1",
@@ -5897,6 +5864,12 @@
         "plat_1_1_हन्ति": [
             {
                 "book": "भगवद्गीता",
+                "num": "2.21",
+                "text": "कं घातयति हन्ति कम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=21"
+            },
+            {
+                "book": "भगवद्गीता",
                 "num": "2.19",
                 "text": "उभौ तौ न विजानीतो नायं हन्ति न हन्यते",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=19"
@@ -5924,14 +5897,6 @@
                 "num": "2.51",
                 "text": "अणुरप्यपहन्ति विग्रहः प्रभुम्‌",
                 "external": ""
-            }
-        ],
-        "plat_1_3_हन्ति": [
-            {
-                "book": "भगवद्गीता",
-                "num": "2.21",
-                "text": "कं घातयति हन्ति कम्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=21"
             }
         ],
         "plot_2_1_जहि": [
@@ -5988,7 +5953,7 @@
                 "external": ""
             }
         ],
-        "plat_1_3_घ्नन्ति‌ ": [
+        "plat_1_3_घ्नन्ति": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "1.30",
@@ -6049,14 +6014,6 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=17&field_nsutra_value=17"
             }
         ],
-        "alit_1_1_ चचक्षे": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "2.6",
-                "text": "तमाचचक्षे विचक्षणः",
-                "external": ""
-            }
-        ],
         "alang_1_1_अचष्ट": [
             {
                 "book": "रघुवंशम्",
@@ -6074,6 +6031,12 @@
             }
         ],
         "alit_1_1_चचक्षे": [
+             {
+                "book": "शिशुपालवधम्",
+                "num": "2.6",
+                "text": "तमाचचक्षे विचक्षणः",
+                "external": ""
+            },
             {
                 "book": "रघुवंशम्",
                 "num": "5.19",
@@ -6216,7 +6179,7 @@
                 "external": ""
             }
         ],
-        "alung_1_1_असूत": [
+        "alang_1_1_असूत": [
             {
                 "book": "रघुवंशम्",
                 "num": "3.13",
@@ -6395,12 +6358,24 @@
         "plot_2_1_ब्रूहि": [
             {
                 "book": "भगवद्गीता",
+                "num": "5.1",
+                "text": "यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=1"
+            },
+            {
+                "book": "भगवद्गीता",
                 "num": "2.7",
                 "text": "यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=7"
             }
         ],
         "plat_1_3_आहुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.57",
+                "text": "यात्रामाहुरुदासीनम्‌",
+                "external": ""
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "3.42",
@@ -6456,14 +6431,6 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=13"
             }
         ],
-        "plot_1_1_ब्रूहि": [
-            {
-                "book": "भगवद्गीता",
-                "num": "5.1",
-                "text": "यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=1"
-            }
-        ],
         "pvidhiling_2_1_ब्रूयाः": [
             {
                 "book": "मेघदूतम् (उत्तरमेघ:)",
@@ -6495,14 +6462,6 @@
                 "book": "रघुवंशम्",
                 "num": "3.43",
                 "text": "अवोचदेनं गगनस्पृशा रघुः।",
-                "external": ""
-            }
-        ],
-        "plat_1_3_आहुः ": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "2.57",
-                "text": "यात्रामाहुरुदासीनम्‌",
                 "external": ""
             }
         ],
@@ -6717,6 +6676,12 @@
             }
         ],
         "plot_2_1_इहि": [
+             {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.22",
+                "text": "ध्रुवमेतदवेहि विद्विषाम्‌",
+                "external": ""
+            },
             {
                 "book": "रघुवंशम्",
                 "num": "5.13",
@@ -6777,14 +6742,6 @@
                 "book": "किरातार्जुनीयम्",
                 "num": "1.46",
                 "text": "लक्ष्मीस्त्वां समभ्येतु भूयः",
-                "external": ""
-            }
-        ],
-        "plot_2_1_इहि ": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "2.22",
-                "text": "ध्रुवमेतदवेहि विद्विषाम्‌",
                 "external": ""
             }
         ],
@@ -6899,6 +6856,12 @@
             }
         ],
         "plit_1_3_ययुः": [
+             {
+                "book": "रघुवंशम्",
+                "num": "4.64",
+                "text": "शेषास्तं शरणं ययुः।",
+                "external": ""
+            },
             {
                 "book": "शिशुपालवधम्",
                 "num": "1.66",
@@ -7014,28 +6977,6 @@
                 "external": ""
             }
         ],
-        "plit_1_1_बभौ": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.1",
-                "text": "प्रतिपद्याधिकं बभौ।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "4.32",
-                "text": "बभौ जटाभ्रष्टाम्।",
-                "external": ""
-            }
-        ],
-        "plit_1_1_ययुः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.64",
-                "text": "शेषास्तं शरणं ययुः।",
-                "external": ""
-            }
-        ],
         "pvidhiling_1_1_यायात्": [
             {
                 "book": "रघुवंशम्",
@@ -7095,6 +7036,18 @@
         "plit_1_1_बभौ": [
             {
                 "book": "रघुवंशम्",
+                "num": "4.1",
+                "text": "प्रतिपद्याधिकं बभौ।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "4.32",
+                "text": "बभौ जटाभ्रष्टाम्।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
                 "num": "5.45",
                 "text": "बभौ स भिन्दन्बृहतस्तरङ्गान्।",
                 "external": ""
@@ -7118,7 +7071,7 @@
                 "external": ""
             }
         ],
-        "plat_1_1_भान्ति": [
+        "plat_1_3_भान्ति": [
             {
                 "book": "रघुवंशम्",
                 "num": "5.72",
@@ -7282,6 +7235,12 @@
         ],
         "plot_2_1_विद्धि": [
             {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.39",
+                "text": "भर्तुर्मित्रं प्रियमविधवे विद्धि मामम्बुवाहं",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#39"
+            },
+            {
                 "book": "भगवद्गीता",
                 "num": "2.17",
                 "text": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्",
@@ -7332,20 +7291,6 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=13&field_nsutra_value=24"
             }
         ],
-        "plat_1_1_वेद": [
-            {
-                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
-                "num": "18",
-                "text": "नरो वेद यो देवचूडामणिं त्वाम्",
-                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
-            },
-            {
-                "book": "भगवद्गीता",
-                "num": "2.29",
-                "text": "श्रुत्वाप्येनं वेद न चैव कश्चित्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
-            }
-        ],
         "pvidhiling_3_1_विद्याम्": [
             {
                 "book": "भगवद्गीता",
@@ -7355,6 +7300,12 @@
             }
         ],
         "plat_1_3_विदुः": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "1.33",
+                "text": "पृथग्विदुः पुरातनं त्वाम्",
+                "external": ""
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "10.3",
@@ -7388,22 +7339,6 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=10&field_nsutra_value=15"
             }
         ],
-        "alot_2_1_विद्धि": [
-            {
-                "book": "मेघदूतम् (उत्तरमेघ:)",
-                "num": "2.39",
-                "text": "भर्तुर्मित्रं प्रियमविधवे विद्धि मामम्बुवाहं",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#39"
-            }
-        ],
-        "plat_1_3_विदुः ": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "1.33",
-                "text": "पृथग्विदुः पुरातनं त्वाम्",
-                "external": ""
-            }
-        ],
         "plit_1_1_विदामास": [
             {
                 "book": "शिशुपालवधम्",
@@ -7420,27 +7355,37 @@
                 "external": ""
             }
         ],
-        "plat_1_1_वेद ": [
+        "plat_1_1_वेद": [
+            {
+                "book": "श्रीरामभुजङ्गप्रयातस्तोत्रम्",
+                "num": "18",
+                "text": "नरो वेद यो देवचूडामणिं त्वाम्",
+                "external": "https://sanskritdocuments.org/doc_raama/raamabhujanga.html"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "2.29",
+                "text": "श्रुत्वाप्येनं वेद न चैव कश्चित्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=29"
+            },
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "1.20",
                 "text": " स वेद निःशेषमशेषितक्रियः",
                 "external": ""
-            }
-        ],
-        "plat_3_1_वेद ": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "1.37",
-                "text": "इमां अहं वेद न तावकीं धियम्‌",
-                "external": ""
-            }
-        ],
-        "alat_1_1_वेद": [
+            },
             {
                 "book": "रघुवंशम्",
                 "num": "2.43",
                 "text": "अन्तर्गतं प्राणभृतां हि वेद।",
+                "external": ""
+            }
+        ],
+        "plat_3_1_वेद": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.37",
+                "text": "इमां अहं वेद न तावकीं धियम्‌",
                 "external": ""
             }
         ]
@@ -7610,7 +7555,7 @@
                 "external": ""
             }
         ],
-        "plat_1_3_भविष्यन्ति": [
+        "plrut_1_3_भविष्यन्ति": [
             {
                 "book": "भगवद्गीता",
                 "num": "11.32",
@@ -7701,6 +7646,12 @@
         "plang_1_1_आसीत्": [
             {
                 "book": "शिशुपालवधम्",
+                "num": "3.69",
+                "text": "नेष्टं पुरो द्वारवतीत्वमासीत्‌",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
                 "num": "1.7",
                 "text": "स बालः आसीद्वपुषा चतुर्भुजः",
                 "external": ""
@@ -7750,14 +7701,6 @@
                 "external": ""
             }
         ],
-        "plang_1_1_आसीत्‌": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.69",
-                "text": "नेष्टं पुरो द्वारवतीत्वमासीत्‌",
-                "external": ""
-            }
-        ],
         "pvidhiling_1_2_स्याताम्": [
             {
                 "book": "शिशुपालवधम्",
@@ -7776,7 +7719,7 @@
         ]
     },
     "02.0061": {
-        "plit_1_1_ममार्ज ": [
+        "plit_1_1_ममार्ज": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "3.58",
@@ -7832,7 +7775,7 @@
     "02.0065": {},
     "02.0066": {},
     "02.0067": {
-        "plat_1_1_जाग्रति": [
+        "plat_1_3_जाग्रति": [
             {
                 "book": "भगवद्गीता",
                 "num": "2.69",
@@ -7898,14 +7841,6 @@
     "02.0076": {},
     "02.0077": {},
     "03.0001": {
-        "alat_1_3_जुह्वति": [
-            {
-                "book": "भगवद्गीता",
-                "num": "4.26",
-                "text": "संयमाग्निषु जुह्वति",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=26"
-            }
-        ],
         "plat_2_1_जुहोषि": [
             {
                 "book": "भगवद्गीता",
@@ -7915,6 +7850,12 @@
             }
         ],
         "plat_1_3_जुह्वति": [
+              {
+                "book": "भगवद्गीता",
+                "num": "4.26",
+                "text": "संयमाग्निषु जुह्वति",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=4&field_nsutra_value=26"
+            },
             {
                 "book": "शिशुपालवधम्",
                 "num": "2.107",
@@ -7956,7 +7897,7 @@
                 "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
             }
         ],
-        "alat_2_1_बिभेषि": [
+        "plat_2_1_बिभेषि": [
             {
                 "book": "रघुवंशम्",
                 "num": "2.49",
@@ -8032,7 +7973,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=39"
             }
         ],
-        "plot_2_1_जहीहि ": [
+        "plot_2_1_जहीहि": [
             {
                 "book": "मोहमुद्गरः (भजगोविन्दम्)",
                 "num": "2",
@@ -8040,7 +7981,7 @@
                 "external": "https://nivedita2015.wordpress.com/2015/09/26/grammatical-aspects-in-bhaja-govindam-verse-2-muda-jahihi/"
             }
         ],
-        "plat_1_1_जहति": [
+        "plat_1_3_जहति": [
             {
                 "book": "रघुवंशम्",
                 "num": "5.72",
@@ -8062,7 +8003,7 @@
                 "external": ""
             }
         ],
-        "plot_1_1_जहातु ": [
+        "plot_1_1_जहातु": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "3.14",
@@ -8248,6 +8189,18 @@
                 "num": "3.10",
                 "text": "धृतेश्च धीरः सदृशीर्व्यधत्त सः।",
                 "external": ""
+            },
+             {
+                "book": "रघुवंशम्",
+                "num": "3.53",
+                "text": "धनुष्यमोघं समधत्त सायकम्।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "2.75",
+                "text": "नरपतिकुलभूत्यै गर्भमाधत्त राज्ञी।",
+                "external": ""
             }
         ],
         "alot_2_1_धत्स्व": [
@@ -8258,7 +8211,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=12&field_nsutra_value=8"
             }
         ],
-        "plrut_1_3_धास्यति": [
+        "plrut_1_1_धास्यति": [
             {
                 "book": "भगवद्गीता",
                 "num": "18.68",
@@ -8280,7 +8233,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=14&field_nsutra_value=3"
             }
         ],
-        "plot_1_1_दधातु ": [
+        "plot_1_1_दधातु": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "1.74",
@@ -8364,7 +8317,7 @@
                 "external": ""
             }
         ],
-        "alat_1_1_धत्ते ": [
+        "alat_1_1_धत्ते": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "3.7",
@@ -8408,20 +8361,6 @@
                 "external": ""
             }
         ],
-        "alung_1_1_अधत्त": [
-            {
-                "book": "रघुवंशम्",
-                "num": "3.53",
-                "text": "धनुष्यमोघं समधत्त सायकम्।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "2.75",
-                "text": "नरपतिकुलभूत्यै गर्भमाधत्त राज्ञी।",
-                "external": ""
-            }
-        ],
         "alrut_3_1_धास्ये": [
             {
                 "book": "रघुवंशम्",
@@ -8433,7 +8372,16 @@
     },
     "03.0012": {},
     "03.0013": {},
-    "03.0014": {},
+    "03.0014": {
+      "alung_1_1_अविक्षत": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "1.19",
+                "text": "नवाम्बुदश्यामवपुर्न्यविक्षत",
+                "external": ""
+            }
+      ]
+    },
     "03.0015": {},
     "03.0016": {},
     "03.0017": {},
@@ -8443,8 +8391,10 @@
     "03.0021": {},
     "03.0022": {},
     "03.0023": {},
-    "03.0024": {
-        "plit_1_3_जगुः": [
+    "03.0024": {},
+    "03.0025": {},
+    "03.0026": {
+       "plit_1_3_जगुः": [
             {
                 "book": "रघुवंशम्",
                 "num": "4.20",
@@ -8453,8 +8403,6 @@
             }
         ]
     },
-    "03.0025": {},
-    "03.0026": {},
     "04.0001": {},
     "04.0002": {},
     "04.0003": {},
@@ -8509,7 +8457,7 @@
         ]
     },
     "04.0028": {
-        "alat_3_1_दूये ": [
+        "alat_3_1_दूये": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "2.11",
@@ -8593,14 +8541,6 @@
     "04.0040": {},
     "04.0041": {},
     "04.0042": {
-        "plat_3_1_योत्स्यामि": [
-            {
-                "book": "भगवद्गीता",
-                "num": "2.4",
-                "text": "इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=4"
-            }
-        ],
         "pvidhiling_1_1_स्येत्": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
@@ -9109,7 +9049,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=50"
             }
         ],
-        "alang_1_1_अयुज्यत ": [
+        "alang_1_1_अयुज्यत": [
             {
                 "book": "शिशुपालवधम्",
                 "num": "3.2",
@@ -9119,14 +9059,6 @@
         ]
     },
     "04.0075": {
-        "plot_2_1_सृज": [
-            {
-                "book": "मोहमुद्गरः (भजगोविन्दम्)",
-                "num": "25",
-                "text": "सर्वत्रोत्सृज भेदाज्ञानम् ",
-                "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
-            }
-        ],
         "alat_1_1_सृज्यते": [
             {
                 "book": "रघुवंशम्",
@@ -9236,7 +9168,7 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#20"
             }
         ],
-        "plat_3_1_शक्ये": [
+        "alat_3_1_शक्ये": [
             {
                 "book": "भगवद्गीता",
                 "num": "11.48",
@@ -9244,7 +9176,7 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=48"
             }
         ],
-        "alat_2_1_शक्यसे ": [
+        "alat_2_1_शक्यसे": [
             {
                 "book": "भगवद्गीता",
                 "num": "11.8",
@@ -9323,15 +9255,13 @@
     "04.0093": {},
     "04.0094": {},
     "04.0095": {
-        "plat_3_1_मुह्यति": [
-            {
+        "plat_1_1_मुह्यति": [
+             {
                 "book": "भगवद्गीता",
                 "num": "2.13",
                 "text": "तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=13"
-            }
-        ],
-        "plat_1_1_मुह्यति": [
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "2.72",
@@ -9570,14 +9500,6 @@
         ]
     },
     "05.0010": {
-        "pvidhiling_3_1_आप्नुयाम्": [
-            {
-                "book": "भगवद्गीता",
-                "num": "3.2",
-                "text": "येन श्रेयोऽहमाप्नुयाम्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=2"
-            }
-        ]
     },
     "05.0011": {
         "plat_1_1_दुनोति": [
@@ -9600,24 +9522,7 @@
         ]
     },
     "05.0013": {},
-    "05.0014": {
-        "plit_1_1_आप": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.17",
-                "text": "न पुनः प्राप तच्छ्रियम्।",
-                "external": ""
-            }
-        ],
-        "plit_1_3_आपुः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.22",
-                "text": "लीलाखेलमनुप्रापुः।",
-                "external": ""
-            }
-        ]
-    },
+    "05.0014": {},
     "05.0015": {},
     "05.0016": {
         "plrut_2_1_आप्स्यसि": [
@@ -9678,6 +9583,14 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=40"
             }
         ],
+        "pvidhiling_3_1_आप्नुयाम्": [
+            {
+                "book": "भगवद्गीता",
+                "num": "3.2",
+                "text": "येन श्रेयोऽहमाप्नुयाम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=2"
+            }
+        ],
         "plrut_2_3_आप्स्यथ": [
             {
                 "book": "भगवद्गीता",
@@ -9686,15 +9599,13 @@
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=11"
             }
         ],
-        "plit_1_3_आपुः ": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "1.44",
-                "text": "अवापुरारभ्य ततश्चला इति",
-                "external": ""
-            }
-        ],
         "plit_1_1_आप": [
+            {
+                "book": "रघुवंशम्",
+                "num": "4.17",
+                "text": "न पुनः प्राप तच्छ्रियम्।",
+                "external": ""
+            },
             {
                 "book": "शिशुपालवधम्",
                 "num": "3.5",
@@ -9739,6 +9650,18 @@
             }
         ],
         "plit_1_3_आपुः": [
+             {
+                "book": "रघुवंशम्",
+                "num": "4.22",
+                "text": "लीलाखेलमनुप्रापुः।",
+                "external": ""
+            },
+            {
+                "book": "शिशुपालवधम्",
+                "num": "1.44",
+                "text": "अवापुरारभ्य ततश्चला इति",
+                "external": ""
+            },
             {
                 "book": "शिशुपालवधम्",
                 "num": "3.81",
@@ -9812,7 +9735,7 @@
     "05.0018": {},
     "05.0019": {},
     "05.0020": {
-        "plat_1_1_अश्नुते": [
+        "alat_1_1_अश्नुते": [
             {
                 "book": "भगवद्गीता",
                 "num": "3.4",
@@ -10293,14 +10216,6 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#41"
             },
             {
-                "book": "रघुवंशम्",
-                "num": "3.5",
-                "text": "इति स्म पृच्छत्यनुवेलमादृतः।",
-                "external": ""
-            }
-        ],
-        "plat_1_1_पृच्छति ": [
-            {
                 "book": "मोहमुद्गरः (भजगोविन्दम्)",
                 "num": "5",
                 "text": "वार्तां कोऽपि न पृच्छति गेहे",
@@ -10311,6 +10226,12 @@
                 "num": "6",
                 "text": "तावत्पृच्छति कुशलं गेहे",
                 "external": "https://nivedita2015.wordpress.com/2015/10/02/grammatical-aspects-in-bhaja-govindam-verse-6-yaavat-pavano-nivasati-dehe/"
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "3.5",
+                "text": "इति स्म पृच्छत्यनुवेलमादृतः।",
+                "external": ""
             }
         ],
         "plit_1_1_पप्रच्छ": [
@@ -10346,6 +10267,14 @@
                 "text": "विससर्जोर्जितश्रियम्।",
                 "external": ""
             }
+        ],
+        "plot_2_1_सृज": [
+           {
+              "book": "मोहमुद्गरः (भजगोविन्दम्)",
+              "num": "25",
+              "text": "सर्वत्रोत्सृज भेदाज्ञानम् ",
+              "external": "https://nivedita2015.wordpress.com/2015/11/30/grammatical-aspects-in-bhaja-govindam-verse-25-shatrau-mitre-putre-bandhau/"
+          }
         ]
     },
     "06.0151": {
@@ -10386,6 +10315,12 @@
     "06.0159": {},
     "06.0160": {
         "plang_1_1_अविशत्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "3.28",
+                "text": "नदीमुखेनेव समुद्रमाविशत्।",
+                "external": ""
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "1.47",
@@ -10437,14 +10372,6 @@
                 "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#50"
             }
         ],
-        "alung_1_1_अविक्षत": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "1.19",
-                "text": "नवाम्बुदश्यामवपुर्न्यविक्षत",
-                "external": ""
-            }
-        ],
         "plot_2_1_विश": [
             {
                 "book": "मोहमुद्गरः (भजगोविन्दम्)",
@@ -10490,14 +10417,6 @@
                 "book": "रघुवंशम्",
                 "num": "4.70",
                 "text": "उपदा विविशुः शश्वत्।",
-                "external": ""
-            }
-        ],
-        "plung_1_1_अविशत्": [
-            {
-                "book": "रघुवंशम्",
-                "num": "3.28",
-                "text": "नदीमुखेनेव समुद्रमाविशत्।",
                 "external": ""
             }
         ]
@@ -10622,6 +10541,12 @@
         ],
         "plat_1_1_मुञ्चति": [
             {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "12",
+                "text": "तदपि न मुञ्चत्याशावायुः",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
+            },
+            {
                 "book": "भगवद्गीता",
                 "num": "18.35",
                 "text": "न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी",
@@ -10664,14 +10589,6 @@
                 "num": "2.1",
                 "text": "यशोधनो धेनुमृशेर्मुमोच।",
                 "external": ""
-            }
-        ],
-        "plat_1_1_मुञ्चति ": [
-            {
-                "book": "मोहमुद्गरः (भजगोविन्दम्)",
-                "num": "12",
-                "text": "तदपि न मुञ्चत्याशावायुः",
-                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-dinayaaminyau-saayam-pratah/"
             }
         ],
         "plot_2_1_मुञ्च": [
@@ -10970,6 +10887,12 @@
         ],
         "alot_2_1_भुङ्क्ष्व": [
             {
+                "book": "रघुवंशम्",
+                "num": "2.65",
+                "text": "पुत्रोपभुङ्क्ष्वेति तमादिदेश।",
+                "external": ""
+            },
+            {
                 "book": "भगवद्गीता",
                 "num": "11.33",
                 "text": "जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्",
@@ -11000,19 +10923,11 @@
                 "external": ""
             }
         ],
-        "plit_1_1_भोक्ष्यते": [
+        "alrut_1_1_भोक्ष्यते": [
             {
                 "book": "रघुवंशम्",
                 "num": "3.4",
                 "text": "दिवं मरुत्वानिव भोक्ष्यते भुवम्।",
-                "external": ""
-            }
-        ],
-        "alit_2_1_भुङ्क्ष्व": [
-            {
-                "book": "रघुवंशम्",
-                "num": "2.65",
-                "text": "पुत्रोपभुङ्क्ष्वेति तमादिदेश।",
                 "external": ""
             }
         ]
@@ -11189,6 +11104,18 @@
             }
         ],
         "plot_2_1_कुरु": [
+            {
+                "book": "मोहमुद्गरः (भजगोविन्दम्)",
+                "num": "11",
+                "text": "मा कुरु धनजनयौवनगर्वम्",
+                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "2.22",
+                "text": "कुरु तन्मतिं एव विक्रमे",
+                "external": ""
+            },
             {
                 "book": "भगवद्गीता",
                 "num": "2.48",
@@ -11404,27 +11331,11 @@
                 "external": ""
             }
         ],
-        "plot_2_1_कुरु ": [
-            {
-                "book": "मोहमुद्गरः (भजगोविन्दम्)",
-                "num": "11",
-                "text": "मा कुरु धनजनयौवनगर्वम्",
-                "external": "https://nivedita2015.wordpress.com/2015/11/04/grammatical-aspects-in-bhaja-govindam-verse-11-maa-kuru-dhanajanayauvanagarvam/"
-            }
-        ],
         "alrut_2_1_करिष्यसे": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "3.29",
                 "text": "करिष्यसे यत्र सुदुश्चराणि",
-                "external": ""
-            }
-        ],
-        "plat_2_1_कुरु": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "2.22",
-                "text": "कुरु तन्मतिं एव विक्रमे",
                 "external": ""
             }
         ],
@@ -11737,16 +11648,7 @@
             }
         ]
     },
-    "09.0045": {
-        "plit_1_3_पुपुषुः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "4.11",
-                "text": "उत्कर्षं पुपुषुर्गुणाः।",
-                "external": ""
-            }
-        ]
-    },
+    "09.0045": {},
     "09.0046": {},
     "09.0047": {},
     "09.0049": {},
@@ -11791,6 +11693,14 @@
     "09.0063": {},
     "09.0064": {},
     "09.0065": {
+        "plit_1_3_पुपुषुः": [
+            {
+                "book": "रघुवंशम्",
+                "num": "4.11",
+                "text": "उत्कर्षं पुपुषुर्गुणाः।",
+                "external": ""
+            }
+        ],
         "plit_1_1_पुपोष": [
             {
                 "book": "रघुवंशम्",
@@ -11821,7 +11731,7 @@
     "09.0069": {},
     "09.0070": {},
     "09.0071": {
-        "plat_1_3_गृह्णाति ": [
+        "plat_1_1_गृह्णाति": [
             {
                 "book": "भगवद्गीता",
                 "num": "2.22",
@@ -11838,6 +11748,12 @@
             }
         ],
         "plung_1_1_अग्रहीत्": [
+             {
+                "book": "रघुवंशम्",
+                "num": "1.18",
+                "text": "ताभ्यो बलिमग्रहीत्।",
+                "external": ""
+            },
             {
                 "book": "शिशुपालवधम्",
                 "num": "1.18",
@@ -11868,14 +11784,6 @@
                 "book": "शिशुपालवधम्",
                 "num": "2.104",
                 "text": "महात्मानोऽनुगृह्णन्ति",
-                "external": ""
-            }
-        ],
-        "plung_1_1_अग्रहीत् ": [
-            {
-                "book": "रघुवंशम्",
-                "num": "1.18",
-                "text": "ताभ्यो बलिमग्रहीत्।",
                 "external": ""
             }
         ],
@@ -12000,16 +11908,7 @@
     "10.0024": {},
     "10.0025": {},
     "10.0026": {},
-    "10.0027": {
-        "plat_1_1_प्रथयति": [
-            {
-                "book": "मेघदूतम् (पूर्वमेघः)",
-                "num": "1.26",
-                "text": "उद्दामानि प्रथयति शिलावेश्मभिर्यौवनानि",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#26"
-            }
-        ]
-    },
+    "10.0027": {},
     "10.0028": {},
     "10.0029": {},
     "10.0030": {},
@@ -12108,16 +12007,7 @@
     "10.0106": {},
     "10.0107": {},
     "10.0108": {},
-    "10.0109": {
-        "plot_2_1_व्रज": [
-            {
-                "book": "भगवद्गीता",
-                "num": "18.66",
-                "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=66"
-            }
-        ]
-    },
+    "10.0109": {},
     "10.0110": {},
     "10.0111": {},
     "10.0112": {},
@@ -12405,7 +12295,7 @@
                 "external": ""
             }
         ],
-        "plat_1_3_लङ्घयन्ति ": [
+        "plat_1_3_लङ्घयन्ति": [
             {
                 "book": "किरातार्जुनीयम्",
                 "num": "2.45",
@@ -12810,7 +12700,7 @@
     "10.0410": {},
     "10.0411": {},
     "10.0412": {
-        "plat_1_3_सूचयिष्यन्ति": [
+        "plrut_1_3_सूचयिष्यन्ति": [
             {
                 "book": "मेघदूतम् (पूर्वमेघः)",
                 "num": "1.21",
@@ -12851,7 +12741,7 @@
     "10.0445": {},
     "10.0446": {},
     "10.0447": {
-        "alat_1_3_प्रार्थयन्ते": [
+        "alat_1_3_अर्थयन्ते": [
             {
                 "book": "भगवद्गीता",
                 "num": "9.20",
