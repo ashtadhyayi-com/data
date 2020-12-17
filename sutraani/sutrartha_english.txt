@@ -62,7 +62,7 @@
     "11061": "non-appearance, muting or non-pronunciation of a प्रत्यय done using the words लुक्, श्लु and लुप् is respectively known as लुक्, श्लु, लुप्.",
     "11062": "The कार्य associated with a प्रत्यय happens even when the प्रत्यय undergoes a लोप.",
     "11063": "When a प्रत्यय gets removed using लुक् , श्लु or लुप्, the अङ्गकार्यम् that is dependent on that प्रत्यय does not happen. ",
-    "11064": "The fragment of a word from its last अच् letter till the end is called टि.",
+    "11064": "The fragment of a word starting from its last अच् letter till the end is called टि.",
     "11065": "The second-last letter of a word is called उपधा.",
     "11066": "The words in the सप्तमी विभक्ति are used to indicate that the कार्य happens on an immediately previous entity.",
     "11067": "The words in the पञ्चमी विभक्ति are used to indicate that the कार्य happens on an immediately next entity.",
