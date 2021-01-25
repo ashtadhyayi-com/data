@@ -45201,7 +45201,7 @@
             "settva": "S",
             "karma": "S",
             "artha": "अपवारणे",
-            "artha_english": "to remove, to get rid of",
+            "artha_english": "to remove, to get rid of, to hide, to keep out of sight",
             "split_artha": "संवरणे,अपवारणे",
             "split": "छ्,अ,द्",
             "english": "chhad,chhadan",
