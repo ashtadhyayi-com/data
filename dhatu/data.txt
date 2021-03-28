@@ -34685,7 +34685,7 @@
             "settva": "A",
             "karma": "A",
             "artha": "शुद्धौ",
-            "artha_english": "to nathe",
+            "artha_english": "to bathe, to submerge",
             "split_artha": "शुद्धौ",
             "split": "म्,अ,स्,ज्",
             "english": "masj,tumasjon",
