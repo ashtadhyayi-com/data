@@ -10767,12 +10767,6 @@
         "plat_2_1_इच्छसि": [
             {
                 "book": "भगवद्गीता",
-                "num": "11.31",
-                "text": "विज्ञातुमिच्छामि भवन्तमाद्यम्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=31"
-            },
-            {
-                "book": "भगवद्गीता",
                 "num": "11.7",
                 "text": "मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=11&field_nsutra_value=7"
