@@ -2501,7 +2501,7 @@
     "61060": "",
     "61061": "",
     "61062": "",
-    "61063": "The आदेशाs पद्‍,दत्,नस्, मास्, हृत्, निश्, असन्, यूषन्, दोषन्, यकन्, शकन्, उदन्, आसन् are created (to the appropriate words) in presence शस् and other विभक्तिs from तृतीया onwards. ",
+    "61063": "The आदेशाs पद्,दत्,नस्, मास्, हृत्, निश्, असन्, यूषन्, दोषन्, यकन्, शकन्, उदन्, आसन् are created (to the appropriate words) in presence शस् and other विभक्तिs from तृतीया onwards. ",
     "61064": "A षकार present at the beginning of औपदेशिक  form of a धातु is converted to सकार.",
     "61065": "A णकार present at the beginning of औपदेशिक form of a धातु is converted to नकार.",
     "61066": "A वकार and a यकार are deleted when followed by a letter of the वल् प्रत्याहार.",
