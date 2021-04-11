@@ -49,7 +49,7 @@
     "11048": "When an 'एच्' letter undergoes a हस्वादेश, it is replaced by an 'इक्' letter.",
     "11049": "When a word in the षष्ठी विभक्ति does not indicate any other meaning, it is considered to indicate the  स्थानी.",
     "11050": "When multiple आदेशाः are possible for a स्थानी, only the आदेश that is closest to the स्थानी actually happens.",
-    "11051": "Any अ, आ, इ, ई, उ, ऊ letter appearing as an आदेश in place of a ऋकार is always followed by the letter र्.",
+    "11051": "Any अ, आ, इ, ई, उ, ऊ letter appearing as an आदेश in place of a ऋकार/ऌकार is always followed by the letter र्/ल् respectively.",
     "11052": "आदेश for a word denoted using the षष्ठी विभक्ति happens in place of the last letter of that word. ",
     "11053": "A ङित्-आदेश happens to the last letter of the  स्थानी.",
     "11054": "The आदेश told on the following word happens on its first letter. ",
