@@ -23967,7 +23967,7 @@
             "a": "3",
             "p": "4",
             "n": "9",
-            "s": "तुमर्थे सेसेनसेअसेन्क्सेकसेनध्यैअध्यैन्कध्यैकध्यैन्शध्यैशध्यैन्तवैतवेङ्तवेनः",
+            "s": "तुमर्थे सेसेनसेऽसेन्क्सेकसेनध्यैअध्यैन्कध्यैकध्यैन्शध्यैशध्यैन्तवैतवेङ्तवेनः",
             "e": "tumarthesesenaseasenksekasenadhyaiadhyainkadhyaikadhyainshadhyaishadhyaintavaitavengtavenah",
             "skn": "3436",
             "lskn": "0",
