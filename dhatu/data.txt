@@ -4167,11 +4167,12 @@
             "artha_english": "to glow, to shine",
             "english": "rej,rejrun",
             "tags": "ऋदित्,उगित्,रेफादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,एकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010207",
@@ -4207,11 +4208,12 @@
             "artha_english": "to go, to blame,to censure,to condemn, to insult, to ridicule, to revile, to criticise",
             "english": "eenj,eejin",
             "tags": "इदित्,ईकारादिः,अजादिः,इजादिः,इजादिः गुरुमान्,जकारान्तः,झलन्तः,हलन्तः,ञकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010209",
@@ -4226,12 +4228,12 @@
             "artha": "गतौ",
             "artha_english": "to go",
             "english": "veej,veejan",
-            "tags": "अदित्,वकारादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,ईकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010210",
@@ -4650,11 +4652,12 @@
             "artha_english": "to hum, to buzz,to sound inarticulately, to utter unclearly",
             "english": "guj,gujan",
             "tags": "अदित्,गकारादिः,झलादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,उकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति । धातुरूपनन्दिन्याम् अपि 'गुज इति केचि्त पठन्ति' इति निर्देशः <{1.231}> इत्यत्र कृतः दृश्यते ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010231",
@@ -5010,11 +5013,12 @@
             "artha_english": "to go",
             "english": "vranj,vrajin",
             "tags": "इदित्,वकारादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,ञकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010249",
@@ -5110,11 +5114,12 @@
             "artha_english": "to go",
             "english": "dhrij,dhrijan",
             "tags": "अदित्,धकारादिः,झलादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,इकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010254",
@@ -5150,11 +5155,12 @@
             "artha_english": "to sing, to make an indistinct sound, to speak inarticulately",
             "english": "kunj,kujin",
             "tags": "इदित्,ककारादिः,झलादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,ञकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010256",
@@ -5350,11 +5356,12 @@
             "artha_english": "to be intoxicated, to be drunk, to be confused",
             "english": "kaj,kajan",
             "tags": "अदित्,ककारादिः,झलादिः,हलादिः,जकारान्तः,झलन्तः,हलन्तः,अकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010266",
@@ -6270,11 +6277,12 @@
             "artha_english": "to grow, to blossom",
             "english": "sphund,sphudin",
             "tags": "इदित्,सकारादिः,झलादिः,हलादिः,डकारान्तः,झलन्तः,हलन्तः,णकारोपधः,एकाच्,उदात्तोपदेशः",
-            "notes": "",
+            "notes": "अयं धातुः कुत्रापि धातुवृत्तिषु न लभ्यते । केषुचित् जालपुटेषु उपलभ्यमानेषु धातुपाठेषु अयं (प्रायः एकदेशी) धातुः निर्दिष्टः अस्ति । धातुरूपनन्दिन्यां <{1.310}> <<हुडिँ>> इत्यत्र 'स्फुडि विकसने इति केचित् पठन्ति' इति निर्देशेन अयं धातुः ज्ञापितः अस्ति ।",
             "dhaturoopnandini": "",
             "sk": "",
             "lsk_sutra": "",
-            "sk_sutra": ""
+            "sk_sutra": "",
+            "ref": "https://sanskritdocuments.org/doc_z_misc_major_works/dhatupatha.html"
         },
         {
             "i": "1010312",
