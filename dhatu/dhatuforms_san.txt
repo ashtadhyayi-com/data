@@ -1,0 +1,24 @@
+{
+  "01.0001": {
+        "plat": "बुभूषति;बुभूषतः;बुभूषन्ति;बुभूषसि;बुभूषथः;बुभूषथ;बुभूषामि;बुभूषावः;बुभूषामः",
+        "alat": "",
+        "plit": "",
+        "alit": "",
+        "plut": "",
+        "alut": "",
+        "plrut": "",
+        "alrut": "",
+        "plot": "",
+        "alot": "",
+        "plang": "",
+        "alang": "",
+        "pvidhiling": "",
+        "avidhiling": "",
+        "pashirling": "",
+        "aashirling": "",
+        "plung": "",
+        "alung": "",
+        "plrung": "",
+        "alrung": ""
+    }
+}
