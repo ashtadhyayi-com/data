@@ -28719,7 +28719,11 @@
             "upasargas": [
                 {
                     "name": "आ",
-                    "artha_hindi": "नि"
+                    "artha_hindi": "छिपाना"
+                }
+                {
+                    "name": "नि",
+                    "artha_hindi": "छिपाना"
                 }
             ]
         },
