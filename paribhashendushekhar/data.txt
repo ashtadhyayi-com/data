@@ -1,5 +1,5 @@
 {
-    "name": "paribhashendushekhara",
+    "name": "paribhashendushekhar",
     "data": [
         {
             "num": "1",
