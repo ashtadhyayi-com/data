@@ -12550,7 +12550,7 @@
             "gana": "1",
             "pada": "A",
             "settva": "S",
-            "karma": "S",
+            "karma": "A",
             "artha": "विशरणे दुर्गन्धे च",
             "artha_english": "to split,to stink, to cut",
             "english": "pooy,pooyeen",
@@ -28229,7 +28229,17 @@
             "lsk_sutra": "566",
             "sk_sutra": "2463",
             "artha_hindi": "बुरी चाल चलना, भागना, उड़ जाना, सोना",
-            "upasargas": []
+            "upasargas": [
+                {
+                    "name": "नि",
+                    "artha_hindi": "सोना"
+                },
+                {
+                    "name": "वि",
+                    "artha_hindi": "दुःख करना"
+                },
+                
+            ]
         },
         {
             "i": "1020050",
