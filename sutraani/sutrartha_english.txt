@@ -2565,7 +2565,7 @@
     "61125": "प्लुत letters and प्रगृह्य words do not undergo a सन्धि when followed by an अच्-letter.",
     "61126": "",
     "61127": "According to शाकल्य, a पदान्त-इक्-letter, when followed by an असवर्ण अच्-letter, shows प्रकृतिभावः and ह्रस्वादेशः.\n\n",
-    "61128": "According to शाकल्य, when पदान्त-अक्-letter is followed by an असवर्ण ऋकार or ऌकार , the अक् letter undergoes a  प्रकृतिभाव.",
+    "61128": "According to शाकल्य, when पदान्त-अक्-letter is followed by a ऋकार or ऌकार , the अक् letter undergoes a  प्रकृतिभाव.",
     "61129": "When followed by an अवैदिक 'इति' word, a प्लुत behaves as if it is not प्लुत.",
     "61130": "According to चाक्रवर्मण, the प्लुतः ईकारः behaves as if it is not प्लुत when followed by an अच्-letter.",
     "61131": "The 'दिव्' word when is called a 'पद' also gets the उत्-आदेश.",
