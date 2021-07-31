@@ -243,7 +243,7 @@
     "14001": "If a word is given two संज्ञाs  under this अधिकार, and if the संज्ञा given by the later sutra can only be given whenever the संज्ञा given by the earlier sutra is given, then under such circumstances, the word gets only the संज्ञा given by the later sutra, not the earlier sutra. ",
     "14002": "If two सूत्राणि which can be invoked independent of each other happen to conflict at the same step during a प्रक्रिया, then out of these two the one that appears later in अष्टाध्यायी gets used at that place. ",
     "14003": "The दीर्घ-ईकारान्त and दीर्घ-ऊकारान्त words which are only used as स्त्रीलिङ्ग forms get the term 'नदी'.",
-    "14004": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश is not referred as नदी.",
+    "14004": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश is not referred to as नदी.",
     "14005": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश optionally gets the term नदी in presence of the आम् प्रत्यय of षष्ठी बहुवचन.",
     "14006": "Except for the word 'स्त्री', any other word which is eligible for getting an इयङ्-आदेश or an उवङ्-आदेश, and any ह्रस्व-इकारान्त/हस्व-उकारान्त word optionally gets the term नदी in presence of a ङित् प्रत्यय.",
     "14007": "Except for the word सखि, all ह्रस्व-इकारान्त and ह्रस्व-उकारान्त words get the term घि whenever they do not get the term नदी.",
