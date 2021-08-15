@@ -3952,166 +3952,6 @@
     "01.0244": {},
     "01.0245": {},
     "01.0246": {},
-    "01.0247": {
-        "plot_2_1_व्रज": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "3.24",
-                "text": "इत्युक्तवन्तं व्रज साधयेति",
-                "external": ""
-            },
-            {
-                "book": "मेघदूतम् (पूर्वमेघः)",
-                "num": "1.16",
-                "text": "किंचित्पश्चाद् व्रज लघुगतिर्भूय एवोत्तरेण",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#16"
-            },
-            {
-                "book": "भगवद्गीता",
-                "num": "18.66",
-                "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=66"
-            },
-            {
-                "book": "शिवानन्दलहरी",
-                "num": "6",
-                "text": "पदाम्भोजं शम्भोः भज परमसौख्यं व्रज",
-                "external": ""
-            },
-            {
-                "book": "शिवानन्दलहरी",
-                "num": "60",
-                "text": "चेतः सर्वभयापहं व्रज",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.15",
-                "text": "राजन् स्वतेजसा तस्य सशरीरो दिवं व्रज",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=14&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "48.12",
-                "text": "व्रजाक्षतं कर्म समारभस्व",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=48&field_sloka_value=12&"
-            }
-        ],
-        "pvidhiling_2_3_व्रजेत": [
-            {
-                "book": "भगवद्गीता",
-                "num": "2.54",
-                "text": "किमासीत व्रजेत किम्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
-            }
-        ],
-        "pvidhiling_1_3_व्रजेयुः": [
-            {
-                "book": "मेघदूतम् (उत्तरमेघ:)",
-                "num": "2.45a",
-                "text": "घर्मान्तेऽस्मिन् विगणय कथं वासराणि व्रजेयुः",
-                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#45a"
-            }
-        ],
-        "plat_1_3_व्रजन्ति": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "2.91",
-                "text": "व्रजन्ति गुणतामर्थाः",
-                "external": ""
-            },
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "1.30",
-                "text": "व्रजन्ति ते मूढधियः पराभवम्",
-                "external": ""
-            },
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "1.42",
-                "text": "व्रजन्ति शत्रूनवधूय निःस्पृहाः",
-                "external": ""
-            }
-        ],
-        "pvidhiling_1_1_व्रजेत्": [
-            {
-                "book": "रघुवंशम्",
-                "num": "1.90",
-                "text": "सायं प्रत्युद्व्रजेदपि।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "8.7",
-                "text": "सहसोद्वेगमियं व्रजेदिति।",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "37.32",
-                "text": "पुत्रपौत्रैश्च स्कन्दसालोक्यतां व्रजेत्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=37&field_sloka_value=32&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "13.17",
-                "text": "उत्पलपत्राक्षी रावणस्य वशं व्रजेत्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=13&field_sloka_value=16&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "58.112",
-                "text": "क्षिप्रं यथासौ विलयं व्रजेत्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=58&field_sloka_value=112&"
-            }
-        ],
-        "plat_3_3_व्रजामः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "6.82",
-                "text": "आर्ये व्रजामोऽन्यत इत्यथैनाम्।",
-                "external": ""
-            }
-        ],
-        "plat_1_1_व्रजति": [
-            {
-                "book": "शृङ्गारशतकम्",
-                "num": "57",
-                "text": "न चापि प्रध्वंसं व्रजति विविधैः",
-                "external": ""
-            },
-            {
-                "book": "सौन्दर्यलहरी",
-                "num": "26",
-                "text": "विरिञ्चिः पञचत्वं व्रजति हरिराप्नोति",
-                "external": ""
-            }
-        ],
-        "plat_3_1_व्रजामि": [
-            {
-                "book": "शिवानन्दलहरी",
-                "num": "29",
-                "text": "त्वामीशं शरणं व्रजामि",
-                "external": ""
-            }
-        ],
-        "plot_1_3_व्रजन्तु": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "69.2",
-                "text": "व्रजन्त्वग्रे सुविहिता नानारत्नसमन्विताः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=69&field_sloka_value=2&"
-            }
-        ],
-        "pvidhiling_3_1_व्रजेयम्": [
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "41.7",
-                "text": "ह्यहं यदि व्रजेयं प्लवगेश्वरालयम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=41&field_sloka_value=7&"
-            }
-        ]
-    },
     "01.0250": {},
     "01.0251": {},
     "01.0252": {},
@@ -4360,7 +4200,6 @@
     "01.0356": {},
     "01.0357": {},
     "01.0359": {},
-    "01.0360": {},
     "01.0361": {},
     "01.0362": {},
     "01.0363": {},
@@ -4378,7 +4217,6 @@
     "01.0375": {},
     "01.0376": {},
     "01.0377": {},
-    "01.0378": {},
     "01.0379": {},
     "01.0380": {},
     "01.0381": {
@@ -4400,7 +4238,6 @@
         ]
     },
     "01.0382": {},
-    "01.0383": {},
     "01.0384": {},
     "01.0385": {},
     "01.0386": {},
@@ -4615,12 +4452,10 @@
     "01.0442": {},
     "01.0443": {},
     "01.0444": {},
-    "01.0445": {},
     "01.0446": {},
     "01.0447": {},
     "01.0448": {},
     "01.0449": {},
-    "01.0450": {},
     "01.0451": {},
     "01.0452": {},
     "01.0453": {},
@@ -5348,7 +5183,6 @@
     },
     "01.0553": {},
     "01.0554": {},
-    "01.0555": {},
     "01.0556": {},
     "01.0557": {},
     "01.0558": {},
@@ -6337,8 +6171,6 @@
     "01.0659": {},
     "01.0660": {},
     "01.0661": {},
-    "01.0662": {},
-    "01.0663": {},
     "01.0664": {},
     "01.0665": {},
     "01.0666": {},
@@ -7454,7 +7286,6 @@
     "01.0756": {},
     "01.0757": {},
     "01.0758": {},
-    "01.0759": {},
     "01.0760": {
         "plat_1_1_काङ्क्षति": [
             {
@@ -7502,7 +7333,6 @@
     "01.0763": {},
     "01.0764": {},
     "01.0765": {},
-    "01.0766": {},
     "01.0767": {},
     "01.0768": {},
     "01.0769": {},
@@ -7514,7 +7344,6 @@
     "01.0775": {},
     "01.0776": {},
     "01.0777": {},
-    "01.0778": {},
     "01.0779": {},
     "01.0780": {},
     "01.0781": {},
@@ -7541,7 +7370,6 @@
     "01.0793": {},
     "01.0794": {},
     "01.0795": {},
-    "01.0796": {},
     "01.0797": {
         "plit_1_3_पुपुषुः": [
             {
@@ -8716,7 +8544,6 @@
     "01.0849": {},
     "01.0850": {},
     "01.0851": {},
-    "01.0852": {},
     "01.0853": {
         "alat_1_3_शोभन्ते": [
             {
@@ -9653,7 +9480,6 @@
         ]
     },
     "01.0876": {},
-    "01.0877": {},
     "01.0878": {},
     "01.0879": {},
     "01.0880": {},
@@ -9694,7 +9520,6 @@
     "01.0906": {},
     "01.0907": {},
     "01.0908": {},
-    "01.0909": {},
     "01.0910": {},
     "01.0911": {},
     "01.0912": {},
@@ -11105,7 +10930,6 @@
         ]
     },
     "01.0986": {},
-    "01.0987": {},
     "01.0988": {
         "alat_1_1_सहते": [
             {
@@ -12941,798 +12765,6 @@
                 "num": "13.4",
                 "text": "आशया तौ धरिष्येते वानराश्च मनस्विनः",
                 "external": "https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=5&field_sarga_value=13&field_sloka_value=39"
-            }
-        ]
-    },
-    "01.1048": {
-        "plrut_2_1_करिष्यसि": [
-            {
-                "book": "भगवद्गीता",
-                "num": "2.33",
-                "text": "अथ चैत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=33"
-            },
-            {
-                "book": "भगवद्गीता",
-                "num": "18.60",
-                "text": "कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=60"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "20.26",
-                "text": "किं करिष्यसि रामेण सुभगे चीरवाससा",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=20&field_sloka_value=26&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "24.27",
-                "text": "मे वाक्यं यदि त्वं न करिष्यसि",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=24&field_sloka_value=27&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "24.38",
-                "text": "मे व्याहृतं वाक्यं न यथावत्करिष्यसि",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=24&field_sloka_value=38&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "51.28",
-                "text": "प्राणपरित्राणं कथं राजन्करिष्यसि",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=51&field_sloka_value=27&"
-            }
-        ],
-        "plrut_1_1_करिष्यति": [
-            {
-                "book": "भगवद्गीता",
-                "num": "3.33",
-                "text": "प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति",
-                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=3&field_nsutra_value=33"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "36.35",
-                "text": "करिष्यति पुरीं लङ्कां काकुत्स्थः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=36&field_sloka_value=35&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "2.28",
-                "text": "स महाबाहुः किं करिष्यति राघवः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=2&field_sloka_value=28&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "11.38",
-                "text": "इदं खलु ममात्यर्थं धर्मलोपं करिष्यति",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=11&field_sloka_value=37&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "41.11",
-                "text": "अस्मिन्भग्ने ततः कोपं करिष्यति",
-                "external": "https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=5&field_sarga_value=41&field_sloka_value=11"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "42.9",
-                "text": "यूयमेवाभिजानीत योऽयं यद्वा करिष्यति",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=42&field_sloka_value=9&"
-            }
-        ],
-        "plit_1_1_चकार": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "1.5",
-                "text": "वरप्रदानस्य चकार शूलिनः",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "5.36",
-                "text": "तमात्मजन्मानमजञ्चकार।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "4.31",
-                "text": "शक्रिमत्वाच्चकार सः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "4.59",
-                "text": "जयस्तम्भं चकार सः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "3.8",
-                "text": "तिरश्चकार भ्रमराभिलीनयोः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "3.21",
-                "text": "चकार नाम्ना रघुमात्मसम्भवम्।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "2.41",
-                "text": "आत्मन्यवज्ञां शिथिलीचकार।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "6.23",
-                "text": "मन्दारशून्यानलकांश्चकार।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "6.72",
-                "text": "चकार बाणैरसुराङ्गनानाम्।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "7.25",
-                "text": "चकार सा मत्तचकोरनेत्रा।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "7.50",
-                "text": "शिवा भुजच्छेदमपाचकार।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "8.72",
-                "text": "न चकार शरीरमग्निसात्।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "9.56",
-                "text": "श्यामीचकार वनमाकुलदृष्टिपातैः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "9.62",
-                "text": "चकार नृपतिर्निशितैः क्षुरप्रैः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "9.63",
-                "text": "तूणीचकार शरपूरितवक्त्ररन्ध्रान्।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "9.67",
-                "text": "न स रुचिरकलापं बाणलक्ष्यीचकार।",
-                "external": ""
-            },
-            {
-                "book": "रुक्मिणीपरिणयः महाकाव्यम्",
-                "num": "5",
-                "text": "अलञ्चकार भुवनं गगनश्चोडुराडिव",
-                "external": ""
-            },
-            {
-                "book": "रुक्मिणीपरिणयः महाकाव्यम्",
-                "num": "7",
-                "text": "दुष्टान् दण्डेन चकारात्मवशं नृपः",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "11.18",
-                "text": "यच्चकार विवरं शिलाघने।",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "1.61",
-                "text": "चकार सख्यं रामेण",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=1&field_sloka_value=60&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "2.17",
-                "text": "महाप्राज्ञश्चकार मतिमान्मतिम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=2&field_sloka_value=17&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "2.22",
-                "text": "कथाश्चान्याश्चकार ध्यानमास्थितः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=2&field_sloka_value=22&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "2.42",
-                "text": "तदास्य रामस्य चकारकीर्तिमान्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=2&field_sloka_value=42&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "3.9",
-                "text": "रघुवंशस्य चरितं चकार भगवानृषिः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=3&field_sloka_value=9&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "3.38",
-                "text": "तच्चकारोत्तरे काव्ये वाल्मीकिः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=3&field_sloka_value=38&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "4.1",
-                "text": "चकार चरितं कृत्स्नं विचित्रपदम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=4&field_sloka_value=1&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "4.7",
-                "text": "पौलस्त्यवधमित्येव चकार चरितव्रतः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=4&field_sloka_value=7&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "10.17",
-                "text": "आगतानां तत: पूजामृषिपुत्रश्चकार ह",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=10&field_sloka_value=17&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "16.22",
-                "text": "मुदा परमया युक्तश्चकाराभिप्रदक्षिणम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=16&field_sloka_value=22&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "46.9",
-                "text": "तपस्तस्यां हि कुर्वन्त्यां परिचर्यां चकार ह",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=46&field_sloka_value=9&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "48.20",
-                "text": "मतिं चकार दुर्मेधा देवराजकुतूहलात्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=48&field_sloka_value=19&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "49.18",
-                "text": "पाद्यमर्घ्यं तथाऽऽतिथ्यं चकार",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=49&field_sloka_value=18&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "57.3",
-                "text": "फलमूलाशनो दान्तश्चकार सुमहत्तपः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=57&field_sloka_value=2&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "57.9",
-                "text": "तपश्चकार काकुत्स्थ परमं परमात्मवान्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=57&field_sloka_value=9&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.11",
-                "text": "चकारावाहनं तत्र भागार्थं सर्वदेवताः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=10&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "64.21",
-                "text": "चकाराप्रतिमां लोके प्रतिज्ञाम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=64&field_sloka_value=20&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "65.2",
-                "text": "चकाराप्रतिमं राम तपः परमदुष्करम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=65&field_sloka_value=2&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "65.25",
-                "text": "सख्यं चकार ब्रह्मर्षिरेवमस्त्विति च",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=65&field_sloka_value=24&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "76.5",
-                "text": "आरोप्य स धनू राम श्शरं सज्यं चकार ह",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=76&field_sloka_value=5&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "77.24",
-                "text": "चकार रामो धर्मात्मा प्रियाणि",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=77&field_sloka_value=24&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.8",
-                "text": "अञ्जलिं कृत्वा चकार गमने मतिम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=8&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.163",
-                "text": "चकार सुरसा चास्यं विंशद्योजनमायतम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=162&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.164",
-                "text": "चकार सुरसा वक्त्रं चत्वारिंशत्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=164&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.165",
-                "text": "चकार सुरसा वक्त्रं षष्टियोजनमायतम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=165&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.166",
-                "text": "चकार सुरसा वक्त्रमशीतीयोजनायतम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?language=dv&field_kanda_tid=5&field_sarga_value=1&field_sloka_value=166"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.167",
-                "text": "चकार सुरसा वक्त्रं शतयोजनमायत",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=167&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "3.43",
-                "text": "कृपां चकार तेजस्वी मन्यमानः स्त्रियम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=3&field_sloka_value=42&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "42.4",
-                "text": "चकार सुमहद्रूपं राक्षसीनां भयावहम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=42&field_sloka_value=4&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "45.11",
-                "text": "चकार हनुमान्वेगं तेषु रक्षस्सु",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=45&field_sloka_value=11&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "46.1",
-                "text": "रावणस्संवृताकारश्चकार मतिमुत्तमाम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=46&field_sloka_value=1&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "46.25",
-                "text": "चकार कदनं भूयो व्यवर्धत च वेगवान्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=46&field_sloka_value=24&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "47.21",
-                "text": "निपातितैश्चकार नादं घननादनिस्स्वनः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=47&field_sloka_value=21&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "47.3",
-                "text": "चकार वेगं तु महाबलस्तदा मतिं च",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=47&field_sloka_value=30&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "47.37",
-                "text": "निपीड्य तं चकार रक्षोधिपतेर्महद्भयम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=47&field_sloka_value=37&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "48.15",
-                "text": "चकार भर्तारमदीनसत्त्वो रणाय वीरः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=48&field_sloka_value=15&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "48.35",
-                "text": "मतिं राक्षसराजसूनु श्चकार तस्मिन्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=48&field_sloka_value=35&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "55.34",
-                "text": "एव दृष्टवा प्रतिप्रयाणाय मतिं चकार",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=55&field_sloka_value=34&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "61.2",
-                "text": "चकार भूयो मतिमुग्रतेजा वनस्य रक्षाम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=61&field_sloka_value=20&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "61.21",
-                "text": "समेत्य कैश्चित्कलहं चकार तथैव",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=61&field_sloka_value=21&"
-            }
-        ],
-        "alit_1_1_चक्रे": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "1.51",
-                "text": "विगृह्य चक्रे नमुचिद्विषा वशी",
-                "external": ""
-            },
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.42",
-                "text": "चक्रे प्रजाः स्वाः सनिमेषचिह्नाः",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "12.78",
-                "text": "लङ्कास्त्रीणां पुनश्चक्रे।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "10.67",
-                "text": "नामधेयं गुरुश्चक्रे।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "10.70",
-                "text": "जनयित्रीमलञ्चक्रे।",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "10.27",
-                "text": "गमनाय मतिं चक्रे",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=10&field_sloka_value=27&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "11.16",
-                "text": "राजा यथान्यायं पूजां चक्रे विशेषतः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=11&field_sloka_value=16&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "29.21",
-                "text": "त्रैलोक्यं स महातेजाश्चक्रे शक्रवशम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=29&field_sloka_value=21&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "32.7",
-                "text": "चक्रे पुरवरं राजा वसुश्चक्रे",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=32&field_sloka_value=7&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "43.7",
-                "text": "तिरोभावयितुं बुद्धिं चक्रे त्रिनयनः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=43&field_sloka_value=6&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "56.22",
-                "text": "एवमुक्तो महातेजाश्शमं चक्रे महातपाः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=56&field_sloka_value=22&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "72.21",
-                "text": "प्रभाते काल्यमुत्थाय चक्रे गोदानम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=72&field_sloka_value=21&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "73.1",
-                "text": "दिवसे राजा चक्रे गोदानमुत्तमम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=73&field_sloka_value=1&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "4.3",
-                "text": "चक्रेऽथ पादं सव्यं च शत्रूणां स तु",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=4&field_sloka_value=2&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "17.31",
-                "text": "हनुमांस्तत्र नमश्चक्रे च राघवम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=17&field_sloka_value=31&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "58.138",
-                "text": "चक्रेऽग्निसाक्षिकं सख्यं राघवस्सह",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=58&field_sloka_value=138&"
-            }
-        ],
-        "plit_1_3_चक्रुः": [
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.46",
-                "text": "चक्रुर्युवानः प्रतिबिम्बिताङ्गाः",
-                "external": ""
-            },
-            {
-                "book": "शिशुपालवधम्",
-                "num": "3.48",
-                "text": "यस्यामलिन्देषु न चक्रुरेव",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "4.88",
-                "text": "प्रस्थानप्रणतिभिरङ्गुलीषु चक्रुः।",
-                "external": ""
-            },
-            {
-                "book": "रघुवंशम्",
-                "num": "10.76",
-                "text": "आरम्भं प्रथमं चक्रुः।",
-                "external": ""
-            },
-            {
-                "book": "रुक्मिणीपरिणयः महाकाव्यम्",
-                "num": "11",
-                "text": "तदा चक्रुर्विप्रा जातककोविदाः",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "10.6",
-                "text": "मन्त्रिणश्च तथा चक्रुश्च ते तदा",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=10&field_sloka_value=6&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "11.25",
-                "text": "प्रचक्रुस्तत्सर्वं राज्ञा यत्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=11&field_sloka_value=25&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "14.12",
-                "text": "इति सञ्चोदितास्तत्र तथा चक्रुरनेकश:",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=14&field_sloka_value=12&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "14.18",
-                "text": "सर्वकर्माणि चक्रुस्ते यथाशास्त्रम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=14&field_sloka_value=18&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "31.19",
-                "text": "वासं चक्रुर्मुनिगणाः शोणाकूले",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=31&field_sloka_value=19&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "35.9",
-                "text": "तीरे ततश्चक्रुस्त आवासपरिग्रहम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=35&field_sloka_value=9&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.8",
-                "text": "महर्षयः चक्रुस्तास्ताःक्रियास्तदा",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=8&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.10",
-                "text": "चक्रुः कर्माणि सर्वाणि यथाकल्पम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=9&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "73.37",
-                "text": "तदा चक्रुर्विवाहं विधिपूर्वकम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=73&field_sloka_value=36&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.27",
-                "text": "तस्थुराकाशे वीक्षाञ्चक्रुश्च पर्वतम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=27&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "57.41",
-                "text": "चक्रुः किलकिलामन्ये प्रतिगर्जन्ति",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=57&field_sloka_value=41&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "61.23",
-                "text": "समग्रा महावनं निर्विषयं च चक्रुः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=61&field_sloka_value=23&"
-            }
-        ],
-        "pashirling_1_1_क्रियात्": [
-            {
-                "book": "किरातार्जुनीयम्",
-                "num": "3.52",
-                "text": "क्रियादघानां मघवा विघातम्",
-                "external": ""
-            }
-        ],
-        "plit_1_2_चक्रतुः": [
-            {
-                "book": "रघुवंशम्",
-                "num": "2.18",
-                "text": "उभावलञ्चक्रतुरञ्चिताभ्याम्।",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "34.7",
-                "text": "चालापं विश्वस्तौ तौ प्रचक्रतुः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=34&field_sloka_value=7&"
-            }
-        ],
-        "plrut_3_1_करिष्यामि": [
-            {
-                "book": "रघुवंशम्",
-                "num": "10.44",
-                "text": "करिष्यामि शरैस्तीक्ष्णैः।",
-                "external": ""
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "15.2",
-                "text": "इष्टिं तेऽहं करिष्यामि पुत्रीयाम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=15&field_sloka_value=2&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "21.8",
-                "text": "संश्रुत्यैवं करिष्यामीत्यकुर्वाणस्य",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=21&field_sloka_value=8&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "26.4",
-                "text": "करिष्यामि न सन्देहस्ताटकावधमुत्तमम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=26&field_sloka_value=4&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "43.3",
-                "text": "तेऽहं नरश्रेष्ठ करिष्यामि तव प्रियम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=43&field_sloka_value=3&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.23",
-                "text": "अन्यमिन्द्रं करिष्यामि लोको वा",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=23&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "1.88",
-                "text": "करिष्यामि भविष्यामि सर्ववाच्यः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=1&field_sloka_value=88&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "24.8",
-                "text": "खादत मां सर्वा न करिष्यामि वो वचः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=24&field_sloka_value=8&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "25.3",
-                "text": "न करिष्यामि वो वचः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=25&field_sloka_value=3&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "26.37",
-                "text": "कथं करिष्यामि तं विना प्रियदर्शनम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=26&field_sloka_value=37&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "37.61",
-                "text": "अनीशा किं करिष्यामि विनाथा विवशा सती",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=37&field_sloka_value=61&"
-            }
-        ],
-        "alrut_3_1_करिष्ये": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "10.15",
-                "text": "करिष्ये वोऽत्र पूजां वै सर्वेषां",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=10&field_sloka_value=15&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "13.5",
-                "text": "करिष्ये सर्वमेवैतद्भवता यत्समर्थितम्",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=13&field_sloka_value=5&"
-            }
-        ],
-        "plrut_3_3_करिष्यामः": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "13.17",
-                "text": "यथोक्तं तत्करिष्यामो",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=13&field_sloka_value=17&"
-            }
-        ],
-        "alit_1_3_चक्रिरे": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "14.8",
-                "text": "क्षेमयुक्तं हि चक्रिरे",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=14&field_sloka_value=8&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "29.27",
-                "text": "यथार्हं चक्रिरे पूजां विश्वामित्राय",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=29&field_sloka_value=27&"
-            },
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "32.5",
-                "text": "निवेशं चक्रिरे सर्वे पुराणां नृवराः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=32&field_sloka_value=5&"
-            }
-        ],
-        "plrut_1_2_करिष्यतः": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "20.19",
-                "text": "मारीचश्च सुबाहुश्च यज्ञविघ्नं करिष्यतः",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=20&field_sloka_value=19&"
-            }
-        ],
-        "plrut_2_3_करिष्यथ": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "28.14",
-                "text": "कार्यकालेषु साहाय्यं मे करिष्यथ",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=28&field_sloka_value=14&"
-            }
-        ],
-        "alrut_3_3_करिष्यामहे": [
-            {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "69.15",
-                "text": "यथा वक्ष्यसि धर्मज्ञ तत्करिष्यामहे",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=69&field_sloka_value=14&"
             }
         ]
     },
@@ -37606,8 +36638,6 @@
     "04.0124": {},
     "04.0125": {},
     "04.0126": {},
-    "04.0127": {},
-    "04.0128": {},
     "04.0130": {},
     "04.0131": {},
     "04.0132": {},
@@ -37615,7 +36645,6 @@
     "04.0134": {},
     "04.0135": {},
     "04.0136": {},
-    "04.0137": {},
     "04.0138": {},
     "04.0139": {},
     "04.0140": {},
@@ -39102,7 +38131,6 @@
     "06.0026": {},
     "06.0027": {},
     "06.0028": {},
-    "06.0029": {},
     "06.0030": {},
     "06.0031": {},
     "06.0032": {},
@@ -39110,7 +38138,6 @@
     "06.0034": {},
     "06.0035": {},
     "06.0036": {},
-    "06.0037": {},
     "06.0038": {},
     "06.0039": {},
     "06.0040": {},
@@ -44246,7 +43273,6 @@
             }
         ]
     },
-    "09.0015": {},
     "09.0016": {
         "plot_2_1_लुनीहि": [
             {
@@ -45014,7 +44040,6 @@
     "09.0067": {},
     "09.0068": {},
     "09.0069": {},
-    "09.0070": {},
     "09.0071": {
         "plat_1_1_गृह्णाति": [
             {
@@ -45932,7 +44957,6 @@
     },
     "10.0007": {},
     "10.0008": {},
-    "10.0009": {},
     "10.0010": {},
     "10.0011": {},
     "10.0012": {},
@@ -46497,10 +45521,8 @@
     "10.0102": {},
     "10.0103": {},
     "10.0104": {},
-    "10.0105": {},
     "10.0106": {},
     "10.0107": {},
-    "10.0108": {},
     "10.0109": {},
     "10.0110": {},
     "10.0111": {},
@@ -46537,7 +45559,6 @@
     "10.0135": {},
     "10.0136": {},
     "10.0137": {},
-    "10.0138": {},
     "10.0139": {},
     "10.0140": {},
     "10.0141": {},
@@ -46805,17 +45826,11 @@
     "10.0162": {},
     "10.0163": {},
     "10.0164": {},
-    "10.0165": {},
-    "10.0166": {},
     "10.0167": {},
     "10.0168": {},
-    "10.0169": {},
     "10.0170": {},
     "10.0172": {},
     "10.0173": {},
-    "10.0174": {},
-    "10.0175": {},
-    "10.0176": {},
     "10.0177": {},
     "10.0178": {},
     "10.0179": {},
@@ -46825,7 +45840,6 @@
     "10.0183": {},
     "10.0184": {},
     "10.0185": {},
-    "10.0186": {},
     "10.0187": {},
     "10.0188": {},
     "10.0189": {},
@@ -46908,8 +45922,6 @@
     },
     "10.0203": {},
     "10.0204": {},
-    "10.0205": {},
-    "10.0206": {},
     "10.0207": {},
     "10.0208": {},
     "10.0209": {},
@@ -47354,7 +46366,6 @@
     "10.0285": {},
     "10.0286": {},
     "10.0287": {},
-    "10.0288": {},
     "10.0289": {},
     "10.0290": {},
     "10.0291": {
@@ -48094,7 +47105,6 @@
     "10.0356": {},
     "10.0357": {},
     "10.0358": {},
-    "10.0359": {},
     "10.0360": {},
     "10.0361": {},
     "10.0362": {},
@@ -49653,7 +48663,6 @@
     "10.0457": {},
     "10.0459": {},
     "10.0460": {},
-    "10.0462": {},
     "10.0463": {},
     "10.0465": {},
     "10.0466": {},
@@ -49721,7 +48730,99 @@
         ]
     },
     "01.0286": {
+        "plot_2_1_व्रज": [
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "3.24",
+                "text": "इत्युक्तवन्तं व्रज साधयेति",
+                "external": ""
+            },
+            {
+                "book": "मेघदूतम् (पूर्वमेघः)",
+                "num": "1.16",
+                "text": "किंचित्पश्चाद् व्रज लघुगतिर्भूय एवोत्तरेण",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_पूर्वमेघ:#16"
+            },
+            {
+                "book": "भगवद्गीता",
+                "num": "18.66",
+                "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=66"
+            },
+            {
+                "book": "शिवानन्दलहरी",
+                "num": "6",
+                "text": "पदाम्भोजं शम्भोः भज परमसौख्यं व्रज",
+                "external": ""
+            },
+            {
+                "book": "शिवानन्दलहरी",
+                "num": "60",
+                "text": "चेतः सर्वभयापहं व्रज",
+                "external": ""
+            },
+            {
+                "book": "वाल्मीकिरामायणे बालकाण्डम्",
+                "num": "60.15",
+                "text": "राजन् स्वतेजसा तस्य सशरीरो दिवं व्रज",
+                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=14&"
+            },
+            {
+                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
+                "num": "48.12",
+                "text": "व्रजाक्षतं कर्म समारभस्व",
+                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=48&field_sloka_value=12&"
+            }
+        ],
+        "pvidhiling_2_3_व्रजेत": [
+            {
+                "book": "भगवद्गीता",
+                "num": "2.54",
+                "text": "किमासीत व्रजेत किम्",
+                "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=2&field_nsutra_value=54"
+            }
+        ],
+        "pvidhiling_1_3_व्रजेयुः": [
+            {
+                "book": "मेघदूतम् (उत्तरमेघ:)",
+                "num": "2.45a",
+                "text": "घर्मान्तेऽस्मिन् विगणय कथं वासराणि व्रजेयुः",
+                "external": "https://sa.wikisource.org/wiki/मेघदूतम्/मेघदूतम्_-_उत्तरमेघ:#45a"
+            }
+        ],
+        "plat_1_3_व्रजन्ति": [
+            {
+                "book": "शिशुपालवधम्",
+                "num": "2.91",
+                "text": "व्रजन्ति गुणतामर्थाः",
+                "external": ""
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.30",
+                "text": "व्रजन्ति ते मूढधियः पराभवम्",
+                "external": ""
+            },
+            {
+                "book": "किरातार्जुनीयम्",
+                "num": "1.42",
+                "text": "व्रजन्ति शत्रूनवधूय निःस्पृहाः",
+                "external": ""
+            }
+        ],
         "pvidhiling_1_1_व्रजेत्": [
+            {
+                "book": "रघुवंशम्",
+                "num": "1.90",
+                "text": "सायं प्रत्युद्व्रजेदपि।",
+                "external": ""
+            },
+            {
+                "book": "रघुवंशम्",
+                "num": "8.7",
+                "text": "सहसोद्वेगमियं व्रजेदिति।",
+                "external": ""
+            },
             {
                 "book": "वाल्मीकिरामायणे बालकाण्डम्",
                 "num": "37.32",
@@ -49741,18 +48842,34 @@
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=58&field_sloka_value=112&"
             }
         ],
-        "plot_2_1_व्रज": [
+        "plat_3_3_व्रजामः": [
             {
-                "book": "वाल्मीकिरामायणे बालकाण्डम्",
-                "num": "60.15",
-                "text": "राजन् स्वतेजसा तस्य सशरीरो दिवं व्रज",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=14&"
+                "book": "रघुवंशम्",
+                "num": "6.82",
+                "text": "आर्ये व्रजामोऽन्यत इत्यथैनाम्।",
+                "external": ""
+            }
+        ],
+        "plat_1_1_व्रजति": [
+            {
+                "book": "शृङ्गारशतकम्",
+                "num": "57",
+                "text": "न चापि प्रध्वंसं व्रजति विविधैः",
+                "external": ""
             },
             {
-                "book": "वाल्मीकिरामायणे सुन्दरकाण्डम्",
-                "num": "48.12",
-                "text": "व्रजाक्षतं कर्म समारभस्व",
-                "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=48&field_sloka_value=12&"
+                "book": "सौन्दर्यलहरी",
+                "num": "26",
+                "text": "विरिञ्चिः पञचत्वं व्रजति हरिराप्नोति",
+                "external": ""
+            }
+        ],
+        "plat_3_1_व्रजामि": [
+            {
+                "book": "शिवानन्दलहरी",
+                "num": "29",
+                "text": "त्वामीशं शरणं व्रजामि",
+                "external": ""
             }
         ],
         "plot_1_3_व्रजन्तु": [
