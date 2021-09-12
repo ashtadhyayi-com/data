@@ -30544,7 +30544,7 @@
             {
                 "book": "भगवद्गीता",
                 "num": "18.70",
-                "text": "ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
+                "text": "ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=18&field_nsutra_value=70"
             },
             {
