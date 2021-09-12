@@ -14052,7 +14052,7 @@
             "settva": "S",
             "karma": "S",
             "artha": "रक्षणगतिकान्तिप्रीतितृप्त्यवगमप्रवेशश्रवणस्वाम्यर्थयाचनक्रियेच्छादीप्त्यवाप्त्यालिङ्गनहिंसादानभागवृद्धिषु",
-            "artha_english": "to protect,to go, to desire, to wish, to love, to please, to satisfy, to enter, to hear, to own, to order, to command, to request, to beg, to act, to glow, to shine, to obtain, to hug, to embrace, to kill, to hut, to grow, to gain power",
+            "artha_english": "to protect,to go, to desire, to wish, to love, to please, to satisfy, to enter, to hear, to own, to order, to command, to request, to beg, to act, to glow, to shine, to obtain, to hug, to embrace, to kill, to hurt, to grow, to gain power",
             "tags": "उदात्तोपदेशः",
             "dhaturoopnandini": "600",
             "sk": "600",
@@ -26725,7 +26725,7 @@
             "pada": "P",
             "settva": "A",
             "karma": "S",
-            "artha": "दानादयोः आदाने प्रीणने च",
+            "artha": "दानादानयोः आदाने प्रीणने च",
             "artha_english": "to sacrifice,to eat, to consume",
             "tags": "अनुदात्तोपदेशः,mspsetu",
             "dhaturoopnandini": "1083",
@@ -31683,7 +31683,7 @@
             "settva": "A",
             "karma": "S",
             "artha": "व्यथने",
-            "artha_english": "to wound,to strike,to pain,to irritate, to hut, to cause pain, to attack",
+            "artha_english": "to wound,to strike,to pain,to irritate, to hurt, to cause pain, to attack",
             "tags": "अनुदात्तोपदेशः,mspsetu",
             "dhaturoopnandini": "1281",
             "sk": "1281",
@@ -35211,7 +35211,28 @@
             "lsk_sutra": "657",
             "sk_sutra": "2541",
             "artha_hindi": "चलना, शक्तिहीन होना, जाना, खिन्न होना",
-            "upasargas": [],
+             "upasargas": [
+                {
+                    "name": "उद",
+                    "artha_hindi": "डुबना"
+                },
+                {
+                    "name": "वि",
+                    "artha_hindi": "डुबना, थकना, श्रान्त होना, दुःखी होना"
+                },
+                {
+                    "name": "उप",
+                    "artha_hindi": "पास जाना, पास बैठना"
+                },
+                {
+                    "name": "नि",
+                    "artha_hindi": "नीचे बैठना, लेटना"
+                },
+                {
+                    "name": "प्र",
+                    "artha_hindi": "खुष होना, आनंद होना, संतुष्ट होना"
+                }
+            ],
             "antarganas": ""
         },
         {
