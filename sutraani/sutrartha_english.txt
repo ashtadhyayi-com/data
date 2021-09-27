@@ -259,7 +259,7 @@
     "14017": "If a प्रत्यय which is not a सर्वनामस्थान and which is specified in the fourth or fifth chapter gets attached to an प्रकृति , the प्रकृति gets the term पद.",
     "14018": "If a यकारादि or an अजादि प्रत्यय which is not a सर्वनामस्थान and which is specified in the fourth or fifth chapter gets attached to a प्रकृति , the प्रकृति gets the term भ.",
     "14019": "A तकारान्त or a सकारान्त word gets the term 'भ' when followed by a  मत्वर्थीय प्रत्यय.",
-    "14020": "For 'अयस्मय' and other words in the वेदाः, the भसंज्ञा and the पदसंज्ञा are applied as required.",
+    "14020": "The 'अयस्मय' and other words should be considered valid words in the वैदिक literature. ",
     "14021": "For referring to many, the बहुवचन forms are used.",
     "14022": "For referring to two, the द्विवचन forms are used, where as for referring to one, the एकवचन forms are used.",
     "14023": "",
