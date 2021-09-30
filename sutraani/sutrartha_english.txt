@@ -3020,7 +3020,7 @@
     "64019": "The last 'त्छ्' of an अङ्ग is converted to 'श्', and the last 'व्' of an अङ्ग is converted to 'ऊठ्' when followed by an अनुनासिकादि or झलादि प्रत्यय that is either कित् or ङित् । ",
     "64020": "",
     "64021": "",
-    "64022": "All the sutras present from here onward till the the end of this पाद should be considered as असिद्ध towards each other when they are invoked in such a way that their आश्रयs overlap with each other. ",
+    "64022": "All the sutras present from here onward till the the end of this पाद should be considered as असिद्ध towards each other when they are invoked in such a way that their आश्रयs are exactly the same. ",
     "64023": "",
     "64024": "The उपधा नकार of an अङ्ग that is अनिदित् and हलन्त is removed in presence of a कित् or a ङित्-प्रत्यय.",
     "64025": "The उपधा-नकार of the verbs दंश्, सञ्ज् and स्वञ्ज् is removed in presence of the विकरणप्रत्यय शप् । ",
