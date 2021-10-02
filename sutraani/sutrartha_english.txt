@@ -348,7 +348,7 @@
     "14106": "When one person wants to make fun of what other person thinks, and he uses the verb 'मन्' to indicate the thinking process, the verb मन् is used in उत्तमपुरुष-एकवचन and the other verb is used in  मध्यमपुरुष. For example, consider this statement - 'Do you think you can eat the rice' (एहि मन्ये ओदनम् भोक्ष्यसे)? Here the speaker is making fun of the thinking process of other person, saying that the other person is thinking he could eat the rice, but he would not be able to. In such a case, the verb मन् would get उत्तमपुरुष (instead of ideally getting मध्यमपुरुष), and the other word  (भुज् in this case) would get मध्यमपुरुष instead of ideally getting उत्तमपुरुष). So, instead of saying  रे बुभुक्षित, किम् त्वं एतत् मन्यसे यत् अहम् ओदनम् भोक्ष्ये, we would say - एहि मन्ये ओदनम् भोक्ष्यसे?\n",
     "14107": "Where a form of the word अस्मद् shows the same substance which is shown by the लकार, there the तिङन्तपद must be expressed using the उत्तमपुरुष प्रत्ययाs.",
     "14108": "Where a form of the word other than अस्मद् or युष्मद् shows the same substance which is shown by the लकार, there the तिङन्तपद must be expressed using the प्रथमपुरुष प्रत्ययाs.",
-    "14109": "Extreme closeness of letters is called  संहिता.",
+    "14109": "Extreme closeness of letters is called संहिता.",
     "14110": "Absence of letters is called अवसान.",
     "21001": "The 'पदविधि' given in the व्याकरणशास्त्र happens only for the words that exhibit सामर्थ्य (that is, those which are related to each other). ",
     "21002": "A सुबन्त that is followed by an आमन्त्रित will behave exactly like the अङ्ग of that आमन्त्रित,when it comes to determination of the स्वर in that सुबन्त. ",
