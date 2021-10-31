@@ -2,7 +2,7 @@
     "11001": "The letters आ, ऐ and  औ are called 'वृद्धि'.",
     "11002": "The letters अ, ए and ओ are called 'गुण'.",
     "11003": "If the words गुण or वृद्धि are used to denote the operation of  गुणादेश or वृद्धि-आदेश without specifying where such an आदेश happens, then this आदेश should be done in place of the 'इक्' letter.",
-    "11004": "If a part of धातु gets removed due to an आर्धधातुक प्रत्यय, then that प्रत्यय cannot cause any  गुण or वृद्धि on the remaining part of that धातु.",
+    "11004": "If a part of धातु gets removed due to an आर्धधातुक प्रत्यय, then that प्रत्यय cannot cause any  गुण or वृद्धि on the इक् letter of the remaining part of that धातु.",
     "11005": "In presence of a कित्,  गित् or a ङित् प्रत्यय, any गुण or वृद्धि that might happen on an इक्-letter of an अङ्ग is prohibited.\n",
     "11006": "The इक् letter of - (a) the verb दीधीङ्,  (b) The verb वेवीङ् , and (c) इडागम - do not undergo a गुण or a वृद्धि. ",
     "11007": "Group of two or more  व्यञ्जनानि pronounced together without any स्वर or a pause between them is referred as संयोग. ",
