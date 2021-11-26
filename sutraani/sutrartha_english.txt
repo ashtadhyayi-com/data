@@ -3754,7 +3754,7 @@
     "82066": "The सकार at end of a पद, and the षकार at end of the सजुष् पद get a रुँ-आदेश । ",
     "82067": "The words अवयाः, श्वेतवाः, पुरोडाः are considered derived. ",
     "82068": "The word अहन् gets रुँत्व at पदान्त.",
-    "82069": "The word अहन् gets a रेफादेश at पदान्त when it is followed by a word that is not a सुप्-प्रत्यय. ",
+    "82069": "The word अहन् gets रेफादेश at पदान्त, except when followed by a सुप्-प्रत्यय. ",
     "82070": "",
     "82071": "",
     "82072": "The सकारान्त वसुँ-प्रत्ययान्तशब्द, स्रंसु-शब्द, ध्वंसु-शब्द and अनडुह्-शब्द get a दकारादेशः at पदान्त.",
