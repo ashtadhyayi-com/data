@@ -35462,7 +35462,7 @@
             "pathabhed_note": "<{6.122}> <<स्फुलँ>> इत्यस्य अयं पाठभेदः धातुरूपनन्दिन्यां प्रयुक्तः दृश्यते ।",
             "dhaturoopnandini": "1390",
             "sk": "",
-            "lsk_sutra": "656",
+            "lsk_sutra": "",
             "sk_sutra": "",
             "artha_hindi": "हिलना, स्फुरित होना",
             "upasargas": [],
