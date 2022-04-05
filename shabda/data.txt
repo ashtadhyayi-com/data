@@ -13,8 +13,7 @@
             "forms": "अः;औ;आः;अम्;औ;आन्;एन;आभ्याम्;ऐः;आय;आभ्याम्;एभ्यः;आत्-आद्;आभ्याम्;एभ्यः;अस्य;अयोः;आनाम्;ए;अयोः;एषु;हे अ;हे औ;हे आः",
             "artha_eng": "Lord Vishnu",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101002",
@@ -28,8 +27,7 @@
             "vyutpatti": "",
             "forms": "देवः;देवौ;देवाः;देवम्;देवौ;देवान्;देवेन;देवाभ्याम्;देवैः;देवाय;देवाभ्याम्;देवेभ्यः;देवात्-देवाद्;देवाभ्याम्;देवेभ्यः;देवस्य;देवयोः;देवानाम्;देवे;देवयोः;देवेषु;हे देव;हे देवौ;हे देवाः",
             "artha_eng": "God",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101003",
@@ -43,8 +41,7 @@
             "vyutpatti": "",
             "forms": "रामः;रामौ;रामाः;रामम्;रामौ;रामान्;रामेण;रामाभ्याम्;रामैः;रामाय;रामाभ्याम्;रामेभ्यः;रामात्-रामाद्;रामाभ्याम्;रामेभ्यः;रामस्य;रामयोः;रामाणाम्;रामे;रामयोः;रामेषु;हे राम;हे रामौ;हे रामाः",
             "artha_eng": "Lord Ram",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101004",
@@ -58,8 +55,7 @@
             "artha": "समग्रम्, अखिलम्, सम्पूर्णम्",
             "artha_eng": "All",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["<<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र विद्यमाने सर्वादिगणे 'सर्व'शब्दस्य निर्देशः अस्ति, अतः अस्य शब्दस्य सर्वनामसंज्ञा भवति । अतः अस्य शब्दस्य प्रथमाबहुवचनम्, चतुर्थ्येकवचनम्, पञ्चम्येकवचनम्, षष्ठीबहुवचनम्, सप्तम्येकवचनं च 'देव'शब्दात् भिद्यते ।"]
+            "prakriya_notes": "<<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र विद्यमाने सर्वादिगणे 'सर्व'शब्दस्य निर्देशः अस्ति, अतः अस्य शब्दस्य सर्वनामसंज्ञा भवति । अतः अस्य शब्दस्य प्रथमाबहुवचनम्, चतुर्थ्येकवचनम्, पञ्चम्येकवचनम्, षष्ठीबहुवचनम्, सप्तम्येकवचनं च 'देव'शब्दात् भिद्यते ।"
         },
         {
             "ind": "101005",
@@ -73,8 +69,7 @@
             "artha": "समग्रम्, अखिलम्, सम्पूर्णम्",
             "artha_eng": "All, Whole, Entire, Universal",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["<<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र विद्यमाने सर्वादिगणे 'सर्व'शब्दस्य निर्देशः अस्ति, अतः अस्य शब्दस्य सर्वनामसंज्ञा भवति । अतः अस्य शब्दस्य प्रथमाबहुवचनम्, चतुर्थ्येकवचनम्, पञ्चम्येकवचनम्, षष्ठीबहुवचनम्, सप्तम्येकवचनं च 'देव'शब्दात् भिद्यते ।"]
+            "prakriya_notes": "<<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र विद्यमाने सर्वादिगणे 'सर्व'शब्दस्य निर्देशः अस्ति, अतः अस्य शब्दस्य सर्वनामसंज्ञा भवति । अतः अस्य शब्दस्य प्रथमाबहुवचनम्, चतुर्थ्येकवचनम्, पञ्चम्येकवचनम्, षष्ठीबहुवचनम्, सप्तम्येकवचनं च 'देव'शब्दात् भिद्यते ।"
         },
         {
             "ind": "101006",
@@ -88,8 +83,7 @@
             "artha": "जगत्",
             "artha_eng": "Universe",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'जगत्' अस्मिन् अर्थे 'विश्व'शब्दः सर्वनामसंज्ञकः नास्ति, अतः अस्य रूपाणि देवशब्दसदृशानि एव भवन्ति ।"]
+            "prakriya_notes": "'जगत्' अस्मिन् अर्थे 'विश्व'शब्दः सर्वनामसंज्ञकः नास्ति, अतः अस्य रूपाणि देवशब्दसदृशानि एव भवन्ति ।"
         },
         {
             "ind": "101007",
@@ -103,8 +97,7 @@
             "artha": "प्रियं विश्वं यस्य सः",
             "artha_eng": "One who likes everything",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["<<न बहुव्रीहौ>> [[1.1.29]] इति सूत्रेण 'प्रियविश्व' शब्दस्य सर्वनामसंज्ञा निषिध्यते, अतः अस्य रूपाणि 'देव'शब्दसदृशानि एव भवन्ति ।"]
+            "prakriya_notes": "<<न बहुव्रीहौ>> [[1.1.29]] इति सूत्रेण 'प्रियविश्व' शब्दस्य सर्वनामसंज्ञा निषिध्यते, अतः अस्य रूपाणि 'देव'शब्दसदृशानि एव भवन्ति ।"
         },
         {
             "ind": "101008",
@@ -118,8 +111,7 @@
             "artha": "द्वाभ्याम् कः?",
             "artha_eng": "Who amongst two?",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'किम्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'कतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'कतर'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'किम्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'कतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'कतर'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101009",
@@ -133,8 +125,7 @@
             "artha": "द्वाभ्याम् यः",
             "artha_eng": "Whosoever amongst two",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'यद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'यतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'-प्रत्ययस्य निर्देशात् 'यतर' शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'यद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'यतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'-प्रत्ययस्य निर्देशात् 'यतर' शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101010",
@@ -148,8 +139,7 @@
             "artha": "द्वाभ्याम् सः",
             "artha_eng": "That amongst two",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'तद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'ततर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'ततर'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'तद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'ततर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'ततर'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101011",
@@ -163,8 +153,7 @@
             "artha": "द्वाभ्याम् एकः",
             "artha_eng": "One amonst two",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतर-प्रत्यये कृते 'एकतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'एकतर'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतर-प्रत्यये कृते 'एकतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'एकतर'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101012",
@@ -178,8 +167,7 @@
             "artha": "अनेकेभ्यः कः?",
             "artha_eng": "Whoamongst many?",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["किम्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'कतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'कतम'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "किम्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'कतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'कतम'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101013",
@@ -193,8 +181,7 @@
             "artha": "अनेकेभ्यः यः",
             "artha_eng": "Whosoever amongst many",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'यद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'यतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'यतम'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'यद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'यतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'यतम'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101014",
@@ -208,8 +195,7 @@
             "artha": "अनेकेभ्यः सः",
             "artha_eng": "That amongst many",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'तद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'ततम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'ततम'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'तद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'ततम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'ततम'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101015",
@@ -223,8 +209,7 @@
             "artha": "अनेकेभ्यः एकः",
             "artha_eng": "One amongst many",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": ["'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतम-प्रत्यये कृते 'एकतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'एकतम'शब्दस्य सर्वनामसंज्ञा भवति ।"]
+            "prakriya_notes": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतम-प्रत्यये कृते 'एकतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'एकतम'शब्दस्य सर्वनामसंज्ञा भवति ।"
         },
         {
             "ind": "101016",
@@ -238,8 +223,7 @@
             "artha": "परः, भिन्नः",
             "artha_eng": "Different, Other",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101017",
@@ -253,8 +237,7 @@
             "artha": "",
             "artha_eng": "Either, One of the two",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101018",
@@ -268,8 +251,7 @@
             "artha": "",
             "artha_eng": "Different",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101019",
@@ -283,8 +265,7 @@
             "artha": "",
             "artha_eng": "Either, One of the many",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101020",
@@ -298,8 +279,7 @@
             "artha": "",
             "artha_eng": "different",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101021",
@@ -313,8 +293,7 @@
             "artha": "",
             "artha_eng": "All",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101022",
@@ -328,8 +307,7 @@
             "artha": "",
             "artha_eng": "Equal, Equivalent",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101023",
@@ -343,8 +321,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101024",
@@ -358,8 +335,7 @@
             "artha": "",
             "artha_eng": "One, Main, Alone, Equal, Little",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101025",
@@ -373,8 +349,7 @@
             "artha": "",
             "artha_eng": "Many",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101026",
@@ -388,8 +363,7 @@
             "artha": "",
             "artha_eng": "Both, Two",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101027",
@@ -403,8 +377,7 @@
             "artha": "",
             "artha_eng": "Having two parts, Both subgroups of a group",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101028",
@@ -418,8 +391,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101029",
@@ -433,8 +405,7 @@
             "artha": "",
             "artha_eng": "Previous, East, Earlier",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101030",
@@ -448,8 +419,7 @@
             "artha": "",
             "artha_eng": "Later, Other",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101031",
@@ -463,8 +433,7 @@
             "artha": "",
             "artha_eng": "Below, Under, Younger, ",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101032",
@@ -478,8 +447,7 @@
             "artha": "",
             "artha_eng": "South, Right",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101033",
@@ -493,8 +461,7 @@
             "artha": "",
             "artha_eng": "North, Later, After",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101034",
@@ -508,8 +475,7 @@
             "artha": "",
             "artha_eng": "Other",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101035",
@@ -523,8 +489,7 @@
             "artha": "",
             "artha_eng": "Below",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101036",
@@ -538,8 +503,7 @@
             "artha": "",
             "artha_eng": "Oneself, Belonging to oneself",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101037",
@@ -553,8 +517,7 @@
             "artha": "",
             "artha_eng": "Relatives, Wealth, Money",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101038",
@@ -568,8 +531,7 @@
             "artha": "",
             "artha_eng": "Exterior, Located Outside, Undergarments",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101039",
@@ -583,8 +545,7 @@
             "artha": "",
             "artha_eng": "Empty space",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101040",
@@ -598,8 +559,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101041",
@@ -613,8 +573,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101042",
@@ -628,8 +587,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101043",
@@ -643,8 +601,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101044",
@@ -658,8 +615,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101045",
@@ -673,8 +629,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101046",
@@ -688,8 +643,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101047",
@@ -703,8 +657,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101048",
@@ -718,8 +671,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101049",
@@ -733,8 +685,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101050",
@@ -748,8 +699,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101051",
@@ -763,8 +713,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101052",
@@ -778,8 +727,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101053",
@@ -793,8 +741,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101054",
@@ -808,8 +755,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101055",
@@ -823,8 +769,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101056",
@@ -838,8 +783,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101057",
@@ -853,8 +797,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101058",
@@ -868,8 +811,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101059",
@@ -883,8 +825,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101060",
@@ -898,8 +839,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101061",
@@ -913,8 +853,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101062",
@@ -928,8 +867,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101063",
@@ -943,8 +881,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101064",
@@ -958,8 +895,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101065",
@@ -973,8 +909,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101066",
@@ -988,8 +923,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101067",
@@ -1003,8 +937,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101068",
@@ -1018,8 +951,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101069",
@@ -1033,8 +965,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101070",
@@ -1048,8 +979,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101071",
@@ -1063,8 +993,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101072",
@@ -1078,8 +1007,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101073",
@@ -1093,8 +1021,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101074",
@@ -1108,8 +1035,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101075",
@@ -1123,8 +1049,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "101076",
@@ -1138,8 +1063,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "102001",
@@ -1153,8 +1077,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "102002",
@@ -1168,8 +1091,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103001",
@@ -1183,8 +1105,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103002",
@@ -1198,8 +1119,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103003",
@@ -1213,8 +1133,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103004",
@@ -1228,8 +1147,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103005",
@@ -1243,8 +1161,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103006",
@@ -1258,8 +1175,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103007",
@@ -1273,8 +1189,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103008",
@@ -1288,8 +1203,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103009",
@@ -1303,8 +1217,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103010",
@@ -1318,8 +1231,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103011",
@@ -1333,8 +1245,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103012",
@@ -1348,8 +1259,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103013",
@@ -1363,8 +1273,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103014",
@@ -1378,8 +1287,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103015",
@@ -1393,8 +1301,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103016",
@@ -1408,8 +1315,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103017",
@@ -1423,8 +1329,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103018",
@@ -1438,8 +1343,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "103019",
@@ -1453,8 +1357,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104001",
@@ -1465,11 +1368,10 @@
             "end": "ईकारान्तः",
             "linga": "P",
             "forms": "पपीः;पप्यौ;पप्यः;पपीम्;पप्यौ;पपीन्;पप्या;पपीभ्याम्;पपीभिः;पप्ये;पपीभ्याम्;पपीभ्यः;पप्यः;पपीभ्याम्;पपीभ्यः;पप्यः;पप्योः;पप्याम्;पपी;पप्योः;पपीषु;हे पपीः;हे पप्यौ;हे पप्यः",
-            "artha": "",
-            "artha_eng": "",
-            "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "artha": "सूर्यः, चन्द्रः",
+            "artha_eng": "sun, moon",
+            "vyutpatti": "पाति लोकम् इत्यर्थे पा (रक्षणे) धातोः <<यापोः कित् द्वे च>> (उणादिः 3.159) इति ईक्, द्वित्वं च ।",
+            "prakriya_notes": "<b>प्रथमैकवचने</b> ङ्यन्तत्वाभावात् सुँलोपो न । <b>प्रथमाद्विवचने</b>, <b>द्वितीयाद्विवचने</b> <<प्रथमयोः पूर्वसवर्णः>> [[6.1.102]] इति पूर्वसवर्णे प्राप्ते <<दीर्घाज्जसि च>> [[6.1.105]] इति निषेधः, अतः यणादेशे रूपनिर्माणम् । <b>षष्ठीबहुवचने</b> ह्रस्वत्वाभावात्, नदीसंज्ञायाः अभावात् नुडागमो न, अतः यणादेशे रूपसिद्धिः । <b>सप्तम्येकवचने</b> सवर्णदीर्घेण रूपसिद्धिः ।"
         },
         {
             "ind": "104002",
@@ -1480,11 +1382,10 @@
             "end": "ईकारान्तः",
             "linga": "P",
             "forms": "वातप्रमीः;वातप्रम्यौ;वातप्रम्यः;वातप्रमीम्;वातप्रम्यौ;वातप्रमीन्;वातप्रम्या;वातप्रमीभ्याम्;वातप्रमीभिः;वातप्रम्ये;वातप्रमीभ्याम्;वातप्रमीभ्यः;वातप्रम्यः;वातप्रमीभ्याम्;वातप्रमीभ्यः;वातप्रम्यः;वातप्रम्योः;वातप्रम्याम्;वातप्रमी;वातप्रम्योः;वातप्रमीषु;हे वातप्रमीः;हे वातप्रम्यौ;हे वातप्रम्यः",
-            "artha": "",
-            "artha_eng": "",
-            "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "artha": "अश्वः, मृगः",
+            "artha_eng": "Horse, Antelope",
+            "vyutpatti": "वातं मिमेति इति वातशब्दे उपपदे माङ् (माने) धातोः <<वातप्रमीः>> (उणादिः 4.1) इति ई-प्रत्ययः, स च कित् । कित्त्वात् <<आतो लोप इटि च>> [[6.4.64]] इति आकारलोपे रूपसिद्धिः ।",
+            "prakriya_notes": "सर्वाण्यपि रूपाणि <<पपी>> <{SH4.1}> -सदृशानि ।"
         },
         {
             "ind": "104003",
@@ -1498,8 +1399,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104004",
@@ -1513,8 +1413,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104005",
@@ -1528,8 +1427,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104006",
@@ -1543,8 +1441,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104007",
@@ -1558,8 +1455,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104008",
@@ -1573,8 +1469,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104009",
@@ -1588,8 +1483,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104010",
@@ -1603,8 +1497,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104011",
@@ -1618,8 +1511,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104012",
@@ -1633,8 +1525,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104013",
@@ -1648,8 +1539,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104014",
@@ -1663,8 +1553,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104015",
@@ -1678,8 +1567,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104016",
@@ -1693,8 +1581,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104017",
@@ -1708,8 +1595,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "104018",
@@ -1723,8 +1609,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "105001",
@@ -1738,8 +1623,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "105002",
@@ -1753,8 +1637,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "105003",
@@ -1768,8 +1651,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "105004",
@@ -1783,8 +1665,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106001",
@@ -1798,8 +1679,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106002",
@@ -1813,8 +1693,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106003",
@@ -1828,8 +1707,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106004",
@@ -1843,8 +1721,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106005",
@@ -1858,8 +1735,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106006",
@@ -1873,8 +1749,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "106007",
@@ -1888,8 +1763,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107001",
@@ -1903,8 +1777,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107002",
@@ -1918,8 +1791,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107003",
@@ -1933,8 +1805,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107004",
@@ -1948,8 +1819,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107005",
@@ -1963,8 +1833,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "107006",
@@ -1978,8 +1847,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "108001",
@@ -1993,8 +1861,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "108002",
@@ -2008,8 +1875,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "108003",
@@ -2023,8 +1889,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "108004",
@@ -2038,8 +1903,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "108005",
@@ -2053,8 +1917,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "109001",
@@ -2068,8 +1931,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "109002",
@@ -2083,8 +1945,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "110001",
@@ -2098,8 +1959,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "110002",
@@ -2113,8 +1973,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "110003",
@@ -2128,8 +1987,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "111001",
@@ -2143,8 +2001,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "112001",
@@ -2158,8 +2015,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "112002",
@@ -2173,8 +2029,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "113001",
@@ -2188,8 +2043,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114001",
@@ -2203,8 +2057,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114002",
@@ -2218,8 +2071,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114003",
@@ -2233,8 +2085,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114004",
@@ -2248,8 +2099,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114005",
@@ -2263,8 +2113,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114006",
@@ -2278,8 +2127,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114007",
@@ -2293,8 +2141,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114008",
@@ -2308,8 +2155,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114009",
@@ -2323,8 +2169,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114010",
@@ -2338,8 +2183,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114011",
@@ -2353,8 +2197,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114012",
@@ -2368,8 +2211,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114013",
@@ -2383,8 +2225,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "114014",
@@ -2398,8 +2239,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115001",
@@ -2413,8 +2253,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115002",
@@ -2428,8 +2267,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115003",
@@ -2443,8 +2281,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115004",
@@ -2458,8 +2295,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115005",
@@ -2473,8 +2309,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115006",
@@ -2488,8 +2323,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "115007",
@@ -2503,8 +2337,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116001",
@@ -2518,8 +2351,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116002",
@@ -2533,8 +2365,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116003",
@@ -2548,8 +2379,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116004",
@@ -2563,8 +2393,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116005",
@@ -2578,8 +2407,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116006",
@@ -2593,8 +2421,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116007",
@@ -2608,8 +2435,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116008",
@@ -2623,8 +2449,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116009",
@@ -2638,8 +2463,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116010",
@@ -2653,8 +2477,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "116011",
@@ -2668,8 +2491,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "117001",
@@ -2683,8 +2505,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "118001",
@@ -2698,8 +2519,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "118002",
@@ -2713,8 +2533,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "119001",
@@ -2728,8 +2547,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "119002",
@@ -2743,8 +2561,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "119003",
@@ -2758,8 +2575,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120001",
@@ -2773,8 +2589,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120002",
@@ -2788,8 +2603,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120003",
@@ -2803,8 +2617,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120004",
@@ -2818,8 +2631,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120005",
@@ -2833,8 +2645,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120006",
@@ -2848,8 +2659,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120007",
@@ -2863,8 +2673,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120008",
@@ -2878,8 +2687,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "120009",
@@ -2893,8 +2701,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "121001",
@@ -2908,8 +2715,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "121002",
@@ -2923,8 +2729,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "121003",
@@ -2938,8 +2743,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "121004",
@@ -2953,8 +2757,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "121005",
@@ -2968,8 +2771,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "122001",
@@ -2983,8 +2785,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "122002",
@@ -2998,8 +2799,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "123001",
@@ -3013,8 +2813,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "124001",
@@ -3028,8 +2827,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125001",
@@ -3043,8 +2841,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125002",
@@ -3058,8 +2855,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125003",
@@ -3073,8 +2869,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125004",
@@ -3088,8 +2883,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125005",
@@ -3103,8 +2897,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125006",
@@ -3118,8 +2911,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125007",
@@ -3133,8 +2925,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125008",
@@ -3148,8 +2939,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125009",
@@ -3163,8 +2953,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125010",
@@ -3178,8 +2967,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125011",
@@ -3193,8 +2981,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125012",
@@ -3208,8 +2995,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125013",
@@ -3223,8 +3009,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125014",
@@ -3238,8 +3023,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125015",
@@ -3253,8 +3037,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125016",
@@ -3268,8 +3051,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125017",
@@ -3283,8 +3065,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125018",
@@ -3298,8 +3079,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125019",
@@ -3313,8 +3093,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125020",
@@ -3328,8 +3107,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125021",
@@ -3343,8 +3121,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125022",
@@ -3358,8 +3135,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125023",
@@ -3373,8 +3149,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125024",
@@ -3388,8 +3163,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125025",
@@ -3403,8 +3177,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125026",
@@ -3418,8 +3191,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125027",
@@ -3433,8 +3205,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125028",
@@ -3448,8 +3219,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125029",
@@ -3463,8 +3233,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125030",
@@ -3478,8 +3247,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125031",
@@ -3493,8 +3261,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125032",
@@ -3508,8 +3275,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125033",
@@ -3523,8 +3289,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125034",
@@ -3538,8 +3303,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125035",
@@ -3553,8 +3317,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125036",
@@ -3568,8 +3331,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125037",
@@ -3583,8 +3345,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125038",
@@ -3598,8 +3359,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125039",
@@ -3613,8 +3373,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125040",
@@ -3628,8 +3387,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125041",
@@ -3643,8 +3401,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125042",
@@ -3658,8 +3415,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125043",
@@ -3673,8 +3429,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125044",
@@ -3688,8 +3443,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125045",
@@ -3703,8 +3457,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125046",
@@ -3718,8 +3471,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125047",
@@ -3733,8 +3485,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125048",
@@ -3748,8 +3499,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125049",
@@ -3763,8 +3513,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125050",
@@ -3778,8 +3527,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125051",
@@ -3793,8 +3541,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125052",
@@ -3808,8 +3555,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "125053",
@@ -3823,8 +3569,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "126001",
@@ -3838,8 +3583,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "126002",
@@ -3853,8 +3597,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "127001",
@@ -3868,8 +3611,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "127002",
@@ -3883,8 +3625,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "128001",
@@ -3898,8 +3639,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129001",
@@ -3913,8 +3653,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129002",
@@ -3928,8 +3667,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129003",
@@ -3943,8 +3681,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129004",
@@ -3958,8 +3695,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129005",
@@ -3973,8 +3709,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129006",
@@ -3988,8 +3723,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129007",
@@ -4003,8 +3737,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129008",
@@ -4018,8 +3751,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "129009",
@@ -4033,8 +3765,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "130001",
@@ -4048,8 +3779,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "130002",
@@ -4063,8 +3793,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131001",
@@ -4078,8 +3807,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131002",
@@ -4093,8 +3821,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131003",
@@ -4108,8 +3835,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131004",
@@ -4123,8 +3849,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131005",
@@ -4138,8 +3863,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131006",
@@ -4153,8 +3877,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131007",
@@ -4168,8 +3891,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131008",
@@ -4183,8 +3905,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131009",
@@ -4198,8 +3919,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "131010",
@@ -4213,8 +3933,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "132001",
@@ -4228,8 +3947,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "133001",
@@ -4243,8 +3961,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "134001",
@@ -4258,8 +3975,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "135001",
@@ -4273,8 +3989,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "136001",
@@ -4288,8 +4003,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "137001",
@@ -4303,8 +4017,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "138001",
@@ -4318,8 +4031,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139001",
@@ -4333,8 +4045,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139002",
@@ -4348,8 +4059,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139003",
@@ -4363,8 +4073,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139004",
@@ -4378,8 +4087,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139005",
@@ -4393,8 +4101,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139006",
@@ -4408,8 +4115,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139007",
@@ -4423,8 +4129,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139008",
@@ -4438,8 +4143,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139009",
@@ -4453,8 +4157,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "139010",
@@ -4468,8 +4171,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "140001",
@@ -4483,8 +4185,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "141001",
@@ -4498,8 +4199,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "141002",
@@ -4513,8 +4213,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "142001",
@@ -4528,8 +4227,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "143001",
@@ -4543,8 +4241,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "143002",
@@ -4558,8 +4255,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "143003",
@@ -4573,8 +4269,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "143004",
@@ -4588,8 +4283,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "144001",
@@ -4603,8 +4297,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145001",
@@ -4618,8 +4311,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145002",
@@ -4633,8 +4325,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145003",
@@ -4648,8 +4339,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145004",
@@ -4663,8 +4353,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145005",
@@ -4678,8 +4367,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145006",
@@ -4693,8 +4381,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145007",
@@ -4708,8 +4395,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145008",
@@ -4723,8 +4409,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145009",
@@ -4738,8 +4423,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145010",
@@ -4753,8 +4437,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145011",
@@ -4768,8 +4451,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145012",
@@ -4783,8 +4465,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145013",
@@ -4798,8 +4479,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145014",
@@ -4813,8 +4493,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145015",
@@ -4828,8 +4507,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145016",
@@ -4843,8 +4521,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145017",
@@ -4858,8 +4535,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145018",
@@ -4873,8 +4549,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145019",
@@ -4888,8 +4563,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145020",
@@ -4903,8 +4577,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145021",
@@ -4918,8 +4591,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145022",
@@ -4933,8 +4605,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145023",
@@ -4948,8 +4619,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "145024",
@@ -4963,8 +4633,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146001",
@@ -4978,8 +4647,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146002",
@@ -4993,8 +4661,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146003",
@@ -5008,8 +4675,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146004",
@@ -5023,8 +4689,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146005",
@@ -5038,8 +4703,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146006",
@@ -5053,8 +4717,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146007",
@@ -5068,8 +4731,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146008",
@@ -5083,8 +4745,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146009",
@@ -5098,8 +4759,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146010",
@@ -5113,8 +4773,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "146011",
@@ -5128,8 +4787,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147001",
@@ -5143,8 +4801,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147002",
@@ -5158,8 +4815,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147003",
@@ -5173,8 +4829,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147004",
@@ -5188,8 +4843,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147005",
@@ -5203,8 +4857,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147006",
@@ -5218,8 +4871,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147007",
@@ -5233,8 +4885,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147008",
@@ -5248,8 +4899,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147009",
@@ -5263,8 +4913,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147010",
@@ -5278,8 +4927,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147011",
@@ -5293,8 +4941,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147012",
@@ -5308,8 +4955,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "147013",
@@ -5323,8 +4969,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "148001",
@@ -5338,8 +4983,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149001",
@@ -5353,8 +4997,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149002",
@@ -5368,8 +5011,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149003",
@@ -5383,8 +5025,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149004",
@@ -5398,8 +5039,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149005",
@@ -5413,8 +5053,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149006",
@@ -5428,8 +5067,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149007",
@@ -5443,8 +5081,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149008",
@@ -5458,8 +5095,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149009",
@@ -5473,8 +5109,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149010",
@@ -5488,8 +5123,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149011",
@@ -5503,8 +5137,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149012",
@@ -5518,8 +5151,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "149013",
@@ -5533,8 +5165,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150001",
@@ -5548,8 +5179,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150002",
@@ -5563,8 +5193,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150003",
@@ -5578,8 +5207,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150004",
@@ -5593,8 +5221,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150005",
@@ -5608,8 +5235,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150006",
@@ -5623,8 +5249,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150007",
@@ -5638,8 +5263,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150008",
@@ -5653,8 +5277,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150009",
@@ -5668,8 +5291,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150010",
@@ -5683,8 +5305,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150011",
@@ -5698,8 +5319,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "150012",
@@ -5713,8 +5333,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "151001",
@@ -5728,8 +5347,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "152001",
@@ -5743,8 +5361,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "152002",
@@ -5758,8 +5375,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "152003",
@@ -5773,8 +5389,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "152004",
@@ -5788,8 +5403,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153001",
@@ -5803,8 +5417,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153002",
@@ -5818,8 +5431,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153003",
@@ -5833,8 +5445,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153004",
@@ -5848,8 +5459,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153005",
@@ -5863,8 +5473,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "153006",
@@ -5878,8 +5487,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154001",
@@ -5893,8 +5501,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154002",
@@ -5908,8 +5515,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154003",
@@ -5923,8 +5529,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154004",
@@ -5938,8 +5543,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154005",
@@ -5953,8 +5557,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154006",
@@ -5968,8 +5571,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "154007",
@@ -5983,8 +5585,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "155001",
@@ -5998,8 +5599,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "155002",
@@ -6013,8 +5613,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "156001",
@@ -6028,8 +5627,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "157001",
@@ -6043,8 +5641,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "157002",
@@ -6058,8 +5655,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "158001",
@@ -6073,8 +5669,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "158002",
@@ -6088,8 +5683,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "159001",
@@ -6103,8 +5697,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "160001",
@@ -6118,8 +5711,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "160002",
@@ -6133,8 +5725,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "160003",
@@ -6148,8 +5739,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "161001",
@@ -6163,8 +5753,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "162001",
@@ -6178,8 +5767,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "162002",
@@ -6193,8 +5781,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "163001",
@@ -6208,8 +5795,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "163002",
@@ -6223,8 +5809,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "163003",
@@ -6238,8 +5823,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "163004",
@@ -6253,8 +5837,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "164001",
@@ -6268,8 +5851,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "165001",
@@ -6283,8 +5865,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "166001",
@@ -6298,8 +5879,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "167001",
@@ -6313,8 +5893,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "168001",
@@ -6328,8 +5907,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "169001",
@@ -6343,8 +5921,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "170001",
@@ -6358,8 +5935,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "171001",
@@ -6373,8 +5949,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "172001",
@@ -6388,8 +5963,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "172002",
@@ -6403,8 +5977,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "173001",
@@ -6418,8 +5991,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "173002",
@@ -6433,8 +6005,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174001",
@@ -6448,8 +6019,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174002",
@@ -6463,8 +6033,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174003",
@@ -6478,8 +6047,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174004",
@@ -6493,8 +6061,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174005",
@@ -6508,8 +6075,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174006",
@@ -6523,8 +6089,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174007",
@@ -6538,8 +6103,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "174008",
@@ -6553,8 +6117,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "175001",
@@ -6568,8 +6131,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "175002",
@@ -6583,8 +6145,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "176001",
@@ -6598,8 +6159,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "176002",
@@ -6613,8 +6173,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "176003",
@@ -6628,8 +6187,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177001",
@@ -6643,8 +6201,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177002",
@@ -6658,8 +6215,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177003",
@@ -6673,8 +6229,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177004",
@@ -6688,8 +6243,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177005",
@@ -6703,8 +6257,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177006",
@@ -6718,8 +6271,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "177007",
@@ -6733,8 +6285,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "178001",
@@ -6748,8 +6299,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "179001",
@@ -6763,8 +6313,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "179002",
@@ -6778,8 +6327,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "179003",
@@ -6793,8 +6341,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "180001",
@@ -6808,8 +6355,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "180002",
@@ -6823,8 +6369,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         },
         {
             "ind": "180003",
@@ -6838,8 +6383,7 @@
             "artha": "",
             "artha_eng": "",
             "vyutpatti": "",
-            "info": [],
-            "prakriya_notes": []
+            "prakriya_notes": ""
         }
     ]
 }
