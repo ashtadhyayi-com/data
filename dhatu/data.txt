@@ -18998,7 +18998,7 @@
             "aupadeshik": "स्मृ",
             "gana": "1",
             "pada": "P",
-            "settva": "S",
+            "settva": "A",
             "karma": "S",
             "artha": "आध्याने",
             "artha_english": "to remember,to recollect,to think upon,to recite mentally,to memorize",

@@ -3915,7 +3915,7 @@
     "83119": "",
     "84001": "a नकार occurring immediately after ष् or र्  in the same पद is converted to a णकार.",
     "84002": "a नकार occurring after ष् or र् in the same पद is converted to a णकार even when it is separated from the ष् or र्  by one or more letters from the अट् प्रत्याहार, कवर्ग, पवर्ग, आङ् , or अनुस्वार.",
-    "84003": "For अ समस्तपद which defined a संज्ञा, The र् and ष् present in the  पूर्वपद causes the णत्वम् of नकार from the उत्तरपद, as long as there is no गकार in between.",
+    "84003": "For a समस्तपद which is defined as a संज्ञा, The र् and ष् present in the  पूर्वपद causes the णत्वम् of नकार from the उत्तरपद, as long as there is no गकार in between.",
     "84004": "",
     "84005": "",
     "84006": "",
