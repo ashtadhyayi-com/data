@@ -1219,7 +1219,7 @@
             "settva": "S",
             "karma": "A",
             "artha": "अव्यक्ते शब्दे",
-            "artha_english": "to thunder, to road, to make a loud sound",
+            "artha_english": "to thunder, to roar, to make a loud sound",
             "tags": "उदात्तोपदेशः",
             "dhaturoopnandini": "54",
             "sk": "54",
