@@ -1250,7 +1250,7 @@
     "34116": "The प्रत्ययs of आशीर्लिङ्-लकार are termed आर्धधातुक.",
     "34117": "",
     "41001": "This is an अधिकार, and all the प्रत्ययाः told in this अधिकार are to be applied to ङ्यन्त, आबन्त and प्रातिपदिक words.",
-    "41002": "The प्रत्ययाः - सुँ-औ-जस्-अम्-औट्-शस्-टा-भ्याम्-भिस्-ङे-भ्याम्-भ्यस्-ङसिँ-भ्याम्-भ्यस्-ङस्-ओस्-आम्-ङि-ओस्-सुप् get attached to a ङ्यन्त, आबन्त and a प्रातिपदिकान्त.",
+    "41002": "The प्रत्ययाः - सुँ-औ-जस्-अम्-औट्-शस्-टा-भ्याम्-भिस्-ङे-भ्याम्-भ्यस्-ङसिँ-भ्याम्-भ्यस्-ङस्-ओस्-आम्-ङि-ओस्-सुप् get attached to a word that ends in ङीप्/ङीष्/ङीन्/टाप्/डाप्/चाप् pratyay, or is a प्रातिपदिक.",
     "41003": "This is an अधिकार which spans from the current sutra till (and just before) । समर्थानां प्रथमाद् वा' 4.1.82.",
     "41004": "To indicate the feminine property, the अकारान्त words and the words belonging to the अजादिगण get the प्रत्यय टाप्.\n",
     "41005": "To indicate the feminine property, the ऋकारान्त and the नकारान्त words get the ङीप्-प्रत्यय.\n",
