@@ -1254,7 +1254,7 @@
     "41003": "This is an अधिकार which spans from the current sutra till (and just before) । समर्थानां प्रथमाद् वा' 4.1.82.",
     "41004": "To indicate the feminine property, the अकारान्त words and the words belonging to the अजादिगण get the प्रत्यय टाप्.\n",
     "41005": "To indicate the feminine property, the ऋकारान्त and the नकारान्त words get the ङीप्-प्रत्यय.\n",
-    "41006": "",
+    "41006": "प्रातिपदिकानि which end with इत्संज्ञक उक् letter get the ङीप्-प्रत्यय to indicate the feminine property.",
     "41007": "",
     "41008": "",
     "41009": "",
