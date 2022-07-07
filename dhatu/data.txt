@@ -21920,7 +21920,7 @@
             "gana": "1",
             "pada": "U",
             "settva": "A",
-            "karma": "D",
+            "karma": "S",
             "artha": "धारणे",
             "artha_english": "to wear, to support,to possess, to hold",
             "tags": "अनुदात्तोपदेशः",
