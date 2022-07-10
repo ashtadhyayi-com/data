@@ -24534,7 +24534,7 @@
             "gana": "1",
             "pada": "U",
             "settva": "S",
-            "karma": "A",
+            "karma": "S",
             "artha": "समवाये",
             "artha_english": "to understand clearly, to be related, to be connected, to carry germs",
             "tags": "उदात्तोपदेशः",
