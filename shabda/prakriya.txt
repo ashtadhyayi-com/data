@@ -37272,7 +37272,7 @@
         "form": "स्त्रीभ्याम्",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "3",
+        "vibhakti": "4",
         "vachan": "2",
         "steps": [
             {
@@ -37352,7 +37352,7 @@
         "form": "स्त्रीभ्याम्",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "3",
+        "vibhakti": "5",
         "vachan": "2",
         "steps": [
             {
@@ -37365,7 +37365,7 @@
         "form": "स्त्रीभ्यः",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "4",
+        "vibhakti": "5",
         "vachan": "3",
         "steps": [
             {
@@ -37386,7 +37386,7 @@
         "form": "स्त्रियाः",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "5",
+        "vibhakti": "6",
         "vachan": "1",
         "steps": [
 			{
@@ -37530,7 +37530,7 @@
         "form": "स्त्रियोः",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "6",
+        "vibhakti": "7",
         "vachan": "2",
         "steps": [
             {
@@ -37607,7 +37607,7 @@
         "form": "हे स्त्रियौ",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "1",
+        "vibhakti": "8",
         "vachan": "2",
         "steps": [
             {
@@ -37626,7 +37626,7 @@
         "form": "हे स्त्रियः",
         "baseindex": "16.012",
         "word": "स्त्री",
-        "vibhakti": "1",
+        "vibhakti": "8",
         "vachan": "3",
         "steps": [
 			{
@@ -45271,7 +45271,7 @@
                 ]
             },
             {
-                "step": "वारिन्+ई",
+                "step": "दधिन्+ई",
                 "sutras": [
                     "7.1.73"
                 ]
