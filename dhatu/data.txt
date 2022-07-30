@@ -46858,7 +46858,7 @@
             "settva": "S",
             "karma": "S",
             "artha": "उपसेवायाम्",
-            "artha_english": "to make someone stay, to make something fragranant, to burn incense sticks",
+            "artha_english": "to make someone stay, to make something fragrant, to burn incense sticks",
             "tags": "उदात्तोपदेशः",
             "dhaturoopnandini": "1885",
             "sk": "1885",
