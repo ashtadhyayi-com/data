@@ -117,7 +117,7 @@
             "karma": "S",
             "karma_note": "'प्रतिष्ठा' इत्यर्थे तु अकर्मकः ।",
             "artha": "प्रतिष्ठालिप्सयोर्ग्रन्थे च",
-            "artha_english": "to praise onself, to desire, to tie together, to string together, to seek, to stay together, to stand firmly, to compile",
+            "artha_english": "to praise oneself, to desire, to tie together, to string together, to seek, to stay together, to stand firmly, to compile",
             "tags": "उदात्तोपदेशः",
             "dhaturoopnandini": "4",
             "sk": "4",
