@@ -2483,7 +2483,7 @@
     "61042": "The semi-vowel of ज्या 'to grow old' is not vocalised when the affix ल्यप् follows.",
     "61043": "The semi-vowel of व्या (व्ये) 'to cover' is not vocalised when the affix ल्यप् follows.",
     "61044": "The vocalisation may optionally take place when व्ये preceded by परि takes the affix ल्यप्।",
-    "61045": "In a root, which is the system of grammatical instruction (i.e. the धातुपाठ), ends with a diphthong (ए , ऐ , ओ, औ), there is the substitution of आ for the diphthong, provided that no affix with an indicatory श् follows it.",
+    "61045": "In a root, which in the system of grammatical instruction (i.e. the धातुपाठ), ends with a diphthong (ए , ऐ , ओ, औ), there is the substitution of आ for the diphthong, provided that no affix with an indicatory श् follows it.",
     "61046": "There is not the substitution of आ for the diphthong of the root व्ये when the affixes of the Perfect follow.",
     "61047": "In the roots स्फुर् and स्फुल् 'to move', there is the substitution of the आ for the diphthong when the affix घञ् follows.",
     "61048": "The substitution of आ for the diphthong takes place in the causatives of the roots क्री 'to buy, to purchase', इ 'to study' and जि 'to conquer'.",
