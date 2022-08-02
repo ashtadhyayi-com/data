@@ -3707,7 +3707,7 @@
     "82018": "For the र् of the root कृप् there is substituted ल्।",
     "82019": "ल् is substituted for the र् of a preposition when अयते follows.",
     "82020": "ल् is substituted for the र् of गॄ in the intensive.",
-    "82021": "ल् is optionally changed to ल् before an affix beginning with a vowel.",
+    "82021": "र् is optionally changed to ल् before an affix beginning with a vowel.",
     "82022": "The र् of परि is changed to ल् before घ and अङ्क।",
     "82023": "When a word ends in a double consonant the last consonant is dropped.",
     "82024": "Of a word ending in a conjunct consonant, only स् is elided if it comes after र् (but any other consonant coming after र् is not elided).",
