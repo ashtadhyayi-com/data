@@ -69558,7 +69558,7 @@
             "a": "7",
             "p": "2",
             "n": "34",
-            "s": "ग्रसितस्कभितस्तभितोत्तभितचत्तविकस्तविशस्तृशंस्तृशास्तृतरुतृतरूतृवरुतृवरूतृवरुत्रीरुज्ज्वलितिक्षरितिक्षमितिवमित्यमितीति च",
+            "s": "ग्रसितस्कभितस्तभितोत्तभितचत्तविकस्तविशस्तृशंस्तृशास्तृतरुतृतरूतृवरुतृवरूतृवरूत्रीरुज्ज्वलितिक्षरितिक्षमितिवमित्यमितीति च",
             "e": "grasitaskabhitastabhitottabhitachattavikastavishastrushamstrushaastrutarutrutarootruvarutruvarootruvarutreerujjvalitiksharitikshamitivamityamiteeticha",
             "skn": "3582",
             "lskn": "0",
