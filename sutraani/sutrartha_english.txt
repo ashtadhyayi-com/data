@@ -74,7 +74,7 @@
     "11073": "A word whose first स्वर is वृद्धि is called 'वृद्ध'.",
     "11074": "The words of the त्यदादिगण are called  'वृद्ध'.",
     "11075": "A word that represent the name of an eastern country and whose first स्वर is ए or ओ is called  'वृद्ध'.",
-    "12001": "The non-ञित् and non-णित्  प्रत्ययाः attached to the - (1) the 'गाङ्' आदेश (that happens to the धातु 'इङ् गतौ'), and (2) the verbs of the कुटादिगण (an अन्तर्गण of तुदादिगण) - behave as if they are ङित्.",
+    "12001": "The non-ञित् and non-णित्  प्रत्ययाः attached to the - (1) the 'गाङ्' आदेश (that happens to the धातु 'इङ् अध्ययने'), and (2) the verbs of the कुटादिगण (an अन्तर्गण of तुदादिगण) - behave as if they are ङित्.",
     "12002": "A प्रत्यय that gets an इडागम is considered ङित् when attached to the dhatu 'विज्'.",
     "12003": "",
     "12004": "An अपित् सार्वधातुकप्रत्ययः behaves like a ङित् प्रत्यय. ",

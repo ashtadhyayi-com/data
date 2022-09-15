@@ -29384,7 +29384,7 @@
             "gana": "4",
             "pada": "P",
             "settva": "V",
-            "karma": "S",
+            "karma": "A",
             "artha": "वैचित्त्ये",
             "artha_english": "to lose senses,to faint, to be foolish, to err",
             "tags": "उदात्तोपदेशः",
