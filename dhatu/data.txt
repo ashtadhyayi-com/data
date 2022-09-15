@@ -46025,7 +46025,7 @@
             "settva": "S",
             "karma": "S",
             "artha": "शौचालङ्कारयोः",
-            "artha_english": "to cleanse, to purify, to washm to decorate",
+            "artha_english": "to cleanse, to purify, to  to decorate",
             "tags": "उदात्तोपदेशः",
             "dhaturoopnandini": "1849",
             "sk": "1849",
