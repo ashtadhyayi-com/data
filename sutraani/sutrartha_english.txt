@@ -167,7 +167,7 @@
     "13018": "When any of the उपसर्गs - परि, वि, अव - is attached to the verb 'क्री', it gets the प्रत्ययाः of आत्मनेपद.\n",
     "13019": "When any of the उपसर्गs -  वि or  परा - is attached to the verb 'जि', it gets the प्रत्ययाः of आत्मनेपद.",
     "13020": "When the उपसर्ग आङ् is attached to the verb 'दा'; it gets the प्रत्ययाः of आत्मनेपद, provided that the  meaning is something other than 'opening the mouth'.",
-    "13021": "When any of the उपसर्गs - आङ् , अनु or सम - is attached to the verb 'क्रीड्', it gets the प्रत्ययाः of आत्मनेपद.",
+    "13021": "When any of the उपसर्गs - आङ् , अनु, सम or परि - is attached to the verb 'क्रीड्', it gets the प्रत्ययाः of आत्मनेपद.",
     "13022": "When any of the उपसर्गs - सम् , अव, प्र, वि - is attached to the verb 'स्था', it gets the प्रत्ययाः of आत्मनेपद.\n",
     "13023": "The verb स्था gets the प्रत्ययाः of आत्मनेपद when used in the meaning of - (a) Clearing explaining own opinion, and (b) Putting and end to a question / debate.",
     "13024": "When the उपसर्ग 'उत्' is attached to the verb 'स्था', it gets the प्रत्ययाः of आत्मनेपद, provided that the meaning is not 'moving upwards / standing up'.\n",
