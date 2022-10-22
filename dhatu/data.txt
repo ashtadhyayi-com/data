@@ -23178,7 +23178,7 @@
             "sk": "946",
             "lsk_sutra": "",
             "sk_sutra": "2387",
-            "artha_hindi": "जीतना, पराभव करना, ",
+            "artha_hindi": "जीतना, पराभव करना",
             "upasargas": [
                 {
                     "name": "वि",
