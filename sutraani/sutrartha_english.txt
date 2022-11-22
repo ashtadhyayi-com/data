@@ -2546,7 +2546,7 @@
     "61106": "The पूर्वसवर्णदीर्घनिषेध given by the sutra 'दीर्घाज्जसि च' is optional while deriving the Vedic forms. ",
     "61107": "When a letter from the अक् प्रत्याहार is followed अकार of the अम्-प्रत्यय, both the letters are combined to form a पूर्वरूप-एकादेश. ",
     "61108": "When a letter having the sanjna सम्प्रसारण is followed by an अच् letter, both of them are combined to form a पूर्वरूप-एकादेश.",
-    "61109": "If a पदान्त ए / ओ letter is followed by a ह्रस्व अकार, then both of them combined to form a पूर्वरूप एकादेश.",
+    "61109": "If a पदान्त ए / ओ letter is followed by a ह्रस्व अकार, then both of them combine to form a पूर्वरूप एकादेश.",
     "61110": "If an एकार or ओकार is followed by the अकार of ङसिँ or ङस् प्रत्यय,  then both of them combined to form a पूर्वरूप एकादेश.",
     "61111": "If a ऋकार or ऌकार is followed by the अकार of  ङसिँ or ङस् प्रत्यय,  then both of them combined to form an उकार.",
     "61112": "The अकार of the  ङसिँ/ङस् प्रत्यय following a 'ख्य्' / 'त्य्' is converted to उकार.",
