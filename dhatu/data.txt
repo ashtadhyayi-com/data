@@ -26695,7 +26695,7 @@
             "gana": "2",
             "pada": "A",
             "settva": "A",
-            "karma": "A",
+            "karma": "S",
             "artha": "अपनयने",
             "artha_english": "to hide, to conceal,to take away,to deny",
             "tags": "अनुदात्तोपदेशः",
