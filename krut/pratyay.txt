@@ -778,8 +778,8 @@
 },
 {
     "id": "87",
-    "pratyay": "तवे",
-    "drushyaroopam": "तवे",
+    "pratyay": "तवै",
+    "drushyaroopam": "तवै",
     "dhatu_baseindex": "",
     "it1": "",
     "it2": "",

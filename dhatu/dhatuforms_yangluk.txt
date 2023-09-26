@@ -1,0 +1,24 @@
+{
+  "01.0001": {
+        "plat": "बोभवीति,बोभोति;बोभूतः;बोभूवति;बोभवीषि,बोभोषि;बोभूथः;बोभूथ;बोभवीमि,बोभोमि;बोभूवः;बोभूमः",
+        "alat": "",
+        "plit": "",
+        "alit": "",
+        "plut": "",
+        "alut": "",
+        "plrut": "",
+        "alrut": "",
+        "plot": "",
+        "alot": "",
+        "plang": "",
+        "alang": "",
+        "pvidhiling": "",
+        "avidhiling": "",
+        "pashirling": "",
+        "aashirling": "",
+        "plung": "",
+        "alung": "",
+        "plrung": "",
+        "alrung": ""
+    }
+}
