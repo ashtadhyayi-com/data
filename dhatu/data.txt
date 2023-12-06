@@ -16151,7 +16151,7 @@
             "aupadeshik": "शिषँ",
             "gana": "1",
             "pada": "P",
-            "settva": "S",
+            "settva": "A",
             "karma": "S",
             "artha": "हिंसायाम्",
             "artha_english": "to kill, to destroy, to hurt",
