@@ -3930,7 +3930,7 @@
     "84015": "The  नकार associated with the forms of the verbs  हि and  मी is converted to णकार in presence of a रेफयुक्त उपसर्ग.",
     "84016": "A रेफ present in an  उपसर्ग causes the णत्व of  नकार of the  'आनि' प्रत्यय of लोट्-लकार.",
     "84017": "A णत्वनिमित्तक उपसर्ग causes the  णत्व of the उपसर्ग 'नि' attached to the following verbs -  गद्, नद्, पत्, पद्, मा, सो, हन्, या, वा, द्रा, प्सा, वप्, वह्, शप्, चि, दिह् , and also for घुसंज्ञक verbs.",
-    "84018": "A णत्वनिमित्तक उपसर्ग causes an optional णत्व of the उपसर्ग 'नि' attached to the verbs that are not ककारादि, not खकारादि, not षकारान्त and not mentioned in <<नेर्गदनद..>> [[8.4.16]] sutra.\r\n",
+    "84018": "A णत्वनिमित्तक उपसर्ग causes an optional णत्व of the उपसर्ग 'नि' attached to the verbs that are not ककारादि, not खकारादि, not षकारान्त and not mentioned in <<नेर्गदनद..>> [[8.4.16]] sutra.\n",
     "84019": "The नकार of the verb 'अन् (प्राणने)' becomes णकार when the verb is used along with an उपसर्ग that could cause the णत्व to happen (like प्र or परा). ",
     "84020": "When the verb अन् (प्राणने) is used along with a रेफ/षकारयुक्त उपसर्ग (like प्र or परा), its नकार becomes णकार when it appears at the end of a पद.\n",
     "84021": "When the verb अन् (प्राणने) is used along with a रेफ/षकारयुक्त उपसर्ग (like प्र or परा), and when such a verb undergoes a द्वित्व, then both of the नकारs become णकार.",
