@@ -3551,6 +3551,12 @@
                 "num": "85",
                 "text": "घनं दृष्ट्वा शिखण्डी मोदते यथा",
                 "external": ""
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.12",
+                "text": "शोकातिगो मोदते स्वर्गलोके",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "alit_1_1_मुमुदे": [
@@ -3599,6 +3605,12 @@
                 "num": "6.43",
                 "text": "यतते च ततो भूयः संसिद्धौ कुरुनन्दन",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=6&field_nsutra_value=43"
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "3.2.4",
+                "text": "एतैरुपायैर्यतते यस्तु विद्वान्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C03_S02"
             }
         ],
         "avidhiling_1_1_यतेत": [
@@ -4509,7 +4521,16 @@
     "01.0202": {},
     "01.0203": {},
     "01.0204": {},
-    "01.0205": {},
+    "01.0205": {
+        "alat_1_1_भ्राजते": [
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "3",
+                "text": "विभ्राजते यद्यतयो विशन्ति",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
+            }
+        ]
+    },
     "01.0206": {
         "alat_3_1_रेजे": [
             {
@@ -4714,6 +4735,12 @@
                 "num": "59",
                 "text": "धनकणान् वाञछन्ति तेभ्योऽपि ये",
                 "external": ""
+            },
+            {
+                "book": "केनोपनिषद्",
+                "num": "4.6",
+                "text": "सर्वाणि भूतानि संवाञ्छन्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C04"
             }
         ],
         "plat_1_1_वाञ्छति": [
@@ -4908,7 +4935,16 @@
     "01.0264": {},
     "01.0265": {},
     "01.0266": {},
-    "01.0267": {},
+    "01.0267": {
+        "plat_1_1_एजति": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.3.2",
+                "text": "प्राण एजति निःसृतम्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "01.0268": {},
     "01.0269": {},
     "01.0270": {},
@@ -5441,6 +5477,14 @@
                 "num": "23.20",
                 "text": "यथार्हमजपन् सन्ध्यामृषयस्ते समाहिताः",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=23&field_sloka_value=20&"
+            }
+        ],
+        "pvidhiling_1_1_जपेत्": [
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "24",
+                "text": "अत्याश्रमी सर्वदा सकृद्वा जपेत्",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
             }
         ]
     },
@@ -7343,6 +7387,14 @@
                 "text": "समाश्वसनेन अयं जीवेत् ।",
                 "external": ""
             }
+        ],
+        "plrut_3_3_जीविष्यामः": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.27",
+                "text": "जीविष्यामो यावदीशिष्यसि त्वं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "01.0644": {},
@@ -7441,6 +7493,12 @@
                 "num": "1.31",
                 "text": "धावति पश्चादसंस्तुतं चेतः।",
                 "external": ""
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.1.14",
+                "text": "धर्मान्पृथक्पश्यन् तानेवानुविधावति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plat_1_3_धावन्ति": [
@@ -11087,7 +11145,16 @@
         ]
     },
     "01.0864": {},
-    "01.0865": {},
+    "01.0865": {
+        "alat_1_3_स्यन्दन्ते": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.1.9",
+                "text": "अस्मात्स्यन्दन्ते सिन्धवः सर्वरूपाः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
+            }
+        ]
+    },
     "01.0866": {
         "alat_1_1_कल्पते": [
             {
@@ -13383,6 +13450,14 @@
                 "text": "रेमे सुहुर्मध्यगता सखीनाम्",
                 "external": ""
             }
+        ],
+        "avidhiling_1_1_रमेत": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.28",
+                "text": "अतिदीर्घे जीविते को रमेत",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "01.0990": {
@@ -13779,6 +13854,12 @@
                 "num": "4.30",
                 "text": "महानुभावं चरितं निबोधत",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=4&field_sloka_value=30&"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.3.14",
+                "text": "प्राप्य वरान्निबोधत",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -15848,6 +15929,14 @@
                 "text": "सूनोरनुध्यायत चेतसेति।",
                 "external": ""
             }
+        ],
+        "plat_2_3_ध्यायथ": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.2.6",
+                "text": "ओमित्येवं ध्यायथ आत्मानं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S02"
+            }
         ]
     },
     "01.1057": {},
@@ -16824,6 +16913,12 @@
                 "num": "60.8",
                 "text": "प्रवर्त्यतां यज्ञ स्सर्वे समधितिष्ठत",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=60&field_sloka_value=7&"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.3.14",
+                "text": "उत्तिष्ठत जाग्रत",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plot_1_1_तिष्ठतु": [
@@ -17048,6 +17143,12 @@
                 "num": "6.31",
                 "text": "भवत्प्रणीतमाचारमामनन्ति हि",
                 "external": ""
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.15",
+                "text": "सर्वे वेदा यत्पदमामनन्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -17574,6 +17675,14 @@
                 "num": "",
                 "text": "प्रसीद प्रयच्छतामस्य प्राणान् ।",
                 "external": ""
+            }
+        ],
+        "pvidhiling_1_1_यच्छेत्": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.3.13",
+                "text": "यच्छेद्वाङ्भनसी प्राज्ञः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -18284,6 +18393,12 @@
                 "num": "15.23",
                 "text": "तमुपाद्रवदुद्यम्य।",
                 "external": ""
+            },
+            {
+                "book": "केनोपनिषद्",
+                "num": "3.4",
+                "text": "तदभ्यद्रवत्तमभ्यवदत्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C03"
             }
         ],
         "plit_1_1_दुद्राव": [
@@ -18313,7 +18428,16 @@
     "01.1103": {},
     "01.1104": {},
     "01.1107": {},
-    "01.1108": {},
+    "01.1108": {
+        "alat_1_3_च्यवन्ते": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "1.2.9",
+                "text": "तेनातुराः क्षीणलोकाश्च्यवन्ते",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C01_S02"
+            }
+        ]
+    },
     "01.1109": {},
     "01.1110": {},
     "01.1111": {},
@@ -18443,7 +18567,16 @@
             }
         ]
     },
-    "01.1121": {},
+    "01.1121": {
+        "alat_1_1_पवते": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.1.6",
+                "text": "सोमो यत्र पवते यत्र सूर्यः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
+            }
+        ]
+    },
     "01.1122": {},
     "01.1123": {},
     "01.1124": {
@@ -18583,6 +18716,14 @@
                 "num": "14.81",
                 "text": "निवासहेतोरुटजं वितेरुः।",
                 "external": ""
+            }
+        ],
+        "plat_1_1_तरति": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "3.2.9",
+                "text": "तरति शोकं तरति पाप्मानं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C03_S02"
             }
         ]
     },
@@ -19018,6 +19159,14 @@
                 "num": "13.74",
                 "text": "शैलाधिरोहणसुखान्युपलेभिरे ते।",
                 "external": ""
+            }
+        ],
+        "alrut_3_3_लप्स्यामहे": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.27",
+                "text": "लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -23476,6 +23625,14 @@
                 "text": "तच्च प्रविश्याद्राक्षीत्।",
                 "external": ""
             }
+        ],
+        "plung_3_3_अद्राक्ष्म": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.27",
+                "text": "लप्स्यामहे वित्तमद्राक्ष्म चेत्त्वा",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "01.1144": {
@@ -23729,6 +23886,14 @@
                 "num": "2.7",
                 "text": "तदन्यतेजोऽभिभवाद्दहन्ति।",
                 "external": ""
+            }
+        ],
+        "pvidhiling_3_1_दहेयम्": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "3.5",
+                "text": "अपीदꣳसर्वं दहेयं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C03"
             }
         ]
     },
@@ -24900,6 +25065,14 @@
                 "text": "हृदये वससीति मत्प्रियम्",
                 "external": ""
             }
+        ],
+        "plung_2_1_अवात्सीः": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.9",
+                "text": "तिस्त्रो रात्रीर्यदवात्सीर्गृहे मे",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "01.1161": {},
@@ -25224,6 +25397,14 @@
                 "text": "परामृशन्ती विलासवती तमवादीत् ।",
                 "external": ""
             }
+        ],
+        "pvidhiling_2_3_वदेत": [
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "1.1.2",
+                "text": "अथर्वणे यां प्रवदेत ब्रह्मा",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C01"
+            }
         ]
     },
     "01.1165": {},
@@ -25235,6 +25416,12 @@
                 "num": "21",
                 "text": "किं जीर्णं तृणमत्ति",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "3.1.1",
+                "text": "तयोरन्यः  पिप्पलं स्वाद्वत्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C03_S01"
             }
         ]
     },
@@ -25857,6 +26044,12 @@
                 "num": "58.115",
                 "text": "निहतं च महत्सैन्यं रावणायाचचक्षिरे",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=58&field_sloka_value=115&"
+            },
+            {
+                "book": "केनोपनिषद्",
+                "num": "1.4",
+                "text": "ये नस्तद् व्याचचक्षिरे",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C01"
             }
         ],
         "plung_1_1_अख्यत्": [
@@ -26126,7 +26319,16 @@
             }
         ]
     },
-    "02.0023": {},
+    "02.0023": {
+        "alat_1_1_वृङ्क्ते": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.8",
+                "text": "एतद् वृङ्क्ते पुरुषस्याल्पमेधसः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "02.0024": {},
     "02.0025": {
         "alat_1_1_सूते": [
@@ -26333,6 +26535,14 @@
                 "num": "5.12",
                 "text": "अशेत सा बाहुलतोपधायिनी",
                 "external": ""
+            }
+        ],
+        "alut_1_1_शयिता": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.11",
+                "text": "सुखꣳरात्रीः शयिता वीतमन्युः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -29527,6 +29737,14 @@
                 "text": "यदवोचस्तदवैमि कैतवम्",
                 "external": ""
             }
+        ],
+        "plang_3_3_अब्रूम": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "4.7",
+                "text": "ब्राह्मीं वाव  त उपनिषदमब्रूमेति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C04"
+            }
         ]
     },
     "02.0040": {
@@ -29832,6 +30050,18 @@
                 "num": "2.33",
                 "text": "परान् नोद्यन्ति मानिनः",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "1.2.7",
+                "text": "जरामृत्युं ते पुनरेवापि यन्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C01_S02"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.1.2",
+                "text": "पराचः कामाननुयन्ति बालाः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plit_1_3_ईयुः": [
@@ -30297,9 +30527,34 @@
                 "text": "मनसा यत्नः समाधीयताम्",
                 "external": ""
             }
+        ],
+        "alat_1_1_अधीते": [
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "24",
+                "text": "यः शतरुद्रीयम् अधीते सोऽग्निपूतो",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
+            }
         ]
     },
-    "02.0042": {},
+    "02.0042": {
+        "plot_2_1_अधीहि": [
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "1",
+                "text": "अधीहि भगवो ब्रह्मविद्यां वरिष्ठां",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
+            }
+        ],
+        "plat_2_1_अध्येषि": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.13",
+                "text": "स त्वमग्निꣳ स्वर्ग्यमध्येषि मृत्यो",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "02.0043": {},
     "02.0044": {
         "plrut_1_1_यास्यति": [
@@ -31562,6 +31817,12 @@
                 "num": "6.54",
                 "text": "अतर्कितोपपन्नं वो दर्शनं प्रिभाति मे",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.2.11",
+                "text": "न तत्र सूर्यो भाति न चन्द्रतारकं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
             }
         ],
         "plit_1_1_बभौ": [
@@ -31788,6 +32049,12 @@
                 "num": "13.52",
                 "text": "निवातनिष्कम्पतया विभान्ति।",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.2.11",
+                "text": "नेमा विद्युतो भान्ति कुतोऽयमग्निः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
             }
         ],
         "plat_2_1_भासि": [
@@ -33560,6 +33827,38 @@
                 "num": "6.30",
                 "text": "तेन योजितसम्बन्धं वित्त",
                 "external": ""
+            }
+        ],
+        "plung_1_1_अवेदीत्": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "2.5",
+                "text": "न चेदिहावेदीन्महती विनष्टिः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C02"
+            }
+        ],
+        "plit_1_1_विदाञ्चकार": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "4.1",
+                "text": "ततो हैव विदाञ्चकार ब्रह्मेति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C04"
+            }
+        ],
+        "pvidhiling_1_3_विद्युः": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.7",
+                "text": "श्रृण्वन्तोऽपि बहवो यं न विद्युः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ],
+        "pvidhiling_1_1_विद्यात्": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.3.17",
+                "text": "तं विद्याच्छुक्रममृतं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -36836,6 +37135,12 @@
                 "num": "",
                 "text": "लवणरसपरुषपयस्युदन्वति स्वपिति।",
                 "external": ""
+            },
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "14",
+                "text": "स एव जीवः स्वपिति प्रबुद्धः",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
             }
         ],
         "plat_2_1_स्वपिषि": [
@@ -37066,6 +37371,14 @@
                 "num": "15.79",
                 "text": "स्ववृत्ते लोकमित्यशात्।",
                 "external": ""
+            }
+        ],
+        "pvidhiling_1_1_शिष्यात्": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "1.3",
+                "text": "न विद्मो न विजानीमः",
+                "external": "यथैतदनुशिष्यात्"
             }
         ]
     },
@@ -41905,6 +42218,12 @@
                 "num": "1.51",
                 "text": "अद्रिः सुतां ग्राहयितुं शशाक",
                 "external": ""
+            },
+            {
+                "book": "केनोपनिषद्",
+                "num": "3.6",
+                "text": "तन्न शशाक दग्धुं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C03"
             }
         ],
         "alat_1_1_शक्यते": [
@@ -42713,6 +43032,14 @@
                 "text": "तपः प्रत्यहं संचिनोति।",
                 "external": ""
             }
+        ],
+        "alat_1_1_चिनुते": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.18",
+                "text": "य एवं विद्वाꣳश्चिनुते नाचिकेतम्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "05.0006": {
@@ -42780,6 +43107,12 @@
                 "num": "6.78",
                 "text": "वृणुते वरदः शम्भुरस्मत्सङ्क्रमितैः",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "3.2.3",
+                "text": "तस्यैष आत्मा विवृणुते तनुं स्वाम्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C03_S02"
             }
         ],
         "plit_1_3_वव्रुः": [
@@ -43665,6 +43998,18 @@
                 "num": "13.37",
                 "text": "समश्नुते मे लघिमानमात्मा।",
                 "external": ""
+            },
+            {
+                "book": "कैवल्योपनिषद्",
+                "num": "25",
+                "text": "कैवल्यं फलमश्नुते",
+                "external": "https://sanskritdocuments.org/doc_upanishhat/kaivalya.html"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.3.14",
+                "text": "अत्र ब्रह्म समश्नुते",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "alit_1_1_आनशे": [
@@ -44356,7 +44701,16 @@
     "06.0070": {},
     "06.0071": {},
     "06.0072": {},
-    "06.0073": {},
+    "06.0073": {
+        "pvidhiling_1_1_वृहेत्": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.3.17",
+                "text": "तं स्वाच्छरीरात्प्रवृहेत्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "06.0074": {},
     "06.0075": {},
     "06.0076": {},
@@ -45106,6 +45460,12 @@
                 "num": "12.2",
                 "text": "ध्रुवं हि सीता म्रियते यथा न मे",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=12&field_sloka_value=2&"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.18",
+                "text": "न जायते म्रियते वा विपश्चिद्",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plit_1_1_ममार": [
@@ -45159,6 +45519,12 @@
                 "num": "90",
                 "text": "ममन्दं सौन्दर्यप्रकरमकरन्दं विकिरति",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.1.10",
+                "text": "सोऽविद्याग्रन्थिं विकिरतीह सोम्य",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
             }
         ],
         "plrut_1_3_करिष्यन्ति": [
@@ -45434,6 +45800,14 @@
                 "text": "वानरं दृष्ट्वा पप्रच्छुर्जनकात्मजाम्",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=5&language=dv&field_sarga_value=42&field_sloka_value=5&"
             }
+        ],
+        "plung_2_1_अप्राक्षीः": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.25",
+                "text": "नचिकेतो मरणं मानुप्राक्षीः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "06.0150": {
@@ -45643,6 +46017,12 @@
                 "num": "1.92",
                 "text": "भयं किञ्चिन्नाप्सु मज्जन्ति जन्तवः",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=1&field_sloka_value=92&"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.3",
+                "text": "यस्यां मज्जन्ति बहवो मनुष्याः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plang_1_3_अमज्जन्": [
@@ -46247,6 +46627,12 @@
                 "num": "5.30",
                 "text": "विवेश कश्चिज्जटिलस्तपोवनम्",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "3.1.9",
+                "text": "यस्मिन्प्राणः पञ्चधा संविवेश",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C03_S01"
             }
         ],
         "plit_1_3_विविशुः": [
@@ -46995,6 +47381,12 @@
                 "num": "5.4",
                 "text": "एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्",
                 "external": "https://www.gitasupersite.iitk.ac.in/srimad?language=dv&field_chapter_value=5&field_nsutra_value=4"
+            },
+            {
+                "book": "केनोपनिषद्",
+                "num": "2.4",
+                "text": "आत्मना विन्दते वीर्यं",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C02"
             }
         ],
         "plat_1_1_विन्दति": [
@@ -47057,6 +47449,12 @@
                 "num": "",
                 "text": "विषलतावनं सिञ्चति ।",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "2.1.5",
+                "text": "पुमान्रेतः सिञ्चति योषितायां",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
             }
         ],
         "alang_1_1_असिञ्चत": [
@@ -47408,7 +47806,16 @@
         ]
     },
     "07.0004": {},
-    "07.0005": {},
+    "07.0005": {
+        "plat_1_1_विनक्ति": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.2",
+                "text": "तौ सम्परीत्य विविनक्ति धीरः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "07.0006": {},
     "07.0007": {
         "plrut_1_1_योक्ष्यति": [
@@ -47556,10 +47963,27 @@
                 "text": "तवाक्षिसादृश्यमिव प्रयुञ्जते",
                 "external": ""
             }
+        ],
+        "plat_1_1_युनक्ति": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "1.1",
+                "text": "चक्षुः श्रोत्रं क उ देवो युनक्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C01"
+            }
         ]
     },
     "07.0008": {},
-    "07.0009": {},
+    "07.0009": {
+        "plang_1_1_अतृणत्": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "2.1.1",
+                "text": "पराञ्चि खानि व्यतृणत् स्वयम्भूः",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ]
+    },
     "07.0010": {},
     "07.0011": {},
     "07.0012": {},
@@ -47815,6 +48239,14 @@
                 "text": "नगरपरिघप्रांशुबाहुर्भुनक्ति।",
                 "external": ""
             }
+        ],
+        "plot_1_1_भुनक्तु": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "शान्तिपाठः",
+                "text": "सह नौ भुनक्तु।",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "07.0018": {},
@@ -47825,6 +48257,12 @@
                 "num": "2.51",
                 "text": "अखिलं हि हिनस्ति भूधरम्",
                 "external": ""
+            },
+            {
+                "book": "मुण्डकोपनिषद्",
+                "num": "1.2.3",
+                "text": "आसप्तमांस्तस्य लोकान्हिनस्ति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C01_S02"
             }
         ],
         "pvidhiling_1_3_हिंस्युः": [
@@ -50321,6 +50759,14 @@
                 "text": "तं चेत्सहस्रकिरणो धुरि नाकरिष्यत्।",
                 "external": ""
             }
+        ],
+        "alot_3_2_करवावहै": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "शान्तिपाठः",
+                "text": "सह वीर्यं करवावहै",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
         ]
     },
     "09.0001": {
@@ -50442,6 +50888,12 @@
                 "num": "33.3",
                 "text": "पितरं नो वृणीष्व त्वं यदि नो दास्यते",
                 "external": "https://www.valmiki.iitk.ac.in/content?field_kanda_tid=1&language=dv&field_sarga_value=33&field_sloka_value=3&"
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.9",
+                "text": "तस्मात्प्रति त्रीन्वरान्वृणीष्व",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "avidhiling_1_1_वृणीत": [
@@ -50450,6 +50902,22 @@
                 "num": "6.68",
                 "text": "वृणीत मां नेति समाकुलोऽभूत्।",
                 "external": ""
+            }
+        ],
+        "alat_3_1_वृणे": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.1.10",
+                "text": "एतत् त्रयाणां प्रथमं वरं वृणे",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
+            }
+        ],
+        "alat_1_1_वृणीते": [
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.2",
+                "text": "प्रेयो मन्दो योगक्षेमाद्वृणीते",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ]
     },
@@ -50931,6 +51399,14 @@
                 "num": "",
                 "text": "इति सर्वमेव नाज्ञासिषम् ।",
                 "external": ""
+            }
+        ],
+        "plit_1_1_जज्ञौ": [
+            {
+                "book": "केनोपनिषद्",
+                "num": "3.2",
+                "text": "तद्धैषां विजज्ञौ",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kena_pada#KP_C03"
             }
         ]
     },
@@ -56606,6 +57082,12 @@
                 "num": "1.9",
                 "text": "सूक्ष्मं व्रजति सहसा तद्विपुलताम्।",
                 "external": ""
+            },
+            {
+                "book": "कठोपनिषद्",
+                "num": "1.2.21",
+                "text": "आसीनो दूरं व्रजति",
+                "external": "https://advaitasharada.sringeri.net/display/moola/Kathaka"
             }
         ],
         "plat_3_1_व्रजामि": [
