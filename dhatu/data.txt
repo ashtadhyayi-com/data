@@ -35415,7 +35415,7 @@
             "aupadeshik": "खिदँ",
             "gana": "6",
             "pada": "P",
-            "settva": "S",
+            "settva": "A",
             "karma": "S",
             "artha": "परिघाते",
             "artha_english": "to distress, to irritate",
