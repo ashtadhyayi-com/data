@@ -31823,6 +31823,18 @@
                 "num": "2.2.11",
                 "text": "न तत्र सूर्यो भाति न चन्द्रतारकं",
                 "external": "https://advaitasharada.sringeri.net/display/moola/Mundaka#MD_C02_S01"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "8",
+                "text": "य एको विभाति स्वतः शुद्धचेताः",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "12",
+                "text": "तथा बद्धवद्भाति यो मूढदृष्टेः",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "plit_1_1_बभौ": [
@@ -34655,6 +34667,24 @@
                 "num": "4.7",
                 "text": "कृतवानसि विप्रियं न मे",
                 "external": "https://sanskritsahitya.org/kumarasambhavam/4.7"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "1",
+                "text": "कस्त्वं शिशो कस्य कुतोऽसि गन्ता",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "1",
+                "text": "किं नाम ते त्वं कुत आगतोऽसि",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "1",
+                "text": "मत्प्रीतये प्रीति विवर्धनोऽसि",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "pvidhiling_1_3_स्युः": [
@@ -36075,6 +36105,12 @@
                 "num": "4.17",
                 "text": "स्मर संस्मृत्य न शान्तिरस्ति मे",
                 "external": "https://sanskritsahitya.org/kumarasambhavam/4.17"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "5",
+                "text": "मुखत्वात् पृथक्त्वेन नैवास्ति वस्तु",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "plang_1_1_आसीत्": [
@@ -41108,6 +41144,12 @@
                 "num": "5.64",
                 "text": "मनोरथानामगतिर्न विद्यते",
                 "external": "https://sanskritsahitya.org/kumarasambhavam/5.64"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "6",
+                "text": "मुखं विद्यते कल्पनाहीनमेकम्",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "avidhiling_1_1_विद्येत": [
@@ -41311,7 +41353,14 @@
                 "num": "7.1",
                 "text": "प्रतिपत्त्या लघु मन्यते भवान्।",
                 "external": ""
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "12",
+                "text": "यथा निष्प्रभं मन्यते चातिमूढः",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
+
         ],
         "alat_3_1_मन्ये": [
             {
@@ -46076,6 +46125,12 @@
                 "num": "6.95",
                 "text": "यदमी स्पृशन्ति भावाः",
                 "external": "https://sanskritsahitya.org/kumarasambhavam/6.95"
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "13",
+                "text": "समस्तानि वस्तूनि यन्न स्पृशन्ति",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "plang_1_3_अस्पृशन्": [
@@ -51767,6 +51822,12 @@
                 "num": "18.46",
                 "text": "गृह्णाति लिपिं स यावत्।",
                 "external": ""
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "10",
+                "text": "प्रगृह्णाति नाभातमेवं विवस्वान्",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "plat_3_1_गृह्णामि": [
@@ -55764,6 +55825,12 @@
                 "num": "72",
                 "text": "साक्षाल्लक्ष्म्यापि किं वद",
                 "external": ""
+            },
+            {
+                "book": "हस्तामलकीयम्",
+                "num": "1",
+                "text": "एतन्मयोक्तं वद चार्भक त्वं",
+                "external": "https://advaitasharada.sringeri.net/display/prakarana/hastamalakiyam"
             }
         ],
         "plat_1_3_वदन्ति": [
