@@ -34568,7 +34568,7 @@
             "aupadeshik": "कूङ्",
             "gana": "6",
             "pada": "A",
-            "settva": "A",
+            "settva": "S",
             "karma": "A",
             "artha": "शब्दे",
             "artha_english": "to hum,to moan,to speak inarticulately, to sound",
