@@ -19,7 +19,7 @@
             "artha_hin": "भगवान विष्णु",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101002",
@@ -39,7 +39,7 @@
             "artha_hin": "ईश्वर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101003",
@@ -59,7 +59,7 @@
             "artha_hin": "भगवान श्रीराम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101004",
@@ -79,7 +79,7 @@
             "artha_hin": "सब",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101005",
@@ -99,7 +99,7 @@
             "artha_hin": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101006",
@@ -119,7 +119,7 @@
             "artha_hin": "भगवान कृष्ण, काला रंग",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101007",
@@ -139,7 +139,7 @@
             "artha_hin": "वह जिसे सब प्रिय हो",
             "vyutpatti": "",
             "shabda_notes": "<<न बहुव्रीहौ>> [[1.1.29]] इति सूत्रेण <qt>प्रियविश्व</qt>-शब्दस्य सर्वनामसंज्ञा निषिध्यते, अतः अस्य रूपाणि <qt>देव</qt>शब्दसदृशानि एव भवन्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101008",
@@ -159,7 +159,7 @@
             "artha_hin": "दोनोंमेसे कौन?",
             "vyutpatti": "'किम्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'कतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'कतर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101009",
@@ -179,7 +179,7 @@
             "artha_hin": "दोनोंमें से जो भी",
             "vyutpatti": "'यद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'यतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'-प्रत्ययस्य निर्देशात् 'यतर' शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101010",
@@ -199,7 +199,7 @@
             "artha_hin": "दोनोंमें से वह",
             "vyutpatti": "'तद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'ततर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'ततर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101011",
@@ -219,7 +219,7 @@
             "artha_hin": "दोनों में से एक",
             "vyutpatti": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतर-प्रत्यये कृते 'एकतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'एकतर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101012",
@@ -239,7 +239,7 @@
             "artha_hin": "दोनों में से कौन ?",
             "vyutpatti": "'किम्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'कतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'कतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101013",
@@ -259,7 +259,7 @@
             "artha_hin": "अनेकों में से जो भी",
             "vyutpatti": "'यद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'यतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'यतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101014",
@@ -279,7 +279,7 @@
             "artha_hin": "अनेकों में से वह",
             "vyutpatti": "'तद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'ततम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'ततम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101015",
@@ -299,7 +299,7 @@
             "artha_hin": "अनेकों में से एक",
             "vyutpatti": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतम-प्रत्यये कृते 'एकतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'एकतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101016",
@@ -319,7 +319,7 @@
             "artha_hin": "अन्य, भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101017",
@@ -339,7 +339,7 @@
             "artha_hin": "अलग",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101018",
@@ -359,7 +359,7 @@
             "artha_hin": "दूसरा, अलग. भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101019",
@@ -379,7 +379,7 @@
             "artha_hin": "सबसे अलग",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101020",
@@ -399,7 +399,7 @@
             "artha_hin": "भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101021",
@@ -419,7 +419,7 @@
             "artha_hin": "सब",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101022",
@@ -439,7 +439,7 @@
             "artha_hin": "समान, सदृश, तुल्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101023",
@@ -459,7 +459,7 @@
             "artha_hin": "सब, प्रत्येक, समस्त, सम्पूर्ण",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101024",
@@ -479,7 +479,7 @@
             "artha_hin": "एक यह संख्या, असहाय, भिन्न, अन्य, केवल, मुख्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101025",
@@ -499,7 +499,7 @@
             "artha_hin": "एक से ज्यादा, अनेक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM"
+            "prakriya_tags": ["SARVANAAM"]
         },
         {
             "ind": "101026",
@@ -519,7 +519,7 @@
             "artha_hin": "दों, दोनों",
             "vyutpatti": "",
             "shabda_notes": "अयं शब्दः नित्यद्विवचनान्तः एव अस्ति ।",
-            "prakriya_tags": "SARVANAAM,ONLY_DVI"
+            "prakriya_tags": ["SARVANAAM", "ONLY_DVI"]
         },
         {
             "ind": "101027",
@@ -539,7 +539,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,NON_DVI"
+            "prakriya_tags": ["SARVANAAM", "NON_DVI"]
         },
         {
             "ind": "101028",
@@ -559,7 +559,7 @@
             "artha_hin": "आधा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,VIBHASHA_JASI"
+            "prakriya_tags": ["SARVANAAM", "VIBHASHA_JASI"]
         },
         {
             "ind": "101029",
@@ -579,7 +579,7 @@
             "artha_hin": "दिशा का नाम, प्रथम, पहला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101030",
@@ -599,7 +599,7 @@
             "artha_hin": "दूसरा, दूर, उत्तम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101031",
@@ -619,7 +619,7 @@
             "artha_hin": "चरम, अन्तिम, कनिष्ठ, अधम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101032",
@@ -639,7 +639,7 @@
             "artha_hin": "दक्षिण दिशा, दाया",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101033",
@@ -659,7 +659,7 @@
             "artha_hin": "उत्तर दिशा, बादमें, उपर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101034",
@@ -679,7 +679,7 @@
             "artha_hin": "अन्य, इतर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101035",
@@ -699,7 +699,7 @@
             "artha_hin": "नीचे",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101036",
@@ -719,7 +719,7 @@
             "artha_hin": "स्वयम्, अपना",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101037",
@@ -739,7 +739,7 @@
             "artha_hin": "रिश्तेदार, धन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101038",
@@ -759,7 +759,7 @@
             "artha_hin": "नीचला वस्त्र, बाहर का",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "SARVANAAM,POORVADI"
+            "prakriya_tags": ["SARVANAAM", "POORVADI"]
         },
         {
             "ind": "101039",
@@ -779,7 +779,7 @@
             "artha_hin": "अवकाश, अवधि, अवसर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101040",
@@ -799,7 +799,7 @@
             "artha_hin": "एक माह पहले",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101041",
@@ -819,7 +819,7 @@
             "artha_hin": "पहले और बादमें",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101042",
@@ -839,7 +839,7 @@
             "artha_hin": "मुख्य, पहला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101043",
@@ -859,7 +859,7 @@
             "artha_hin": "अन्तिम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101044",
@@ -879,7 +879,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101045",
@@ -899,7 +899,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101046",
@@ -919,7 +919,7 @@
             "artha_hin": "अल्प, थोडासा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101047",
@@ -939,7 +939,7 @@
             "artha_hin": "हिस्सा, अंश",
             "vyutpatti": "",
             "shabda_notes": "<qt>अर्ध</qt>-शब्दः पुंलिङ्गे \"अंशः\" अस्मिन् अर्थे, तथा च नपुंसकलिङ्गे \"समांशः\" (half) अस्मिन् अर्थे प्रयुज्यते ।",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101048",
@@ -959,7 +959,7 @@
             "artha_hin": "कुछ, कई, कई एक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "VIBHASHA_JASI"
+            "prakriya_tags": ["VIBHASHA_JASI"]
         },
         {
             "ind": "101049",
@@ -979,7 +979,7 @@
             "artha_hin": "दूसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "TIYASYA"
+            "prakriya_tags": ["TIYASYA"]
         },
         {
             "ind": "101050",
@@ -999,7 +999,7 @@
             "artha_hin": "तीसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": "TIYASYA"
+            "prakriya_tags": ["TIYASYA"]
         },
         {
             "ind": "101051",
@@ -1019,7 +1019,7 @@
             "artha_hin": "देव",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101052",
@@ -1039,7 +1039,7 @@
             "artha_hin": "पैर, किरन,  किसी श्लोक का चौथा हिस्सा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101053",
@@ -1059,7 +1059,7 @@
             "artha_hin": "दांत",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101054",
@@ -1079,7 +1079,7 @@
             "artha_hin": "महिना",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101055",
@@ -1099,7 +1099,7 @@
             "artha_hin": "दाल / चावल का पानी (मराठी - भाताची पेज)",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101056",
@@ -1119,7 +1119,7 @@
             "artha_hin": "बाहु",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101057",
@@ -1139,7 +1139,7 @@
             "artha_hin": "दो दिन में होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101058",
@@ -1159,7 +1159,7 @@
             "artha_hin": "बीवी",
             "vyutpatti": "",
             "shabda_notes": "\"पत्नी\" अस्मिन् अर्थे प्रयुक्तः गृह-शब्दः पुंलिङ्गः, नित्यबहुवचनान्तः च अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101059",
@@ -1179,7 +1179,7 @@
             "artha_hin": "बीवी",
             "vyutpatti": "",
             "shabda_notes": "\"पत्नी\" अस्मिन् अर्थे प्रयुक्तः दार-शब्दः पुंलिङ्गः, नित्यबहुवचनान्तः च अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101060",
@@ -1199,7 +1199,7 @@
             "artha_hin": "उपपति, प्रेमी, आशिक",
             "vyutpatti": "",
             "shabda_notes": "अयं शब्दः नित्यबहुवचनान्तः अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101061",
@@ -1214,7 +1214,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101062",
@@ -1229,7 +1229,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101063",
@@ -1244,7 +1244,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101064",
@@ -1259,7 +1259,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101065",
@@ -1274,7 +1274,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101066",
@@ -1289,7 +1289,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101067",
@@ -1304,7 +1304,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101068",
@@ -1319,7 +1319,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101069",
@@ -1334,7 +1334,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101070",
@@ -1349,7 +1349,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101071",
@@ -1364,7 +1364,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101072",
@@ -1379,7 +1379,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101073",
@@ -1394,7 +1394,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101074",
@@ -1409,7 +1409,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101075",
@@ -1429,7 +1429,7 @@
             "artha_hin": "और, तथा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "101076",
@@ -1449,7 +1449,7 @@
             "artha_hin": "प्रत्येक, हर एक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "102001",
@@ -1469,7 +1469,7 @@
             "artha_hin": "विश्व का पालक, ईश्वर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "102002",
@@ -1489,7 +1489,7 @@
             "artha_hin": "किसी गंधर्व का नाम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103001",
@@ -1504,7 +1504,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103002",
@@ -1519,7 +1519,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103003",
@@ -1534,7 +1534,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103004",
@@ -1549,7 +1549,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103005",
@@ -1564,7 +1564,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103006",
@@ -1579,7 +1579,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103007",
@@ -1594,7 +1594,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103008",
@@ -1609,7 +1609,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103009",
@@ -1624,7 +1624,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103010",
@@ -1639,7 +1639,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103011",
@@ -1654,7 +1654,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103012",
@@ -1669,7 +1669,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103013",
@@ -1684,7 +1684,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103014",
@@ -1699,7 +1699,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103015",
@@ -1714,7 +1714,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103016",
@@ -1729,7 +1729,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103017",
@@ -1744,7 +1744,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103018",
@@ -1759,7 +1759,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "103019",
@@ -1774,7 +1774,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104001",
@@ -1790,7 +1790,7 @@
             "vyutpatti": "पाति लोकम् इत्यर्थे पा (रक्षणे) धातोः <<यापोः कित् द्वे च>> (उणादिः 3.159) इति ईक्, द्वित्वं च ।",
             "shabda_notes": "<b>प्रथमैकवचने</b> ङ्यन्तत्वाभावात् सुँलोपो न । <b>प्रथमाद्विवचने</b>, <b>द्वितीयाद्विवचने</b> <<प्रथमयोः पूर्वसवर्णः>> [[6.1.102]] इति पूर्वसवर्णे प्राप्ते <<दीर्घाज्जसि च>> [[6.1.105]] इति निषेधः, अतः यणादेशे रूपनिर्माणम् । <b>षष्ठीबहुवचने</b> ह्रस्वत्वाभावात्, नदीसंज्ञायाः अभावात् नुडागमो न, अतः यणादेशे रूपसिद्धिः । <b>सप्तम्येकवचने</b> सवर्णदीर्घेण रूपसिद्धिः ।",
             "info": "ङ्यन्तत्वम् नास्ति, नदीसंज्ञा नास्ति, धात्वन्तत्वम् अस्ति, अनेकाच्त्वम् अस्ति, असंयोगपूर्वत्वम् अस्ति । ",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104002",
@@ -1806,7 +1806,7 @@
             "vyutpatti": "वातं मिमेति इति वातशब्दे उपपदे माङ् (माने) धातोः <<वातप्रमीः>> (उणादिः 4.1) इति ई-प्रत्ययः, स च कित् । कित्त्वात् <<आतो लोप इटि च>> [[6.4.64]] इति आकारलोपे रूपसिद्धिः ।",
             "shabda_notes": "सर्वाण्यपि रूपाणि <<पपी>> <{SH4.1}> -सदृशानि ।",
             "info": "ङ्यन्तत्वम् नास्ति, नदीसंज्ञा नास्ति, धात्वन्तत्वम् अस्ति, अनेकाच्त्वम् नास्ति । ",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104003",
@@ -1822,7 +1822,7 @@
             "vyutpatti": "यायते (प्राप्यते) भक्तैः इत्यर्थे या (प्रापणे) धातोः <<यापोः कित् द्वे च>> (उणादिः 3.159) इति ईक्, द्वित्वं च ।",
             "shabda_notes": "सर्वाण्यपि रूपाणि <<पपी>> <{SH4.1}> -सदृशानि ।",
             "info": "ङ्यन्तत्वम् नास्ति, नदीसंज्ञा नास्ति, धात्वन्तत्वम् अस्ति, अनेकाच्त्वम् नास्ति । ",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104004",
@@ -1838,7 +1838,7 @@
             "vyutpatti": "'बह्व्यः श्रेयस्यः (अतिप्रशस्ताः स्त्रियः) सन्ति यस्य' इति बहुव्रीहिसमासः । समासे बह्वी-शब्दस्य <<स्त्रियाः पुंवद्भाषितपुंस्कादनूङ्...>> [[6.3.34]] इति पुंवद्भावः । ",
             "shabda_notes": "श्रेयसी-शब्दस्य ङ्यन्तत्वात् प्रथमैकवचने सुँलोपः । <ऽप्रथमलिङ्गग्रहणं चऽ> इति [[1.4.3]] इत्यत्र पाठितेन वार्त्तिकेन नदीसंज्ञा, अतः नदीसंज्ञाविशिष्टानि कार्याणि (चतुर्थी-पञ्चमी-षष्ठी-एकवचने आडागमः, षष्ठीबहुवचने नुडागमः, सप्तम्येकवचने आमादेशः आडागमश्च, सम्बुद्धौ ह्रस्वः) अपि भवन्ति ।",
             "info": "ङ्यन्तत्वम् अस्ति, नदीसंज्ञा अस्ति, धात्वन्तत्वम् नास्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104005",
@@ -1854,7 +1854,7 @@
             "vyutpatti": "'लक्ष्मीम् अतिक्रान्तः' इत्यत्र <ऽ अत्यादयः क्रान्ताद्यर्थे द्वितीयया ऽ> इति [[2.2.18]] इत्यत्र पाठितेन वार्त्तिकेन तत्पुरुषसमासः ।",
             "shabda_notes": "ङ्यन्तत्वाभावात् सुँलोपो न । <ऽप्रथमलिङ्गग्रहणं चऽ> इति [[1.4.3]] इत्यत्र पाठितेन वार्त्तिकेन नदीसंज्ञा, अतः नदीसंज्ञाविशिष्टानि कार्याणि (चतुर्थी-पञ्चमी-षष्ठी-एकवचने आडागमः, षष्ठीबहुवचने नुडागमः, सप्तम्येकवचने आमादेशः आडागमश्च, सम्बुद्धौ ह्रस्वः) अपि भवन्ति ।",
             "info": "ङ्यन्तत्वम् नास्ति, नदीसंज्ञा अस्ति, धात्वन्तत्वम् अस्ति, अनेकाच्त्वम् अस्ति, असंयोगपूर्वत्वं नास्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104006",
@@ -1870,7 +1870,7 @@
             "vyutpatti": "'कुमारीम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'कुमारीय' इति धातुनिर्माणम्, ततः 'कुमारीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'कुमारी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'कुमारी इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'कुमारी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'कुमारी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "अस्य शब्दस्य धात्वन्तत्वात् अजादिप्रत्ययेषु परेषु सर्वत्र <<एरनेकाचोऽसंयोगपूर्वस्य>> [[6.4.82]] इति यणादेशः भवति । अपि च, <ऽप्रथमलिङ्गग्रहणं चऽ> इति [[1.4.3]] इत्यत्र पाठितेन वार्त्तिकेन नदीसंज्ञा अपि भवति । अस्य शब्दस्य द्वितीया-एकवचनस्य द्वितीया-बहुवचनस्य च रूपं विहाय अन्यानि सर्वाणि अपि रूपाणि  बहुश्रेयसी (<{SH4.4}>)-सदृशानि एव सन्ति ।",
             "info": "ङ्यन्तत्वम् नास्ति, नदीसंज्ञा अस्ति, धात्वन्तत्वम् अस्ति, अनेकाच्त्वम् अस्ति, असंयोगपूर्वत्वं अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104007",
@@ -1885,7 +1885,7 @@
             "artha_eng": "Person with extreme intelligence",
             "vyutpatti": "'प्रकृष्टा धीः यस्य सः' इति बहुव्रीहिसमासः ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104008",
@@ -1900,7 +1900,7 @@
             "artha_eng": "One who meditates rigorously",
             "vyutpatti": "'प्रकर्षेण ध्यायति / प्रध्यायति' इत्यस्मिन् अर्थे प्र-उपसर्गपूर्वकात् ध्यै-धातोः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । तत्रैव पाठितेन <ऽध्यायतेः संप्रसारणं च ऽ> इति वार्त्तिकेन ध्यै-धातोः सम्प्रसारणम्, ततः <<हलः>> [[6.4.2]]  इति दीर्घः, अतः 'प्रधी' इति सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104009",
@@ -1915,7 +1915,7 @@
             "artha_eng": "A good carrier, usually in upward direction",
             "vyutpatti": "'उन्नयति इति' इत्यस्मिन् अर्थे उत्-उपसर्गपूर्वकात् नी-धातोः <<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104010",
@@ -1930,7 +1930,7 @@
             "artha_eng": "Leader of the village",
             "vyutpatti": "ग्रामं नयति (नियच्छति) इत्यर्थे ग्राम-उपपदपूर्वकात् नी-धातोः <<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् । <ऽअग्रग्रामाभ्यां नयतेर्णो वाच्यःऽ> इति वार्त्तिकेन णत्वम् ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104011",
@@ -1945,7 +1945,7 @@
             "artha_eng": "Carrier",
             "vyutpatti": "नी-धातोः <<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104012",
@@ -1960,7 +1960,7 @@
             "artha_eng": "wealthy, prosperous",
             "vyutpatti": "सुष्ठु श्रयति इत्यर्थे सु-उपपदपूर्वकात् श्रिञ्-धातोः <ऽक्विब्वचिप्रच्छपायतस्तुकटप्रुजुश्रीणां दीर्घोऽसंप्रसारणं च ।ऽ> इति [[3.1.11]] इत्यत्र पाठितेन वार्त्तिकेन क्विप्-प्रत्ययः, दीर्घादेशः । अथवा, 'शोभना श्रीः यस्य' इत्यर्थे बहुव्रीहिसमासः । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104013",
@@ -1975,7 +1975,7 @@
             "artha_eng": "Pure minded",
             "vyutpatti": "शुद्धा धीः यस्य सः इति बहुव्रीहिसमासः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104014",
@@ -1990,7 +1990,7 @@
             "artha_eng": "Wise, Clever",
             "vyutpatti": "सुष्ठु / शोभना धीः यस्य इति बहुव्रीहिसमासः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104015",
@@ -2005,7 +2005,7 @@
             "artha_eng": "One who likes dryness for himself, Dry-natured",
             "vyutpatti": "'शुष्कम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'शुष्कीय' इति धातुनिर्माणम्, ततः 'शुष्कीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'शुष्की' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'शुष्क इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'शुष्की' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'शुष्की' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104016",
@@ -2020,7 +2020,7 @@
             "artha_eng": "Mature person, One who wants ripen things",
             "vyutpatti": "'पक्वम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'पक्वीय' इति धातुनिर्माणम्, ततः 'पक्वीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'पक्वी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'पक्वः इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'पक्वी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'पक्वी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104017",
@@ -2035,7 +2035,7 @@
             "artha_eng": "One who wants friends, One who acts like a friend",
             "vyutpatti": "'सखायम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'सखीय' इति धातुनिर्माणम्, ततः 'सखीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'सखी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'सखा इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'सखी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'सखी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104018",
@@ -2050,7 +2050,7 @@
             "artha_eng": "One who wants the gods for himself",
             "vyutpatti": "'सह खेन प्रवर्तते' इत्यस्मिन् अर्थे बहुव्रीहिसमासेन 'सख' इति शब्दे सिद्धे, 'सखम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'सखीय' इति धातुनिर्माणम्, ततः 'सखीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'सखी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'सखः इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'सखी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'सखी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104019",
@@ -2065,7 +2065,7 @@
             "artha_eng": "One who wants to be happy",
             "vyutpatti": "'सुखम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'सुखीय' इति धातुनिर्माणम्, ततः 'सुखीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'सुखी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104020",
@@ -2080,7 +2080,7 @@
             "artha_eng": "One who wants a son for himself, One who acts like a son",
             "vyutpatti": "'सुतम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'सुतीय' इति धातुनिर्माणम्, ततः 'सुतीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'सुती' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'सुतः इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'सुती' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'सुती' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104021",
@@ -2095,7 +2095,7 @@
             "artha_eng": "One who wants chopped things for himself, One who acts like broken",
             "vyutpatti": "लू-धातोः क्त-प्रत्यये कृते, <<ल्वादिभ्यः>> [[8.2.44]] इति निष्ठानत्वे 'लून' (छिन्नः) इति शब्दः सिद्ध्यति । 'लूनम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'लूनीय' इति धातुनिर्माणम्, ततः 'लूनीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'लूनी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'लूनः इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'लूनी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'लूनी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति ।",
             "shabda_notes": "यद्यपि अयम् नकारान्तः शब्दः, तथापि निष्ठातकारस्य नकारादेशः त्रिपाद्याः सूत्रेण भवति अतः सः सुबन्तप्रक्रियायाम् असिद्धः एव ज्ञेयः । इत्युक्ते, अस्य शब्दस्य रूपाणि अपि 'सुती' इति तकारान्तशब्दसदृशानि एव भवन्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104022",
@@ -2110,7 +2110,7 @@
             "artha_eng": "One who wants weak things for himself, One who acts like weak",
             "vyutpatti": "क्षै-धातोः क्त-प्रत्यये कृते, <<क्षायो मः>> [[8.2.53]] इति निष्ठानत्वे 'क्षाम' (क्षीणः) इति शब्दः सिद्ध्यति । 'क्षामम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'क्षामीय' इति धातुनिर्माणम्, ततः 'क्षामीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'क्षामी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । अपरेण प्रकारेण 'क्षामः इव आचरति' इत्यस्मिन् अर्थे <आचारेऽवगल्भक्लीबहोढेभ्यः क्विब्वा वक्तव्यःऽ> इति वार्त्तिकेन क्विप्-प्रत्यये कृते 'क्षामी' इत्येव धातुः, ततः पुनः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'क्षामी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति ।",
             "shabda_notes": "यद्यपि अयम् मकारान्तः शब्दः, तथापि निष्ठातकारस्य मकारादेशः त्रिपाद्याः सूत्रेण भवति अतः सः सुबन्तप्रक्रियायाम् असिद्धः एव ज्ञेयः । इत्युक्ते, अस्य शब्दस्य रूपाणि अपि 'सुती' इति तकारान्तशब्दसदृशानि एव भवन्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104023",
@@ -2125,7 +2125,7 @@
             "artha_eng": "One who likes crowded/ clustered things for himself",
             "vyutpatti": "प्र-उपसर्गपूर्वकात् स्तै-धातोः क्त-प्रत्यये कृते, <<प्रस्त्योऽन्यतरस्याम्>> [[8.2.53]] इति निष्ठामत्वे 'प्रस्तीम' (सम्मर्दित, crowded, clustered) इति शब्दः सिद्ध्यति । 'प्रस्तीमम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'प्रस्तीमीय' इति धातुनिर्माणम्, ततः 'प्रस्तीमीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'प्रस्तीमी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "यद्यपि अयम् मकारान्तः शब्दः, तथापि निष्ठातकारस्य मकारादेशः त्रिपाद्याः सूत्रेण भवति अतः सः सुबन्तप्रक्रियायाम् असिद्धः एव ज्ञेयः । इत्युक्ते, अस्य शब्दस्य रूपाणि अपि 'सुती' इति तकारान्तशब्दसदृशानि एव भवन्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104024",
@@ -2140,7 +2140,7 @@
             "artha_eng": "One who likes crowded/ clustered things for himself",
             "vyutpatti": "प्र-उपसर्गपूर्वकात् स्तै-धातोः क्त-प्रत्यये कृते, 'प्रस्तीत' (सम्मर्दित, crowded, clustered) इति शब्दः सिद्ध्यति । 'प्रस्तीतम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'प्रस्तीमीय' इति धातुनिर्माणम्, ततः 'प्रस्तीतीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'प्रस्तीती' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104025",
@@ -2155,7 +2155,7 @@
             "artha_eng": "One who wishes speed for himself",
             "vyutpatti": "'वेगम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'वेगीय' इति धातुनिर्माणम्, ततः 'वेगीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'वेगी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104026",
@@ -2170,7 +2170,7 @@
             "artha_eng": "One who wants a water-drinker for himself",
             "vyutpatti": "'जलम् पिबति' इत्यस्मिन् अर्थे 'जलपा' इति आकारान्तपुंलिङ्गशब्दे सिद्धे, 'जलपाम् आत्मनः इच्छति' इत्यस्मिन् अर्थे <<सुप आत्मनः क्यच्>> [[3.1.8]] इति क्यच्-प्रत्ययेन 'जलपीय' इति धातुनिर्माणम्, ततः 'जलपीयति इति' अस्मिन् अर्थे <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । <<अतो लोपः>> [[6.4.48]] इति अकारलोपे, <<यस्य हलः>> [[6.4.49]] इति यकारलोपे 'जलपी' इति ईकारान्तपुंलिङ्गशब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104027",
@@ -2185,7 +2185,7 @@
             "artha_eng": "One who purchases barley",
             "vyutpatti": "'यवं क्रीणाति' इत्यस्मिन् अर्थे यव-उपपदस्य उपस्थितौ क्री-धातोः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'यवक्री' शब्दः सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104028",
@@ -2200,7 +2200,7 @@
             "artha_eng": "One who purchases excellent things",
             "vyutpatti": "'परमं क्रीणाति' इत्यस्मिन् अर्थे परम-उपपदस्य उपस्थितौ क्री-धातोः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप्-प्रत्यये कृते 'परमक्री' शब्दः सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104029",
@@ -2215,7 +2215,7 @@
             "artha_eng": "Leader",
             "vyutpatti": "'अग्रे नयति' इत्यर्थे अग्र-उपपदपूर्वकात् नी-धातोः <<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् । <ऽअग्रग्रामाभ्यां नयतेर्णो वाच्यःऽ> इति वार्त्तिकेन णत्वम् ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104030",
@@ -2230,7 +2230,7 @@
             "artha_eng": "Leader of the army",
             "vyutpatti": "सेनां नयति (नियच्छति) इत्यर्थे सेना-उपपदपूर्वकात् नी-धातोः <<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "104031",
@@ -2245,7 +2245,7 @@
             "artha_eng": "One who meditates appropriately",
             "vyutpatti": "'सुष्ठु ध्यायति / सुयायति' इत्यस्मिन् अर्थे सु-उपसर्गपूर्वकात् ध्यै-धातोः <<अन्येभ्योऽपि दृश्यते>> [[3.2.178]] इति कर्तरि क्विप् । तत्रैव पाठितेन <ऽध्यायतेः संप्रसारणं च ऽ> इति वार्त्तिकेन ध्यै-धातोः सम्प्रसारणम्, ततः <<हलः>> [[6.4.2]]  इति दीर्घः, अतः 'सुधी' इति सिद्ध्यति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "105001",
@@ -2260,7 +2260,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "105002",
@@ -2275,7 +2275,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "105003",
@@ -2290,7 +2290,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "105004",
@@ -2305,7 +2305,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106001",
@@ -2320,7 +2320,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106002",
@@ -2335,7 +2335,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106003",
@@ -2350,7 +2350,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106004",
@@ -2365,7 +2365,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106005",
@@ -2380,7 +2380,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106006",
@@ -2395,7 +2395,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "106007",
@@ -2410,7 +2410,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107001",
@@ -2425,7 +2425,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107002",
@@ -2440,7 +2440,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107003",
@@ -2455,7 +2455,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107004",
@@ -2470,7 +2470,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107005",
@@ -2485,7 +2485,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "107006",
@@ -2500,7 +2500,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "108001",
@@ -2515,7 +2515,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "108002",
@@ -2530,7 +2530,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "108003",
@@ -2545,7 +2545,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "108004",
@@ -2560,7 +2560,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "108005",
@@ -2575,7 +2575,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "109001",
@@ -2590,7 +2590,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "109002",
@@ -2605,7 +2605,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "110001",
@@ -2620,7 +2620,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "110002",
@@ -2635,7 +2635,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "110003",
@@ -2650,7 +2650,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "111001",
@@ -2665,7 +2665,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "112001",
@@ -2680,7 +2680,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "112002",
@@ -2695,7 +2695,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "113001",
@@ -2710,7 +2710,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114001",
@@ -2725,7 +2725,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114002",
@@ -2740,7 +2740,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114003",
@@ -2755,7 +2755,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114004",
@@ -2770,7 +2770,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114005",
@@ -2785,7 +2785,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114006",
@@ -2800,7 +2800,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114007",
@@ -2815,7 +2815,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114008",
@@ -2830,7 +2830,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114009",
@@ -2845,7 +2845,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114010",
@@ -2860,7 +2860,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114011",
@@ -2875,7 +2875,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114012",
@@ -2890,7 +2890,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114013",
@@ -2905,7 +2905,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "114014",
@@ -2920,7 +2920,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115001",
@@ -2935,7 +2935,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115002",
@@ -2950,7 +2950,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115003",
@@ -2965,7 +2965,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115004",
@@ -2980,7 +2980,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115005",
@@ -2995,7 +2995,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115006",
@@ -3010,7 +3010,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "115007",
@@ -3025,7 +3025,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116001",
@@ -3040,7 +3040,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116002",
@@ -3055,7 +3055,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116003",
@@ -3070,7 +3070,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116004",
@@ -3085,7 +3085,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116005",
@@ -3100,7 +3100,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116006",
@@ -3115,7 +3115,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116007",
@@ -3130,7 +3130,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116008",
@@ -3145,7 +3145,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116009",
@@ -3160,7 +3160,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116010",
@@ -3175,7 +3175,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116011",
@@ -3190,7 +3190,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "116012",
@@ -3205,7 +3205,7 @@
             "artha_eng": "Woman",
             "vyutpatti": "स्त्यै इति धातोः <<स्त्यायतेर्ड्रट्>> (उणादिः - 4.165) इति उणादिसूत्रेण ड्रट्-प्रत्यये कृते ततः स्त्रीत्वं द्योतयितुम् ङीप्-प्रत्ययस्य योजनेन स्त्री इति शब्दः सिद्ध्यति । ",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "117001",
@@ -3220,7 +3220,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "118001",
@@ -3235,7 +3235,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "118002",
@@ -3250,7 +3250,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "119001",
@@ -3265,7 +3265,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "119002",
@@ -3280,7 +3280,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "119003",
@@ -3295,7 +3295,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120001",
@@ -3310,7 +3310,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120002",
@@ -3325,7 +3325,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120003",
@@ -3340,7 +3340,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120004",
@@ -3355,7 +3355,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120005",
@@ -3370,7 +3370,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120006",
@@ -3385,7 +3385,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120007",
@@ -3400,7 +3400,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120008",
@@ -3415,7 +3415,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "120009",
@@ -3430,7 +3430,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "121001",
@@ -3445,7 +3445,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "121002",
@@ -3460,7 +3460,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "121003",
@@ -3475,7 +3475,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "121004",
@@ -3490,7 +3490,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "121005",
@@ -3505,7 +3505,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "122001",
@@ -3520,7 +3520,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "122002",
@@ -3535,7 +3535,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "123001",
@@ -3550,7 +3550,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "124001",
@@ -3565,7 +3565,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125001",
@@ -3580,7 +3580,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125002",
@@ -3595,7 +3595,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125003",
@@ -3610,7 +3610,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125004",
@@ -3625,7 +3625,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125005",
@@ -3640,7 +3640,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125006",
@@ -3655,7 +3655,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125007",
@@ -3670,7 +3670,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125008",
@@ -3685,7 +3685,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125009",
@@ -3700,7 +3700,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125010",
@@ -3715,7 +3715,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125011",
@@ -3730,7 +3730,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125012",
@@ -3745,7 +3745,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125013",
@@ -3760,7 +3760,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125014",
@@ -3775,7 +3775,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125015",
@@ -3790,7 +3790,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125016",
@@ -3805,7 +3805,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125017",
@@ -3820,7 +3820,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125018",
@@ -3835,7 +3835,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125019",
@@ -3850,7 +3850,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125020",
@@ -3865,7 +3865,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125021",
@@ -3880,7 +3880,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125022",
@@ -3895,7 +3895,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125023",
@@ -3910,7 +3910,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125024",
@@ -3925,7 +3925,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125025",
@@ -3940,7 +3940,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125026",
@@ -3955,7 +3955,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125027",
@@ -3970,7 +3970,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125028",
@@ -3985,7 +3985,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125029",
@@ -4000,7 +4000,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125030",
@@ -4015,7 +4015,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125031",
@@ -4030,7 +4030,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125032",
@@ -4045,7 +4045,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125033",
@@ -4060,7 +4060,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125034",
@@ -4075,7 +4075,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125035",
@@ -4090,7 +4090,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125036",
@@ -4105,7 +4105,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125037",
@@ -4120,7 +4120,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125038",
@@ -4135,7 +4135,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125039",
@@ -4150,7 +4150,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125040",
@@ -4165,7 +4165,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125041",
@@ -4180,7 +4180,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125042",
@@ -4195,7 +4195,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125043",
@@ -4210,7 +4210,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125044",
@@ -4225,7 +4225,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125045",
@@ -4240,7 +4240,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125046",
@@ -4255,7 +4255,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125047",
@@ -4270,7 +4270,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125048",
@@ -4285,7 +4285,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125049",
@@ -4300,7 +4300,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125050",
@@ -4315,7 +4315,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125051",
@@ -4330,7 +4330,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125052",
@@ -4345,7 +4345,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "125053",
@@ -4360,7 +4360,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "126001",
@@ -4375,7 +4375,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "126002",
@@ -4390,7 +4390,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "127001",
@@ -4405,7 +4405,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "127002",
@@ -4420,7 +4420,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "128001",
@@ -4435,7 +4435,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129001",
@@ -4450,7 +4450,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129002",
@@ -4465,7 +4465,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129003",
@@ -4480,7 +4480,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129004",
@@ -4495,7 +4495,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129005",
@@ -4510,7 +4510,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129006",
@@ -4525,7 +4525,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129007",
@@ -4540,7 +4540,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129008",
@@ -4555,7 +4555,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "129009",
@@ -4570,7 +4570,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "130001",
@@ -4585,7 +4585,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "130002",
@@ -4600,7 +4600,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131001",
@@ -4615,7 +4615,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131002",
@@ -4630,7 +4630,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131003",
@@ -4645,7 +4645,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131004",
@@ -4660,7 +4660,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131005",
@@ -4675,7 +4675,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131006",
@@ -4690,7 +4690,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131007",
@@ -4705,7 +4705,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131008",
@@ -4720,7 +4720,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131009",
@@ -4735,7 +4735,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "131010",
@@ -4750,7 +4750,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "132001",
@@ -4765,7 +4765,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "133001",
@@ -4780,7 +4780,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "134001",
@@ -4795,7 +4795,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "135001",
@@ -4810,7 +4810,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "136001",
@@ -4825,7 +4825,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "137001",
@@ -4840,7 +4840,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "138001",
@@ -4855,7 +4855,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139001",
@@ -4874,7 +4874,7 @@
             "artha_hin": "चाटनेवाला ।",
             "vyutpatti": "लेढि सः\n= लिह् (आस्वादने, <{2.6}>) + क्विप्  [<<क्विप् च>> [[3.2.76]] ]\n--> लिह् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः अकारः उच्चारणार्थः । सोऽपि लुप्यते ।]\n--> लिह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-अकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139002",
@@ -4893,7 +4893,7 @@
             "artha_hin": "(1) रस्सी को चाटनेवाला, जैसे की घोडा, बैल इत्यादि । (2) रस्सी को चाटनेवाले (पशु) को अपने लिये चाहनेवाला ।",
             "vyutpatti": "(1) दाम (पादबन्धनरज्जुम्) लेढि सः दामलिट् । \n= दामन् +  लिह्  (आस्वादने, <{2.6}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप् ।] । \n--> दामन् + लिह् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> दामन् + लिह्  [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> दामलिह् [<<नलोपः प्रातिपदिकान्तस्य>> [[8.2.7]] इति नकारलोपः]\n<br>\n(2) दामलिहम् आत्मनः इच्छति सः दामलिट् ।\n= दामलिह् + क्यच् [<<सुप आत्मनः क्यच्>> [[3.1.8]]] \n--> दामलिह्य  [ककारचकारयोः इत्संज्ञा, लोपः । <<सनाद्यन्ता धातवः>> [[3.1.32]] इति धातुसंज्ञा]\n--> दामलिह्य +  क्विप् [<<क्विप् च>> [[3.2.76]] ] \n--> दामलिह्य + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः । सोऽपि लुप्यते ।]\n--> दामलिह्य् + व् [<<अतो लोपः>> [[6.4.48]] इति अकारलोपः]\n--> दामलिह् + व् [<<लोपो व्योर्वलि>> [[6.1.66]] इति यकारलोपः]\n--> दामलिह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139003",
@@ -4912,7 +4912,7 @@
             "artha_hin": "गाँय इत्यादि का दूध निकालनेवाला",
             "vyutpatti": "दोग्धि सः\n=  दुह् (प्रपूरणे, <{2.4}>) + क्विप् [<<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]]]\n--> दुह् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> दुह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139004",
@@ -4931,7 +4931,7 @@
             "artha_hin": "द्रोह करनेवाला",
             "vyutpatti": "द्रुह्यति सः\n= द्रुह् (जिघांसायाम्, <{4.94}>) + क्विप् [<<सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप्>> [[3.2.61]] इति क्विप् ।]\n--> द्रुह् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> द्रुह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139005",
@@ -4950,7 +4950,7 @@
             "artha_hin": "विवेकहीन",
             "vyutpatti": "मुह्यति सः\n= मुह् (वैचित्त्ये, <{4.95}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप् ।]\n--> मुह्  + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> मुह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139006",
@@ -4969,7 +4969,7 @@
             "artha_hin": "वमन करने वाला",
             "vyutpatti": "स्नुह्यति सः\n= ष्णुह् (उद्गिरणे, <{4.96}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप् ।]\n--> ष्णुह् +  व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> ष्णुह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139007",
@@ -4988,7 +4988,7 @@
             "artha_hin": "प्रेमी, स्नेही ।",
             "vyutpatti": "स्निह्यति सः\n=  ष्णिह् (प्रीतौ, <{4.97}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> ष्णिह्+  व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> ष्णिह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139008",
@@ -5007,7 +5007,7 @@
             "artha_hin": "ब्रह्मदेव",
             "vyutpatti": "विश्वं वहति सः \n--> विश्व + वह् + ण्वि [<<वहश्च>> [[3.2.64]] इति ण्विः]\n--> विश्व + वह् + व् [णकारस्य इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> विश्व + वाह् + व् [णित्-प्रत्यये परे <<अत उपधायाः>> [[7.2.116]] इति उपधावृद्धिः]\n--> विश्ववाह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139009",
@@ -5026,7 +5026,7 @@
             "artha_hin": "बैल",
             "vyutpatti": "अनः (शकटं) वहति सः\n= अनस् + वह् +  क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप् ।] \n--> अनस् + वह् + व् [ककारवकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> अनड् + वह् + व् [<!अनसो डश्च!> इति वार्त्तिकेन सकारस्य डकारादेशः।]\n--> अनड् + उह् + व् [<<वचिस्वपियजादीनां किति>> [[6.1.15]] इति वकारस्य सम्प्रसारणे उकारः । ]\n--> अनडुह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "139010",
@@ -5045,7 +5045,7 @@
             "artha_hin": "इन्द्रदेव",
             "vyutpatti": "1. तुरं (वेगं) सहते सः\n=  तुर + सह् + ण्वि [<<छन्दसि सहः>> [[3.2.63]] इति ण्विः] \n--> तुर + सह् + व् [णकारस्य इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> तुर + साह् + व् [णित्-प्रत्यये परे <<अत उपधायाः>> [[7.2.116]] इति  उपधावृद्धिः ।]\n--> तुरा + साह् + व्  [<<अन्येषामपि दृश्यते>> [[6.3.137]] इति पूर्वपदस्य दीर्घः ।]\n--> तुरासाह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n<br>\n2. तुरं (वेगं) साहयति सः \n= तुर + सह् + णिच् + क्विप्  [<<क्विप् च>> [[3.2.76]] इति क्विप् ।]\n--> तुर + सह् + इ + व् [ णकारचकारककारपकाराणां इत्संज्ञा, लोपः]\n--> तुर + साह् + इ + व् [णित्-प्रत्यये परे <<अत उपधायाः>> [[7.2.116]] इति  उपधावृद्धिः । ]\n--> तुर + साह् + व् [ <<णेरनिटि>> [[6.4.51]] इति णिलोपः ।]\n--> तुरा + साह् + व्  [<<अन्येषामपि दृश्यते>> [[6.3.137]] इति पूर्वपदस्य दीर्घः ।]\n--> तुरासाह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "140001",
@@ -5065,7 +5065,7 @@
             "artha_hin": "बहुत दीप्तिमान, चमकीला",
             "vyutpatti": "शोभना द्यौः यस्य सः\n= सु + दिव् [<<अनेकमन्यपदार्थे>> [[2.2.24]] इति बहुव्रीहिः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "141001",
@@ -5085,7 +5085,7 @@
             "artha_hin": "चार",
             "vyutpatti": "",
             "shabda_notes": "चतुर्-शब्दः नित्यबहुवचान्तः  अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "141002",
@@ -5105,7 +5105,7 @@
             "artha_hin": "वह जिसके चार प्रिय हैं",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "142001",
@@ -5125,7 +5125,7 @@
             "artha_hin": "कमल / कमला के साथ बोलनेवाला",
             "vyutpatti": "कमलं / कमलाम् आचष्टे",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "143001",
@@ -5145,7 +5145,7 @@
             "artha_hin": "शान्त, दुःखरहित",
             "vyutpatti": "प्रकर्षेण शाम्यति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "143002",
@@ -5165,7 +5165,7 @@
             "artha_hin": "क्या",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "143003",
@@ -5185,7 +5185,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "143004",
@@ -5205,7 +5205,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "144001",
@@ -5225,7 +5225,7 @@
             "artha_hin": "अच्छी तरह से गिननेवाला",
             "vyutpatti": "सुगणयति सः\n= सु + गण् + विच्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145001",
@@ -5245,7 +5245,7 @@
             "artha_hin": "राजा",
             "vyutpatti": "",
             "shabda_notes": "राजा मृगाङ्के क्षत्रिये नृपे - इत्यमरः । मृगाङ्कः इत्युक्ते चन्द्रः ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145002",
@@ -5265,7 +5265,7 @@
             "artha_hin": "सूर्यः",
             "vyutpatti": "प्रतिदीव्यति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145003",
@@ -5285,7 +5285,7 @@
             "artha_hin": "यज्ञ करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145004",
@@ -5305,7 +5305,7 @@
             "artha_hin": "सूर्यः",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145005",
@@ -5325,7 +5325,7 @@
             "artha_hin": "ब्रह्मदेवः",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145006",
@@ -5345,7 +5345,7 @@
             "artha_hin": "विष्णु",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145007",
@@ -5365,7 +5365,7 @@
             "artha_hin": "स्वयम्, आत्मा, ब्रह्मा, बुद्धि, स्वभाव, देह, धारणा / धैर्य, प्रयत्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145008",
@@ -5385,7 +5385,7 @@
             "artha_hin": "गुणवान",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145009",
@@ -5405,7 +5405,7 @@
             "artha_hin": "कुत्ता",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145010",
@@ -5425,7 +5425,7 @@
             "artha_hin": "रास्ता",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145011",
@@ -5445,7 +5445,7 @@
             "artha_hin": "यशस्वी, प्रसिद्ध, प्रख्यात",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145012",
@@ -5465,7 +5465,7 @@
             "artha_hin": "इन्द्र",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145013",
@@ -5485,7 +5485,7 @@
             "artha_hin": "इन्द्र",
             "vyutpatti": "",
             "shabda_notes": "अत्र <<मघवा बहुलम्>> [[6.4.128]] इत्यनेन तृ-आदेशे कृते रूपाणि दर्शितानि सन्ति । तृ-आदेशं विना अस्यैव शब्दस्य रूपाणि <{SH45.014}> इत्यत्र वर्तन्ते ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145014",
@@ -5505,7 +5505,7 @@
             "artha_hin": "इन्द्र",
             "vyutpatti": "",
             "shabda_notes": "अत्र <<मघवा बहुलम्>> [[6.4.128]] इत्यनेन तृ-आदेशम् अकृत्वा रूपाणि दर्शितानि सन्ति । तृ-आदेशपक्षे अस्यैव शब्दस्य रूपाणि <{SH45.013}> इत्यत्र वर्तन्ते ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145015",
@@ -5525,7 +5525,7 @@
             "artha_hin": "सूर्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145016",
@@ -5545,7 +5545,7 @@
             "artha_hin": "तरुण",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145017",
@@ -5565,7 +5565,7 @@
             "artha_hin": "मथानी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145018",
@@ -5585,7 +5585,7 @@
             "artha_hin": "घोडा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145019",
@@ -5605,7 +5605,7 @@
             "artha_hin": "इन्द्र",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145020",
@@ -5625,7 +5625,7 @@
             "artha_hin": "पांच",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145021",
@@ -5645,7 +5645,7 @@
             "artha_hin": "सांत",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145022",
@@ -5665,7 +5665,7 @@
             "artha_hin": "नौ",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145023",
@@ -5685,7 +5685,7 @@
             "artha_hin": "पांच प्रिय होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145024",
@@ -5705,7 +5705,7 @@
             "artha_hin": "आँठ प्रिय होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146001",
@@ -5725,7 +5725,7 @@
             "artha_hin": "देवों को तुष्ट करने के लिये यज्ञ करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146002",
@@ -5745,7 +5745,7 @@
             "artha_hin": "चमकीला, दीप्तिमान",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146003",
@@ -5765,7 +5765,7 @@
             "artha_hin": "लंगडा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146004",
@@ -5785,7 +5785,7 @@
             "artha_hin": "अच्छी तरह से जोडनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146005",
@@ -5805,7 +5805,7 @@
             "artha_hin": "राजा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146006",
@@ -5825,7 +5825,7 @@
             "artha_hin": "संन्यासी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146007",
@@ -5845,7 +5845,7 @@
             "artha_hin": "चारो ओर से साफ करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146008",
@@ -5865,7 +5865,7 @@
             "artha_hin": "विश्व के स्वामी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146009",
@@ -5885,7 +5885,7 @@
             "artha_hin": "तलनेवाला, भूननेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146010",
@@ -5905,7 +5905,7 @@
             "artha_hin": "उर्जा, सामर्थ्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146011",
@@ -5925,7 +5925,7 @@
             "artha_hin": "यज्ञ का पुरोहित",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147001",
@@ -5945,7 +5945,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147002",
@@ -5965,7 +5965,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147003",
@@ -5985,7 +5985,7 @@
             "artha_hin": "जो भी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147004",
@@ -6005,7 +6005,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147005",
@@ -6025,7 +6025,7 @@
             "artha_hin": "तुम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147006",
@@ -6045,7 +6045,7 @@
             "artha_hin": "मैं",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147007",
@@ -6065,7 +6065,7 @@
             "artha_hin": "तुमसे अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147008",
@@ -6085,7 +6085,7 @@
             "artha_hin": "तुम दोनों से अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147009",
@@ -6105,7 +6105,7 @@
             "artha_hin": "तुम सबसे अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147010",
@@ -6125,7 +6125,7 @@
             "artha_hin": "मुझसे अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147011",
@@ -6145,7 +6145,7 @@
             "artha_hin": "हम दोनों से अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147012",
@@ -6165,7 +6165,7 @@
             "artha_hin": "हम सबसे अधिक, श्रेष्ठ होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147013",
@@ -6185,7 +6185,7 @@
             "artha_hin": "सुंदर पैर वाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "148001",
@@ -6205,7 +6205,7 @@
             "artha_hin": "अग्नि का मन्थन करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149001",
@@ -6225,7 +6225,7 @@
             "artha_hin": "पूर्व की दिशा, पूर्व का स्थान, पहले वाला काल, पहले चलनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149002",
@@ -6245,7 +6245,7 @@
             "artha_hin": "पश्चिमदिशा, पश्चिमी प्रदेश, उल्टी दिशा में चलनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149003",
@@ -6265,7 +6265,7 @@
             "artha_hin": "उस दिशा में जानेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149004",
@@ -6285,7 +6285,7 @@
             "artha_hin": "उस दिशा में जानेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149005",
@@ -6305,7 +6305,7 @@
             "artha_hin": "ठीक तरह से चलनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149006",
@@ -6325,7 +6325,7 @@
             "artha_hin": "साथ में चलनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149007",
@@ -6345,7 +6345,7 @@
             "artha_hin": "उस दिशा में जानेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149008",
@@ -6365,7 +6365,7 @@
             "artha_hin": "उपरि दिशा, उपरि देश, उपर जानेवाला.",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149009",
@@ -6385,7 +6385,7 @@
             "artha_hin": "तिरछा चलनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149010",
@@ -6405,7 +6405,7 @@
             "artha_hin": "विशेष रूप से पूजा करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149011",
@@ -6425,7 +6425,7 @@
             "artha_hin": "क्रौञ्च पक्षी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149012",
@@ -6445,7 +6445,7 @@
             "artha_hin": "बादल",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "149013",
@@ -6465,7 +6465,7 @@
             "artha_hin": "अच्छी तरह से काटनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150001",
@@ -6485,7 +6485,7 @@
             "artha_hin": "राज्य, बडा, विशाल",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150002",
@@ -6505,7 +6505,7 @@
             "artha_hin": "विद्वान, बुद्धिमान",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150003",
@@ -6525,7 +6525,7 @@
             "artha_hin": "गायों का स्वामी, गायों के स्वामी की तरह आचरण करनेवाला, गायों के स्वामी को खुद के लिये चाहनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150004",
@@ -6545,7 +6545,7 @@
             "artha_hin": "आप",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150005",
@@ -6565,7 +6565,7 @@
             "artha_hin": "देनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150006",
@@ -6585,7 +6585,7 @@
             "artha_hin": "खानेवाला, हसनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150007",
@@ -6605,7 +6605,7 @@
             "artha_hin": "दरिद्र, दीन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150008",
@@ -6625,7 +6625,7 @@
             "artha_hin": "जगा हुआ",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150009",
@@ -6645,7 +6645,7 @@
             "artha_hin": "शासन करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150010",
@@ -6665,7 +6665,7 @@
             "artha_hin": "चमकीला, चमकनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150011",
@@ -6685,7 +6685,7 @@
             "artha_hin": "चमकीला, चमकनेवाला,",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150012",
@@ -6705,7 +6705,7 @@
             "artha_hin": "जानेवाला, व्यापनेवाला, बननेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "151001",
@@ -6725,7 +6725,7 @@
             "artha_hin": "छिपानेवाला, संभल कर रखनेवाला, रक्षक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "152001",
@@ -6745,7 +6745,7 @@
             "artha_hin": "उसके जैसा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "152002",
@@ -6765,7 +6765,7 @@
             "artha_hin": "प्रवेश करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "152003",
@@ -6785,7 +6785,7 @@
             "artha_hin": "नाश करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "152004",
@@ -6805,7 +6805,7 @@
             "artha_hin": "घी/ पानी को स्पर्श करनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153001",
@@ -6825,7 +6825,7 @@
             "artha_hin": "बाहु",
             "vyutpatti": "दाम्यति अनेन इति\n= दमुँ (उपशमे, <{4.100}>) + डोसि [<<दमेर्डोसिः>> <{UN2.70}> इति डोसि-प्रत्ययः]\n--> दम् + ओस् [धातुस्थस्य उकारस्य, प्रत्ययस्थस्य डकारस्य च इत्संज्ञा, लोपः ।  प्रत्ययस्य अन्तिमः इकारः सकारस्य इत्संज्ञावारणार्थः, सः अपि लुप्यते ।]\n--> द् + ओस् [प्रत्ययस्य डित्त्वात् <<टेः>> [[6.4.143]] इति टिलोपः]\n--> दोस्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153002",
@@ -6845,7 +6845,7 @@
             "artha_hin": "पढने की इच्छा रखनेवाला",
             "vyutpatti": "पठितुम् इच्छति सः\n= पठ् + सन् + क्विप्\n...",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153003",
@@ -6865,7 +6865,7 @@
             "artha_hin": "कुछ करने की इच्छा रखनेवाला",
             "vyutpatti": "कर्तुम् इच्छति सः\n= कृ + सन् + क्विप्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153004",
@@ -6885,7 +6885,7 @@
             "artha_hin": "प्रवेश करने की इच्छा रखनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153005",
@@ -6905,7 +6905,7 @@
             "artha_hin": "साहसी, प्रगल्भ, उद्धत",
             "vyutpatti": "धृष्णोति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153006",
@@ -6925,7 +6925,7 @@
             "artha_hin": "रत्नचोर",
             "vyutpatti": "रत्नानि मुष्णाति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154001",
@@ -6945,7 +6945,7 @@
             "artha_hin": "पण्डित, ज्ञानी",
             "vyutpatti": "वेत्ति सः  \n= विद् (ज्ञाने, <{2.59}>) + लट् [<<वर्तमाने लट्>> [[3.2.123]] ]\n--> विद् + शतृ [ <<लटः शतृशानचावप्रथमासमानाधिकरणे>> [[3.2.124]] इति लट्-प्रत्ययस्य <qt>शतृ</qt>-आदेशः ]\n--> विद् + वसुँ [<<विदेः शतुर्वसुः>> [[7.1.36]] इति शतृ-प्रत्ययस्य <qt>वसुँ</qt>-आदेशः ]\n--> विद्वस् [उकारस्य इत्संज्ञा, लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154002",
@@ -6965,7 +6965,7 @@
             "artha_hin": "पुरुष",
             "vyutpatti": "पाति (रक्षति) सः \n=  पा (रक्षणे, <{2.51}>) + डुम्सुन् [<<पातेर्डुम्सुन्>> <{UN4.177}>]\n--> पा + उम्स् [डकारनकारयोः इत्संज्ञा, लोपः]\n--> प् + उम्स् [प्रत्ययस्य डित्त्वविधानात् <<टेः>> [[6.4.143]] इति टिलोपः]\n--> पुंस् [<<नश्चापदान्तस्य झलि>> [[8.3.24]] इति अपदान्त-मकारस्य अनुस्वारः]\n\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154003",
@@ -6985,7 +6985,7 @@
             "artha_hin": "शुक्राचार्य",
             "vyutpatti": "वष्टि (दीव्यति) सः\n= वश् (कान्तौ, <{2.75}>) +  कनसि [<<वशेः कनसिः>> <{UN4.238}>] \n--> वश् + अनस् [ ककारस्य इत्संज्ञा, लोपः । इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> उअश् + अनस् [कित्-प्रत्यये परे <<ग्रहिज्यावयिव्यधिवष्टिविचतिवृश्चतिपृच्छतिभृज्जतीनां ङिति च >> [[6.1.16]] इति वकारस्य सम्प्रसारणे उकारः ।]\n--> उश् + अनस् [<<सम्प्रसारणाच्च>> [[6.1.108]] इति पूर्वरूपम् ]\n--> उशनस्\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154004",
@@ -7005,7 +7005,7 @@
             "artha_hin": "समय",
             "vyutpatti": "न हन्यते इति\n= न + हन् + असि [<<नञि हन एह च>> <{UN4.223}>इति उणादिसूत्रेण <qt>असि</qt>-प्रत्ययः । ]\n--> न + हन् + अस् [प्रत्यये सकारोत्तरः इकारः उच्चारणार्थः, अतः सः लुप्यते ।]\n--> न + एह + अस् [<<नञि हन एह च>> <{UN4.223}>इति उणादिसूत्रेण हन्-धातोः <qt>एह</qt>-आदेशः]\n--> अ + एह + अस् [<<नलोपो नञः>> [[6.3.73]] इति नकारलोपः]\n--> अ + न्एह + अस् [<<तस्मान्नुडचि>> [[6.3.74]] इति नुडागमः]\n--> अनेहस्\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154005",
@@ -7025,7 +7025,7 @@
             "artha_hin": "ब्रह्मदेव, विष्णुदेव ।",
             "vyutpatti": "विदधाति सः\n= वि + धा (धारणपोषणयोः, <{3.11}>) + असि [<<विधाञो वेध च>> <{UN4.224}> इति असि-प्रत्ययः]\n--> वि + धा + अस् [इकारः उच्चारणार्थः, अतः सः लुप्यते ।]\n--> वेध + अस् [<<विधाञो वेध च>> <{UN4.224}> इति विधा-इत्यस्य <qt>वेध</qt>-आदेशः]\n--> वेधस् [<<अतो गुणे>> [[6.1.97]] इति पररूपैकादेशः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154006",
@@ -7045,7 +7045,7 @@
             "artha_hin": "वस्त्र, ढक्कन",
             "vyutpatti": "सुष्ठु वस्ते (आच्छादयति) सः\n= सु + वस् (आच्छादने, <{2.13}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> सुवस् + व् [ककारवकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> सुवस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154007",
@@ -7065,7 +7065,7 @@
             "artha_hin": "वह",
             "vyutpatti": "न दस्यते (उत्क्षिप्यते) (अंगुलिः यत्र इदन्तया निर्धारणाय; पुरोवर्त्तिनि एव अङ्गुलिनिर्देशः सम्भवति, न अपुरोवर्त्तिनि) \n= न + दस् (उपक्षये, <{4.110}>) + क्विप् [<<क्विप् च>> [[3.2.76]] ]\n--> न + दस् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> न + दस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> अ + दस् [<<नलोपो नञः>> [[6.3.73]] इति नकारलोपः]\n--> अदस्",
             "shabda_notes": "इदमस्तु स्यात् सन्निकृष्टे, समीपतरवर्ति चैतदो रूपम् । अदसस्तु विप्रकृष्टे, तदिति परोक्षे विजानीयात् ॥  \n",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "155001",
@@ -7084,7 +7084,7 @@
             "artha_hin": "जूता, चप्पल, पादुका",
             "vyutpatti": "उपनहति (बध्नाति) पादौ इति\n=  उप + नह् +  क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> उप + नह् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> उपानह्  + व् [<<अन्येषामपि दृश्यते>> [[6.3.137]] इति पूर्वपदस्य दीर्घः ।]\n--> उपानह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "155002",
@@ -7103,7 +7103,7 @@
             "artha_hin": "एक विशिष्ट छन्द का नाम जिसमें हर चरण में सांत अक्षर होते हैं ।",
             "vyutpatti": "उत्स्निह्यति इति\n= उत् + स्निह् + क्विन् [<<ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च>> [[3.2.59]] इति  क्विन्-प्रत्ययस्य निपातनम्।]\n--> उत् + स्निह्  + व् [ककारनकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> उ + ष्णिह् + व् [निपातनेन तकारलोपः षत्वं च । ]\n--> उष्णिह् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "156001",
@@ -7123,7 +7123,7 @@
             "artha_hin": "स्वर्ग",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "157001",
@@ -7143,7 +7143,7 @@
             "artha_hin": "सरस्वती, वाणी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "157002",
@@ -7163,7 +7163,7 @@
             "artha_hin": "चार",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "158001",
@@ -7183,7 +7183,7 @@
             "artha_hin": "क्या / कौन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "158002",
@@ -7203,7 +7203,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "159001",
@@ -7223,7 +7223,7 @@
             "artha_hin": "माला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "160001",
@@ -7243,7 +7243,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "160002",
@@ -7263,7 +7263,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "160003",
@@ -7283,7 +7283,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "161001",
@@ -7303,7 +7303,7 @@
             "artha_hin": "वाणी, सरस्वती",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "162001",
@@ -7323,7 +7323,7 @@
             "artha_hin": "दिशा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "162002",
@@ -7343,7 +7343,7 @@
             "artha_hin": "आँख, ज्ञान",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "163001",
@@ -7363,7 +7363,7 @@
             "artha_hin": "प्रभा, शोभा, कान्ति",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "163002",
@@ -7383,7 +7383,7 @@
             "artha_hin": "संबंधित, साथी, सहचर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "163003",
@@ -7403,7 +7403,7 @@
             "artha_hin": "बारिश, वर्षा ऋतु",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "163004",
@@ -7423,7 +7423,7 @@
             "artha_hin": "आशीर्वचन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "164001",
@@ -7443,7 +7443,7 @@
             "artha_hin": "वह",
             "vyutpatti": "न दस्यते (उत्क्षिप्यते) (अंगुलिः यत्र इदन्तया निर्धारणाय; पुरोवर्त्तिनि एव अङ्गुलिनिर्देशः सम्भवति, न अपुरोवर्त्तिनि) \n= न + दस् (उपक्षये, <{4.110}>) + क्विप् [<<क्विप् च>> [[3.2.76]] ]\n--> न + दस् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> न + दस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> अ + दस् [<<नलोपो नञः>> [[6.3.73]] इति नकारलोपः]\n--> अदस्",
             "shabda_notes": "इदमस्तु स्यात् सन्निकृष्टे, समीपतरवर्ति चैतदो रूपम् । अदसस्तु विप्रकृष्टे, तदिति परोक्षे विजानीयात् ॥",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "165001",
@@ -7463,7 +7463,7 @@
             "artha_hin": "स्त्री",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "166001",
@@ -7483,7 +7483,7 @@
             "artha_hin": "समस्या, विपत्ति",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "167001",
@@ -7503,7 +7503,7 @@
             "artha_hin": "भूख, क्षुधा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "168001",
@@ -7523,7 +7523,7 @@
             "artha_hin": "मर्यादा निर्धारण करनेवाली रेषा, बालों के दो भाग करनेवाली रेखा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "169001",
@@ -7543,7 +7543,7 @@
             "artha_hin": "दिशा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "170001",
@@ -7562,7 +7562,7 @@
             "artha_hin": "अच्छे बैलों का कुल ।",
             "vyutpatti": "शोभनाः अनड्वाहः यस्मिन् (कुले) तत् \n=  सु + अनडुह्  [<!प्रादिभ्यो धातुजस्योत्तरपदस्य लोपश्च वा बहुव्रीहिर्वक्तव्यः!> इति बहुव्रीहिसमासः]\n--> स्वनडुह् [<<इको यणचि>> [[6.1.77]] इति यणादेशः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "171001",
@@ -7582,7 +7582,7 @@
             "artha_hin": "निर्मल आकाश वाला दिन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "172001",
@@ -7602,7 +7602,7 @@
             "artha_hin": "पानी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "172002",
@@ -7622,7 +7622,7 @@
             "artha_hin": "चार",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "173001",
@@ -7642,7 +7642,7 @@
             "artha_hin": "क्या",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "173002",
@@ -7662,7 +7662,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174001",
@@ -7682,7 +7682,7 @@
             "artha_hin": "ब्राह्मण, प्रजापति, वेद, तप",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174002",
@@ -7702,7 +7702,7 @@
             "artha_hin": "दिन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174003",
@@ -7722,7 +7722,7 @@
             "artha_hin": "नाम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174004",
@@ -7742,7 +7742,7 @@
             "artha_hin": "दण्डधारी, द्वारपाल, संन्यासी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174005",
@@ -7762,7 +7762,7 @@
             "artha_hin": "माला पहननेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174006",
@@ -7782,7 +7782,7 @@
             "artha_hin": "मनोहर, मन को लुभानेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174007",
@@ -7802,7 +7802,7 @@
             "artha_hin": "कवच",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174008",
@@ -7822,7 +7822,7 @@
             "artha_hin": "सुंदर मार्गों वाला शहर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "175001",
@@ -7842,7 +7842,7 @@
             "artha_hin": "शक्तिः, ऊर्जा, सामर्थ्य, बल",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "175002",
@@ -7862,7 +7862,7 @@
             "artha_hin": "खून",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176001",
@@ -7882,7 +7882,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176002",
@@ -7902,7 +7902,7 @@
             "artha_hin": "जो",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176003",
@@ -7922,7 +7922,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177001",
@@ -7942,7 +7942,7 @@
             "artha_hin": "यकृत्",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177002",
@@ -7962,7 +7962,7 @@
             "artha_hin": "मलमूत्र",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177003",
@@ -7982,7 +7982,7 @@
             "artha_hin": "देनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177004",
@@ -8002,7 +8002,7 @@
             "artha_hin": "संसार, लोक, विश्व",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177005",
@@ -8022,7 +8022,7 @@
             "artha_hin": "दुःख देनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177006",
@@ -8042,7 +8042,7 @@
             "artha_hin": "पकानेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177007",
@@ -8062,7 +8062,7 @@
             "artha_hin": "चमकनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "178001",
@@ -8082,7 +8082,7 @@
             "artha_hin": "स्वच्छ पानीवाला तालाब",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "179001",
@@ -8102,7 +8102,7 @@
             "artha_hin": "धनुष",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "179002",
@@ -8122,7 +8122,7 @@
             "artha_hin": "यज्ञ में आहुती दी जानेवाला पदार्थ, जैसे की घी इत्यादि",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "179003",
@@ -8142,7 +8142,7 @@
             "artha_hin": "पढने की इच्छा रखनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "180001",
@@ -8162,7 +8162,7 @@
             "artha_hin": "पानी, दूध",
             "vyutpatti": "पीयते इति\nपा (पाने, <{1.1074}>) + असुन् [<<सर्वधातुभ्योऽसुन् >> <{UN4.188}> इति कर्मणि असुन्-प्रत्ययः]\n--> पा + अस् [नकारस्य इत्संज्ञा, लोपः । उकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> पि + अस् [धातोः अन्त्यादेशः इकारः निपात्यते ]\n--> पे + अस् [<<सार्वधातुकार्धधातुकयोः>> [[7.3.84]] इति गुणः]\n--> पय् + अस् [<<एचोऽयवायावः>> [[6.1.78]] इति अयादेशः]\n--> पयस्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "180002",
@@ -8182,7 +8182,7 @@
             "artha_hin": "अच्छे पुरुषों वाला कुल",
             "vyutpatti": "शोभनाः पुमांसः यस्मिन् कुले तत्\n= सु + पुम्स् [<!प्रादिभ्यो धातुजस्य वाच्यो वा चोत्तरपदलोपः!> इति बहुव्रीहिसमासः]\n--> सुपुम्स्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "180003",
@@ -8202,7 +8202,7 @@
             "artha_hin": "वह",
             "vyutpatti": "न दस्यते (उत्क्षिप्यते) (अंगुलिः यत्र इदन्तया निर्धारणाय; पुरोवर्त्तिनि एव अङ्गुलिनिर्देशः सम्भवति, न अपुरोवर्त्तिनि) \n= न + दस् (उपक्षये, <{4.110}>) + क्विप् [<<क्विप् च>> [[3.2.76]] ]\n--> न + दस् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> न + दस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> अ + दस् [<<नलोपो नञः>> [[6.3.73]] इति नकारलोपः]\n--> अदस्",
             "shabda_notes": "इदमस्तु स्यात् सन्निकृष्टे, समीपतरवर्ति चैतदो रूपम् । अदसस्तु विप्रकृष्टे, तदिति परोक्षे विजानीयात् ॥",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154008",
@@ -8222,7 +8222,7 @@
             "artha_hin": "पिण्ड (श्राद्ध में अर्पित भोजन) खानेवाला ",
             "vyutpatti": "पिण्डं ग्रसते (खादति) सः\n= पिण्ड + ग्रस् (अदने, <{1.717}>) + क्विप् [<<क्विप् च>> [[3.2.76]] ]\n--> = पिण्ड + ग्रस् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> पिण्ड + ग्रस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> पिण्डग्रस्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154009",
@@ -8242,7 +8242,7 @@
             "artha_hin": "पिण्ड (श्राद्ध में अर्पित भोजन) खानेवाला ",
             "vyutpatti": "पिण्डं ग्लसते (खादति) सः\n= पिण्ड + ग्लस् (अदने, <{1.718}>) + क्विप् [<<क्विप् च>> [[3.2.76]] ]\n--> = पिण्ड + ग्लस् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> पिण्ड + ग्लस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> पिण्डग्लस्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154010",
@@ -8262,7 +8262,7 @@
             "artha_hin": "जो बैठा हुआ था ऐसा",
             "vyutpatti": "सद् (विशरणगत्यवसादनेषु, <{1.990}>) + लिट् [<<भाषायां सदवसश्रुवः>> [[3.2.108]] इति सामान्यभूते लिट्]\n--> सद् + क्वसुँ [<<भाषायां सदवसश्रुवः>> [[3.2.108]] इति लिट्-प्रत्ययस्य क्वसु-आदेशः]\n--> सद् + वस् [ककार-उकारयोः इत्संज्ञा, लोपः]\n--> सद् सद् + वस् [<<लिटि धातोरनभ्यासस्य>> [[6.1.8]] इति द्वित्वम्]\n--> स सद् + वस् [<<हलादिः शेषः>> [[7.4.60]] ]\n--> सेद् + वस् [<<अत एकहल्मध्येऽनादेशादेर्लिटि >> [[6.4.120]] इति एत्वम्, अभ्यासलोपः]\n--> सेद् + इट् + वस् [<<वस्वेकाजाद्घसाम्>> [[7.2.67]] इति इडागमः]\n--> सेद् + इ + वस् [टकारस्य इत्संज्ञा, लोपः]\n--> सेदिवस्\n\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154011",
@@ -8282,7 +8282,7 @@
             "artha_hin": "अच्छी तरह से हिंसा करनेवाला",
             "vyutpatti": "सुष्ठु हिनस्ति\n= सु + हिसिँ (हिंसायाम्, <{7.19}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> सु + हिन्स् + क्विप् [<<इदितो नुम् धातोः>> [[7.1.58]] इति नुमागमः]\n--> सु + हिन्स् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> सु + हिन्स् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्तवकारस्य लोपः।]\n--> सुहिंस् [<<नश्चापदान्तस्य झलि>> [[8.3.24]] इति अनुस्वारः]\n<br>\nविशेषः - <qt>सुँ</qt>, <qt>भ्याम्</qt>, <qt>भिस्</qt>, <qt>भ्यस्</qt>, <qt>सुप्</qt> - एतेषु प्रत्ययेषु परेषु पदसंज्ञायां सत्याम् <<संयोगान्तस्य लोपः>> [[8.2.23]] इत्यनेन <qt>हिन्स्</qt> इत्यस्य सकारस्य लोपे कृते, <qt>सुहिन्</qt> इत्यत्र अपदान्तत्व-अभावात् नकारस्य अनुस्वारादेशः न भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154012",
@@ -8302,7 +8302,7 @@
             "artha_hin": "गिरनेवाला",
             "vyutpatti": "स्रंसते सः\n= स्रन्स् (अवस्रंसने, <{1.857}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> स्रन्स्+ व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> स्रस्+ व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति नकारलोपः]\n--> स्रस्  [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्तवकारस्य लोपः।]\n",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154013",
@@ -8322,7 +8322,7 @@
             "artha_hin": "गिरनेवाला",
             "vyutpatti": "ध्वंसते सः\n= ध्वन्स् (अवस्रंसने गतौ च, <{1.858}>) + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]\n--> ध्वन्स् + व् [ककारपकारयोः इत्संज्ञा, लोपः । वकारोत्तरः इकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> ध्वस्+ व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति नकारलोपः]\n--> ध्वस् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्तवकारस्य लोपः।]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153007",
@@ -8342,7 +8342,7 @@
             "artha_hin": "छह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153008",
@@ -8362,7 +8362,7 @@
             "artha_hin": "उत्कृष्ट छह",
             "vyutpatti": "परमश्चासौ षट् च",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153009",
@@ -8382,7 +8382,7 @@
             "artha_hin": "छह प्रिय होनेवाला",
             "vyutpatti": "प्रियाः षट् यस्य सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153010",
@@ -8402,7 +8402,7 @@
             "artha_hin": "धार करनेवाला, छिलनेवाला",
             "vyutpatti": "तक्षति / तक्ष्णोति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153011",
@@ -8422,7 +8422,7 @@
             "artha_hin": "गोरक्षक",
             "vyutpatti": "गाः रक्षति सः",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153012",
@@ -8442,7 +8442,7 @@
             "artha_hin": "धार करवानेवाला, छिलवानेवाला",
             "vyutpatti": "तक्षयति सः\n= तक्ष् + णिच् + क्विप्",
             "shabda_notes": "तक्ष्-धातोः ण्यन्तस्य क्विबन्तम् इदम् ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153013",
@@ -8462,7 +8462,7 @@
             "artha_hin": "गायों की रक्षा करवानेवाला",
             "vyutpatti": "गाः रक्षयति सः\n= गो + रक्ष् + णिच् + क्विप्",
             "shabda_notes": "रक्ष्-धातोः ण्यन्तस्य क्बिबन्तम् इदम् ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153014",
@@ -8482,7 +8482,7 @@
             "artha_hin": "पकाने की इच्छा रखनेवाला",
             "vyutpatti": "पक्तुम् इच्छति सः\n= पच् + सन् + क्विप्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153015",
@@ -8502,7 +8502,7 @@
             "artha_hin": "बोलने की इच्छा रखनेवाला",
             "vyutpatti": "वक्तुम् इच्छति सः\n= वच् + सन् + क्विप्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "153016",
@@ -8522,7 +8522,7 @@
             "artha_hin": "दाह करने की इच्छा रखनेवाला",
             "vyutpatti": "वक्तुम् इच्छति सः\n= वच् + सन् + क्विप्",
             "shabda_notes": "रक्ष्-धातोः ण्यन्तस्य क्बिबन्तम् इदम् ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154014",
@@ -8542,7 +8542,7 @@
             "artha_hin": "अच्छी तरह से जानेवाला",
             "vyutpatti": "सुष्ठु पेसति सः\n= सु + पिस् + क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "154015",
@@ -8562,7 +8562,7 @@
             "artha_hin": "अच्छी तरह से काँटनेवाला",
             "vyutpatti": "सुष्ठु तोसति सः\n= सु + तुस्+ क्विप् [<<क्विप् च>> [[3.2.76]] इति क्विप्]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "141003",
@@ -8582,7 +8582,7 @@
             "artha_hin": "श्रेष्ठ ऐसे चार",
             "vyutpatti": "परमाश्च ते चत्वारश्च",
             "shabda_notes": "चतुर्-शब्दसदृशः एव अयम् अपि शब्दः नित्यबहुवचनान्तः अस्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "144002",
@@ -8602,7 +8602,7 @@
             "artha_hin": "अच्छी तरह से गिननेवाला",
             "vyutpatti": "सुगणयति सः\n= सु + गण् + क्विप्",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145025",
@@ -8622,7 +8622,7 @@
             "artha_hin": "दस",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145026",
@@ -8642,7 +8642,7 @@
             "artha_hin": "आठ",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145027",
@@ -8662,7 +8662,7 @@
             "artha_hin": "श्रेष्ठ पांच",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145028",
@@ -8682,7 +8682,7 @@
             "artha_hin": "श्रेष्ठ आठ",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "181001",
@@ -8702,7 +8702,7 @@
             "artha_hin": "ज्ञानी",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146012",
@@ -8722,7 +8722,7 @@
             "artha_hin": "जोडनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "146013",
@@ -8742,7 +8742,7 @@
             "artha_hin": "ब्रह्मदेव",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147014",
@@ -8762,7 +8762,7 @@
             "artha_hin": "श्रेष्ठ ऐसा वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147015",
@@ -8782,7 +8782,7 @@
             "artha_hin": "वह जिसने किसीको (गुणों मे) पीछे छोड दिया है",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147016",
@@ -8802,7 +8802,7 @@
             "artha_hin": "किसीका नाम / संज्ञा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147017",
@@ -8822,7 +8822,7 @@
             "artha_hin": "श्रेष्ठ ऐसे तुम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "147018",
@@ -8842,7 +8842,7 @@
             "artha_hin": "श्रेष्ठ ऐसा मैं",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "150013",
@@ -8862,7 +8862,7 @@
             "artha_hin": "होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "157003",
@@ -8882,7 +8882,7 @@
             "artha_hin": "नगर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "160004",
@@ -8902,7 +8902,7 @@
             "artha_hin": "जो",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "182001",
@@ -8922,7 +8922,7 @@
             "artha_hin": "पानी",
             "vyutpatti": "",
             "shabda_notes": "नित्यबहुवचनान्तः अयं शब्दः ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "173003",
@@ -8942,7 +8942,7 @@
             "artha_hin": "यह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "145029",
@@ -8962,7 +8962,7 @@
             "artha_hin": "ग्रीष्म ऋतु",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174009",
@@ -8982,7 +8982,7 @@
             "artha_hin": "वह जो अच्छी तरह से बोल पाये",
             "vyutpatti": "(प्रशस्ता) वाक् अस्य सः \n= वाच् + ग्मिनि [<<वाचो ग्मिनिः>> [[5.3.124]] इति ग्मिनि-प्रत्ययः । अयं तद्धितप्रत्ययः, अतः अस्य प्रत्ययस्य गकारः इत्संज्ञकः नास्ति ।]\n--> वाच् + ग्मिन् [नकारोत्तरः इकारः उच्चारणार्थः, सः लुप्यते ।]\n--> वाक् + ग्मिन् [<<चोः कुः>> [[8.2.30]] इति कुत्वम्]\n--> वाग् + ग्मिन् [<<झलां जशोऽन्ते>> [[8.2.39]] इति जश्त्वम्]\n--> वाग्ग्मिन्",
             "shabda_notes": "अस्मिन् शब्दे गकारद्वयम् वर्तते  (<qt>वा ग् ग् मी</qt> इति) । तयोः स्थाने केवलः एकः गकारः न लेखनीयः । \"वाग्मी\" इति अशुद्धं ज्ञेयम् ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174010",
@@ -9002,7 +9002,7 @@
             "artha_hin": "ब्रह्मदेव का एक दिवस",
             "vyutpatti": "बहवः वृत्रहानः वर्तन्ते अस्मिन् सः",
             "shabda_notes": "ब्रह्मदेवस्य एकस्मिन् दिवसे अनेके इन्द्राः जायन्ते, म्रियन्ते च । अतएव \"बहवः वृत्रहानः वर्तन्ते अस्मिन्\" इति व्युत्पत्या बहुव्रीहिसमासेन \"बहुवृत्रहन्\" इति सिद्धः शब्दः ब्रह्मदेवस्य एकस्य दिनस्य निर्देशं करोति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174011",
@@ -9022,7 +9022,7 @@
             "artha_hin": "मन्वन्तर",
             "vyutpatti": "बहवः पूषणः वर्तन्ते अस्मिन् सः",
             "shabda_notes": "एकस्मिन् मन्वन्तरे अनेके सूर्याः जायन्ते, म्रियन्ते च । अतएव \"बहवः पूषणः वर्तन्ते अस्मिन्\" इति व्युत्पत्या बहुव्रीहिसमासेन \"बहुपूषन्\" इति सिद्धः शब्दः मन्वन्तरस्य निर्देशं करोति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "174012",
@@ -9042,7 +9042,7 @@
             "artha_hin": "मन्वन्तर",
             "vyutpatti": "बहवः अर्यमणः वर्तन्ते अस्मिन् सः",
             "shabda_notes": "एकस्मिन् मन्वन्तरे अनेके सूर्याः जायन्ते, म्रियन्ते च । अतएव \"बहवः अर्यमणः वर्तन्ते अस्मिन्\" इति व्युत्पत्या बहुव्रीहिसमासेन \"बह्वर्यमन्\" इति सिद्धः शब्दः मन्वन्तरस्य निर्देशं करोति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "175003",
@@ -9062,7 +9062,7 @@
             "artha_hin": "बहुत ऊर्जा होनेवाला कुल",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176004",
@@ -9082,7 +9082,7 @@
             "artha_hin": "वह",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176005",
@@ -9102,7 +9102,7 @@
             "artha_hin": "बार बार तुटनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "176006",
@@ -9122,7 +9122,7 @@
             "artha_hin": "बार बार तोडनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "183001",
@@ -9142,7 +9142,7 @@
             "artha_hin": "गांय के पीछे जानेवाला कुल",
             "vyutpatti": "गाम् अञ्चति (गां प्रति गच्छति)\n= गो + अन्च् (गतिपूजनयोः, <{1.215}>) + क्विन् [<<ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च>> [[3.2.59]] इति क्विन्]\n--> गो + अन्च् + व् [ककारनकारयोः इत्संज्ञा, लोपः । वकारोत्तरः अकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> गो + अच् + व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति उपधा-नकारस्य लोपः]\n--> गोअच् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "183002",
@@ -9162,7 +9162,7 @@
             "artha_hin": "गांय की पूजा करनेवाला कुल",
             "vyutpatti": "गाम् अञ्चति (गां पूजयति)\n= गो + अन्च् (गतिपूजनयोः, <{1.215}>) + क्विन् [<<ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च>> [[3.2.59]] इति क्विन्]\n--> गो + अन्च् + व् [ककारनकारयोः इत्संज्ञा, लोपः । वकारोत्तरः अकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> गो + अन्च् + व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति उपधा-नकारस्य लोपे प्राप्ते, <<नाञ्चेः पूजायाम्>> [[6.4.30]] इति निषेधः । ]\n--> गोअन्च् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> गोअञ्च् [<<नश्चापदान्तस्य झलि>> [[8.3.24]], <<अनुस्वारस्य ययि परसवर्णः>> [[8.4.58]] इति अनुस्वार-परसवर्णौ]\n<br>\nअग्रे वस्तुतः पदसंज्ञकस्य <qt>गो</qt>-शब्दस्य ओकारस्य तथा च <qt>अञ्च्</qt>-धातोः अकारस्य <<एङः पदान्तादति>> [[6.1.109]] इत्यनेन पूर्वरूपैकदेशे (ओकारादेशे) प्राप्ते;  तद् विकल्पेन बाधित्वा <<अवङ् स्फोटायनस्य>> [[6.1.123]] इत्यनेन विकल्पेन <qt>अवङ्</qt>-आदेशः, तथा च पक्षे <<सर्वत्र विभाषा गोः>> [[6.1.122]] इत्यनेन प्रकृतिभावः अपि सम्भवति, येन <qt>गोऽञ्च्</qt>, <qt>गवाञ्च्</qt> तथा च <qt>गोअञ्च्</qt> इति त्रीणि प्रातिपदिकानि सिद्ध्यन्ति । एतानि सिद्धान्तकौमुदीम् अनुसृत्य सुबन्तरूपसिद्धौ प्रदर्शितानि सन्ति ।",
             "shabda_notes": "अत्र वस्तुतः <qt>गोअञ्च्</qt> इत्यस्यां स्थितौ पदसंज्ञकस्य <qt>गो</qt>-शब्दस्य ओकारस्य तथा च <qt>अञ्च्</qt>-धातोः अकारस्य <<एङः पदान्तादति>> [[6.1.109]] इत्यनेन पूर्वरूपैकदेशे (ओकारादेशे) प्राप्ते;  तद् विकल्पेन बाधित्वा <<अवङ् स्फोटायनस्य>> [[6.1.123]] इत्यनेन विकल्पेन <qt>अवङ्</qt>-आदेशः, तथा च पक्षे <<सर्वत्र विभाषा गोः>> [[6.1.122]] इत्यनेन प्रकृतिभावः अपि सम्भवति, येन <qt>गोऽञ्च्</qt>, <qt>गवाञ्च्</qt> तथा च <qt>गोअञ्च्</qt> इति त्रीणि प्रातिपदिकानि सिद्ध्यन्ति । एतानि सिद्धान्तकौमुदीम् अनुसृत्य सुबन्तरूपसिद्धौ प्रदर्शितानि सन्ति ।",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "183003",
@@ -9182,7 +9182,7 @@
             "artha_hin": "तिरछा जानेवाला कुल",
             "vyutpatti": "तिरःअञ्चति (गच्छति)\n= तिरस् + अन्च् (गतिपूजनयोः, <{1.215}>) + क्विन् [<<ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च>> [[3.2.59]] इति क्विन्]\n--> तिरस् + अन्च् + व् [ककारनकारयोः इत्संज्ञा, लोपः । वकारोत्तरः अकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> तिरस् + अच् + व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति उपधा-नकारस्य लोपः । ]\n--> तिरि + अच् + व् [<<तिरसस्तिर्यलोपे >> [[6.3.94]] इति तिरि-आदेशः]\n--> तिर्यच् + व् [<<इको यणचि>> [[6.1.77]] इति यणादेशः]\n--> तिर्यच्  [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "183004",
@@ -9202,7 +9202,7 @@
             "artha_hin": "तिरछी पूजा करनेवाला कुल",
             "vyutpatti": "तिरःअञ्चति (गच्छति)\n= तिरस् + अन्च् (गतिपूजनयोः, <{1.215}>) + क्विन् [<<ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च>> [[3.2.59]] इति क्विन्]\n--> तिरस् + अन्च् + व् [ककारनकारयोः इत्संज्ञा, लोपः । वकारोत्तरः अकारः उच्चारणार्थः, सोऽपि लुप्यते ।]\n--> तिरस् + अन्च् + व् [<<अनिदितां हल उपधायाः क्ङिति>> [[6.4.24]] इति उपधा-नकारस्य लोपे प्राप्ते <<नाञ्चेः पूजायाम्>> [[6.4.30]] इति निषेधः । ]\n--> तिरस् + अन्च् [<<वेरपृक्तस्य>> [[6.1.67]] इति अपृक्त-वकारस्य लोपः]\n--> तिरि + अन्च् + व् [तिरस्-शब्दात् अञ्च्-धातोः लुप्त-प्रत्ययात्मके, अलुप्त-अकारात्मके चे रूपे परे तिरस्-शब्दस्य <<तिरसस्तिर्यलोपे >> [[6.3.94]] इति तिरि-आदेशः भवति ।]\n--> तिर्यन्च् [<<इको यणचि>> [[6.1.77]] इति यणादेशः]\n--> तिर्यञ्च् [<<नश्चापदान्तस्य झलि>> [[8.3.24]] इति अनुस्वारः । <<अनुस्वारस्य ययि परसवर्णः> [[8.4.58]]  इति परसवर्णः ]",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "177008",
@@ -9222,7 +9222,7 @@
             "artha_hin": "चमकनेवाला, सुंदर दिखनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         },
         {
             "ind": "179004",
@@ -9242,7 +9242,7 @@
             "artha_hin": "आंख",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ""
+            "prakriya_tags": []
         }
     ]
 }
