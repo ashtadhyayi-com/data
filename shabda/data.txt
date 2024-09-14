@@ -439,7 +439,7 @@
             "artha_hin": "समान, सदृश, तुल्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ['NON_SARVANAAM]
+            "prakriya_tags": ["NON_SARVANAAM"]
         },
         {
             "ind": "101023",
@@ -739,7 +739,7 @@
             "artha_hin": "रिश्तेदार, धन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ['NON_SARVANAAM']
+            "prakriya_tags": ["NON_SARVANAAM"]
         },
         {
             "ind": "101038",
