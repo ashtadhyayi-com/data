@@ -79,7 +79,7 @@
             "artha_hin": "सब",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101005",
@@ -99,7 +99,7 @@
             "artha_hin": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101006",
@@ -159,7 +159,7 @@
             "artha_hin": "दोनोंमेसे कौन?",
             "vyutpatti": "'किम्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'कतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'कतर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101009",
@@ -179,7 +179,7 @@
             "artha_hin": "दोनोंमें से जो भी",
             "vyutpatti": "'यद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'यतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'-प्रत्ययस्य निर्देशात् 'यतर' शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101010",
@@ -199,7 +199,7 @@
             "artha_hin": "दोनोंमें से वह",
             "vyutpatti": "'तद्' सर्वनामशब्दात् <<किंयत्तदो निर्द्धारणे द्वयोरेकस्य डतरच्>> [[5.3.92]] इत्यनेन डतर-प्रत्यये कृते 'ततर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'ततर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101011",
@@ -219,7 +219,7 @@
             "artha_hin": "दोनों में से एक",
             "vyutpatti": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतर-प्रत्यये कृते 'एकतर' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतर'प्रत्ययस्य निर्देशात् 'एकतर'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101012",
@@ -239,7 +239,7 @@
             "artha_hin": "दोनों में से कौन ?",
             "vyutpatti": "'किम्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'कतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'कतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101013",
@@ -259,7 +259,7 @@
             "artha_hin": "अनेकों में से जो भी",
             "vyutpatti": "'यद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'यतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'यतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+           "prakriya_tags": []
         },
         {
             "ind": "101014",
@@ -279,7 +279,7 @@
             "artha_hin": "अनेकों में से वह",
             "vyutpatti": "'तद्' सर्वनामशब्दात् <<वा बहूनां जातिपरिप्रश्ने डतमच्>> [[5.3.93]] इत्यनेन डतम-प्रत्यये कृते 'ततम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'ततम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101015",
@@ -299,7 +299,7 @@
             "artha_hin": "अनेकों में से एक",
             "vyutpatti": "'एक' सर्वनामशब्दात् <<एकाच्च प्राचाम्>> [[5.3.94]] इत्यनेन डतम-प्रत्यये कृते 'एकतम' इति शब्दः सिद्ध्यति । <<सर्वादीनि सर्वनामानि>> [[1.1.27]] इत्यत्र निर्दिष्टे सर्वादिगणे 'डतम'प्रत्ययस्य निर्देशात् 'एकतम'शब्दस्य सर्वनामसंज्ञा भवति ।",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101016",
@@ -319,7 +319,7 @@
             "artha_hin": "अन्य, भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101017",
@@ -339,7 +339,7 @@
             "artha_hin": "अलग",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101018",
@@ -359,7 +359,7 @@
             "artha_hin": "दूसरा, अलग. भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101019",
@@ -399,7 +399,7 @@
             "artha_hin": "भिन्न",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101021",
@@ -419,7 +419,7 @@
             "artha_hin": "सब",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101022",
@@ -439,7 +439,7 @@
             "artha_hin": "समान, सदृश, तुल्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": []
+            "prakriya_tags": ['NON_SARVANAAM]
         },
         {
             "ind": "101023",
@@ -459,7 +459,7 @@
             "artha_hin": "सब, प्रत्येक, समस्त, सम्पूर्ण",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101024",
@@ -479,7 +479,7 @@
             "artha_hin": "एक यह संख्या, असहाय, भिन्न, अन्य, केवल, मुख्य",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101025",
@@ -499,7 +499,7 @@
             "artha_hin": "एक से ज्यादा, अनेक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101026",
@@ -519,7 +519,7 @@
             "artha_hin": "दों, दोनों",
             "vyutpatti": "",
             "shabda_notes": "अयं शब्दः नित्यद्विवचनान्तः एव अस्ति ।",
-            "prakriya_tags": ["SARVANAAM", "ONLY_DVI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101027",
@@ -539,7 +539,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "NON_DVI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101028",
@@ -559,7 +559,7 @@
             "artha_hin": "आधा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101029",
@@ -579,7 +579,7 @@
             "artha_hin": "दिशा का नाम, प्रथम, पहला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101030",
@@ -599,7 +599,7 @@
             "artha_hin": "दूसरा, दूर, उत्तम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101031",
@@ -619,7 +619,7 @@
             "artha_hin": "चरम, अन्तिम, कनिष्ठ, अधम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101032",
@@ -639,7 +639,7 @@
             "artha_hin": "दक्षिण दिशा, दाया",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101033",
@@ -659,7 +659,7 @@
             "artha_hin": "उत्तर दिशा, बादमें, उपर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101034",
@@ -679,7 +679,7 @@
             "artha_hin": "अन्य, इतर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101035",
@@ -699,7 +699,7 @@
             "artha_hin": "नीचे",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101036",
@@ -719,7 +719,7 @@
             "artha_hin": "स्वयम्, अपना",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101037",
@@ -739,7 +739,7 @@
             "artha_hin": "रिश्तेदार, धन",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": []
+            "prakriya_tags": ['NON_SARVANAAM']
         },
         {
             "ind": "101038",
@@ -759,7 +759,7 @@
             "artha_hin": "नीचला वस्त्र, बाहर का",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "POORVADI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101039",
@@ -779,7 +779,7 @@
             "artha_hin": "अवकाश, अवधि, अवसर",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": []
+            "prakriya_tags": ["NON_SARVANAAM"]
         },
         {
             "ind": "101040",
@@ -819,7 +819,7 @@
             "artha_hin": "पहले और बादमें",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": []
         },
         {
             "ind": "101042",
@@ -839,7 +839,7 @@
             "artha_hin": "मुख्य, पहला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101043",
@@ -859,7 +859,7 @@
             "artha_hin": "अन्तिम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101044",
@@ -879,7 +879,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101045",
@@ -899,7 +899,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101046",
@@ -919,7 +919,7 @@
             "artha_hin": "अल्प, थोडासा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101047",
@@ -939,7 +939,7 @@
             "artha_hin": "हिस्सा, अंश",
             "vyutpatti": "",
             "shabda_notes": "<qt>अर्ध</qt>-शब्दः पुंलिङ्गे \"अंशः\" अस्मिन् अर्थे, तथा च नपुंसकलिङ्गे \"समांशः\" (half) अस्मिन् अर्थे प्रयुज्यते ।",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101048",
@@ -959,7 +959,7 @@
             "artha_hin": "कुछ, कई, कई एक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["PRATHAMCHARAM"]
+            "prakriya_tags": []
         },
         {
             "ind": "101049",
@@ -979,7 +979,7 @@
             "artha_hin": "दूसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["TEEYASYA"]
+            "prakriya_tags": []
         },
         {
             "ind": "101050",
@@ -999,7 +999,7 @@
             "artha_hin": "तीसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["TEEYASYA"]
+            "prakriya_tags": []
         },
         {
             "ind": "101051",
