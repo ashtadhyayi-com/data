@@ -559,7 +559,7 @@
             "artha_hin": "आधा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["SARVANAAM", "VIBHASHA_JASI"]
+            "prakriya_tags": ["SARVANAAM", "PRATHAMCHARAM"]
         },
         {
             "ind": "101029",
@@ -839,7 +839,7 @@
             "artha_hin": "मुख्य, पहला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101043",
@@ -859,7 +859,7 @@
             "artha_hin": "अन्तिम",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101044",
@@ -879,7 +879,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101045",
@@ -899,7 +899,7 @@
             "artha_hin": "दो अवयव होनेवाला",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101046",
@@ -919,7 +919,7 @@
             "artha_hin": "अल्प, थोडासा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101047",
@@ -939,7 +939,7 @@
             "artha_hin": "हिस्सा, अंश",
             "vyutpatti": "",
             "shabda_notes": "<qt>अर्ध</qt>-शब्दः पुंलिङ्गे \"अंशः\" अस्मिन् अर्थे, तथा च नपुंसकलिङ्गे \"समांशः\" (half) अस्मिन् अर्थे प्रयुज्यते ।",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101048",
@@ -959,7 +959,7 @@
             "artha_hin": "कुछ, कई, कई एक",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["VIBHASHA_JASI"]
+            "prakriya_tags": ["PRATHAMCHARAM"]
         },
         {
             "ind": "101049",
