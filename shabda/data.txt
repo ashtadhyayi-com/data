@@ -979,7 +979,7 @@
             "artha_hin": "दूसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["TIYASYA"]
+            "prakriya_tags": ["TEEYASYA"]
         },
         {
             "ind": "101050",
@@ -999,7 +999,7 @@
             "artha_hin": "तीसरा",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": ["TIYASYA"]
+            "prakriya_tags": ["TEEYASYA"]
         },
         {
             "ind": "101051",
