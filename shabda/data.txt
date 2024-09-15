@@ -1159,7 +1159,7 @@
             "artha_hin": "बीवी",
             "vyutpatti": "",
             "shabda_notes": "\"पत्नी\" अस्मिन् अर्थे प्रयुक्तः गृह-शब्दः पुंलिङ्गः, नित्यबहुवचनान्तः च अस्ति ।",
-            "prakriya_tags": []
+            "prakriya_tags": ["NON_EKAVACHAN", "NON_DVIVACHAN"]
         },
         {
             "ind": "101059",
@@ -1179,7 +1179,7 @@
             "artha_hin": "बीवी",
             "vyutpatti": "",
             "shabda_notes": "\"पत्नी\" अस्मिन् अर्थे प्रयुक्तः दार-शब्दः पुंलिङ्गः, नित्यबहुवचनान्तः च अस्ति ।",
-            "prakriya_tags": []
+            "prakriya_tags":  ["NON_EKAVACHAN", "NON_DVIVACHAN"]
         },
         {
             "ind": "101060",
@@ -1199,7 +1199,7 @@
             "artha_hin": "उपपति, प्रेमी, आशिक",
             "vyutpatti": "",
             "shabda_notes": "अयं शब्दः नित्यबहुवचनान्तः अस्ति ।",
-            "prakriya_tags": []
+            "prakriya_tags": ["NON_EKAVACHAN", "NON_DVIVACHAN"]
         },
         {
             "ind": "101061",
