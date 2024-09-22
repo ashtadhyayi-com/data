@@ -2725,7 +2725,7 @@
             "artha_eng": "",
             "vyutpatti": "",
             "shabda_notes": "",
-            "prakriya_tags": []
+            "prakriya_tags":  ["NON_EKAVACHAN", "NON_DVIVACHAN"]
         },
         {
             "ind": "114003",
