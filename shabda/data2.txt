@@ -1,4 +1,6 @@
-[
+{
+    "name" : "shabdapatha_v2",
+    "data" : [
     {
       "baseindex": "1.1",
       "word": "अ",
@@ -223578,3 +223580,4 @@
       "urlid": "hiMsA1"
     }
   ]
+}
