@@ -25402,7 +25402,7 @@
       "amara_artha": "",
       "artha_hin": "शक्तिः, ऊर्जा, सामर्थ्य, बल",
       "artha_eng": "Strength, Vigour",
-      "sk": "",
+      "sk": "443",
       "lsk": "",
       "vyutpatti": "",
       "shabda_notes": "",
