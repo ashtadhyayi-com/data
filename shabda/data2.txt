@@ -25123,7 +25123,7 @@
       "artha_hin": "यह",
       "artha_eng": "This",
       "sk": "443",
-      "lsk": "36",
+      "lsk": "362",
       "vyutpatti": "",
       "shabda_notes": "",
       "info": "",
