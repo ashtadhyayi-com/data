@@ -1,0 +1,716 @@
+{
+    "name": "आख्यातचन्द्रिका",
+    "data": [
+        {
+            "kanda_id": 1,
+            "kanda_name": "प्रथमकाण्डः",
+            "mangalam": [
+                "भूवार्यादिप्रकृतये पुरुषत्रयमूर्तये । सदाख्यातपदायास्मै परस्मायात्मने नमः",
+                "संस्मृत्य गुरुपादाब्जे भट्टमल्लेन रच्यते । व्युत्पित्सूनां प्रमोदार्थमेकार्थाख्यातपद्धतिः"
+            ],
+            "vargas" : [
+                {
+                    "varga_id" : 1,
+                    "varga_name": "भावविकारवर्गः",
+                    "shlokas" : [
+                        {
+                             "num": 1,
+                             "text": "सत्तायामस्ति विद्यते चाथ जन्मनि। उत्पद्यते जायते च प्ररोहत्युद्भवत्यपि।",
+                             "verbs": [
+                                {"form": "अस्ति", "dhatu_id": "", "upasagra": ""},
+                                {"form": "विद्यते", "dhatu_id": "", "upasagra": ""},
+                                {"form": "उत्पद्यते", "dhatu_id": "", "upasagra": "उद्"},
+                                {"form": "जायते", "dhatu_id": "", "upasagra": ""},
+                                {"form": "प्ररोहति", "dhatu_id": "", "upasagra": "प्र"},
+                                {"form": "उद्भवति", "dhatu_id": "", "upasagra": "उद्"}
+                            ]
+                        },
+                        {
+                            "num": 2,
+                            "text": "निर्वतते सम्भवति सिद्धौ सिध्यति राध्यति । निष्पदयते च राध्नोति साध्नोति फलतीति च ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 3,
+                            "text": "वर्तते तु वसत्यास्ते ध्रियते चावतिष्ठते । क्षियति स्थलति स्थित्यां मठत्यपि च तिष्ठति ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 4,
+                            "text": "जीवे बलत्यूर्जयति श्वसित्यनिति जीवति । अन्यतेऽथ प्राणिति च समनित्युदनित्यपि ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 5,
+                            "text": "व्यनित्यपानिति प्राणवृत्तिष्वाख्यातपञ्चकम् । कुच्छ्रजीवे क्षञ्जयति कठत्यातङ्कति त्रयम् ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 6,
+                            "text": "परिणामे परिणमत्यात्मनेऽपि विवर्तते । सम्पद्यते कल्पतेऽथ वृद्धौ बृंहति वर्धते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 7,
+                            "text": "आप्यायते स्फायते च श्वयत्यूनोति बहति । आपूर्यते पुष्यति च पोषयुध्यति पृषति ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 8,
+                            "text": "वंहते मंहते मेध्यत्येधते च विपोलति । नीवत्यपि स्थूलयते तथा पीवति मावति ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 9,
+                            "text": "महीयते च वठति विपोलयति तीवति । क्रमते प्यायते स्फीतीभवति प्रथतेऽपि च ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 10,
+                            "text": "क्रम्यते प्रसते तौति तबीति च्छान्दसौ कचित् । स्फुटति स्फोटते फुल्लत्युन्मीलत्यपि पुष्प्यति ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 11,
+                            "text": "विजृम्भते विकचते विकासे विकसत्यपि । मीलति स्मीलति क्ष्मीलत्येते सङ्कुचतीति च ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 12,
+                            "text": "कूणयत्यपि सङ्कोचे मुकुलीभवतीति षट् । अथो जरायां जरति सप्त जीयेति झीर्यति ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 13,
+                            "text": "जूर्यते जारयति च जिनाति च जृणाति च । दलति स्फोटति विशीर्यते फलति शीयते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 14,
+                            "text": "द्राडतेऽमी विशरणे धाडते चाष्ट सीदति । अल्पत्वे लिश्यते कृश्यत्यमी इसति'चुण्डते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 15,
+                            "text": "चत्वारोऽथ दरिद्राति व्यनोति व्य॒ध्यतीत्यपि । दरिद्रत्वे प्रयोऽथापक्षीयते चापि दीयते ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 16,
+                            "text": "अपक्षये जायति चापक्षयत्यपि दस्यति । तस्यत्यपि क्षायति च सायतीति पदाष्टकम् ॥",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 17,
+                            "text": "सप्त प्रध्वंसतेऽप्येति विनश्यति विलीयते । प्रलीयते विनाशेऽमी स्यू रिष्यति विपद्यते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 18,
+                            "text": "परैति प्रति मरणे म्रियते च प्रमीयते । सन्तिष्ठते समाप्नोति विरमत्यारमत्यपि ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 19,
+                            "text": "पर्यवस्यत्युपरमत्यात्मनेपदसंस्थितौ । निर्वाति निर्वायति विध्यायत्युद्वायतीति च ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 20,
+                            "text": "उद्वाति शाम्यतीत्येते तेजसो विरतौ तु षट् । इति भावविकाराः षट् सभेदाः प्राय ईरिताः ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 2,
+                    "varga_name": "बुद्धिवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "स्फूर्ती सप्ताविरस्त्याविर्भवति प्रादुरस्ति च । प्रादुर्भवति स्फुरति प्रतिभासते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 2,
+                            "text": "वेत्ति जानाति जानीते वेद बोधति बुध्यते । निबोधते चेतयते मन्यते प्रतिपद्यते ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 3,
+                            "text": "प्रेक्षते पण्डते प्रत्येत्यवगच्छति चेतति । मनुते चोपलभते वैति वेदयतेऽञ्चति ॥",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 4,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 5,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 3,
+                    "varga_name": "अन्तःकरणवृत्तिवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 2,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 3,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 4,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 5,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 4,
+                    "varga_name": "वाक्क्रियावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 2,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 3,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 4,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 5,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 5,
+                    "varga_name": "ध्वनिक्रियावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 2,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 3,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 4,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                            "num": 5,
+                            "text": "",
+                             "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "kanda_id": 2,
+            "kanda_name": "द्वितीयकाण्डः",
+            "mangalam": [
+                "अथोच्यन्ते नृविप्रादिचेष्टा वर्गैः समासतः । प्रसङ्गसङ्गताश्चान्याः पर्यायैस्तिङ्पदात्मकैः ॥"
+            ],
+            "vargas" : [
+                {
+                    "varga_id" : 1,
+                    "varga_name": "मनुष्यचेष्टावर्गः",
+                    "shlokas" : [
+                        {
+                             "num": 1,
+                             "text": "",
+                              "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        },
+                        {
+                             "num": 2,
+                             "text": "",
+                              "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 2,
+                    "varga_name": "ब्रह्मचेष्टावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 3,
+                    "varga_name": "क्षत्रियचेष्टावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 4,
+                    "varga_name": "वैश्यचेष्टावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 5,
+                    "varga_name": "शूद्रचेष्टावर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+        ,
+        {
+            "kanda_id": 3,
+            "kanda_name": "तृतीयकाण्डः",
+            "mangalam": ["प्रकीर्णकसनाद्यन्तनानार्थान्यात्मनेपदे । तदन्यस्मिन् विभागश्च सङ्गृह्यन्तेऽत्र वर्गशः ॥"],
+            "vargas" : [
+                {
+                    "varga_id" : 1,
+                    "varga_name": "प्रकीर्णवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 2,
+                    "varga_name": "सनाद्यन्तवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 3,
+                    "varga_name": "नानार्थवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "varga_id" : 4,
+                    "varga_name": "आत्मनेपदपरस्मैपदवर्गः",
+                    "shlokas" : [
+                        {
+                            "num": 1,
+                            "text": "",
+                            "verbs": [
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""},
+                                {"form": "", "dhatu_id": "", "upasagra": ""}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
