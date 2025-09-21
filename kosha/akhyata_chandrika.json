@@ -17,12 +17,12 @@
                              "num": 1,
                              "text": "सत्तायामस्ति विद्यते चाथ जन्मनि। उत्पद्यते जायते च प्ररोहत्युद्भवत्यपि।",
                              "verbs": [
-                                {"form": "अस्ति", "dhatu_id": "", "upasagra": ""},
-                                {"form": "विद्यते", "dhatu_id": "", "upasagra": ""},
-                                {"form": "उत्पद्यते", "dhatu_id": "", "upasagra": "उद्"},
-                                {"form": "जायते", "dhatu_id": "", "upasagra": ""},
-                                {"form": "प्ररोहति", "dhatu_id": "", "upasagra": "प्र"},
-                                {"form": "उद्भवति", "dhatu_id": "", "upasagra": "उद्"}
+                                {"form": "अस्ति", "dhatu_id": "02.0060", "upasagra": ""},
+                                {"form": "विद्यते", "dhatu_id": "04.0067", "upasagra": ""},
+                                {"form": "उत्पद्यते", "dhatu_id": "04.0065", "upasagra": "उद्"},
+                                {"form": "जायते", "dhatu_id": "04.0044", "upasagra": ""},
+                                {"form": "प्ररोहति", "dhatu_id": "01.0095", "upasagra": "प्र"},
+                                {"form": "उद्भवति", "dhatu_id": "01.0001", "upasagra": "उद्"}
                             ]
                         },
                         {
