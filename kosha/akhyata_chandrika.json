@@ -504,24 +504,28 @@
                                     "artha": "वृद्धौ",
                                     "entries": [
                                         {
-                                            "form": "क्रम्यते (छ)",
+                                            "form": "क्रम्यते",
                                             "dhatu_id": "01.0545",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "प्रसते (छ)",
+                                            "form": "प्रसते",
                                             "dhatu_id": "01.0870",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "तौति (छ)",
+                                            "form": "तौति",
                                             "dhatu_id": "02.0029",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "तवीति (छ)",
+                                            "form": "तवीति",
                                             "dhatu_id": "02.0029",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 },
@@ -3729,34 +3733,40 @@
                                     "artha": "जिघांसने",
                                     "entries": [
                                         {
-                                            "form": "चिरिणोति (छ)",
+                                            "form": "चिरिणोति",
                                             "dhatu_id": "05.0034",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "रिणोति (छ)",
+                                            "form": "रिणोति",
                                             "dhatu_id": "05.0032",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "क्षिणोति (छ)",
+                                            "form": "क्षिणोति",
                                             "dhatu_id": "05.0033, 08.0004 (More than one)",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "जिरिणोति (छ)",
+                                            "form": "जिरिणोति",
                                             "dhatu_id": "05.0035",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "दाश्नोति (छ)",
+                                            "form": "दाश्नोति",
                                             "dhatu_id": "05.0036",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "दृणोति (छ)",
+                                            "form": "दृणोति",
                                             "dhatu_id": "05.0037",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 }
@@ -7730,34 +7740,40 @@
                                     "artha": "दीप्तौ",
                                     "entries": [
                                         {
-                                            "form": "जिघर्ति (छ)",
+                                            "form": "जिघर्ति",
                                             "dhatu_id": "Not Found",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "दीधीते (छ)",
+                                            "form": "दीधीते",
                                             "dhatu_id": "02.0071",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "बभस्ति (छ)",
+                                            "form": "बभस्ति",
                                             "dhatu_id": "03.0019",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "कञ्चते (छ)",
+                                            "form": "कञ्चते",
                                             "dhatu_id": "01.0193",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "योतते (छ)",
+                                            "form": "योतते",
                                             "dhatu_id": "01.0031",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "मन्दते (छ)",
+                                            "form": "मन्दते",
                                             "dhatu_id": "01.0013",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 }
@@ -9300,9 +9316,10 @@
                                             "pratyaya": "Nich"
                                         },
                                         {
-                                            "form": "जजन्ति (छ)",
+                                            "form": "जजन्ति",
                                             "dhatu_id": "03.0025",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 }
@@ -12320,9 +12337,10 @@
                                             "gati": ""
                                         },
                                         {
-                                            "form": "क्षुभ्नाति (छ)",
+                                            "form": "क्षुभ्नाति",
                                             "dhatu_id": "09.0055",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 }
@@ -12831,14 +12849,16 @@
                                             "gati": ""
                                         },
                                         {
-                                            "form": "एषते (छ)",
+                                            "form": "एषते",
                                             "dhatu_id": "01.0695, 01.0701, 01.0705 (More than one)",
-                                            "gati": "आङ्"
+                                            "gati": "आङ्",
+                                            "type": "chandas"
                                         },
                                         {
-                                            "form": "नेषते (छ)",
+                                            "form": "नेषते",
                                             "dhatu_id": "01.0704",
-                                            "gati": ""
+                                            "gati": "",
+                                            "type": "chandas"
                                         }
                                     ]
                                 }
