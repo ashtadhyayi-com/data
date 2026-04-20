@@ -5,6 +5,8 @@
     "a": 0,
     "n": 1,
     "text": "आकाशवायुप्रभवः शरीरात्समुच्चरन् वक्त्रमुपैति नादः । स्थानान्तरेषु प्रविभज्यमानो वर्णत्वमागच्छति यः स शब्दः ।"
+    "ai_english" : "Sound originates from air moving through space within the body, rises up, and reaches the mouth. When it is differentiated in various places, it takes on the form of distinct letters; that is called sound (śabda).",
+    "ai_hindi" : "शरीर में स्थित वायु आकाश में उत्पन्न होकर मुख तक पहुँचती है और वहाँ से ध्वनि निकलती है। जब वह विभिन्न स्थानों पर विभाजित होती है, तब वह वर्ण (अक्षर) का रूप ले लेती है। वही शब्द कहलाता है।"
   },
   {
     "a": 0,
