@@ -3,3 +3,5 @@
 The website reads all the data directly from this repository.  
 
 **Direct edits to this repository are discouraged for sutrapatha commentaries, dhatu forms and shabda forms.** Please use the "edit" button available on the website to do the changes wherever possible.
+
+You are free to use this data in your own projects provided that appropriate credits are mentioned wherever applicable. 
