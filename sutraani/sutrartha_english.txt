@@ -2447,7 +2447,7 @@
     "61006": "The verb roots belonging to the जक्षित्यादिगण are called 'अभ्यस्त'.",
     "61007": "",
     "61008": "When followed by a प्रत्यय of लिट् लकार,  a verb root that have not yet undergone द्वित्वम् undergoes द्वित्वम्. ",
-    "61009": "When followed by the सन्-प्रत्यय or the  यङ्-प्रत्यय, a verb root that have not yet undergone द्वित्वम् undergoes द्वित्वम्. ",
+    "61009": "",
     "61010": "When a प्रत्यय is removed using the word श्लु, अङ्ग which is not yet duplicated is duplicated. ",
     "61011": "When followed by the चङ्-प्रत्यय, a verb root that have not yet undergone द्वित्वम् undergoes द्वित्वम्.",
     "61012": "",
